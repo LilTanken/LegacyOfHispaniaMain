@@ -1,0 +1,1494 @@
+612 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 1476
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 321
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 30064
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 1452
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 2225
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 723
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 56
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 701
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 26268
+	}
+
+}
+613 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 223
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 780
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 21155
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 987
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 1794
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 2654
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 34
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 239
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 3210
+	}
+
+}
+614 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 327
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 408
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 10877
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 276
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 1097
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 8336
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 193
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 2472
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 3925
+	}
+
+}
+615 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 248
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 6726
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 1803
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 167
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 5379
+	}
+
+}
+616 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 923
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 330
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 31501
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 1307
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 2855
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 928
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 100
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 600
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 40777
+	}
+
+}
+617 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 1158
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 827
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 347
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 38811
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 374
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 1361
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 61
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 572
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 10703
+	}
+
+}
+618 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 391
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 489
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 12997
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 521
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 4070
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 378
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 41
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 13294
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 394
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 986
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = catholic
+		size= 12531
+	}
+
+	soldiers=
+	{
+		culture = all_italian
+		religion = protestant
+		size= 365
+	}
+
+	artisans=
+	{
+		culture = all_italian
+		religion = protestant
+		size= 2812
+	}
+
+	clergymen=
+	{
+		culture = all_italian
+		religion = protestant
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = all_italian
+		religion = protestant
+		size= 28
+	}
+
+	officers=
+	{
+		culture = all_italian
+		religion = protestant
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = all_italian
+		religion = protestant
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = all_italian
+		religion = protestant
+		size= 9380
+	}
+
+}
+619 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 2187
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 4453
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 697
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 159
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 2816
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 215894
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 557
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 6719
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 1051
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 239
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 4248
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 44431
+	}
+
+}
+620 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 364
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 897
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 11638
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 282
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 2332
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 7136
+	}
+
+}
+621 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 1254
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 3135
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 39821
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 388
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 5077
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 36
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 609
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 7466
+	}
+
+}
+622 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 2420
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 4081
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 189
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 491
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 79147
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 2445
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 294
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = catholic
+		size= 4370
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 468
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 6707
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 312
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 805
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-culture-num1
+		religion = protestant
+		size= 8277
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 595
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 5223
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 53
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 627
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 14426
+	}
+
+}
+624 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 436
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 872
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 41564
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 1316
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 214
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 46
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 829
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 8555
+	}
+
+}

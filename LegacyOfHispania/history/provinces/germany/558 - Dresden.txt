@@ -1,0 +1,19 @@
+owner=X12
+controller=X12
+add_core=LUZ
+add_core=WSF
+add_core=X12
+trade_goods = coal
+life_rating = 40
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

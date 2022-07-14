@@ -1,0 +1,1217 @@
+#Sphere of Influence
+
+ACH = {
+	value = -11
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = -11
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 7
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUM = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AUY = {
+	value = 0
+	level = 2
+}
+AUZ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 40
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 52
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 19
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRE = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 50
+	level = 3
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = -11
+	level = 2
+}
+ENG = {
+	value = -11
+	level = 2
+}
+EPI = {
+	value = -11
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = -12
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = -11
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+ION = {
+	value = -11
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRM = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 33
+	level = 2
+}
+LOU = {
+	value = 19
+	level = 2
+}
+LSK = {
+	value = -35
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 50
+	level = 3
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOD = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = -26
+	level = 2
+}
+NET = {
+	value = -11
+	level = 2
+}
+NEW = {
+	value = -12
+	level = 2
+}
+NOR = {
+	value = -1
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 24
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = -12
+	level = 2
+}
+POT = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -12
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SME = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 17
+	level = 2
+}
+SPA = {
+	value = 164
+	influence_value = 28
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIW = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TPQ = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -12
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -11
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 131
+	influence_value = 20
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 44
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = -10
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = -5
+	level = 2
+}
+X29 = {
+	value = 24
+	level = 2
+}
+X30 = {
+	value = -11
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 14
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = -12
+	level = 2
+}
+X45 = {
+	value = -50
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Manuel Lópe de Haro"
+	date="1730.8.23"
+	type=land
+	personality="active_p"
+	background="engineer"
+}
+
+leader = {
+	name="Nuño Fitz-James"
+	date="1741.9.19"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Aznar Palafox"
+	date="1744.3.23"
+	type=land
+	personality="intuitive"
+	background="bootlicker"
+}
+
+leader = {
+	name="Nuño de Alarcón"
+	date="1744.5.18"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Remón de Leiva"
+	date="1752.1.22"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="García Tellez-Girón"
+	date="1760.4.10"
+	type=land
+	personality="chivalrous"
+	background="artillerist"
+}
+
+leader = {
+	name="Guiral Cortés"
+	date="1762.7.30"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Remón Coronado"
+	date="1764.5.3"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Álbar de Ojeda"
+	date="1764.5.11"
+	type=sea
+	personality="active_p"
+	background="engineer"
+}
+
+leader = {
+	name="Manuel de Grijalva"
+	date="1765.8.27"
+	type=land
+	personality="earnest"
+	background="aristocrat"
+}
+
+leader = {
+	name="Guiral de Montcada"
+	date="1765.9.29"
+	type=land
+	personality="coolminded"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="14th Army"
+	location=2247
+	regiment = {
+		name="1st Barquisimeto Infantry"
+		type=infantry
+		home=2273
+	}
+	regiment = {
+		name="1st San Felipe Infantry"
+		type=infantry
+		home=2268
+	}
+	regiment = {
+		name="1st Limón Infantry"
+		type=infantry
+		home=2203
+	}
+	regiment = {
+		name="1st Popayán Artillery"
+		type=artillery
+		home=2257
+	}
+	regiment = {
+		name="1st Barranquilla Artillery"
+		type=artillery
+		home=2255
+	}
+	regiment = {
+		name="1st Calabozo Artillery"
+		type=artillery
+		home=2266
+	}
+	regiment = {
+		name="1st Maracaibo Artillery"
+		type=artillery
+		home=2270
+	}
+}
+
+army = {
+	name="16th Army"
+	location=2275
+	regiment = {
+		name="1st Bogotá Artillery"
+		type=artillery
+		home=2247
+	}
+	regiment = {
+		name="1st Barinas Artillery"
+		type=artillery
+		home=2274
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2270
+	ship = {
+		name="Aventina"
+		type=manowar
+	}
+	ship = {
+		name="Confianza"
+		type=manowar
+	}
+	ship = {
+		name="Emprendedora"
+		type=manowar
+	}
+	ship = {
+		name="Espartana"
+		type=manowar
+	}
+	ship = {
+		name="Fama"
+		type=manowar
+	}
+	ship = {
+		name="Gran Bolívar"
+		type=manowar
+	}
+	ship = {
+		name="Independencia"
+		type=manowar
+	}
+	ship = {
+		name="Leona"
+		type=manowar
+	}
+	ship = {
+		name="Marina"
+		type=manowar
+	}
+	ship = {
+		name="Marte"
+		type=manowar
+	}
+	ship = {
+		name="3rd Coro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Colombian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Colombian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cartagena de Indias Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Coro Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2257
+	regiment = {
+		name="1st Bogotá Infantry"
+		type=infantry
+		home=2247
+	}
+	regiment = {
+		name="1st San José Infantry"
+		type=infantry
+		home=2201
+	}
+	regiment = {
+		name="1st San José Artillery"
+		type=artillery
+		home=2201
+	}
+	regiment = {
+		name="1st Penonomé Infantry"
+		type=infantry
+		home=2206
+	}
+	regiment = {
+		name="1st Zamora Artillery"
+		type=artillery
+		home=2283
+	}
+}
+
+army = {
+	name="Free Company"
+	location=2257
+	regiment = {
+		name="1st Panama City Infantry"
+		type=infantry
+		home=2204
+	}
+	regiment = {
+		name="2nd Panama City Infantry"
+		type=infantry
+		home=2204
+	}
+	regiment = {
+		name="1st Medellín Infantry"
+		type=infantry
+		home=2252
+	}
+}
+
+army = {
+	name="Free Company of Volunteers"
+	location=2275
+	regiment = {
+		name="2nd Bogotá Infantry"
+		type=infantry
+		home=2247
+	}
+	regiment = {
+		name="1st Quito Infantry"
+		type=infantry
+		home=2279
+	}
+	regiment = {
+		name="2nd Quito Infantry"
+		type=infantry
+		home=2279
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2278
+	regiment = {
+		name="1st Tunja Infantry"
+		type=infantry
+		home=2249
+	}
+	regiment = {
+		name="1st Quibdó Infantry"
+		type=infantry
+		home=2253
+	}
+	regiment = {
+		name="1st Manizales Infantry"
+		type=infantry
+		home=2250
+	}
+	regiment = {
+		name="1st Medellín Artillery"
+		type=artillery
+		home=2252
+	}
+	regiment = {
+		name="1st Angostura Infantry"
+		type=infantry
+		home=2275
+	}
+	regiment = {
+		name="1st El Encanto Artillery"
+		type=artillery
+		home=2263
+	}
+}
+
+navy = {
+	name="10th Fleet"
+	location=2975
+	ship = {
+		name="Antioquía"
+		type=frigate
+	}
+	ship = {
+		name="Caldas"
+		type=frigate
+	}
+	ship = {
+		name="Cartagena"
+		type=frigate
+	}
+	ship = {
+		name="2nd San Felipe Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2249
+	regiment = {
+		name="1st Tunja Artillery"
+		type=artillery
+		home=2249
+	}
+	regiment = {
+		name="1st Cúcuta Artillery"
+		type=artillery
+		home=2251
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2258
+	ship = {
+		name="José Mª García y Toledo"
+		type=frigate
+	}
+	ship = {
+		name="3rd Buenaventura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Colombian Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2240
+	ship = {
+		name="Juan Nepomuceno Eslava"
+		type=frigate
+	}
+	ship = {
+		name="Quitasueño"
+		type=frigate
+	}
+	ship = {
+		name="República"
+		type=frigate
+	}
+	ship = {
+		name="Santa Marta"
+		type=frigate
+	}
+	ship = {
+		name="Valle del Cauca"
+		type=frigate
+	}
+	ship = {
+		name="3rd Colombian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Essequibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Paramaribo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Buenaventura Frigate"
+		type=frigate
+	}
+	ship = {
+		name="Amenazante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Arauca"
+		type=clipper_transport
+	}
+	ship = {
+		name="Auspicio"
+		type=clipper_transport
+	}
+	ship = {
+		name="Barranquilla"
+		type=clipper_transport
+	}
+	ship = {
+		name="Caquetá"
+		type=clipper_transport
+	}
+	ship = {
+		name="Catatumbo"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chocó"
+		type=clipper_transport
+	}
+	ship = {
+		name="Estrella"
+		type=clipper_transport
+	}
+	ship = {
+		name="Florencia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Guainía"
+		type=clipper_transport
+	}
+	ship = {
+		name="Huila"
+		type=clipper_transport
+	}
+	ship = {
+		name="Indestructible"
+		type=clipper_transport
+	}
+	ship = {
+		name="La Guajira"
+		type=clipper_transport
+	}
+	ship = {
+		name="Leticia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Manizales"
+		type=clipper_transport
+	}
+	ship = {
+		name="Montería"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Essequibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Essequibo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="Nariño"
+		type=clipper_transport
+	}
+	ship = {
+		name="Natividad"
+		type=clipper_transport
+	}
+	ship = {
+		name="Salvador"
+		type=clipper_transport
+	}
+	ship = {
+		name="Vaupés"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2240
+	ship = {
+		name="2nd Coro Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Güiria Frigate"
+		type=frigate
+	}
+}
+

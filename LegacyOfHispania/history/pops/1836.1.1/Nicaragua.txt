@@ -1,0 +1,442 @@
+2197 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5441
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 977
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 134
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 856
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1846
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 300
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 111
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 388
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 39253
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1089
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 198
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 369
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 7853
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1310
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 324
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 632
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 487
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 9940
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 58
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 238
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 26
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 479
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 368
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 1508
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1
+	}
+
+}

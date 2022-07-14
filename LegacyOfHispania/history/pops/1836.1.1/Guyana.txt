@@ -1,0 +1,484 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 623
+	}
+
+}
+2239 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1829
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 45
+	}
+
+	slaves=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 1058
+	}
+
+	farmers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 10691
+	}
+
+	soldiers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 224
+	}
+
+	artisans=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 508
+	}
+
+	clergymen=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = french_south_america_superregion_culture
+		religion = catholic
+		size= 107
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = catholic
+		size= 118
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 588
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 945
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 296
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = protestant
+		size= 631
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = protestant
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = protestant
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = protestant
+		size= 1
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = protestant
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 6929
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = catholic
+		size= 323
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 136
+	}
+
+}

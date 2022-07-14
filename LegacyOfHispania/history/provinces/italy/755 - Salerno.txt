@@ -1,0 +1,8 @@
+owner=SIC
+controller=SIC
+add_core=ITA
+add_core=NAP
+add_core=SIC
+trade_goods = fruit
+life_rating = 35
+naval_base = 1

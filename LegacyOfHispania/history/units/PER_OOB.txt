@@ -1,0 +1,1225 @@
+#Sphere of Influence
+
+ACH = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 176
+	influence_value = 31
+	level = 4
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUM = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AUY = {
+	value = 0
+	level = 2
+}
+AUZ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRE = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EPI = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = -71
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = -110
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+ION = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOK = {
+	value = 101
+	influence_value = 12
+	level = 3
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRM = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOD = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = -40
+	level = 2
+}
+POT = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SME = {
+	value = 75
+	influence_value = 6
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 23
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 31
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIW = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 7
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 126
+	influence_value = 19
+	level = 3
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Karim Azizi"
+	date="1728.10.10"
+	type=land
+	personality="resolute"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Safi I"
+	date="1752.1.28"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Karim Sabet"
+	date="1750.4.16"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Tam0shp Daei"
+	date="1764.10.9"
+	type=land
+	personality="coolminded"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Mohammad S0diq Dalwand"
+	date="1764.10.12"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Allahyar Qazai"
+	date="1764.10.14"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Rajab Ali Ansari"
+	date="1765.7.8"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Sh0h Rukh Shahy"
+	date="1765.11.5"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Ja'far Azizi"
+	date="1767.10.23"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Sh0h Rukh Jalili"
+	date="1830.1.2"
+	type=sea
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=1141
+	regiment = {
+		name="1st Rasht Infantry"
+		type=infantry
+		home=1113
+	}
+	regiment = {
+		name="1st Bam Infantry"
+		type=infantry
+		home=1143
+	}
+	regiment = {
+		name="1st Bandar Abbas Infantry"
+		type=infantry
+		home=1142
+	}
+	regiment = {
+		name="1st Kashan Artillery"
+		type=artillery
+		home=1129
+	}
+	regiment = {
+		name="1st Merv Artillery"
+		type=artillery
+		home=686
+	}
+	regiment = {
+		name="1st Mahabad Infantry"
+		type=infantry
+		home=1111
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1139
+	regiment = {
+		name="1st Kashan Infantry"
+		type=infantry
+		home=1129
+	}
+	regiment = {
+		name="1st Sirjan Infantry"
+		type=infantry
+		home=1139
+	}
+	regiment = {
+		name="1st Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="1st Tabriz Cavalry"
+		type=cavalry
+		home=1108
+	}
+	regiment = {
+		name="1st Tabriz Artillery"
+		type=artillery
+		home=1108
+	}
+	regiment = {
+		name="1st Yazd Artillery"
+		type=artillery
+		home=1130
+	}
+	regiment = {
+		name="2nd Rasht Infantry"
+		type=infantry
+		home=1113
+	}
+	regiment = {
+		name="1st Qazvin Cavalry"
+		type=cavalry
+		home=1124
+	}
+	regiment = {
+		name="3rd Yazd Artillery"
+		type=artillery
+		home=1130
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1135
+	regiment = {
+		name="1st Urmia Infantry"
+		type=infantry
+		home=1110
+	}
+	regiment = {
+		name="2nd Kashan Infantry"
+		type=infantry
+		home=1129
+	}
+	regiment = {
+		name="1st Kerman Cavalry"
+		type=cavalry
+		home=1140
+	}
+	regiment = {
+		name="2nd Kashan Artillery"
+		type=artillery
+		home=1129
+	}
+	regiment = {
+		name="1st Sabzevar Artillery"
+		type=artillery
+		home=1149
+	}
+	regiment = {
+		name="1st Yasuj Infantry"
+		type=infantry
+		home=1137
+	}
+	regiment = {
+		name="1st Tblisi Cavalry"
+		type=cavalry
+		home=1090
+	}
+	regiment = {
+		name="2nd Kerman Cavalry"
+		type=cavalry
+		home=1140
+	}
+	regiment = {
+		name="1st Gorgan Artillery"
+		type=artillery
+		home=1116
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1137
+	regiment = {
+		name="1st Kyzyl-Su Infantry"
+		type=infantry
+		home=1205
+	}
+	regiment = {
+		name="3rd Kashan Infantry"
+		type=infantry
+		home=1129
+	}
+	regiment = {
+		name="1st Noshehr Infantry"
+		type=infantry
+		home=1114
+	}
+	regiment = {
+		name="1st Yasuj Cavalry"
+		type=cavalry
+		home=1137
+	}
+	regiment = {
+		name="1st Nakhichevan Artillery"
+		type=artillery
+		home=1101
+	}
+	regiment = {
+		name="1st Khvoy Artillery"
+		type=artillery
+		home=1109
+	}
+	regiment = {
+		name="2nd Qom Infantry"
+		type=infantry
+		home=1125
+	}
+	regiment = {
+		name="1st Khvoy Cavalry"
+		type=cavalry
+		home=1109
+	}
+	regiment = {
+		name="1st Mahabad Artillery"
+		type=artillery
+		home=1111
+	}
+}
+
+army = {
+	name="19th Army"
+	location=1135
+	regiment = {
+		name="1st Kars Infantry"
+		type=infantry
+		home=885
+	}
+	regiment = {
+		name="2nd Kars Infantry"
+		type=infantry
+		home=885
+	}
+	regiment = {
+		name="1st Tabriz Infantry"
+		type=infantry
+		home=1108
+	}
+	regiment = {
+		name="1st Yasuj Artillery"
+		type=artillery
+		home=1137
+	}
+	regiment = {
+		name="1st Kerman Infantry"
+		type=infantry
+		home=1140
+	}
+	regiment = {
+		name="3rd Tabriz Artillery"
+		type=artillery
+		home=1108
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1136
+	regiment = {
+		name="2nd Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="1st Zanjan Infantry"
+		type=infantry
+		home=1123
+	}
+	regiment = {
+		name="2nd Tabriz Infantry"
+		type=infantry
+		home=1108
+	}
+	regiment = {
+		name="1st Isfahan Cavalry"
+		type=cavalry
+		home=1127
+	}
+	regiment = {
+		name="1st Birjand Artillery"
+		type=artillery
+		home=1148
+	}
+	regiment = {
+		name="1st Chabahar Artillery"
+		type=artillery
+		home=1146
+	}
+	regiment = {
+		name="3rd Urmia Infantry"
+		type=infantry
+		home=1110
+	}
+	regiment = {
+		name="1st Mahabad Cavalry"
+		type=cavalry
+		home=1111
+	}
+	regiment = {
+		name="1st Ashkhabad Artillery"
+		type=artillery
+		home=1204
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1135
+	regiment = {
+		name="1st Yazd Infantry"
+		type=infantry
+		home=1130
+	}
+	regiment = {
+		name="1st Qom Infantry"
+		type=infantry
+		home=1125
+	}
+	regiment = {
+		name="1st Khvoy Infantry"
+		type=infantry
+		home=1109
+	}
+	regiment = {
+		name="2nd Tabriz Artillery"
+		type=artillery
+		home=1108
+	}
+	regiment = {
+		name="3rd Kashan Artillery"
+		type=artillery
+		home=1129
+	}
+	regiment = {
+		name="4th Kashan Infantry"
+		type=infantry
+		home=1129
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1148
+	regiment = {
+		name="3rd Kars Infantry"
+		type=infantry
+		home=885
+	}
+	regiment = {
+		name="1st Mashhad Infantry"
+		type=infantry
+		home=1147
+	}
+	regiment = {
+		name="2nd Yazd Artillery"
+		type=artillery
+		home=1130
+	}
+	regiment = {
+		name="1st Kars Artillery"
+		type=artillery
+		home=885
+	}
+	regiment = {
+		name="2nd Mashhad Infantry"
+		type=infantry
+		home=1147
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1141
+	ship = {
+		name="Ferhumand"
+		type=manowar
+	}
+	ship = {
+		name="Danesh"
+		type=manowar
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1130
+	regiment = {
+		name="1st Isfahan Infantry"
+		type=infantry
+		home=1127
+	}
+	regiment = {
+		name="2nd Urmia Infantry"
+		type=infantry
+		home=1110
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1139
+	regiment = {
+		name="3rd Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+	regiment = {
+		name="4th Tehran Infantry"
+		type=infantry
+		home=1121
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1148
+	regiment = {
+		name="2nd Khvoy Infantry"
+		type=infantry
+		home=1109
+	}
+}
+
+navy = {
+	name="24th Fleet"
+	location=1146
+	ship = {
+		name="Jelaleddin"
+		type=manowar
+	}
+	ship = {
+		name="Zureddin"
+		type=manowar
+	}
+}
+
+navy = {
+	name="26th Fleet"
+	location=1146
+	ship = {
+		name="Nureddin"
+		type=manowar
+	}
+}
+

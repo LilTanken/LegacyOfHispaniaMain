@@ -1,0 +1,1033 @@
+#Sphere of Influence
+
+ACH = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUM = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AUY = {
+	value = 0
+	level = 2
+}
+AUZ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 40
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRE = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EPI = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 111
+	influence_value = 15
+	level = 3
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+ION = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRM = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOD = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = -93
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POT = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 58
+	influence_value = 2
+	level = 3
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SME = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 23
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIW = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TPQ = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = -106
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 138
+	influence_value = 22
+	level = 3
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Guðröðr af Gennäs"
+	date="1742.4.11"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Torsten Klingspor"
+	date="1744.3.17"
+	type=land
+	personality="coolminded"
+	background="bootlicker"
+}
+
+leader = {
+	name="Skúli von Essen"
+	date="1748.12.7"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Vémundr von Ascheberg"
+	date="1750.7.28"
+	type=sea
+	personality="intuitive"
+	background="drillmaster"
+}
+
+leader = {
+	name="Torsten Wachtmeister"
+	date="1766.4.2"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+
+#Armies
+navy = {
+	name="Högsjöflottan"
+	location=322
+	ship = {
+		name="Carl XIII"
+		type=manowar
+	}
+	ship = {
+		name="Karl XIV Johan"
+		type=manowar
+	}
+	ship = {
+		name="Prins Oscar"
+		type=manowar
+	}
+	ship = {
+		name="Gustav den Store"
+		type=manowar
+	}
+	ship = {
+		name="Packa"
+		type=frigate
+	}
+	ship = {
+		name="Svarta Örn"
+		type=frigate
+	}
+	ship = {
+		name="Jarramas"
+		type=frigate
+	}
+	ship = {
+		name="Vainqueur"
+		type=frigate
+	}
+	ship = {
+		name="Delphin"
+		type=frigate
+	}
+	ship = {
+		name="Illerim"
+		type=frigate
+	}
+	ship = {
+		name="Lilla Phoenix"
+		type=frigate
+	}
+	ship = {
+		name="Växjö"
+		type=frigate
+	}
+	ship = {
+		name="Kung Adolph Fredric"
+		type=manowar
+	}
+	ship = {
+		name="2nd Luleå Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Norrköping Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Finska Arméen"
+	location=327
+	regiment = {
+		name="1st Örebro Infantry"
+		type=infantry
+		home=327
+	}
+	regiment = {
+		name="1st Stockholm Infantry"
+		type=infantry
+		home=322
+	}
+	regiment = {
+		name="1st Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="1st Växjö Artillery"
+		type=artillery
+		home=333
+	}
+	regiment = {
+		name="1st Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="1st Västerås Artillery"
+		type=artillery
+		home=326
+	}
+}
+
+army = {
+	name="6th Army"
+	location=332
+	regiment = {
+		name="2nd Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="1st Norrköping Infantry"
+		type=infantry
+		home=325
+	}
+	regiment = {
+		name="1st Luleå Infantry"
+		type=infantry
+		home=321
+	}
+	regiment = {
+		name="2nd Malmö Artillery"
+		type=artillery
+		home=334
+	}
+	regiment = {
+		name="1st Luleå Artillery"
+		type=artillery
+		home=321
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=335
+	regiment = {
+		name="3rd Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="1st Falun Infantry"
+		type=infantry
+		home=323
+	}
+	regiment = {
+		name="1st Uppsala Infantry"
+		type=infantry
+		home=324
+	}
+	regiment = {
+		name="1st Norrköping Artillery"
+		type=artillery
+		home=325
+	}
+	regiment = {
+		name="1st Stockholm Artillery"
+		type=artillery
+		home=322
+	}
+	regiment = {
+		name="1st Kalmar Infantry"
+		type=infantry
+		home=332
+	}
+	regiment = {
+		name="2nd Västerås Artillery"
+		type=artillery
+		home=326
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2711
+	ship = {
+		name="Stockholm"
+		type=manowar
+	}
+	ship = {
+		name="Försiktigheten"
+		type=manowar
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2709
+	ship = {
+		name="Gävle"
+		type=frigate
+	}
+	ship = {
+		name="1st Malmö Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2710
+	ship = {
+		name="Baron Gustaf Bonde"
+		type=frigate
+	}
+	ship = {
+		name="2nd Västerås Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tobago Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=321
+	ship = {
+		name="Tapperheten"
+		type=manowar
+	}
+	ship = {
+		name="1st Malmö Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gotland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Luleå Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Karlskrona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Flensburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Köslin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gävle Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aarhus Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Norrköping Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rotterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bornholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st New Orleans Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Köslin Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,0 +1,6 @@
+owner=KHA
+controller=KOK
+add_core=KHA
+add_core=X17
+trade_goods = cotton
+life_rating = 32

@@ -1,0 +1,100 @@
+397 = {
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = catholic
+		size= 1142
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = catholic
+		size= 5452
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = catholic
+		size= 429
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = catholic
+		size= 143
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = catholic
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = catholic
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = catholic
+		size= 36253
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = protestant
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = protestant
+		size= 945
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = protestant
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = protestant
+		size= 25
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = protestant
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-culture-num1
+		religion = protestant
+		size= 1016
+	}
+
+}

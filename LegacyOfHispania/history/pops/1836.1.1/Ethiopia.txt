@@ -1,0 +1,2692 @@
+1852 = {
+	slaves=
+	{
+		culture = tigray
+		religion = coptic
+		size= 6643
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 3721
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 1120
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 204
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 478
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 58692
+	}
+
+	slaves=
+	{
+		culture = tigray
+		religion = protestant
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = protestant
+		size= 308
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = protestant
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = protestant
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = protestant
+		size= 132
+	}
+
+	slaves=
+	{
+		culture = beja
+		religion = coptic
+		size= 8685
+	}
+
+	soldiers=
+	{
+		culture = beja
+		religion = coptic
+		size= 4865
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = coptic
+		size= 5149
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = coptic
+		size= 935
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = coptic
+		size= 68
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = coptic
+		size= 135
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = coptic
+		size= 2199
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = coptic
+		size= 70648
+	}
+
+}
+1853 = {
+	slaves=
+	{
+		culture = amhara
+		religion = coptic
+		size= 26991
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 9284
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = coptic
+		size= 6631
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = coptic
+		size= 1244
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 149
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 265
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 3249
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 117970
+	}
+
+}
+1854 = {
+	slaves=
+	{
+		culture = amhara
+		religion = coptic
+		size= 11886
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 15770
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = coptic
+		size= 23418
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = coptic
+		size= 1187
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 156
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 415
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 2761
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 104395
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = jewish
+		size= 145
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = jewish
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = jewish
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = jewish
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = jewish
+		size= 11800
+	}
+
+}
+1855 = {
+	slaves=
+	{
+		culture = amhara
+		religion = coptic
+		size= 17018
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 15487
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = coptic
+		size= 24890
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = coptic
+		size= 2074
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 249
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 443
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 4646
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 211742
+	}
+
+}
+1856 = {
+	slaves=
+	{
+		culture = tigray
+		religion = coptic
+		size= 3820
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 2016
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = coptic
+		size= 2519
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = coptic
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = coptic
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = coptic
+		size= 27306
+	}
+
+	slaves=
+	{
+		culture = amhara
+		religion = coptic
+		size= 4795
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 2530
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = coptic
+		size= 8845
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = coptic
+		size= 474
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 57
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 531
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 27850
+	}
+
+}
+1857 = {
+	slaves=
+	{
+		culture = amhara
+		religion = coptic
+		size= 22562
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 1539
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = coptic
+		size= 3078
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = coptic
+		size= 577
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 69
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 1293
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 47760
+	}
+
+}
+1858 = {
+	slaves=
+	{
+		culture = afar
+		religion = coptic
+		size= 1674
+	}
+
+	soldiers=
+	{
+		culture = afar
+		religion = coptic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = coptic
+		size= 817
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = coptic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = coptic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = coptic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = coptic
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = coptic
+		size= 2704
+	}
+
+	slaves=
+	{
+		culture = afar
+		religion = kharijite
+		size= 161
+	}
+
+	soldiers=
+	{
+		culture = afar
+		religion = kharijite
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = kharijite
+		size= 234
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = kharijite
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = kharijite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = kharijite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = kharijite
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = kharijite
+		size= 418
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = kharijite
+		size= 762
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 242
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 1008
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 6
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = kharijite
+		size= 2111
+	}
+
+}
+1859 = {
+	slaves=
+	{
+		culture = amhara
+		religion = coptic
+		size= 39474
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 10194
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = coptic
+		size= 7281
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = coptic
+		size= 1365
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 164
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 291
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 3058
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 120208
+	}
+
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 5795
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 1497
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 134
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 19209
+	}
+
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 5266
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 1360
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 376
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 17028
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 358
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 543
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 295
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = coptic
+		size= 29771
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 7688
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = coptic
+		size= 6545
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = coptic
+		size= 1227
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 147
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 262
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 2749
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 88902
+	}
+
+}
+1860 = {
+	slaves=
+	{
+		culture = sidama
+		religion = coptic
+		size= 7863
+	}
+
+	soldiers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 2533
+	}
+
+	artisans=
+	{
+		culture = sidama
+		religion = coptic
+		size= 3396
+	}
+
+	clergymen=
+	{
+		culture = sidama
+		religion = coptic
+		size= 637
+	}
+
+	bureaucrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 136
+	}
+
+	aristocrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 714
+	}
+
+	farmers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 75120
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 185
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = coptic
+		size= 1735
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 559
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = coptic
+		size= 953
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = coptic
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 16282
+	}
+
+}
+1861 = {
+	slaves=
+	{
+		culture = sidama
+		religion = coptic
+		size= 3152
+	}
+
+	soldiers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 252
+	}
+
+	artisans=
+	{
+		culture = sidama
+		religion = coptic
+		size= 567
+	}
+
+	clergymen=
+	{
+		culture = sidama
+		religion = coptic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 21078
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 167
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 628
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 350
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = coptic
+		size= 8495
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = coptic
+		size= 7311
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = coptic
+		size= 609
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 73
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 1365
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 49009
+	}
+
+}
+1862 = {
+	slaves=
+	{
+		culture = sidama
+		religion = coptic
+		size= 6677
+	}
+
+	soldiers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 11643
+	}
+
+	artisans=
+	{
+		culture = sidama
+		religion = coptic
+		size= 7743
+	}
+
+	clergymen=
+	{
+		culture = sidama
+		religion = coptic
+		size= 1451
+	}
+
+	bureaucrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 174
+	}
+
+	officers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 309
+	}
+
+	aristocrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 1626
+	}
+
+	farmers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 178282
+	}
+
+	slaves=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 1625
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 2833
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 2596
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 487
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 104
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 545
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 42348
+	}
+
+}
+1863 = {
+	slaves=
+	{
+		culture = amhara
+		religion = coptic
+		size= 30031
+	}
+
+	soldiers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 5586
+	}
+
+	artisans=
+	{
+		culture = amhara
+		religion = coptic
+		size= 8977
+	}
+
+	clergymen=
+	{
+		culture = amhara
+		religion = coptic
+		size= 748
+	}
+
+	bureaucrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 90
+	}
+
+	officers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 160
+	}
+
+	aristocrats=
+	{
+		culture = amhara
+		religion = coptic
+		size= 838
+	}
+
+	farmers=
+	{
+		culture = amhara
+		religion = coptic
+		size= 53319
+	}
+
+	slaves=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 26114
+	}
+
+	soldiers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 4857
+	}
+
+	artisans=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 7806
+	}
+
+	clergymen=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 651
+	}
+
+	bureaucrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 78
+	}
+
+	officers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 139
+	}
+
+	aristocrats=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 729
+	}
+
+	farmers=
+	{
+		culture = sudanese
+		religion = coptic
+		size= 46365
+	}
+
+}
+1864 = {
+	slaves=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 2374
+	}
+
+	soldiers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 166
+	}
+
+	artisans=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 3351
+	}
+
+	slaves=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = shiite_heresy
+		size= 255
+	}
+
+	soldiers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = shiite_heresy
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = shiite_heresy
+		size= 41
+	}
+
+	clergymen=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = shiite_heresy
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = shiite_heresy
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = shiite_heresy
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = shiite_heresy
+		size= 310
+	}
+
+	slaves=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 789
+	}
+
+	soldiers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 118
+	}
+
+	clergymen=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 975
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 203
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 215
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = coptic
+		size= 9188
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 643
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = coptic
+		size= 2475
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = coptic
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 462
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 9927
+	}
+
+	slaves=
+	{
+		culture = sidama
+		religion = coptic
+		size= 16749
+	}
+
+	soldiers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 1172
+	}
+
+	artisans=
+	{
+		culture = sidama
+		religion = coptic
+		size= 3768
+	}
+
+	clergymen=
+	{
+		culture = sidama
+		religion = coptic
+		size= 314
+	}
+
+	bureaucrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 703
+	}
+
+	farmers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 19061
+	}
+
+}
+1865 = {
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 351
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 336
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 14397
+	}
+
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 1878
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 8019
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 668
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 2245
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 68334
+	}
+
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = protestant
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = protestant
+		size= 480
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = protestant
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = protestant
+		size= 134
+	}
+
+}
+1866 = {
+	slaves=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 635
+	}
+
+	soldiers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 117
+	}
+
+	clergymen=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 5028
+	}
+
+	slaves=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 39
+	}
+
+	soldiers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = sunni
+		size= 287
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-somali-culture-num1
+		religion = coptic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 66
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 278
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 167
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = coptic
+		size= 3180
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = coptic
+		size= 3224
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = coptic
+		size= 269
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 702
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 21454
+	}
+
+	slaves=
+	{
+		culture = sidama
+		religion = sunni
+		size= 394
+	}
+
+	soldiers=
+	{
+		culture = sidama
+		religion = sunni
+		size= 104
+	}
+
+	artisans=
+	{
+		culture = sidama
+		religion = sunni
+		size= 42
+	}
+
+	clergymen=
+	{
+		culture = sidama
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sidama
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sidama
+		religion = sunni
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = sidama
+		religion = sunni
+		size= 3162
+	}
+
+	slaves=
+	{
+		culture = sidama
+		religion = coptic
+		size= 112
+	}
+
+	soldiers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = sidama
+		religion = coptic
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = sidama
+		religion = coptic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 824
+	}
+
+}
+1867 = {
+	slaves=
+	{
+		culture = somali
+		religion = sunni
+		size= 104
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 3613
+	}
+
+	slaves=
+	{
+		culture = somali
+		religion = coptic
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 1399
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 299
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = shamanism
+		size= 1011
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = coptic
+		size= 737
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = coptic
+		size= 2975
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = coptic
+		size= 248
+	}
+
+	bureaucrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 556
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 21530
+	}
+
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 248
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 296
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = sunni
+		size= 8380
+	}
+
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 573
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 211
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 2081
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 173
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 388
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-somali-culture-num1
+		religion = coptic
+		size= 17621
+	}
+
+}

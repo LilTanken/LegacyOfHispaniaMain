@@ -1,0 +1,6 @@
+owner=EPI
+controller=EPI
+add_core=EPI
+trade_goods = wool
+life_rating = 35
+naval_base = 1

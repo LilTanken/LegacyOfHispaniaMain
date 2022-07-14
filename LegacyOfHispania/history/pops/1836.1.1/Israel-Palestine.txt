@@ -1,0 +1,369 @@
+916 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 293
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 2003
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 85
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 246
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 11021
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 925
+	}
+
+}
+917 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1695
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 39
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 463
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 12909
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 875
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1175
+	}
+
+}
+918 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 230
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1613
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 194
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 9386
+	}
+
+}
+919 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 251
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1460
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 211
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 8565
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1675
+	}
+
+}
+920 = {
+	soldiers=
+	{
+		culture = misri
+		religion = sunni
+		size= 211
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = sunni
+		size= 422
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = sunni
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = sunni
+		size= 15
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = sunni
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = sunni
+		size= 9674
+	}
+
+}
+921 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1187
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 64
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 18
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 214
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 5949
+	}
+
+}

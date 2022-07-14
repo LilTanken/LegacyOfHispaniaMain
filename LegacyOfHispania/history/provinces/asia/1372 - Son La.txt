@@ -1,0 +1,7 @@
+owner=TOK
+controller=SIA
+add_core=ANN
+add_core=IDO
+add_core=TOK
+trade_goods = tropical_wood
+life_rating = 33

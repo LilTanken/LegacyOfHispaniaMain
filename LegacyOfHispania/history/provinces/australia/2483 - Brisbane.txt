@@ -1,0 +1,7 @@
+owner=X44
+controller=X44
+add_core=ABO
+add_core=AUM
+add_core=X44
+trade_goods = cattle
+life_rating = 34

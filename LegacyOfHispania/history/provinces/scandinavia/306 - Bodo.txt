@@ -1,0 +1,10 @@
+owner=X14
+controller=X14
+add_core=NOR
+add_core=SCA
+add_core=X14
+trade_goods = fish
+life_rating = 20
+terrain = montane_tundra
+naval_base = 1
+fort = 1

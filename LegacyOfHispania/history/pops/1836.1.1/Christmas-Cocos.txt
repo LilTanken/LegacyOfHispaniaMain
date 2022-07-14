@@ -1,0 +1,37 @@
+2244 = {
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = protestant
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = animist
+		size= 2
+	}
+
+}

@@ -1,0 +1,6 @@
+owner=EPI
+controller=EPI
+add_core=EPI
+trade_goods = fruit
+life_rating = 31
+terrain = small_island

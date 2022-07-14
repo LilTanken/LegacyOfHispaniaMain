@@ -1,0 +1,5 @@
+owner=SON
+controller=REB
+add_core=SON
+trade_goods = fish
+life_rating = 35

@@ -1,0 +1,7 @@
+owner=SMB
+controller=SMB
+add_core=MLC
+add_core=MLY
+add_core=SMB
+trade_goods = timber
+life_rating = 30

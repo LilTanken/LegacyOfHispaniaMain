@@ -1,0 +1,5 @@
+owner=EPI
+controller=EPI
+add_core=EPI
+trade_goods = silk
+life_rating = 35

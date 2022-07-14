@@ -1,0 +1,9 @@
+owner=X32
+controller=X32
+add_core=BYZ
+add_core=GRE
+add_core=X32
+add_core=X34
+trade_goods = fruit
+life_rating = 35
+fort = 1

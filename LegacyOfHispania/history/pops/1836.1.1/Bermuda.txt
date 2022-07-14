@@ -1,0 +1,100 @@
+203 = {
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 1199
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 830
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 86
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = protestant
+		size= 52
+	}
+
+	soldiers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = hjartnaaeter
+		religion = protestant
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = hjartnaaeter
+		religion = catholic
+		size= 18
+	}
+
+}

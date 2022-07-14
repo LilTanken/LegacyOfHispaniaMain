@@ -1,0 +1,7 @@
+owner=TID
+controller=NOR
+add_core=TID
+trade_goods = fish
+life_rating = 31
+naval_base = 2
+fort = 1

@@ -1,0 +1,6 @@
+owner=LOT
+controller=LOT
+add_core=LOT
+add_core=NET
+trade_goods = fish
+life_rating = 40

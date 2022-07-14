@@ -1,0 +1,207 @@
+2237 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2029
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 156
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 8049
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 248
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = catholic
+		size= 1396
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 84
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 741
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = catholic
+		size= 2938
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = catholic
+		size= 476
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = catholic
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 29
+	}
+
+}

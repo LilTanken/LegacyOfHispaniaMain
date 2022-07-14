@@ -1,0 +1,2494 @@
+12 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 220
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 878
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 20
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 20487
+	}
+
+}
+1638 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 6394
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2078
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 144
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 192
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1343
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 145547
+	}
+
+}
+1639 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2272
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4784
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1555
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 108
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1004
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 109735
+	}
+
+}
+1640 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3480
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 13923
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2262
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 313
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 278
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3412
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 324416
+	}
+
+}
+1641 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1324
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 5302
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 861
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 119
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1299
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 123519
+	}
+
+}
+1642 = {
+	soldiers=
+	{
+		culture = ainu
+		religion = animist
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = ainu
+		religion = animist
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = ainu
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = ainu
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = ainu
+		religion = animist
+		size= 1556
+	}
+
+	soldiers=
+	{
+		culture = ainu
+		religion = shinto
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = ainu
+		religion = shinto
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = ainu
+		religion = shinto
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = ainu
+		religion = shinto
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = ainu
+		religion = shinto
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2601
+	}
+
+}
+1643 = {
+	soldiers=
+	{
+		culture = ainu
+		religion = animist
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = ainu
+		religion = animist
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = ainu
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = ainu
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = ainu
+		religion = animist
+		size= 1654
+	}
+
+	soldiers=
+	{
+		culture = ainu
+		religion = shinto
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = ainu
+		religion = shinto
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = ainu
+		religion = shinto
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = ainu
+		religion = shinto
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = ainu
+		religion = shinto
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 130
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2175
+	}
+
+}
+1644 = {
+	soldiers=
+	{
+		culture = ainu
+		religion = animist
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = ainu
+		religion = animist
+		size= 13
+	}
+
+	clergymen=
+	{
+		culture = ainu
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ainu
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = ainu
+		religion = animist
+		size= 1309
+	}
+
+	artisans=
+	{
+		culture = ainu
+		religion = shinto
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = ainu
+		religion = shinto
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = ainu
+		religion = shinto
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = ainu
+		religion = shinto
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 105
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1775
+	}
+
+}
+1645 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2017
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 8068
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1311
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 182
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 161
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1694
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 188257
+	}
+
+}
+1646 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3780
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 614
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 85
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 794
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 88130
+	}
+
+}
+1647 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 396
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3565
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 515
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 20
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 333
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 34751
+	}
+
+}
+1648 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 866
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3465
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 563
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 78
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 728
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 80867
+	}
+
+}
+1649 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4043
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 36391
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 5256
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 526
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 323
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3963
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 353843
+	}
+
+}
+1650 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1700
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 6800
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2210
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 152
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 136
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1428
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 157570
+	}
+
+}
+1651 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1507
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 13561
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1959
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 196
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1477
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 131853
+	}
+
+}
+1652 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3054
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 27482
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3970
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 397
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 244
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2992
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 267217
+	}
+
+}
+1653 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1402
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 5606
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1822
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 126
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1178
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 129890
+	}
+
+}
+1655 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 6621
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 13938
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4530
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 314
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 418
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3415
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 319214
+	}
+
+}
+1656 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2385
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 9540
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1550
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 119
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2003
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 222712
+	}
+
+}
+1657 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 9106
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 67100
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3115
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 623
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 575
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4026
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 394744
+	}
+
+}
+1658 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 7210
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1171
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 90
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1515
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 162902
+	}
+
+}
+1659 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2556
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 10221
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1661
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 128
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 204
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2147
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 238620
+	}
+
+}
+1660 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2119
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 29678
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2756
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 190
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 169
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2077
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 174996
+	}
+
+}
+1661 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2640
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 36968
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3433
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 237
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 211
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2587
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 217978
+	}
+
+}
+1662 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 6467
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2102
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 145
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1358
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 144239
+	}
+
+}
+1663 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3510
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1141
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 79
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 737
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 81196
+	}
+
+}
+1664 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1727
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 6904
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1122
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 155
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1450
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 161112
+	}
+
+}
+1665 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2033
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 8130
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1321
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 183
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1708
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 189735
+	}
+
+}
+1666 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1015
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4058
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 659
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 91
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 853
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 94691
+	}
+
+}
+1667 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1579
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 6316
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1026
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 142
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1326
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 147390
+	}
+
+}
+1668 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1446
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 5785
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 940
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 72
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1215
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 135056
+	}
+
+}
+1669 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 8964
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1457
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 112
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 179
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1882
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 207373
+	}
+
+}
+1670 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 711
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2844
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 462
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 36
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 597
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 66393
+	}
+
+}
+1671 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 921
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3683
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 599
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 83
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 774
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 85946
+	}
+
+}
+1672 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 839
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3355
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 545
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 42
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 705
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 78327
+	}
+
+}
+1673 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1219
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4878
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 792
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 110
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1024
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 113815
+	}
+
+}
+1674 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 485
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1940
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 315
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 25
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 407
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 45286
+	}
+
+}
+1675 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 54394
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 5051
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 349
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 311
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3263
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 317925
+	}
+
+}
+1676 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1189
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 4759
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1547
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 108
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 999
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 110288
+	}
+
+}
+1677 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3062
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 12249
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 1990
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 276
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 245
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2572
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 285836
+	}
+
+}
+1678 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = animist
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = animist
+		size= 584
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = animist
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = animist
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = animist
+		size= 28049
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 397
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2173
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 353
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 27
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 532
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 36208
+	}
+
+}
+1679 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = animist
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = animist
+		size= 168
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = animist
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = animist
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = animist
+		size= 8054
+	}
+
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 114
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 624
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 8
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 10397
+	}
+
+}
+2589 = {
+	soldiers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = japanese
+		religion = shinto
+		size= 151
+	}
+
+	clergymen=
+	{
+		culture = japanese
+		religion = shinto
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 2
+	}
+
+	officers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = japanese
+		religion = shinto
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = japanese
+		religion = shinto
+		size= 3516
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=SUD
+controller=SUD
+add_core=EGY
+add_core=SUD
+trade_goods = fish
+life_rating = 40
+naval_base = 1

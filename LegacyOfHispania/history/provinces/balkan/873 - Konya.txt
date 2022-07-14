@@ -1,0 +1,6 @@
+owner=X36
+controller=KRM
+add_core=X36
+trade_goods = wool
+life_rating = 35
+fort = 1

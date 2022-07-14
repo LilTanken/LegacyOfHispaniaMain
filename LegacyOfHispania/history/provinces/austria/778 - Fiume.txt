@@ -1,0 +1,8 @@
+owner=MOD
+controller=MOD
+add_core=CRO
+add_core=MOD
+add_core=YUG
+trade_goods = fruit
+life_rating = 35
+naval_base = 2

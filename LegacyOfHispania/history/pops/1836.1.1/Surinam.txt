@@ -1,0 +1,298 @@
+2240 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1665
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 34
+	}
+
+	craftsmen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1145
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 18
+	}
+
+	clerks=
+	{
+		culture = guajiro
+		religion = animist
+		size= 18
+	}
+
+	capitalists=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 795
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 16
+	}
+
+	craftsmen=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 547
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 5
+	}
+
+	clerks=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = protestant
+		size= 14
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 9423
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 193
+	}
+
+	craftsmen=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 6479
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 437
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 71
+	}
+
+	clerks=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 442
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 9
+	}
+
+	capitalists=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 124
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 184
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 359
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = catholic
+		size= 63
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 1264
+	}
+
+}

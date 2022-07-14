@@ -1,0 +1,8 @@
+owner=SMB
+controller=SMB
+add_core=MLC
+add_core=MLY
+add_core=SMB
+trade_goods = tropical_wood
+life_rating = 35
+naval_base = 1

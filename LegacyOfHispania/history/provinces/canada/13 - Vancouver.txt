@@ -1,0 +1,6 @@
+owner=CAS
+controller=REB
+add_core=CAS
+trade_goods = fish
+life_rating = 35
+naval_base = 1

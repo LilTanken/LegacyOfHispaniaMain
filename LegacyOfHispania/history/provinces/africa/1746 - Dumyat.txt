@@ -1,0 +1,6 @@
+owner=ARA
+controller=ARA
+add_core=EGY
+trade_goods = grain
+life_rating = 40
+naval_base = 1

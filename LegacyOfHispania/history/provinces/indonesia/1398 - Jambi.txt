@@ -1,0 +1,9 @@
+owner=SMB
+controller=SMB
+add_core=MLY
+add_core=PLB
+add_core=SMB
+trade_goods = grain
+life_rating = 31
+naval_base = 1
+fort = 1

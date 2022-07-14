@@ -1,0 +1,2291 @@
+#Sphere of Influence
+
+ACH = {
+	value = -11
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+ALB = {
+	value = -11
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 197
+	influence_value = 36
+	level = 2
+}
+ARM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+AUM = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AUY = {
+	value = 0
+	level = 2
+}
+AUZ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+BAU = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BNY = {
+	value = 116
+	influence_value = 16
+	level = 2
+}
+BOS = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+BRZ = {
+	value = 194
+	influence_value = 36
+	level = 2
+}
+BSG = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 192
+	influence_value = 35
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 201
+	influence_value = 37
+	level = 2
+}
+CRE = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+CUA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+CUB = {
+	value = 191
+	influence_value = 35
+	level = 2
+}
+CWU = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+DLH = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+DLM = {
+	value = -11
+	level = 2
+}
+ENG = {
+	value = -53
+	level = 2
+}
+EPI = {
+	value = -11
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = -79
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+FRA = {
+	value = 46
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+HAU = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = -11
+	level = 2
+}
+HUR = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+IME = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+ION = {
+	value = -11
+	level = 2
+}
+IPR = {
+	value = 45
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOK = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRM = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 146
+	influence_value = 24
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = -133
+	level = 2
+}
+LOU = {
+	value = 190
+	influence_value = 35
+	level = 2
+}
+LSK = {
+	value = 41
+	level = 2
+}
+MBA = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 11
+	level = 2
+}
+MKU = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MLC = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+MOD = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = -26
+	level = 2
+}
+NET = {
+	value = -11
+	level = 2
+}
+NEW = {
+	value = -12
+	level = 2
+}
+NKO = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+NOR = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+PEU = {
+	value = 195
+	influence_value = 36
+	level = 2
+}
+PGR = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = -12
+	level = 2
+}
+POT = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+RUS = {
+	value = -91
+	level = 2
+}
+SIA = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+SME = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 190
+	influence_value = 35
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUD = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+TIW = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -12
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = -11
+	level = 2
+}
+WOL = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X02 = {
+	value = 327
+	influence_value = 19
+	level = 3
+}
+X03 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = -32
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X15 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 31
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X24 = {
+	value = -10
+	level = 2
+}
+X25 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 72
+	influence_value = 5
+	level = 2
+}
+X29 = {
+	value = 24
+	level = 2
+}
+X30 = {
+	value = -11
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X44 = {
+	value = -12
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Riccardu Elhuyar"
+	date="1743.9.24"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Felipe Folch de Cardona"
+	date="1744.11.5"
+	type=sea
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Guillén Lópe de Haro"
+	date="1745.6.23"
+	type=land
+	personality="resolute"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Krzysztof Manrique de Velasco"
+	date="1752.2.28"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Krzysztof Manrique de Velasco"
+	date="1752.2.28"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Nuño Gómez"
+	date="1758.5.15"
+	type=land
+	personality="audacious"
+	background="cartographer"
+}
+
+leader = {
+	name="Nuño de Ayala"
+	date="1760.12.18"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Remón Nuñez de Balboa"
+	date="1760.12.24"
+	type=land
+	personality="efficient"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Krzysztof Fernández de Castro"
+	date="1761.2.16"
+	type=land
+	personality="au_fait"
+	background="school_of_the_bayonet"
+}
+
+leader = {
+	name="Chaime Gálvez"
+	date="1762.8.22"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Álbar Fernández de Córdoba"
+	date="1765.7.3"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Álbar Álvarez de Toledo"
+	date="1765.7.4"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Felipe de Figueroa"
+	date="1765.7.7"
+	type=land
+	personality="audacious"
+	background="school_of_the_bayonet"
+}
+
+leader = {
+	name="Manuel Cortés"
+	date="1765.7.8"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Guillén de la Cerda"
+	date="1765.10.2"
+	type=land
+	personality="audacious"
+	background="school_of_the_bayonet"
+}
+
+
+#Armies
+navy = {
+	name="Armada Real"
+	location=499
+	ship = {
+		name="Almirante Cervera"
+		type=frigate
+	}
+	ship = {
+		name="1st Fiume Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=200
+	regiment = {
+		name="1st Madrid Infantry"
+		type=infantry
+		home=487
+	}
+	regiment = {
+		name="1st La Coruña Infantry"
+		type=infantry
+		home=474
+	}
+	regiment = {
+		name="2nd Madrid Infantry"
+		type=infantry
+		home=487
+	}
+	regiment = {
+		name="1st Almendralejo Infantry"
+		type=infantry
+		home=485
+	}
+	regiment = {
+		name="1st La Coruña Artillery"
+		type=artillery
+		home=474
+	}
+	regiment = {
+		name="1st Reggio di Calabria Artillery"
+		type=artillery
+		home=759
+	}
+	regiment = {
+		name="1st Cuenca Artillery"
+		type=artillery
+		home=490
+	}
+}
+
+navy = {
+	name="Flota de Coast of Morocco"
+	location=474
+	ship = {
+		name="América"
+		type=manowar
+	}
+	ship = {
+		name="Ángel de la Guarda"
+		type=manowar
+	}
+	ship = {
+		name="Aquíles"
+		type=manowar
+	}
+	ship = {
+		name="Argonauta"
+		type=manowar
+	}
+	ship = {
+		name="Buen Consejo"
+		type=manowar
+	}
+	ship = {
+		name="Conquistador"
+		type=manowar
+	}
+	ship = {
+		name="Firme"
+		type=manowar
+	}
+	ship = {
+		name="Glorioso"
+		type=manowar
+	}
+	ship = {
+		name="Héroe"
+		type=manowar
+	}
+	ship = {
+		name="Intrépido"
+		type=manowar
+	}
+	ship = {
+		name="Isabel II"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Flota de Ceh Pech"
+	location=474
+	ship = {
+		name="Andalucía"
+		type=frigate
+	}
+	ship = {
+		name="Asturias"
+		type=frigate
+	}
+	ship = {
+		name="Atrevida"
+		type=frigate
+	}
+	ship = {
+		name="Baleares"
+		type=frigate
+	}
+	ship = {
+		name="Blas de Lezo"
+		type=frigate
+	}
+	ship = {
+		name="3rd Minatitlán Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Kabylia"
+	location=515
+	ship = {
+		name="Canarias"
+		type=frigate
+	}
+	ship = {
+		name="Diana"
+		type=frigate
+	}
+	ship = {
+		name="Eolo"
+		type=frigate
+	}
+	ship = {
+		name="Galicia"
+		type=frigate
+	}
+	ship = {
+		name="Hernán Cortés"
+		type=frigate
+	}
+	ship = {
+		name="Juan de la Cosa"
+		type=frigate
+	}
+	ship = {
+		name="Júpiter"
+		type=frigate
+	}
+	ship = {
+		name="Legazpi"
+		type=frigate
+	}
+	ship = {
+		name="Marte"
+		type=frigate
+	}
+	ship = {
+		name="Martín Alonso Pinzón"
+		type=frigate
+	}
+	ship = {
+		name="Méndez Núñez"
+		type=frigate
+	}
+	ship = {
+		name="Miguel de Cervantes"
+		type=frigate
+	}
+	ship = {
+		name="Neptuno"
+		type=frigate
+	}
+	ship = {
+		name="Pizarro"
+		type=frigate
+	}
+	ship = {
+		name="Princesa"
+		type=frigate
+	}
+	ship = {
+		name="Príncipe Alfonso"
+		type=frigate
+	}
+	ship = {
+		name="Reina Victoia Eugenia"
+		type=frigate
+	}
+	ship = {
+		name="Sarmiento de Gamboa"
+		type=frigate
+	}
+	ship = {
+		name="Tritón"
+		type=frigate
+	}
+	ship = {
+		name="Vasco Núñez de Balboa"
+		type=frigate
+	}
+	ship = {
+		name="Vicente Yáñez Pinzón"
+		type=frigate
+	}
+	ship = {
+		name="Villa de Bilbao"
+		type=frigate
+	}
+	ship = {
+		name="Vulcano"
+		type=frigate
+	}
+	ship = {
+		name="1st Tangier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lisbon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Málaga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Hispanian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tripoli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bône Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Coimbra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Málaga Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Kairouan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Casablanca Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="The People's Guard"
+	location=495
+	regiment = {
+		name="1st Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Cuenca Infantry"
+		type=infantry
+		home=490
+	}
+	regiment = {
+		name="2nd Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Huesca Infantry"
+		type=infantry
+		home=496
+	}
+	regiment = {
+		name="1st Ciudad Real Infantry"
+		type=infantry
+		home=491
+	}
+	regiment = {
+		name="1st Barcelona Infantry"
+		type=infantry
+		home=498
+	}
+	regiment = {
+		name="1st Gerona Infantry"
+		type=infantry
+		home=499
+	}
+	regiment = {
+		name="3rd Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="3rd Madrid Infantry"
+		type=infantry
+		home=487
+	}
+	regiment = {
+		name="1st Barcelona Cavalry"
+		type=cavalry
+		home=498
+	}
+	regiment = {
+		name="1st Ciudad Real Artillery"
+		type=artillery
+		home=491
+	}
+	regiment = {
+		name="1st Castellón Artillery"
+		type=artillery
+		home=504
+	}
+	regiment = {
+		name="1st Santander Artillery"
+		type=artillery
+		home=478
+	}
+	regiment = {
+		name="1st León Artillery"
+		type=artillery
+		home=477
+	}
+	regiment = {
+		name="1st Barcelona Artillery"
+		type=artillery
+		home=498
+	}
+	regiment = {
+		name="2nd Castellón Artillery"
+		type=artillery
+		home=504
+	}
+	regiment = {
+		name="1st Faro Infantry"
+		type=infantry
+		home=527
+	}
+	regiment = {
+		name="2nd Barcelona Cavalry"
+		type=cavalry
+		home=498
+	}
+	regiment = {
+		name="1st Huesca Cavalry"
+		type=cavalry
+		home=496
+	}
+	regiment = {
+		name="1st Zaragoza Artillery"
+		type=artillery
+		home=495
+	}
+}
+
+army = {
+	name="The Palace Guard"
+	location=495
+	regiment = {
+		name="1st Castellón Infantry"
+		type=infantry
+		home=504
+	}
+	regiment = {
+		name="1st Vigo Infantry"
+		type=infantry
+		home=476
+	}
+	regiment = {
+		name="2nd Barcelona Infantry"
+		type=infantry
+		home=498
+	}
+	regiment = {
+		name="1st Sigüenza Infantry"
+		type=infantry
+		home=488
+	}
+	regiment = {
+		name="1st Cáceres Infantry"
+		type=infantry
+		home=486
+	}
+	regiment = {
+		name="1st Setubal Infantry"
+		type=infantry
+		home=524
+	}
+	regiment = {
+		name="1st Córdoba Infantry"
+		type=infantry
+		home=510
+	}
+	regiment = {
+		name="1st Oviedo Infantry"
+		type=infantry
+		home=475
+	}
+	regiment = {
+		name="1st León Infantry"
+		type=infantry
+		home=477
+	}
+	regiment = {
+		name="1st Reggio di Calabria Infantry"
+		type=infantry
+		home=759
+	}
+	regiment = {
+		name="1st Tarragona Infantry"
+		type=infantry
+		home=501
+	}
+	regiment = {
+		name="1st Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="1st Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="1st Calicut Infantry"
+		type=infantry
+		home=1317
+	}
+	regiment = {
+		name="1st Cartagena Infantry"
+		type=infantry
+		home=506
+	}
+	regiment = {
+		name="1st Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="1st Safi Infantry"
+		type=infantry
+		home=2563
+	}
+	regiment = {
+		name="2nd Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="2nd Córdoba Infantry"
+		type=infantry
+		home=510
+	}
+	regiment = {
+		name="1st Jaén Infantry"
+		type=infantry
+		home=516
+	}
+	regiment = {
+		name="4th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="2nd Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="1st Huelva Infantry"
+		type=infantry
+		home=511
+	}
+	regiment = {
+		name="1st Lisbon Infantry"
+		type=infantry
+		home=521
+	}
+	regiment = {
+		name="2nd Castellón Infantry"
+		type=infantry
+		home=504
+	}
+	regiment = {
+		name="1st Ceuta Infantry"
+		type=infantry
+		home=2590
+	}
+	regiment = {
+		name="2nd Calicut Infantry"
+		type=infantry
+		home=1317
+	}
+	regiment = {
+		name="1st Alicante Infantry"
+		type=infantry
+		home=505
+	}
+	regiment = {
+		name="2nd Alicante Infantry"
+		type=infantry
+		home=505
+	}
+	regiment = {
+		name="1st Covilhã Infantry"
+		type=infantry
+		home=520
+	}
+	regiment = {
+		name="1st Bilbao Infantry"
+		type=infantry
+		home=492
+	}
+	regiment = {
+		name="2nd Cáceres Infantry"
+		type=infantry
+		home=486
+	}
+	regiment = {
+		name="1st Sigüenza Artillery"
+		type=artillery
+		home=488
+	}
+	regiment = {
+		name="1st Teruel Artillery"
+		type=artillery
+		home=497
+	}
+	regiment = {
+		name="1st Vigo Artillery"
+		type=artillery
+		home=476
+	}
+	regiment = {
+		name="2nd Sigüenza Artillery"
+		type=artillery
+		home=488
+	}
+	regiment = {
+		name="1st Almendralejo Artillery"
+		type=artillery
+		home=485
+	}
+	regiment = {
+		name="1st Cáceres Artillery"
+		type=artillery
+		home=486
+	}
+	regiment = {
+		name="1st Málaga Artillery"
+		type=artillery
+		home=514
+	}
+}
+
+army = {
+	name="44th Army"
+	location=497
+	regiment = {
+		name="2nd León Infantry"
+		type=infantry
+		home=477
+	}
+	regiment = {
+		name="3rd Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="2nd La Coruña Infantry"
+		type=infantry
+		home=474
+	}
+	regiment = {
+		name="3rd Cáceres Infantry"
+		type=infantry
+		home=486
+	}
+	regiment = {
+		name="1st Vila Real Infantry"
+		type=infantry
+		home=519
+	}
+	regiment = {
+		name="5th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="2nd Cuenca Artillery"
+		type=artillery
+		home=490
+	}
+	regiment = {
+		name="1st Oporto Artillery"
+		type=artillery
+		home=518
+	}
+	regiment = {
+		name="1st Seville Artillery"
+		type=artillery
+		home=509
+	}
+	regiment = {
+		name="1st Pamplona Artillery"
+		type=artillery
+		home=493
+	}
+}
+
+army = {
+	name="40th Army"
+	location=501
+	regiment = {
+		name="2nd Sigüenza Infantry"
+		type=infantry
+		home=488
+	}
+	regiment = {
+		name="2nd Jaén Infantry"
+		type=infantry
+		home=516
+	}
+	regiment = {
+		name="1st Pamplona Infantry"
+		type=infantry
+		home=493
+	}
+	regiment = {
+		name="1st Málaga Infantry"
+		type=infantry
+		home=514
+	}
+	regiment = {
+		name="2nd Cartagena Infantry"
+		type=infantry
+		home=506
+	}
+	regiment = {
+		name="1st Salamanca Infantry"
+		type=infantry
+		home=482
+	}
+	regiment = {
+		name="1st Almería Infantry"
+		type=infantry
+		home=515
+	}
+	regiment = {
+		name="2nd Huelva Infantry"
+		type=infantry
+		home=511
+	}
+	regiment = {
+		name="1st Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="3rd Huelva Infantry"
+		type=infantry
+		home=511
+	}
+	regiment = {
+		name="4th Cáceres Infantry"
+		type=infantry
+		home=486
+	}
+	regiment = {
+		name="1st Coimbra Infantry"
+		type=infantry
+		home=522
+	}
+	regiment = {
+		name="2nd Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="1st Cádiz Infantry"
+		type=infantry
+		home=512
+	}
+	regiment = {
+		name="6th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="2nd Cádiz Infantry"
+		type=infantry
+		home=512
+	}
+}
+
+army = {
+	name="Ejército de Pirineus"
+	location=496
+	regiment = {
+		name="3rd Barcelona Infantry"
+		type=infantry
+		home=498
+	}
+	regiment = {
+		name="4th Barcelona Infantry"
+		type=infantry
+		home=498
+	}
+	regiment = {
+		name="5th Barcelona Infantry"
+		type=infantry
+		home=498
+	}
+	regiment = {
+		name="3rd Calicut Infantry"
+		type=infantry
+		home=1317
+	}
+	regiment = {
+		name="2nd Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="6th Barcelona Infantry"
+		type=infantry
+		home=498
+	}
+	regiment = {
+		name="6th Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+}
+
+army = {
+	name="Ejército de Algarve"
+	location=500
+	regiment = {
+		name="2nd Bilbao Infantry"
+		type=infantry
+		home=492
+	}
+	regiment = {
+		name="3rd Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="2nd Lisbon Infantry"
+		type=infantry
+		home=521
+	}
+	regiment = {
+		name="3rd Sigüenza Infantry"
+		type=infantry
+		home=488
+	}
+	regiment = {
+		name="3rd Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="12th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+}
+
+army = {
+	name="Guardia Real"
+	location=504
+	regiment = {
+		name="3rd Bilbao Infantry"
+		type=infantry
+		home=492
+	}
+	regiment = {
+		name="4th Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="1st Soria Infantry"
+		type=infantry
+		home=481
+	}
+	regiment = {
+		name="4th Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="7th Barcelona Infantry"
+		type=infantry
+		home=498
+	}
+	regiment = {
+		name="1st Perpignan Infantry"
+		type=infantry
+		home=464
+	}
+	regiment = {
+		name="5th Toledo Infantry"
+		type=infantry
+		home=489
+	}
+	regiment = {
+		name="2nd Almendralejo Infantry"
+		type=infantry
+		home=485
+	}
+	regiment = {
+		name="5th Zaragoza Infantry"
+		type=infantry
+		home=495
+	}
+	regiment = {
+		name="1st Albacete Infantry"
+		type=infantry
+		home=508
+	}
+	regiment = {
+		name="7th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="3rd Córdoba Infantry"
+		type=infantry
+		home=510
+	}
+	regiment = {
+		name="2nd Covilhã Infantry"
+		type=infantry
+		home=520
+	}
+	regiment = {
+		name="8th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Teruel Infantry"
+		type=infantry
+		home=497
+	}
+	regiment = {
+		name="1st Beja Infantry"
+		type=infantry
+		home=526
+	}
+	regiment = {
+		name="9th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Seville Infantry"
+		type=infantry
+		home=509
+	}
+	regiment = {
+		name="1st Évora Infantry"
+		type=infantry
+		home=525
+	}
+	regiment = {
+		name="4th Valencia Infantry"
+		type=infantry
+		home=503
+	}
+	regiment = {
+		name="1st Abrantes Infantry"
+		type=infantry
+		home=523
+	}
+	regiment = {
+		name="3rd Castellón Infantry"
+		type=infantry
+		home=504
+	}
+	regiment = {
+		name="2nd Perpignan Infantry"
+		type=infantry
+		home=464
+	}
+	regiment = {
+		name="2nd Reggio di Calabria Infantry"
+		type=infantry
+		home=759
+	}
+	regiment = {
+		name="2nd Abrantes Infantry"
+		type=infantry
+		home=523
+	}
+	regiment = {
+		name="2nd Cuenca Infantry"
+		type=infantry
+		home=490
+	}
+	regiment = {
+		name="2nd Salamanca Infantry"
+		type=infantry
+		home=482
+	}
+	regiment = {
+		name="10th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="3rd Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+	regiment = {
+		name="11th Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="4th Bilbao Infantry"
+		type=infantry
+		home=492
+	}
+	regiment = {
+		name="1st Tarragona Artillery"
+		type=artillery
+		home=501
+	}
+	regiment = {
+		name="3rd Cuenca Artillery"
+		type=artillery
+		home=490
+	}
+	regiment = {
+		name="1st Covilhã Artillery"
+		type=artillery
+		home=520
+	}
+	regiment = {
+		name="1st Huesca Artillery"
+		type=artillery
+		home=496
+	}
+	regiment = {
+		name="2nd Huesca Artillery"
+		type=artillery
+		home=496
+	}
+	regiment = {
+		name="1st Lisbon Artillery"
+		type=artillery
+		home=521
+	}
+}
+
+navy = {
+	name="Flota de Corunna"
+	location=474
+	ship = {
+		name="2nd Veracruz Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Minatitlán Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lisbon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Huelva Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Minatitlán Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Huelva Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Flota de Girona"
+	location=499
+	ship = {
+		name="Monarca"
+		type=manowar
+	}
+	ship = {
+		name="Ntra. Sra. del Patrocinio"
+		type=manowar
+	}
+	ship = {
+		name="Real Familia"
+		type=manowar
+	}
+	ship = {
+		name="Rey Francisco de Asís"
+		type=manowar
+	}
+	ship = {
+		name="San Bernardo"
+		type=manowar
+	}
+	ship = {
+		name="San Carlos"
+		type=manowar
+	}
+	ship = {
+		name="San Fermín"
+		type=manowar
+	}
+	ship = {
+		name="San Fernando"
+		type=manowar
+	}
+	ship = {
+		name="San Francisco de Paula"
+		type=manowar
+	}
+	ship = {
+		name="San Gregorio"
+		type=manowar
+	}
+	ship = {
+		name="San Idelfonso"
+		type=manowar
+	}
+	ship = {
+		name="San Isidro"
+		type=manowar
+	}
+	ship = {
+		name="San José"
+		type=manowar
+	}
+	ship = {
+		name="San Juan Bautista"
+		type=manowar
+	}
+	ship = {
+		name="San Julián"
+		type=manowar
+	}
+	ship = {
+		name="San Leandro"
+		type=manowar
+	}
+	ship = {
+		name="San Telmo"
+		type=manowar
+	}
+	ship = {
+		name="Santiago"
+		type=manowar
+	}
+	ship = {
+		name="Victorioso"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gibraltar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Hispanian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ajdir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bône Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mustaghanim Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Hispanian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oran Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Algiers Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Mustaghanim Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Santander Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Hispanian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Perpignan Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rabat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bizerte Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Safi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ifni Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th La Coruña Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Agadir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bilbao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Coimbra Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bilbao Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Barcelona Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bougie Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Águila"
+		type=clipper_transport
+	}
+	ship = {
+		name="Águila de Nantes"
+		type=clipper_transport
+	}
+	ship = {
+		name="Águila Volante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Astrolabio"
+		type=clipper_transport
+	}
+	ship = {
+		name="Aurora"
+		type=clipper_transport
+	}
+	ship = {
+		name="Concepción"
+		type=clipper_transport
+	}
+	ship = {
+		name="Cornelia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Cortes"
+		type=clipper_transport
+	}
+	ship = {
+		name="Esmeralda"
+		type=clipper_transport
+	}
+	ship = {
+		name="Esperanza"
+		type=clipper_transport
+	}
+	ship = {
+		name="Fama"
+		type=clipper_transport
+	}
+	ship = {
+		name="Fénix"
+		type=clipper_transport
+	}
+	ship = {
+		name="Fidela"
+		type=clipper_transport
+	}
+	ship = {
+		name="Flecha"
+		type=clipper_transport
+	}
+	ship = {
+		name="Flora"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gloria"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gusana"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hermione"
+		type=clipper_transport
+	}
+	ship = {
+		name="Iberia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Ifigenia"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Vigo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Iris"
+		type=clipper_transport
+	}
+	ship = {
+		name="Juno"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Flota de Almería"
+	location=515
+	ship = {
+		name="1st Oviedo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rabat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Misratah Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Gabes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Montpellier Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Gabes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Gabes Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ceuta Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Melilla Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Gabes Frigate"
+		type=frigate
+	}
+}
+

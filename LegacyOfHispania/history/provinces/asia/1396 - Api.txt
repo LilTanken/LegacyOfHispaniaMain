@@ -1,0 +1,8 @@
+owner=BNJ
+controller=BNJ
+add_core=BNJ
+add_core=BRU
+add_core=MLY
+trade_goods = grain
+life_rating = 32
+naval_base = 1

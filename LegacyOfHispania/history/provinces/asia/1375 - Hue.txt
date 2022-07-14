@@ -1,0 +1,7 @@
+owner=ANN
+controller=ANN
+add_core=ANN
+add_core=IDO
+add_core=TOK
+trade_goods = grain
+life_rating = 34

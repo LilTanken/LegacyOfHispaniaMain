@@ -1,0 +1,7 @@
+owner=ANN
+controller=ANN
+add_core=ANN
+add_core=IDO
+trade_goods = wool
+life_rating = 34
+naval_base = 1

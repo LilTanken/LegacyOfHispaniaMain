@@ -1,0 +1,235 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 179
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 461
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
+		size= 16
+	}
+
+	slaves=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = catholic
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = catholic
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = catholic
+		size= 87
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 310
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 698
+	}
+
+}
+1973 = {
+	aristocrats=
+	{
+		culture = fang
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = animist
+		size= 1500
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = animist
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = animist
+		size= 31500
+	}
+
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 1000
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = animist
+		size= 500
+	}
+
+}

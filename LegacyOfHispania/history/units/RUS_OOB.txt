@@ -1,0 +1,1189 @@
+#Sphere of Influence
+
+ACH = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = -57
+	level = 2
+}
+ARG = {
+	value = -13
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 16
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUM = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AUY = {
+	value = 0
+	level = 2
+}
+AUZ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 40
+	level = 2
+}
+BOS = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+BRZ = {
+	value = -11
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUG = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = -12
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 1
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -12
+	level = 2
+}
+CRE = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = -93
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -12
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 11
+	level = 2
+}
+EPI = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 193
+	military_access = yes
+	influence_value = 85
+	level = 5
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = -13
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+ION = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = -10
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 28
+	level = 2
+}
+KOK = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRM = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -12
+	level = 2
+}
+LSK = {
+	value = 4
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 10
+	level = 2
+}
+MDI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -104
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MOD = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = -8
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = -100
+	level = 2
+}
+PEU = {
+	value = -13
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 166
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+POT = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RWA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SME = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = -13
+	level = 2
+}
+SPA = {
+	value = -97
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 230
+	influence_value = 45
+	level = 4
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 1
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIW = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 16
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 16
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -31
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 31
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = -146
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 71
+	influence_value = 5
+	level = 2
+}
+X15 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X18 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X24 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X25 = {
+	value = 50
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X30 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+X33 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+X36 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X37 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X38 = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+X41 = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ivan Minih"
+	date="1762.1.26"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Terentiy Vishnevetski"
+	date="1762.10.22"
+	type=land
+	personality="audacious"
+	background="cartographer"
+}
+
+leader = {
+	name="Roman Godunov"
+	date="1764.1.18"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Iakobos Soltikov"
+	date="1764.6.28"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Terentiy Ermolov"
+	date="1765.6.14"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Iliya Koltsov-Mosalski"
+	date="1766.8.31"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Gierolt Glinski"
+	date="1767.8.25"
+	type=land
+	personality="au_fait"
+	background="school_of_the_bayonet"
+}
+
+leader = {
+	name="Konstantin Ushakov"
+	date="1830.1.2"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Army of the Baltic"
+	location=1077
+	regiment = {
+		name="1st St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="1st Vyatka Infantry"
+		type=infantry
+		home=1028
+	}
+	regiment = {
+		name="2nd Vyatka Infantry"
+		type=infantry
+		home=1028
+	}
+	regiment = {
+		name="1st Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="1st Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2777
+	ship = {
+		name="Kulevtcha"
+		type=frigate
+	}
+	ship = {
+		name="Flora"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Black Sea Squadron"
+	location=2833
+	ship = {
+		name="Kagul"
+		type=frigate
+	}
+	ship = {
+		name="Kamchatka"
+		type=frigate
+	}
+}
+
+army = {
+	name="Army of the Caucasus"
+	location=1082
+	regiment = {
+		name="1st Chernigov Infantry"
+		type=infantry
+		home=962
+	}
+	regiment = {
+		name="1st Bryansk Infantry"
+		type=infantry
+		home=1016
+	}
+	regiment = {
+		name="1st Zhitomir Infantry"
+		type=infantry
+		home=960
+	}
+	regiment = {
+		name="1st Mariupol Artillery"
+		type=artillery
+		home=976
+	}
+	regiment = {
+		name="1st Stanislavov Artillery"
+		type=artillery
+		home=953
+	}
+}
+
+army = {
+	name="Army of the Ural"
+	location=711
+	regiment = {
+		name="1st Mozyr Infantry"
+		type=infantry
+		home=942
+	}
+	regiment = {
+		name="2nd Mozyr Infantry"
+		type=infantry
+		home=942
+	}
+	regiment = {
+		name="1st Rovne Infantry"
+		type=infantry
+		home=956
+	}
+	regiment = {
+		name="1st Baranovichi Artillery"
+		type=artillery
+		home=939
+	}
+	regiment = {
+		name="1st Minsk Artillery"
+		type=artillery
+		home=718
+	}
+	regiment = {
+		name="2nd Minsk Artillery"
+		type=artillery
+		home=718
+	}
+}
+
+army = {
+	name="Army of Crimea"
+	location=937
+	regiment = {
+		name="1st Olviopol Infantry"
+		type=infantry
+		home=969
+	}
+	regiment = {
+		name="1st Simferopol Infantry"
+		type=infantry
+		home=964
+	}
+	regiment = {
+		name="1st Rostov Infantry"
+		type=infantry
+		home=979
+	}
+	regiment = {
+		name="1st Yekaterinoslav Artillery"
+		type=artillery
+		home=972
+	}
+	regiment = {
+		name="2nd Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="2nd Mariupol Artillery"
+		type=artillery
+		home=976
+	}
+}
+
+army = {
+	name="Army of Siberia"
+	location=634
+	regiment = {
+		name="1st Gdov Infantry"
+		type=infantry
+		home=997
+	}
+	regiment = {
+		name="1st Polotsk Infantry"
+		type=infantry
+		home=946
+	}
+	regiment = {
+		name="1st Vitebsk Infantry"
+		type=infantry
+		home=945
+	}
+	regiment = {
+		name="1st Pastavy Infantry"
+		type=infantry
+		home=947
+	}
+	regiment = {
+		name="1st Vitebsk Artillery"
+		type=artillery
+		home=945
+	}
+	regiment = {
+		name="1st Gdov Artillery"
+		type=artillery
+		home=997
+	}
+	regiment = {
+		name="2nd Vitebsk Artillery"
+		type=artillery
+		home=945
+	}
+	regiment = {
+		name="1st Daugavpils Artillery"
+		type=artillery
+		home=356
+	}
+	regiment = {
+		name="1st Pskov Infantry"
+		type=infantry
+		home=1006
+	}
+	regiment = {
+		name="1st Pskov Artillery"
+		type=artillery
+		home=1006
+	}
+}
+
+army = {
+	name="Russian Imperial Army"
+	location=951
+	regiment = {
+		name="1st Vinnitsa Infantry"
+		type=infantry
+		home=954
+	}
+	regiment = {
+		name="1st Iasi Infantry"
+		type=infantry
+		home=670
+	}
+	regiment = {
+		name="1st Botosani Infantry"
+		type=infantry
+		home=671
+	}
+	regiment = {
+		name="1st Slutsk Infantry"
+		type=infantry
+		home=941
+	}
+	regiment = {
+		name="3rd Minsk Artillery"
+		type=artillery
+		home=718
+	}
+	regiment = {
+		name="1st Slutsk Artillery"
+		type=artillery
+		home=941
+	}
+	regiment = {
+		name="1st Proskorov Artillery"
+		type=artillery
+		home=955
+	}
+	regiment = {
+		name="1st Mogilev Artillery"
+		type=artillery
+		home=948
+	}
+	regiment = {
+		name="1st Odessa Infantry"
+		type=infantry
+		home=968
+	}
+	regiment = {
+		name="3rd Proskorov Artillery"
+		type=artillery
+		home=955
+	}
+}
+
+army = {
+	name="Army of Ukraine"
+	location=956
+	regiment = {
+		name="2nd Rovne Infantry"
+		type=infantry
+		home=956
+	}
+	regiment = {
+		name="1st Grodno Infantry"
+		type=infantry
+		home=936
+	}
+	regiment = {
+		name="3rd Rovne Infantry"
+		type=infantry
+		home=956
+	}
+	regiment = {
+		name="1st Korosten Infantry"
+		type=infantry
+		home=959
+	}
+	regiment = {
+		name="2nd Proskorov Artillery"
+		type=artillery
+		home=955
+	}
+	regiment = {
+		name="1st Lida Artillery"
+		type=artillery
+		home=938
+	}
+	regiment = {
+		name="1st Tarnopol Artillery"
+		type=artillery
+		home=952
+	}
+	regiment = {
+		name="1st Chernigov Artillery"
+		type=artillery
+		home=962
+	}
+	regiment = {
+		name="1st Minsk Infantry"
+		type=infantry
+		home=718
+	}
+}
+
+navy = {
+	name="Baltic Squadron"
+	location=2776
+	ship = {
+		name="Odessa"
+		type=frigate
+	}
+	ship = {
+		name="Arkhimed"
+		type=frigate
+	}
+	ship = {
+		name="Polkan"
+		type=frigate
+	}
+	ship = {
+		name="Vladimir"
+		type=frigate
+	}
+	ship = {
+		name="Svetlana"
+		type=frigate
+	}
+	ship = {
+		name="Ilya Muromets"
+		type=frigate
+	}
+	ship = {
+		name="Medved"
+		type=frigate
+	}
+	ship = {
+		name="Rynda"
+		type=frigate
+	}
+	ship = {
+		name="Vityaz"
+		type=frigate
+	}
+	ship = {
+		name="Neva"
+		type=frigate
+	}
+	ship = {
+		name="Vilagosh"
+		type=frigate
+	}
+}
+

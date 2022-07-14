@@ -1,0 +1,920 @@
+#Sphere of Influence
+
+ACH = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 8
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -13
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUM = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AUY = {
+	value = 0
+	level = 2
+}
+AUZ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 40
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -11
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = -12
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -12
+	level = 2
+}
+CRE = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -12
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EPI = {
+	value = 12
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 16
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = -13
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+ION = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRM = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -12
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -12
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOD = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = -52
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -13
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 16
+	level = 2
+}
+POT = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 1
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SME = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = -13
+	level = 2
+}
+SPA = {
+	value = -13
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIW = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 10
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 126
+	influence_value = 19
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 123
+	influence_value = 18
+	level = 3
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 24
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 14
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Abraham De Houtman"
+	date="1747.10.13"
+	type=sea
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Johan Van Riebeeck"
+	date="1750.6.7"
+	type=land
+	personality="chivalrous"
+	background="artillerist"
+}
+
+leader = {
+	name="Frederik Hendrik Brouwer"
+	date="1756.7.25"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Joost Brouwer"
+	date="1764.6.27"
+	type=land
+	personality="persistant"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Johan Van der Werff"
+	date="1830.1.2"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+navy = {
+	name="Oostzeevloot"
+	location=2722
+	ship = {
+		name="Admiraal Generaal"
+		type=manowar
+	}
+	ship = {
+		name="Beschermer"
+		type=manowar
+	}
+	ship = {
+		name="Brederode"
+		type=manowar
+	}
+	ship = {
+		name="Campen"
+		type=manowar
+	}
+	ship = {
+		name="Eendracht"
+		type=manowar
+	}
+	ship = {
+		name="Eenhoorn"
+		type=manowar
+	}
+	ship = {
+		name="Frederik Hendrik"
+		type=manowar
+	}
+	ship = {
+		name="Gouden Leeuw"
+		type=manowar
+	}
+	ship = {
+		name="Graaf Willem"
+		type=manowar
+	}
+	ship = {
+		name="Groote Liefde"
+		type=manowar
+	}
+	ship = {
+		name="Jozua"
+		type=manowar
+	}
+	ship = {
+		name="Kameel"
+		type=manowar
+	}
+	ship = {
+		name="Kapitein Generaal"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Noordzeevloot"
+	location=2737
+	ship = {
+		name="Wolf"
+		type=frigate
+	}
+	ship = {
+		name="Fret"
+		type=frigate
+	}
+	ship = {
+		name="Hermelijn"
+		type=frigate
+	}
+	ship = {
+		name="Vos"
+		type=frigate
+	}
+	ship = {
+		name="Lynx"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Oost-Indiëvloot"
+	location=2737
+	ship = {
+		name="Panter"
+		type=frigate
+	}
+	ship = {
+		name="Amsterdam"
+		type=clipper_transport
+	}
+	ship = {
+		name="Assendelft"
+		type=clipper_transport
+	}
+	ship = {
+		name="Batavia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Delfland"
+		type=clipper_transport
+	}
+	ship = {
+		name="Dordrecht"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gouda"
+		type=clipper_transport
+	}
+	ship = {
+		name="Haarlem"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hoorn"
+		type=clipper_transport
+	}
+	ship = {
+		name="Leyden"
+		type=clipper_transport
+	}
+	ship = {
+		name="Medemblick"
+		type=clipper_transport
+	}
+	ship = {
+		name="Middelburg"
+		type=clipper_transport
+	}
+	ship = {
+		name="Rotterdam"
+		type=clipper_transport
+	}
+	ship = {
+		name="Soerabaja"
+		type=clipper_transport
+	}
+	ship = {
+		name="Utrecht"
+		type=clipper_transport
+	}
+	ship = {
+		name="Veere"
+		type=clipper_transport
+	}
+	ship = {
+		name="Vlissingen"
+		type=clipper_transport
+	}
+	ship = {
+		name="Willemstad"
+		type=clipper_transport
+	}
+	ship = {
+		name="Zierikzee"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Jaguar"
+		type=frigate
+	}
+	ship = {
+		name="7th Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+}
+

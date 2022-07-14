@@ -1,0 +1,5 @@
+owner=EPI
+controller=EPI
+add_core=EPI
+trade_goods = cotton
+life_rating = 35

@@ -1,0 +1,9 @@
+owner=SMB
+controller=SMB
+add_core=BRU
+add_core=MLY
+add_core=SMB
+trade_goods = precious_metal
+life_rating = 34
+naval_base = 2
+fort = 1

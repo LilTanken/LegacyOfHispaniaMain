@@ -1,0 +1,8 @@
+owner=X41
+controller=X41
+add_core=X41
+trade_goods = grain
+life_rating = 35
+terrain = small_island
+naval_base = 1
+fort = 1

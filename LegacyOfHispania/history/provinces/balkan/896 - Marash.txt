@@ -1,0 +1,7 @@
+owner=LBN
+controller=LBN
+add_core=IRQ
+add_core=LBN
+trade_goods = wool
+life_rating = 35
+fort = 2

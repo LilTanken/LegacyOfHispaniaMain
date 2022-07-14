@@ -1,0 +1,1192 @@
+1173 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = ibadi
+		size= 477
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 137
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 310
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 3
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 5896
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = kharijite
+		size= 629
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 1127
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 12
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 2956
+	}
+
+	slaves=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 141
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 92
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 1747
+	}
+
+	slaves=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 170
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 312
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 1853
+	}
+
+}
+1175 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = ibadi
+		size= 783
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 238
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 85
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 2
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 3110
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = kharijite
+		size= 1067
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 317
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 7
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 3941
+	}
+
+	slaves=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 424
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = ibadi
+		size= 1682
+	}
+
+	slaves=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 633
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 193
+	}
+
+	artisans=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 2347
+	}
+
+}
+1176 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = ibadi
+		size= 898
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 908
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 1136
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 7
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 13041
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = kharijite
+		size= 1118
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 1131
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 3962
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 213
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 26
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 555
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 13142
+	}
+
+}
+1177 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = nestorian
+		size= 2731
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = nestorian
+		size= 4703
+	}
+
+}
+1178 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 850
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 353
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 797
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 14995
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = kharijite
+		size= 1014
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 2697
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 27
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 502
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 14056
+	}
+
+	slaves=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = sunni
+		size= 448
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = sunni
+		size= 186
+	}
+
+	artisans=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = sunni
+		size= 421
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = sunni
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = sunni
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = sunni
+		size= 7912
+	}
+
+	slaves=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 538
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 224
+	}
+
+	artisans=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 1429
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 266
+	}
+
+	farmers=
+	{
+		culture = dynamic-bedouin_arabic-culture-num1
+		religion = kharijite
+		size= 7792
+	}
+
+}
+1179 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = ibadi
+		size= 2343
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 764
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 955
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 3
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 9337
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = kharijite
+		size= 2909
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 3325
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 12
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 599
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 8839
+	}
+
+}
+1180 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = ibadi
+		size= 1435
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 765
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 615
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 6
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 10650
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = kharijite
+		size= 1665
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 2043
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 21
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 444
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 10457
+	}
+
+}
+1412 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = ibadi
+		size= 821
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 566
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 708
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 7867
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = kharijite
+		size= 1021
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 705
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 2470
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 16
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 345
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = kharijite
+		size= 7868
+	}
+
+}

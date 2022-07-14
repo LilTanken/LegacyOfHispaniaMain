@@ -1,0 +1,9 @@
+owner=X08
+controller=RUS
+add_core=BYZ
+add_core=FEO
+add_core=GRE
+add_core=X08
+trade_goods = cattle
+life_rating = 35
+naval_base = 1

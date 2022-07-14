@@ -1,0 +1,8 @@
+owner=KOK
+controller=KOK
+add_core=KOK
+add_core=XIN
+add_core=YRK
+trade_goods = sulphur
+life_rating = 32
+fort = 1

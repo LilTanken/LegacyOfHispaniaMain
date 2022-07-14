@@ -1,0 +1,12 @@
+owner=LOT
+controller=LOT
+add_core=LOT
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = glass_factory
+	upgrade = yes
+}

@@ -1,0 +1,5807 @@
+828 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 5847
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 509
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 127
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 573
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 30756
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 196
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 881
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 807
+	}
+
+}
+858 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 1572
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 377
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 19631
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 2326
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 6414
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 614
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 130
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 584
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 21775
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 168
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 992
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 918
+	}
+
+}
+859 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 2657
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 6152
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 583
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 125
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1123
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 38062
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 942
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 849
+	}
+
+}
+860 = {
+	slaves=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 1904
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 4171
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 992
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = orthodox
+		size= 48023
+	}
+
+	slaves=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 2819
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 6175
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 16918
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1821
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 355
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 254
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1598
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 52611
+	}
+
+	slaves=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 204
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 447
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 2617
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 282
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 2137
+	}
+
+}
+861 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 442
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 442
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 278
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 20741
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 677
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 1796
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 584
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 126
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 1131
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 29500
+	}
+
+}
+862 = {
+	slaves=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 211
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 675
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 675
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 219
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 31484
+	}
+
+	slaves=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 323
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 1034
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 2744
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 892
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 192
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 1729
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 44754
+	}
+
+}
+863 = {
+	slaves=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1024
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 5767
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 13136
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1339
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 342
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 152
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1198
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 81263
+	}
+
+	slaves=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 45
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 254
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 1964
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 51
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 179
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 1846
+	}
+
+}
+864 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 6370
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 682
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 164
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 573
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 39837
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 195
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 1034
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 27
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 977
+	}
+
+}
+865 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 4135
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 442
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 106
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 372
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 24418
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 87
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 671
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 17
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 635
+	}
+
+}
+866 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 152
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 531
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 6736
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 315
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 2734
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 254
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 55
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 492
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 11862
+	}
+
+}
+867 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 19633
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 3540
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 379
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 90
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 3139
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 114
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 1299
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 539
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 486
+	}
+
+}
+868 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 1020
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 1247
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 15672
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 650
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 3449
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 320
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 6794
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 478
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 672
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 7253
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 14
+	}
+
+}
+869 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 1998
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 2375
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 463
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 32439
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 8970
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 1009
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 203
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 116
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 1748
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 27102
+	}
+
+}
+870 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1375
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1719
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 184
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 309
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 20911
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 7451
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 798
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 149
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 1341
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 23889
+	}
+
+}
+871 = {
+	soldiers=
+	{
+		culture = greek
+		religion = adamites
+		size= 1826
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = adamites
+		size= 2283
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = adamites
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = adamites
+		size= 52
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = adamites
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = adamites
+		size= 205
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = adamites
+		size= 28006
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 2799
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 9280
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 862
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 212
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 835
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 35886
+	}
+
+}
+872 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 644
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 10246
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 286
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 2930
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 272
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 58
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 264
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 10455
+	}
+
+}
+873 = {
+	slaves=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 348
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 1048
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 1310
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = catholic
+		size= 15737
+	}
+
+	slaves=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 495
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 1490
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 5034
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 467
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 86
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 453
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num7
+		religion = protestant
+		size= 18516
+	}
+
+	slaves=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 423
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 1272
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 2946
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 273
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 17649
+	}
+
+	slaves=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 179
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 679
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 2207
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = catholic
+		size= 299
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 901
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 14802
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 427
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1286
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 4724
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 439
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 15522
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = protestant
+		size= 56
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 170
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 1059
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 1520
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 81
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 54
+	}
+
+}
+874 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 447
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 782
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 20941
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 783
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 94
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = hellenic_pagan
+		size= 630
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = hellenic_pagan
+		size= 5974
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = hellenic_pagan
+		size= 555
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = hellenic_pagan
+		size= 119
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = hellenic_pagan
+		size= 717
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = hellenic_pagan
+		size= 23456
+	}
+
+}
+875 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 1253
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 1191
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = catholic
+		size= 20472
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 1771
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 6369
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 296
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 91
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 573
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num4
+		religion = protestant
+		size= 22584
+	}
+
+}
+876 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 2306
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 4125
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 383
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 82
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 372
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 23840
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 2408
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 4796
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 445
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 96
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 432
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 24306
+	}
+
+}
+877 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 1421
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 309
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 18900
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 1655
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 240
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 43
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 360
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 10333
+	}
+
+}
+878 = {
+	slaves=
+	{
+		culture = afro_greek
+		religion = catholic
+		size= 411
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 1906
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 1756
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 45854
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = protestant
+		size= 413
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 1916
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 5284
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 75
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 317
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 42094
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 225
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1043
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 10882
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 505
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 155
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 132
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 653
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 13847
+	}
+
+}
+879 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 1322
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 561
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 21497
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 1690
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 2903
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 420
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 77
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 633
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 24404
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 363
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 1960
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 284
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 53
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 427
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 3441
+	}
+
+}
+880 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1830
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 1368
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 30013
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 6574
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 610
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 133
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 592
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 12139
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 562
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 3151
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 293
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 63
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 284
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 5640
+	}
+
+}
+881 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 281
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = catholic
+		size= 2903
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 1081
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = protestant
+		size= 7597
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 126
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 2240
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 45
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num5
+		religion = hellenic_pagan
+		size= 3615
+	}
+
+}
+882 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 5189
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 16574
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 671
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 802
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 10315
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 556
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 467
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 72
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 547
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 2139
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 229
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 28
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 6602
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 66
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 10
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 9
+	}
+
+}
+883 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 3820
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 276
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 102
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 416
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 39356
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 658
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 3864
+	}
+
+}
+884 = {
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 256
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 650
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 11762
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 461
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 2576
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 40
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = hellenic_pagan
+		size= 19501
+	}
+
+}
+885 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 3985
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = catholic
+		size= 2911
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = catholic
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 35845
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = sunni
+		size= 12074
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = sunni
+		size= 1099
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 254
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 218
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 762
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 46152
+	}
+
+}
+886 = {
+	slaves=
+	{
+		culture = afro_greek
+		religion = catholic
+		size= 1150
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = catholic
+		size= 1979
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = catholic
+		size= 9226
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = catholic
+		size= 770
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = catholic
+		size= 143
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = catholic
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = catholic
+		size= 1722
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = catholic
+		size= 84477
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = hellenic_pagan
+		size= 161
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 277
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 7
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = hellenic_pagan
+		size= 12852
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = protestant
+		size= 234
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = protestant
+		size= 402
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = protestant
+		size= 2304
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = protestant
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = protestant
+		size= 36
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = protestant
+		size= 430
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = protestant
+		size= 16483
+	}
+
+}
+887 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = sunni
+		size= 2458
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = sunni
+		size= 263
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 32
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 443
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 27763
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 569
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = catholic
+		size= 3881
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = catholic
+		size= 416
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 699
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 4500
+	}
+
+}
+888 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 677
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = catholic
+		size= 1185
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 31787
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 451
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = protestant
+		size= 2765
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = protestant
+		size= 257
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 166
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 18861
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = hellenic_pagan
+		size= 521
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = hellenic_pagan
+		size= 7596
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = hellenic_pagan
+		size= 705
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = hellenic_pagan
+		size= 152
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = hellenic_pagan
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = hellenic_pagan
+		size= 456
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = hellenic_pagan
+		size= 16566
+	}
+
+}
+889 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = catholic
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 8664
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 177
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 2657
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 184
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 702
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 19
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 8091
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 143
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 1634
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 44
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = hellenic_pagan
+		size= 4845
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = catholic
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = catholic
+		size= 376
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = catholic
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = catholic
+		size= 9087
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 1746
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 46
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 380
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 7661
+	}
+
+}
+890 = {
+	slaves=
+	{
+		culture = afro_greek
+		religion = catholic
+		size= 845
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 2334
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = catholic
+		size= 8495
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = catholic
+		size= 789
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 170
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = catholic
+		size= 765
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = catholic
+		size= 47948
+	}
+
+	slaves=
+	{
+		culture = afro_greek
+		religion = protestant
+		size= 217
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = protestant
+		size= 2313
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = protestant
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 46
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = protestant
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = protestant
+		size= 12167
+	}
+
+}
+891 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 483
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 604
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 7440
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 985
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 6
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 1427
+	}
+
+	soldiers=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 464
+	}
+
+	artisans=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 1159
+	}
+
+	clergymen=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 6472
+	}
+
+}
+892 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1072
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1340
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 16437
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 335
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 2177
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 20
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 196
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 2994
+	}
+
+}
+893 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 3887
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 416
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 36
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 700
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 46305
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 987
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 6354
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 681
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 59
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 1144
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 8329
+	}
+
+}
+894 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 7710
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 826
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 116
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 1388
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 40322
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = hellenic_pagan
+		size= 688
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = hellenic_pagan
+		size= 1652
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = hellenic_pagan
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = hellenic_pagan
+		size= 25
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = hellenic_pagan
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = hellenic_pagan
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = hellenic_pagan
+		size= 9427
+	}
+
+}
+895 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 1274
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 3025
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 324
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 272
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 17775
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 576
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 2102
+	}
+
+}
+896 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 201
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1408
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 18199
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 310
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 5749
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 616
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 62
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 517
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = protestant
+		size= 23725
+	}
+
+}
+898 = {
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 1475
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 461
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = catholic
+		size= 24302
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 1751
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 7223
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 774
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 67
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 650
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 435
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 1468
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = protestant
+		size= 5537
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num1
+		religion = catholic
+		size= 21213
+	}
+
+}
+899 = {
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 793
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 4977
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 46
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 448
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 60373
+	}
+
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = kharijite
+		size= 257
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = kharijite
+		size= 1289
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = kharijite
+		size= 8198
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = kharijite
+		size= 439
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = kharijite
+		size= 76
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = kharijite
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = kharijite
+		size= 738
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = kharijite
+		size= 11922
+	}
+
+}
+900 = {
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = sunni
+		size= 890
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = sunni
+		size= 715
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = sunni
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = sunni
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = sunni
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = sunni
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = sunni
+		size= 14136
+	}
+
+	soldiers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = kharijite
+		size= 1386
+	}
+
+	artisans=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = kharijite
+		size= 2943
+	}
+
+	clergymen=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = kharijite
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = kharijite
+		size= 29
+	}
+
+	officers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = kharijite
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = kharijite
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = dynamic-greek-culture-num3
+		religion = kharijite
+		size= 19828
+	}
+
+}
+2414 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 932
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1165
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 14299
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 291
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 1894
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 18
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = kharijite
+		size= 2603
+	}
+
+}

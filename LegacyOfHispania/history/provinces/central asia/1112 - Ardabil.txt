@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=PER
+add_core=TAB
+trade_goods = timber
+life_rating = 35
+colonial=2
+fort = 1

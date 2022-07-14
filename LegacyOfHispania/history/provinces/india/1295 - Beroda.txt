@@ -1,0 +1,5 @@
+owner=GUJ
+controller=ENG
+add_core=HND
+trade_goods = fish
+life_rating = 32

@@ -1,0 +1,5 @@
+owner=X45
+controller=X45
+add_core=X45
+trade_goods = tropical_wood
+life_rating = 31

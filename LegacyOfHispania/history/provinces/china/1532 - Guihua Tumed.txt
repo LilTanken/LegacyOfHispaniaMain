@@ -1,0 +1,8 @@
+owner=CWU
+controller=CWU
+add_core=CHH
+add_core=CWU
+add_core=KHA
+add_core=MGL
+trade_goods = iron
+life_rating = 32

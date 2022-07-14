@@ -1,0 +1,200 @@
+676 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 1462
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 547
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 27
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 227
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 46362
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 736
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 1099
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 54
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 455
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 21223
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 1406
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 442
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 26
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 218
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 43949
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 708
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 886
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 289
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 52
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 438
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 20120
+	}
+
+}

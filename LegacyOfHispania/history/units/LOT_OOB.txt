@@ -1,0 +1,1276 @@
+#Sphere of Influence
+
+ACH = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -5
+	level = 2
+}
+ARM = {
+	value = 7
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUM = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AUY = {
+	value = 0
+	level = 2
+}
+AUZ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 40
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = -4
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+CRE = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 12
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 38
+	level = 2
+}
+ENG = {
+	value = -47
+	level = 2
+}
+EPI = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = -4
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 180
+	influence_value = 32
+	level = 3
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+ION = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRM = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -1
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOD = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = -82
+	level = 2
+}
+NET = {
+	value = 12
+	level = 2
+}
+NEW = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+NOR = {
+	value = 136
+	influence_value = 21
+	level = 3
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -5
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POT = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SME = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = -8
+	level = 2
+}
+SPA = {
+	value = -1
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIW = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 222
+	influence_value = 43
+	level = 3
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 10
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 2
+	level = 2
+}
+X29 = {
+	value = 24
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 7
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 14
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Julien de Lalaing"
+	date="1727.7.17"
+	type=land
+	personality="hellbent"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Théodebert de Pontailler"
+	date="1732.12.7"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Childéric de Vienne"
+	date="1751.9.2"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Louis de Brimeu"
+	date="1758.6.16"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Louis de Sémur"
+	date="1760.6.4"
+	type=sea
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="Armée du Charolais"
+	location=2560
+	regiment = {
+		name="1st Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="1st Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="1st Laon Infantry"
+		type=infantry
+		home=403
+	}
+	regiment = {
+		name="2nd Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="1st Münster Cavalry"
+		type=cavalry
+		home=581
+	}
+	regiment = {
+		name="1st Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="1st Metz Artillery"
+		type=artillery
+		home=412
+	}
+	regiment = {
+		name="1st Laon Artillery"
+		type=artillery
+		home=403
+	}
+	regiment = {
+		name="1st Aachen Artillery"
+		type=artillery
+		home=576
+	}
+	regiment = {
+		name="2nd Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+	regiment = {
+		name="1st Charleville Cavalry"
+		type=cavalry
+		home=405
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2711
+	ship = {
+		name="1st Emden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Arnhem Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Christiania Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Arnhem Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Stade Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Aalborg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lotharingian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Leeuwarden Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hamburg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hamburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Messina Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hamburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Messina Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armée de Brême"
+	location=580
+	regiment = {
+		name="1st Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+	regiment = {
+		name="1st Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+	regiment = {
+		name="1st Colmar Infantry"
+		type=infantry
+		home=410
+	}
+	regiment = {
+		name="1st Namur Infantry"
+		type=infantry
+		home=392
+	}
+	regiment = {
+		name="1st Kassel Artillery"
+		type=artillery
+		home=566
+	}
+	regiment = {
+		name="1st Lüneburg Artillery"
+		type=artillery
+		home=532
+	}
+	regiment = {
+		name="1st Bielefeld Artillery"
+		type=artillery
+		home=582
+	}
+}
+
+army = {
+	name="Armée de Tonnerre"
+	location=583
+	regiment = {
+		name="1st Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="1st Dortmund Infantry"
+		type=infantry
+		home=580
+	}
+	regiment = {
+		name="1st Karlsruhe Infantry"
+		type=infantry
+		home=586
+	}
+	regiment = {
+		name="1st Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="1st Hanover Artillery"
+		type=artillery
+		home=534
+	}
+	regiment = {
+		name="1st Hasselt Artillery"
+		type=artillery
+		home=391
+	}
+	regiment = {
+		name="2nd Hasselt Artillery"
+		type=artillery
+		home=391
+	}
+	regiment = {
+		name="3rd Münster Artillery"
+		type=artillery
+		home=581
+	}
+}
+
+army = {
+	name="Armée de l'Autunois"
+	location=539
+	regiment = {
+		name="1st Kassel Infantry"
+		type=infantry
+		home=566
+	}
+	regiment = {
+		name="1st Düsseldorf Infantry"
+		type=infantry
+		home=578
+	}
+	regiment = {
+		name="2nd Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="3rd Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="1st Strasbourg Cavalry"
+		type=cavalry
+		home=409
+	}
+	regiment = {
+		name="1st Stade Artillery"
+		type=artillery
+		home=531
+	}
+	regiment = {
+		name="3rd Hasselt Artillery"
+		type=artillery
+		home=391
+	}
+	regiment = {
+		name="1st Münster Artillery"
+		type=artillery
+		home=581
+	}
+	regiment = {
+		name="2nd Münster Artillery"
+		type=artillery
+		home=581
+	}
+	regiment = {
+		name="1st Giessen Infantry"
+		type=infantry
+		home=567
+	}
+	regiment = {
+		name="1st Hamburg Cavalry"
+		type=cavalry
+		home=528
+	}
+}
+
+army = {
+	name="Armée de Hannovre"
+	location=385
+	regiment = {
+		name="1st Brunswick Infantry"
+		type=infantry
+		home=536
+	}
+	regiment = {
+		name="1st Fulda Infantry"
+		type=infantry
+		home=568
+	}
+	regiment = {
+		name="3rd Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="1st Darmstadt Infantry"
+		type=infantry
+		home=2560
+	}
+	regiment = {
+		name="1st Flensburg Infantry"
+		type=infantry
+		home=370
+	}
+	regiment = {
+		name="1st Fulda Cavalry"
+		type=cavalry
+		home=568
+	}
+	regiment = {
+		name="2nd Lüneburg Artillery"
+		type=artillery
+		home=532
+	}
+	regiment = {
+		name="1st Nuremberg Artillery"
+		type=artillery
+		home=595
+	}
+	regiment = {
+		name="2nd Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="1st Lauenburg Artillery"
+		type=artillery
+		home=529
+	}
+	regiment = {
+		name="2nd Kiel Infantry"
+		type=infantry
+		home=369
+	}
+	regiment = {
+		name="2nd Nuremberg Artillery"
+		type=artillery
+		home=595
+	}
+}
+
+army = {
+	name="Armée de Holstein"
+	location=579
+	regiment = {
+		name="2nd Lauenburg Infantry"
+		type=infantry
+		home=529
+	}
+	regiment = {
+		name="2nd Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="1st Metz Infantry"
+		type=infantry
+		home=412
+	}
+	regiment = {
+		name="1st Kiel Infantry"
+		type=infantry
+		home=369
+	}
+	regiment = {
+		name="1st Hamburg Artillery"
+		type=artillery
+		home=528
+	}
+	regiment = {
+		name="1st Cologne Artillery"
+		type=artillery
+		home=575
+	}
+	regiment = {
+		name="1st Osnabrück Artillery"
+		type=artillery
+		home=538
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2729
+	ship = {
+		name="1st Oldenburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Oldenburg Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armée du Comté"
+	location=2561
+	regiment = {
+		name="1st Kaiserslautern Infantry"
+		type=infantry
+		home=571
+	}
+	regiment = {
+		name="1st Hasselt Infantry"
+		type=infantry
+		home=391
+	}
+	regiment = {
+		name="1st Chalons Infantry"
+		type=infantry
+		home=408
+	}
+	regiment = {
+		name="2nd Stade Artillery"
+		type=artillery
+		home=531
+	}
+	regiment = {
+		name="2nd Aachen Artillery"
+		type=artillery
+		home=576
+	}
+	regiment = {
+		name="3rd Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="2nd Hamburg Artillery"
+		type=artillery
+		home=528
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2724
+	ship = {
+		name="2nd Oldenburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lotharingian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Arnhem Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2712
+	ship = {
+		name="1st Amsterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Utrecht Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Porto Seguro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Utrecht Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aracaju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Amsterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Middelburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Leeuwarden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Aracaju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Amsterdam Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+}
+

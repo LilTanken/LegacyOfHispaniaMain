@@ -1,0 +1,300 @@
+767 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 652
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 223
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 22229
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 1951
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 663
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 72
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 429
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 29150
+	}
+
+}
+768 = {
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 877
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 313
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = catholic
+		size= 29890
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 1136
+	}
+
+	artisans=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 2562
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 833
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 90
+	}
+
+	officers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 807
+	}
+
+	farmers=
+	{
+		culture = dynamic-bavarian-slovene-culture-num1
+		religion = protestant
+		size= 35053
+	}
+
+}
+769 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 656
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1640
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 20570
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 642
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 4850
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 450
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 35
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 291
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 16388
+	}
+
+}

@@ -1,0 +1,328 @@
+1201 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 22733
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 6373
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 296
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 105
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 573
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 18809
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 203
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 989
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 16
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 2277
+	}
+
+}
+1207 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 6311
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 3484
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1515
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 246
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 72
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 318
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 25829
+	}
+
+}
+1208 = {
+	slaves=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 2406
+	}
+
+	soldiers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 506
+	}
+
+	artisans=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 746
+	}
+
+	clergymen=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 15
+	}
+
+	officers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 139
+	}
+
+	farmers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = sunni
+		size= 14186
+	}
+
+	slaves=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = shiite
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = shiite
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = shiite
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = shiite
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = shiite
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = shiite
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = shiite
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = shiite
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 2648
+	}
+
+	soldiers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 557
+	}
+
+	artisans=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 2609
+	}
+
+	clergymen=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 217
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 55
+	}
+
+	officers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 487
+	}
+
+	farmers=
+	{
+		culture = dynamic-afghani-culture-num1
+		religion = mahayana
+		size= 13270
+	}
+
+}

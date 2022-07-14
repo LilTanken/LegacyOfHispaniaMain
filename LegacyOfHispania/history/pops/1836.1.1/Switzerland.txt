@@ -1,0 +1,1187 @@
+603 = {
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 4728
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 5954
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 527
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 1048
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 72871
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 3223
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 14069
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 1243
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 101
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 212
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 2475
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 36649
+	}
+
+}
+604 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 2213
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 3441
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 319
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 620
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 17337
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size= 1210
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size= 1766
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size= 318
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size= 9636
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 1393
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 530
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 13054
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 1761
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 4270
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 397
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 769
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 11803
+	}
+
+}
+605 = {
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 3838
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 1460
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 36104
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 4811
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 11701
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 1087
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 151
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 242
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 1053
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 33243
+	}
+
+}
+606 = {
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 1585
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 1030
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 335
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = catholic
+		size= 25035
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 511
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 467
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num1
+		religion = protestant
+		size= 7858
+	}
+
+}
+607 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 3385
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 33107
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size= 3665
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size= 10598
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size= 985
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size= 137
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size= 219
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size= 954
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size= 23272
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = animist
+		size= 698
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = animist
+		size= 942
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = animist
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = french
+		religion = animist
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = animist
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = animist
+		size= 5745
+	}
+
+}
+608 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 596
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 5824
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size= 646
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size= 1864
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size= 174
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size= 4093
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = animist
+		size= 123
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = animist
+		size= 166
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = animist
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = french
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = animist
+		size= 1011
+	}
+
+}
+609 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 449
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 281
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 7217
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size= 609
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size= 2364
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size= 219
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size= 23
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size= 284
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size= 7341
+	}
+
+}
+611 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 469
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 293
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 7544
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 208
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 553
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 2824
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 467
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 2014
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 242
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 5387
+	}
+
+}
+2568 = {
+	soldiers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 619
+	}
+
+	artisans=
+	{
+		culture = swiss
+		religion = catholic
+		size= 387
+	}
+
+	clergymen=
+	{
+		culture = swiss
+		religion = catholic
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = swiss
+		religion = catholic
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = swiss
+		religion = catholic
+		size= 9960
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 731
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = catholic
+		size= 3728
+	}
+
+	soldiers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 616
+	}
+
+	artisans=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 2659
+	}
+
+	clergymen=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = dynamic-swabian-culture-num2
+		religion = protestant
+		size= 7114
+	}
+
+}

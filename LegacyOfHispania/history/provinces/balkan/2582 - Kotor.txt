@@ -1,0 +1,8 @@
+owner=MOD
+controller=MOD
+add_core=MOD
+add_core=SER
+add_core=YUG
+trade_goods = fish
+life_rating = 35
+naval_base = 1

@@ -1,0 +1,200 @@
+2534 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4751
+	}
+
+	soldiers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = catholic
+		size= 225
+	}
+
+	soldiers=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 330
+	}
+
+	clergymen=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = sydlig
+		religion = catholic
+		size= 5138
+	}
+
+}
+2536 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1118
+	}
+
+}

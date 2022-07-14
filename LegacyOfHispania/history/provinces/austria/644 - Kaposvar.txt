@@ -1,0 +1,7 @@
+owner=HUN
+controller=REB
+add_core=HUN
+add_core=SLV
+add_core=WSF
+trade_goods = cattle
+life_rating = 35

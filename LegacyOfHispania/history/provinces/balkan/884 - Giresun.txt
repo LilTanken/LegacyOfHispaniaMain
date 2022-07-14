@@ -1,0 +1,7 @@
+owner=SME
+controller=SME
+add_core=BYZ
+add_core=GRE
+add_core=SME
+trade_goods = fruit
+life_rating = 35

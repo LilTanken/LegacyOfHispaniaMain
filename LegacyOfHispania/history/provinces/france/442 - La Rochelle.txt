@@ -1,0 +1,14 @@
+owner=FRA
+controller=FRA
+add_core=FRA
+add_core=OCC
+add_core=PRO
+trade_goods = fish
+life_rating = 31
+naval_base = 1
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}

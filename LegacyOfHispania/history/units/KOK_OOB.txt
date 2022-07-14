@@ -1,0 +1,961 @@
+#Sphere of Influence
+
+ACH = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = -68
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUM = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AUY = {
+	value = 0
+	level = 2
+}
+AUZ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BSG = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = 0
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRE = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 185
+	influence_value = 33
+	level = 4
+}
+DLM = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EPI = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = 0
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+ION = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 50
+	level = 3
+}
+KOK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRM = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOD = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NKO = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 105
+	influence_value = 13
+	level = 3
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = -2
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+POT = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 20
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SME = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 26
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIW = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 0
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 0
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 0
+	level = 2
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Gordiya Malla"
+	date="1752.7.17"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Fraidun II"
+	date="1766.9.22"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sasan Alim"
+	date="1759.4.4"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Fraidun Malla"
+	date="1764.10.9"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Gordiya Malla"
+	date="1764.10.12"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Khoram Murad"
+	date="1765.2.7"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+
+#Armies
+army = {
+	name="4th Army"
+	location=1198
+	regiment = {
+		name="1st Samarkand Irregulars"
+		type=irregular
+		home=1199
+	}
+	regiment = {
+		name="2nd Samarkand Irregulars"
+		type=irregular
+		home=1199
+	}
+	regiment = {
+		name="3rd Samarkand Irregulars"
+		type=irregular
+		home=1199
+	}
+	regiment = {
+		name="1st Turkistan Artillery"
+		type=artillery
+		home=1185
+	}
+	regiment = {
+		name="1st Khujand Artillery"
+		type=artillery
+		home=1201
+	}
+	regiment = {
+		name="1st Bukhara Artillery"
+		type=artillery
+		home=1198
+	}
+	regiment = {
+		name="1st Tashkent Artillery"
+		type=artillery
+		home=1195
+	}
+}
+
+army = {
+	name="5th Army"
+	location=29
+	regiment = {
+		name="4th Samarkand Irregulars"
+		type=irregular
+		home=1199
+	}
+	regiment = {
+		name="1st Bukhara Irregulars"
+		type=irregular
+		home=1198
+	}
+	regiment = {
+		name="1st Tashkent Irregulars"
+		type=irregular
+		home=1195
+	}
+	regiment = {
+		name="1st Qarshi Artillery"
+		type=artillery
+		home=1200
+	}
+	regiment = {
+		name="1st Samarkand Artillery"
+		type=artillery
+		home=1199
+	}
+	regiment = {
+		name="2nd Khujand Artillery"
+		type=artillery
+		home=1201
+	}
+	regiment = {
+		name="1st Bishkek Irregulars"
+		type=irregular
+		home=1189
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1594
+	regiment = {
+		name="1st Kyzylkum Irregulars"
+		type=irregular
+		home=29
+	}
+	regiment = {
+		name="1st Qarshi Irregulars"
+		type=irregular
+		home=1200
+	}
+	regiment = {
+		name="2nd Qarshi Irregulars"
+		type=irregular
+		home=1200
+	}
+	regiment = {
+		name="2nd Samarkand Artillery"
+		type=artillery
+		home=1199
+	}
+	regiment = {
+		name="3rd Khujand Artillery"
+		type=artillery
+		home=1201
+	}
+	regiment = {
+		name="2nd Bukhara Irregulars"
+		type=irregular
+		home=1198
+	}
+	regiment = {
+		name="2nd Bishkek Artillery"
+		type=artillery
+		home=1189
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1200
+	regiment = {
+		name="5th Samarkand Irregulars"
+		type=irregular
+		home=1199
+	}
+	regiment = {
+		name="1st Khujand Irregulars"
+		type=irregular
+		home=1201
+	}
+	regiment = {
+		name="2nd Tashkent Irregulars"
+		type=irregular
+		home=1195
+	}
+	regiment = {
+		name="4th Khujand Artillery"
+		type=artillery
+		home=1201
+	}
+	regiment = {
+		name="1st Bishkek Artillery"
+		type=artillery
+		home=1189
+	}
+	regiment = {
+		name="7th Samarkand Irregulars"
+		type=irregular
+		home=1199
+	}
+	regiment = {
+		name="5th Khujand Artillery"
+		type=artillery
+		home=1201
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1190
+	regiment = {
+		name="2nd Khujand Irregulars"
+		type=irregular
+		home=1201
+	}
+	regiment = {
+		name="6th Samarkand Irregulars"
+		type=irregular
+		home=1199
+	}
+	regiment = {
+		name="3rd Qarshi Irregulars"
+		type=irregular
+		home=1200
+	}
+	regiment = {
+		name="3rd Samarkand Artillery"
+		type=artillery
+		home=1199
+	}
+	regiment = {
+		name="2nd Bukhara Artillery"
+		type=artillery
+		home=1198
+	}
+	regiment = {
+		name="3rd Khujand Irregulars"
+		type=irregular
+		home=1201
+	}
+	regiment = {
+		name="2nd Qarshi Artillery"
+		type=artillery
+		home=1200
+	}
+}
+

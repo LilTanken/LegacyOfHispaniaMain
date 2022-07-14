@@ -1,0 +1,1272 @@
+336 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 418
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 1896
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 38
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 12319
+	}
+
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 194
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+}
+337 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 2300
+	}
+
+}
+338 = {
+	soldiers=
+	{
+		culture = dynamic-sapmi-swedish-culture-num1
+		religion = orthodox
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = dynamic-sapmi-swedish-culture-num1
+		religion = orthodox
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sapmi-swedish-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sapmi-swedish-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-sapmi-swedish-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sapmi-swedish-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = dynamic-sapmi-swedish-culture-num1
+		religion = orthodox
+		size= 2483
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 1861
+	}
+
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 2720
+	}
+
+	soldiers=
+	{
+		culture = sami
+		religion = orthodox
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sami
+		religion = orthodox
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = sami
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sami
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = orthodox
+		size= 934
+	}
+
+}
+339 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 464
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 805
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 20
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = orthodox
+		size= 22858
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 340
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 989
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 161
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 25
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 208
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 16140
+	}
+
+	soldiers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = catholic
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 4727
+	}
+
+}
+340 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 462
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 1898
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 27
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 114
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 13868
+	}
+
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 414
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 25
+	}
+
+}
+341 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 855
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 3598
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 386
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 72
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 25363
+	}
+
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 681
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 41
+	}
+
+}
+342 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 1118
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 4708
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 504
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 94
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 282
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 33186
+	}
+
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 891
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 53
+	}
+
+}
+343 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 3927
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 56
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 28614
+	}
+
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 856
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 51
+	}
+
+}
+344 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 1334
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 8676
+	}
+
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 254
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 26
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 249
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 22
+	}
+
+}
+345 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 10721
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 1149
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 214
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 123
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 1930
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 58308
+	}
+
+}
+346 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 9179
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 492
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 184
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 551
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 57520
+	}
+
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 937
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = catholic
+		size= 56
+	}
+
+}
+347 = {
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 625
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 2597
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 279
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 52
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = orthodox
+		size= 18582
+	}
+
+	soldiers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 531
+	}
+
+	clergymen=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-finnish-norse-culture-num1
+		religion = animist
+		size= 32
+	}
+
+}
+348 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = orthodox
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = orthodox
+		size= 251
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = orthodox
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = orthodox
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = orthodox
+		size= 2407
+	}
+
+}

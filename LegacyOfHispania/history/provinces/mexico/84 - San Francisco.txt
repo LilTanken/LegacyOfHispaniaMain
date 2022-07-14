@@ -1,0 +1,6 @@
+owner=SON
+controller=SON
+add_core=SON
+trade_goods = cattle
+life_rating = 35
+naval_base = 1

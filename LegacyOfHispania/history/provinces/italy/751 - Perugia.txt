@@ -1,0 +1,6 @@
+owner=NAP
+controller=NAP
+add_core=LGB
+add_core=NAP
+trade_goods = fruit
+life_rating = 35

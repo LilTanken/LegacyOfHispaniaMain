@@ -1,0 +1,109 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 673
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 481
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 3
+	}
+
+}

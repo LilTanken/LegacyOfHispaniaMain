@@ -1,0 +1,251 @@
+1189 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 4958
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 460
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 67
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 446
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 25267
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2452
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 3733
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 347
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 51
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 336
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 19679
+	}
+
+}
+1190 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2041
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 28
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 11992
+	}
+
+}
+1203 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 2619
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 3602
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 334
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 60
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 324
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 21471
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 106
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = shiite
+		size= 545
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = shiite
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = shiite
+		size= 9
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = shiite
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = shiite
+		size= 382
+	}
+
+}

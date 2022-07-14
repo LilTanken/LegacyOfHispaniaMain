@@ -1,0 +1,7 @@
+owner=MOD
+controller=MOD
+add_core=CRO
+add_core=MOD
+add_core=YUG
+trade_goods = grain
+life_rating = 35

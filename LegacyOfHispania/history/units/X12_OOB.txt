@@ -1,0 +1,1273 @@
+#Sphere of Influence
+
+ACH = {
+	value = 0
+	level = 2
+}
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALB = {
+	value = 0
+	level = 2
+}
+ALD = {
+	value = 0
+	level = 2
+}
+ANN = {
+	value = 0
+	level = 2
+}
+ARA = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -7
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ASM = {
+	value = 0
+	level = 2
+}
+AUK = {
+	value = 0
+	level = 2
+}
+AUM = {
+	value = 0
+	level = 2
+}
+AUO = {
+	value = 0
+	level = 2
+}
+AUP = {
+	value = 0
+	level = 2
+}
+AUW = {
+	value = 0
+	level = 2
+}
+AUY = {
+	value = 0
+	level = 2
+}
+AUZ = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAL = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BHU = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BNJ = {
+	value = 0
+	level = 2
+}
+BNY = {
+	value = 40
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+CAO = {
+	value = 0
+	level = 2
+}
+CAS = {
+	value = -6
+	level = 2
+}
+CCM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 95
+	influence_value = 11
+	level = 2
+}
+CRE = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+CUA = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+EPI = {
+	value = 170
+	influence_value = 30
+	level = 4
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FIJ = {
+	value = 0
+	level = 2
+}
+FIN = {
+	value = -7
+	level = 2
+}
+FLO = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = -8
+	level = 2
+}
+FRA = {
+	value = 176
+	influence_value = 31
+	level = 4
+}
+GEO = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HSI = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 21
+	level = 2
+}
+HUR = {
+	value = 0
+	level = 2
+}
+IME = {
+	value = 0
+	level = 2
+}
+ION = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+JIM = {
+	value = 0
+	level = 2
+}
+JNN = {
+	value = 0
+	level = 2
+}
+KAF = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KOK = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KRM = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+KWN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MBA = {
+	value = 0
+	level = 2
+}
+MCK = {
+	value = 0
+	level = 2
+}
+MDI = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -8
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+MKU = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNI = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOD = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 37
+	level = 2
+}
+NET = {
+	value = 153
+	influence_value = 25
+	level = 3
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NZA = {
+	value = 0
+	level = 2
+}
+NZK = {
+	value = 0
+	level = 2
+}
+NZM = {
+	value = 0
+	level = 2
+}
+NZN = {
+	value = 0
+	level = 2
+}
+NZR = {
+	value = 0
+	level = 2
+}
+NZT = {
+	value = 0
+	level = 2
+}
+OEO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -10
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = -37
+	level = 2
+}
+POT = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PSA = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -44
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SMB = {
+	value = 0
+	level = 2
+}
+SME = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SNZ = {
+	value = 0
+	level = 2
+}
+SON = {
+	value = -18
+	level = 2
+}
+SPA = {
+	value = -1
+	level = 2
+}
+SUD = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = -92
+	level = 2
+}
+SYC = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+TID = {
+	value = 0
+	level = 2
+}
+TIW = {
+	value = 0
+	level = 2
+}
+TOK = {
+	value = 0
+	level = 2
+}
+TPQ = {
+	value = 0
+	level = 2
+}
+TTE = {
+	value = 0
+	level = 2
+}
+TUA = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUS = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VRM = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 113
+	influence_value = 15
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X15 = {
+	value = 0
+	level = 2
+}
+X16 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X19 = {
+	value = 0
+	level = 2
+}
+X21 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X24 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X27 = {
+	value = 0
+	level = 2
+}
+X28 = {
+	value = 0
+	level = 2
+}
+X29 = {
+	value = 2
+	level = 2
+}
+X30 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X32 = {
+	value = 0
+	level = 2
+}
+X33 = {
+	value = 0
+	level = 2
+}
+X34 = {
+	value = 0
+	level = 2
+}
+X35 = {
+	value = 0
+	level = 2
+}
+X36 = {
+	value = 0
+	level = 2
+}
+X37 = {
+	value = 0
+	level = 2
+}
+X38 = {
+	value = 14
+	level = 2
+}
+X39 = {
+	value = 0
+	level = 2
+}
+X40 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X42 = {
+	value = 180
+	influence_value = 32
+	level = 4
+}
+X44 = {
+	value = 0
+	level = 2
+}
+X45 = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Amédée IX Karkaronymos"
+	date="1755.7.2"
+	type=land
+	personality="resolute"
+	background="cartographer"
+}
+
+leader = {
+	name="Drosuk Czornak"
+	date="1745.3.26"
+	type=sea
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Amédée Karkaronymos"
+	date="1764.7.6"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Burislav Smoler"
+	date="1755.7.3"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ryszard Muslik"
+	date="1755.7.9"
+	type=land
+	personality="audacious"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Jacenty Leska"
+	date="1755.7.10"
+	type=land
+	personality="efficient"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Tomasz Cyzh"
+	date="1755.7.12"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Andrzej z Friedenfelsa"
+	date="1760.1.3"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Budimir z Friedenfelsa"
+	date="1760.1.6"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Andrzej Miczka"
+	date="1760.1.9"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Boleslaw Cyzh"
+	date="1764.7.8"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Janusz Rizo"
+	date="1830.1.2"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="29th Army"
+	location=708
+	regiment = {
+		name="1st Weimar Infantry"
+		type=infantry
+		home=561
+	}
+	regiment = {
+		name="1st Görlitz Infantry"
+		type=infantry
+		home=687
+	}
+	regiment = {
+		name="1st Torun Artillery"
+		type=artillery
+		home=694
+	}
+	regiment = {
+		name="2nd Torun Artillery"
+		type=artillery
+		home=694
+	}
+	regiment = {
+		name="4th Torun Artillery"
+		type=artillery
+		home=694
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=546
+	ship = {
+		name="1st Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kolberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Stralsund Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Greifswald Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Danzig Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Greifswald Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Schwerin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kolberg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stralsund Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stettin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Danzig Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Schwerin Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=681
+	regiment = {
+		name="1st Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+	regiment = {
+		name="1st Prague Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="1st Hradec Králové Artillery"
+		type=artillery
+		home=626
+	}
+	regiment = {
+		name="1st Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="1st Berlin Infantry"
+		type=infantry
+		home=549
+	}
+}
+
+army = {
+	name="5th Army"
+	location=700
+	regiment = {
+		name="1st Leipzig Infantry"
+		type=infantry
+		home=559
+	}
+	regiment = {
+		name="1st Dessau Infantry"
+		type=infantry
+		home=555
+	}
+	regiment = {
+		name="1st Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="1st Torun Infantry"
+		type=infantry
+		home=694
+	}
+	regiment = {
+		name="1st Deutsch Krone Artillery"
+		type=artillery
+		home=692
+	}
+	regiment = {
+		name="1st Dessau Artillery"
+		type=artillery
+		home=555
+	}
+	regiment = {
+		name="2nd Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="8th Prague Infantry"
+		type=infantry
+		home=625
+	}
+}
+
+army = {
+	name="7th Army"
+	location=680
+	regiment = {
+		name="2nd Leipzig Infantry"
+		type=infantry
+		home=559
+	}
+	regiment = {
+		name="1st Köslin Infantry"
+		type=infantry
+		home=680
+	}
+	regiment = {
+		name="1st Hradec Králové Infantry"
+		type=infantry
+		home=626
+	}
+	regiment = {
+		name="1st Prenzlau Artillery"
+		type=artillery
+		home=550
+	}
+	regiment = {
+		name="1st Leipzig Artillery"
+		type=artillery
+		home=559
+	}
+	regiment = {
+		name="5th Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="3rd Posen Artillery"
+		type=artillery
+		home=699
+	}
+}
+
+army = {
+	name="16th Army"
+	location=692
+	regiment = {
+		name="2nd Prague Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="2nd Torun Infantry"
+		type=infantry
+		home=694
+	}
+	regiment = {
+		name="2nd Dessau Infantry"
+		type=infantry
+		home=555
+	}
+	regiment = {
+		name="3rd Dessau Infantry"
+		type=infantry
+		home=555
+	}
+	regiment = {
+		name="3rd Torun Infantry"
+		type=infantry
+		home=694
+	}
+	regiment = {
+		name="1st Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="2nd Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="3rd Torun Artillery"
+		type=artillery
+		home=694
+	}
+}
+
+army = {
+	name="13th Army"
+	location=692
+	regiment = {
+		name="1st Greifswald Infantry"
+		type=infantry
+		home=547
+	}
+	regiment = {
+		name="1st Plock Infantry"
+		type=infantry
+		home=708
+	}
+	regiment = {
+		name="3rd Prague Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="2nd Plock Infantry"
+		type=infantry
+		home=708
+	}
+	regiment = {
+		name="2nd Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="1st Kolberg Artillery"
+		type=artillery
+		home=679
+	}
+	regiment = {
+		name="1st Berlin Artillery"
+		type=artillery
+		home=549
+	}
+	regiment = {
+		name="2nd Dessau Artillery"
+		type=artillery
+		home=555
+	}
+}
+
+army = {
+	name="15th Army"
+	location=691
+	regiment = {
+		name="4th Dessau Infantry"
+		type=infantry
+		home=555
+	}
+	regiment = {
+		name="5th Torun Infantry"
+		type=infantry
+		home=694
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2707
+	ship = {
+		name="2nd Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Schwerin Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=691
+	regiment = {
+		name="1st Breslau Infantry"
+		type=infantry
+		home=682
+	}
+	regiment = {
+		name="3rd Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="4th Plock Infantry"
+		type=infantry
+		home=708
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=546
+	ship = {
+		name="4th Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Danzig Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stettin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Greifswald Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Köslin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stettin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Greifswald Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Liberation Army"
+	location=621
+	regiment = {
+		name="4th Prague Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="7th Prague Infantry"
+		type=infantry
+		home=625
+	}
+}
+
+army = {
+	name="1st Army"
+	location=552
+	regiment = {
+		name="5th Prague Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="4th Torun Infantry"
+		type=infantry
+		home=694
+	}
+	regiment = {
+		name="6th Prague Infantry"
+		type=infantry
+		home=625
+	}
+	regiment = {
+		name="3rd Plock Infantry"
+		type=infantry
+		home=708
+	}
+	regiment = {
+		name="4th Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="1st Elbing Artillery"
+		type=artillery
+		home=693
+	}
+	regiment = {
+		name="1st Plock Artillery"
+		type=artillery
+		home=708
+	}
+	regiment = {
+		name="2nd Deutsch Krone Artillery"
+		type=artillery
+		home=692
+	}
+}
+

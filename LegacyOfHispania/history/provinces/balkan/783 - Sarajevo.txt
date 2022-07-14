@@ -1,0 +1,7 @@
+owner=X42
+controller=X42
+add_core=SER
+add_core=X42
+add_core=YUG
+trade_goods = fruit
+life_rating = 35

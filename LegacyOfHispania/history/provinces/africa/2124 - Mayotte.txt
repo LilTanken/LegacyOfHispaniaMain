@@ -1,0 +1,5 @@
+owner=NOR
+controller=REB
+trade_goods = grain
+life_rating = 30
+terrain = small_island

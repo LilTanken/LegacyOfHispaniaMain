@@ -1,0 +1,9 @@
+owner=LOT
+controller=LOT
+add_core=DEN
+add_core=LOT
+add_core=SCA
+add_core=SWE
+trade_goods = cattle
+life_rating = 35
+naval_base = 1

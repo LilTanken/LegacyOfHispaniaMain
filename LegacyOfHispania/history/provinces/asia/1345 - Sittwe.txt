@@ -1,0 +1,7 @@
+owner=BNG
+controller=BNG
+add_core=AVA
+add_core=BNG
+trade_goods = grain
+life_rating = 35
+naval_base = 2

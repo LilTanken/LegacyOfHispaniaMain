@@ -1,0 +1,277 @@
+2123 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 89
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 4258
+	}
+
+	officers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 113
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 153
+	}
+
+	soldiers=
+	{
+		culture = svart
+		religion = catholic
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = catholic
+		size= 399
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = catholic
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = catholic
+		size= 6844
+	}
+
+}
+2124 = {
+	slaves=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 79
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 185
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = catholic
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 136
+	}
+
+	soldiers=
+	{
+		culture = svart
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = catholic
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = catholic
+		size= 287
+	}
+
+}
