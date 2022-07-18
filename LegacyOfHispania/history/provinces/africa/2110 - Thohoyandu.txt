@@ -1,6 +1,6 @@
-owner=ZUL
-controller=ZUL
-add_core=ZUL
+owner=SWA
+controller=SWA
+add_core=SWA
 trade_goods = wool
 life_rating = 15
 terrain = mountain

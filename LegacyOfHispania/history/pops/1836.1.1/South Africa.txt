@@ -2144,28 +2144,14 @@
 	{
 		culture = zulu
 		religion = shamanism
-		size= 1
+		size= 1230
 	}
 
 	farmers=
 	{
 		culture = zulu
 		religion = shamanism
-		size= 4560
-	}
-
-	artisans=
-	{
-		culture = anglo_african
-		religion = protestant
-		size= 1229
-	}
-
-	farmers=
-	{
-		culture = anglo_african
-		religion = protestant
-		size= 10292
+		size= 15852
 	}
 
 	slaves=
@@ -2177,35 +2163,35 @@
 
 	clergymen=
 	{
-		culture = anglo_african
-		religion = protestant
+		culture = zulu
+		religion = shamanism
 		size= 114
 	}
 
 	aristocrats=
 	{
-		culture = anglo_african
-		religion = protestant
+		culture = zulu
+		religion = shamanism
 		size= 73
 	}
 
 	officers=
 	{
-		culture = anglo_african
-		religion = protestant
+		culture = zulu
+		religion = shamanism
 		size= 7
 	}
 
 	soldiers=
 	{
-		culture = anglo_african
-		religion = protestant
-		size= 125
+		culture = zulu
+		religion = shamanism
+		size= 425
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_african
+		culture = zulu
 		religion = protestant
 		size= 4
 	}
@@ -2215,55 +2201,6 @@
 		culture = afro_caribbean
 		religion = shamanism
 		size= 416
-	}
-
-	soldiers=
-	{
-		culture = anglo_african
-		religion = shamanism
-		size= 57
-	}
-
-	artisans=
-	{
-		culture = anglo_african
-		religion = shamanism
-		size= 2029
-	}
-
-	clergymen=
-	{
-		culture = anglo_african
-		religion = shamanism
-		size= 188
-	}
-
-	bureaucrats=
-	{
-		culture = anglo_african
-		religion = shamanism
-		size= 7
-	}
-
-	officers=
-	{
-		culture = anglo_african
-		religion = shamanism
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = anglo_african
-		religion = shamanism
-		size= 122
-	}
-
-	farmers=
-	{
-		culture = anglo_african
-		religion = shamanism
-		size= 2873
 	}
 
 }
@@ -2291,43 +2228,43 @@
 
 	farmers=
 	{
-		culture = anglo_african
-		religion = protestant
+		culture = zulu
+		religion = shamanism
 		size= 2421
 	}
 
 	artisans=
 	{
-		culture = anglo_african
-		religion = protestant
+		culture = zulu
+		religion = shamanism
 		size= 682
 	}
 
 	clergymen=
 	{
-		culture = anglo_african
-		religion = protestant
+		culture = zulu
+		religion = shamanism
 		size= 63
 	}
 
 	aristocrats=
 	{
-		culture = anglo_african
-		religion = protestant
+		culture = zulu
+		religion = shamanism
 		size= 81
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_african
-		religion = protestant
+		culture = zulu
+		religion = shamanism
 		size= 9
 	}
 
 	officers=
 	{
-		culture = anglo_african
-		religion = protestant
+		culture = zulu
+		religion = shamanism
 		size= 6
 	}
 
@@ -2396,8 +2333,8 @@
 
 	farmers=
 	{
-		culture = anglo_african
-		religion = catholic
+		culture = zulu
+		religion = shamanism
 		size= 14785
 	}
 
@@ -2405,56 +2342,56 @@
 2113 = {
 	slaves=
 	{
-		culture = nguni
+		culture = zulu
 		religion = shamanism
 		size= 1423
 	}
 
 	soldiers=
 	{
-		culture = nguni
+		culture = zulu
 		religion = shamanism
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = nguni
+		culture = zulu
 		religion = shamanism
 		size= 14805
 	}
 
 	clergymen=
 	{
-		culture = nguni
+		culture = zulu
 		religion = shamanism
 		size= 1375
 	}
 
 	bureaucrats=
 	{
-		culture = nguni
+		culture = zulu
 		religion = shamanism
 		size= 53
 	}
 
 	officers=
 	{
-		culture = nguni
+		culture = zulu
 		religion = shamanism
 		size= 169
 	}
 
 	aristocrats=
 	{
-		culture = nguni
+		culture = zulu
 		religion = shamanism
 		size= 888
 	}
 
 	farmers=
 	{
-		culture = nguni
+		culture = zulu
 		religion = shamanism
 		size= 82906
 	}

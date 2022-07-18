@@ -694,32 +694,18 @@
 
 }
 2476 = {
-	soldiers=
-	{
-		culture = aborigine
-		religion = animist
-		size= 5
-	}
-
-	farmers=
-	{
-		culture = aborigine
-		religion = animist
-		size= 995
-	}
-
 	farmers=
 	{
 		culture = australian
 		religion = protestant
-		size= 913
+		size= 5114
 	}
 
 	artisans=
 	{
 		culture = australian
 		religion = protestant
-		size= 124
+		size= 174
 	}
 
 	aristocrats=
@@ -740,21 +726,21 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 6
+		size= 21
 	}
 
 	soldiers=
 	{
 		culture = australian
 		religion = protestant
-		size= 1033
+		size= 3033
 	}
 
 	officers=
 	{
 		culture = australian
 		religion = protestant
-		size= 2
+		size= 7
 	}
 
 }
@@ -777,7 +763,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 318
+		size= 518
 	}
 
 	artisans=
@@ -812,7 +798,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1033
+		size= 2051
 	}
 
 	clergymen=
@@ -1058,28 +1044,28 @@
 2482 = {
 	bureaucrats=
 	{
-		culture = british
+		culture = australian
 		religion = protestant
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = british
+		culture = australian
 		religion = protestant
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = british
+		culture = australian
 		religion = protestant
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = british
+		culture = australian
 		religion = protestant
 		size= 8675
 	}
@@ -2657,7 +2643,7 @@
 
 	farmers=
 	{
-		culture = british
+		culture = australian
 		religion = protestant
 		size= 235
 	}

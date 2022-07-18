@@ -1,6 +1,6 @@
 capital = 139
 primary_culture = mexican
-culture = central_algonquian
+culture = americano
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy

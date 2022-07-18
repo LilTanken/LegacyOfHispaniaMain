@@ -1,5 +1,6 @@
 owner=CAS
-controller=REB
+controller=CAS
 add_core=CAS
+add_core=CAN
 trade_goods = grain
 life_rating = 31

@@ -1,8 +1,5 @@
 capital = 184
-primary_culture = dummy
-culture = americano
-culture = central_algonquian
-culture = siouan
+primary_culture = americano
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy

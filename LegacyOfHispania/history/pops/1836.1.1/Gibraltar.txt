@@ -1,50 +1,50 @@
 517 = {
 	soldiers=
 	{
-		culture = catalan
-		religion = catholic
+		culture = british
+		religion = protestant
 		size= 80
 	}
 
 	artisans=
 	{
-		culture = catalan
-		religion = catholic
+		culture = british
+		religion = protestant
 		size= 167
 	}
 
 	clergymen=
 	{
-		culture = catalan
-		religion = catholic
+		culture = british
+		religion = protestant
 		size= 52
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
-		religion = catholic
+		culture = british
+		religion = protestant
 		size= 4
 	}
 
 	officers=
 	{
-		culture = catalan
-		religion = catholic
+		culture = british
+		religion = protestant
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = catalan
-		religion = catholic
+		culture = british
+		religion = protestant
 		size= 34
 	}
 
 	farmers=
 	{
-		culture = catalan
-		religion = catholic
+		culture = british
+		religion = protestant
 		size= 3281
 	}
 

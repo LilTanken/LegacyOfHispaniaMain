@@ -1,5 +1,5 @@
-owner=NEW
-controller=REB
-add_core=NEW
+owner=ENG
+controller=ENG
+add_core=CAN
 trade_goods = coal
 life_rating = 31
