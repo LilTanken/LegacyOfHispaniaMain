@@ -3,21 +3,21 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 7678
+		size= 3646
 	}
 
 	soldiers=
 	{
 		culture = polynesian
 		religion = animist
-		size= 1298
+		size= 814
 	}
 
 	farmers=
 	{
 		culture = polynesian
 		religion = animist
-		size= 120337
+		size= 7523
 	}
 
 	slaves=
@@ -166,14 +166,14 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 58
+		size= 18
 	}
 
 	farmers=
 	{
 		culture = polynesian
 		religion = animist
-		size= 5766
+		size= 504
 	}
 
 	farmers=
@@ -229,28 +229,28 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 12
+		size= 5
 	}
 
 	clergymen=
 	{
 		culture = polynesian
 		religion = animist
-		size= 4
+		size= 2
 	}
 
 	aristocrats=
 	{
 		culture = polynesian
 		religion = animist
-		size= 3
+		size= 1
 	}
 
 	artisans=
 	{
 		culture = polynesian
 		religion = shinto
-		size= 13
+		size= 10
 	}
 
 	clergymen=
@@ -287,7 +287,7 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 14373
+		size= 14973
 	}
 
 	slaves=
@@ -436,21 +436,21 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 1411
+		size= 491
 	}
 
 	farmers=
 	{
 		culture = polynesian
 		religion = animist
-		size= 139231
+		size= 9308
 	}
 
 	soldiers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 2138
+		size= 3138
 	}
 
 	farmers=
@@ -499,21 +499,21 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 296
+		size= 153
 	}
 
 	clergymen=
 	{
 		culture = polynesian
 		religion = animist
-		size= 96
+		size= 44
 	}
 
 	bureaucrats=
 	{
 		culture = polynesian
 		religion = animist
-		size= 7
+		size= 3
 	}
 
 	officers=
@@ -527,7 +527,7 @@
 	{
 		culture = polynesian
 		religion = animist
-		size= 62
+		size= 52
 	}
 
 	soldiers=

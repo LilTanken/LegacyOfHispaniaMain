@@ -5203,9 +5203,9 @@ southeast_asian = {
 	filipino = {
 		color = { 200 220 30 }
 		
-		first_names = { "Emilio" "Apolinario" "Andrés" "José" "Hermano" "Jacinto" "Mariano" "Deodato" "Ladislao" "Teodoro" "Valentíne" "Antonio" "León" "Simeón" "Arcadio" "Artemio" "Manuel" }
+		first_names = { "Ryota" "Ulan" "Luntian" "Osamu" "Tadao" "Hideo" "Oda" "Kame" "Bagwis" "Eiji" "Katsuo" "Melchor" "Alon" "Alab" "Koji" "Datu" "Dakila" }
 		
-		last_names = { "Aguainaldo" "Mabini" "Bonifacio" "Jacinto" "Rizal" "Díaz" "Plata" "Diwa" "Arellano" }
+		last_names = { "Murakami" "Mabini" "Abe" "Inaba" "Rizal" "Furuta" "Goto" "Diwa" "Nakatani" }
 		
 	}
 	javan = {

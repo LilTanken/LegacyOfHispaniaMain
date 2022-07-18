@@ -1,6 +1,5 @@
 owner=SON
 controller=SON
 add_core=SON
-add_core=YKT
-trade_goods = fruit
+trade_goods = timber
 life_rating = 35

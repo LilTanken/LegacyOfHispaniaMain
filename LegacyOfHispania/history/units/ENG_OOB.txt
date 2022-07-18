@@ -848,6 +848,14 @@ leader = {
 	background="natural_born_leader"
 }
 
+leader = {
+	name="Roman Carleton"
+	date="1767.9.8"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
 
 #Armies
 navy = {
@@ -2317,6 +2325,41 @@ army = {
 		name="8th Birmingham Infantry"
 		type=infantry
 		home=284
+	}
+}
+
+army = {
+	name="Australian Army"
+	location=2491
+	regiment = {
+		name="1st Sydney Infantry"
+		type=infantry
+		home=2468
+	}
+	regiment = {
+		name="Australian Light Horse"
+		type=cavalry
+		home=2484
+	}
+	regiment = {
+		name="1st Perth Artillery"
+		type=artillery
+		home=2497
+	}
+	regiment = {
+		name="1st Newcastle Infantry"
+		type=infantry
+		home=2469
+	}
+	regiment = {
+		name="1st Sydney Cavalry"
+		type=cavalry
+		home=2468
+	}
+	regiment = {
+		name="1st Eden Artillery"
+		type=artillery
+		home=2472
 	}
 }
 

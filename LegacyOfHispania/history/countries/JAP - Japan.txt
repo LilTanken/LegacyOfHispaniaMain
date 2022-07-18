@@ -1,6 +1,5 @@
 capital = 1657
 primary_culture = japanese
-culture = korean
 culture = zzz_religion_shinto
 religion = shinto
 government = absolute_monarchy

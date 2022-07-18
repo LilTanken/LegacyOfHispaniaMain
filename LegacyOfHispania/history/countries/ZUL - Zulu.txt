@@ -1,5 +1,5 @@
 capital = 2113
-primary_culture = nguni
+primary_culture = zulu
 culture = zzz_religion_shamanism
 religion = shamanism
 government = democracy
