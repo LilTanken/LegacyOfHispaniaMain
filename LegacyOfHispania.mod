@@ -1,4 +1,4 @@
-name = "Converted - LegacyOfHispania"
+name = "Legacy Of Hispania"
 path = "mod/LegacyOfHispania"
 user_dir = "LegacyOfHispania"
 replace = "history/provinces"

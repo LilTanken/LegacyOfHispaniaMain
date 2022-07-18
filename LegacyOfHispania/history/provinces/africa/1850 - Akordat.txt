@@ -3,6 +3,6 @@ controller=SUD
 add_core=SUD
 add_core=X00
 trade_goods = fruit
-life_rating = 32
+life_rating = 28
 terrain = semidesert
 fort = 1

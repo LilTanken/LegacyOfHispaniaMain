@@ -3071,7 +3071,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 1454
+		size= 2454
 	}
 
 	clergymen=
@@ -3297,7 +3297,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 884
+		size= 1884
 	}
 
 	farmers=
