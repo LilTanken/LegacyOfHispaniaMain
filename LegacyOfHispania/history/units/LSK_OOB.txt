@@ -720,46 +720,5 @@ ZUL = {
 }
 
 #Leaders
-leader = {
-	name="Yoshimochi Hosokawa"
-	date="1737.1.11"
-	type=sea
-	personality="balanced_p"
-	background="generals_aide"
-}
-
-leader = {
-	name="Hidehito Sanada"
-	date="1755.10.6"
-	type=sea
-	personality="stalwart"
-	background="uncommonly_young"
-}
-
-leader = {
-	name="Teruhito Satake"
-	date="1756.2.3"
-	type=land
-	personality="active_p"
-	background="engineer"
-}
-
 
 #Armies
-navy = {
-	name="5th Fleet"
-	location=2
-	ship = {
-		name="1st Unalaska Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Unalakleet Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Unalakleet Clipper Transport"
-		type=clipper_transport
-	}
-}
-

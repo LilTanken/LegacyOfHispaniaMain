@@ -1,5 +1,6 @@
-owner=OEO
-controller=NEW
+owner=ENG
+controller=ENG
 add_core=OEO
+add_core=CAN
 trade_goods = cattle
 life_rating = 31

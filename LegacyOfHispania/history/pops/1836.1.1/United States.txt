@@ -15,35 +15,35 @@
 
 	artisans=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 315
 	}
 
 	soldiers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 39
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 1558
 	}
@@ -64,14 +64,14 @@
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 4
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 1
 	}
@@ -87,35 +87,35 @@
 
 	artisans=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 130
 	}
 
 	soldiers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 17
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 645
 	}
@@ -136,14 +136,14 @@
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 1
 	}
 
 	officers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 1
 	}
@@ -166,42 +166,42 @@
 
 	farmers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 376
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 75
 	}
 
 	soldiers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 4
 	}
@@ -224,42 +224,42 @@
 
 	farmers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 307
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 16
 	}
 
 	soldiers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 7
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 2
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 3
 	}
@@ -282,42 +282,42 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 22
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 446
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 1
 	}
@@ -6682,49 +6682,49 @@
 
 	soldiers=
 	{
-		culture = muskogean
+		culture = americano
 		religion = catholic
-		size= 1033
+		size= 5033
 	}
 
 	artisans=
 	{
-		culture = muskogean
+		culture = americano
 		religion = catholic
 		size= 2866
 	}
 
 	clergymen=
 	{
-		culture = muskogean
+		culture = americano
 		religion = catholic
 		size= 214
 	}
 
 	bureaucrats=
 	{
-		culture = muskogean
+		culture = americano
 		religion = catholic
 		size= 46
 	}
 
 	officers=
 	{
-		culture = muskogean
+		culture = americano
 		religion = catholic
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = muskogean
+		culture = americano
 		religion = catholic
 		size= 276
 	}
 
 	farmers=
 	{
-		culture = muskogean
+		culture = americano
 		religion = catholic
 		size= 13814
 	}
@@ -6994,49 +6994,49 @@
 
 	soldiers=
 	{
-		culture = caddoan
+		culture = americano
 		religion = catholic
-		size= 154
+		size= 454
 	}
 
 	artisans=
 	{
-		culture = caddoan
+		culture = americano
 		religion = catholic
 		size= 330
 	}
 
 	clergymen=
 	{
-		culture = caddoan
+		culture = americano
 		religion = catholic
 		size= 54
 	}
 
 	bureaucrats=
 	{
-		culture = caddoan
+		culture = americano
 		religion = catholic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = caddoan
+		culture = americano
 		religion = catholic
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = caddoan
+		culture = americano
 		religion = catholic
 		size= 69
 	}
 
 	farmers=
 	{
-		culture = caddoan
+		culture = americano
 		religion = catholic
 		size= 2706
 	}
@@ -11951,49 +11951,49 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 398
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 1756
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 285
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 105
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 57
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 369
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 36788
 	}
@@ -12051,49 +12051,49 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 207
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 911
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 148
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 32
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 191
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 19227
 	}
@@ -12244,7 +12244,7 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 111
+		size= 211
 	}
 
 	farmers=
@@ -12347,49 +12347,49 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
-		size= 601
+		size= 701
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 2641
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 429
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 66
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 86
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 555
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 53284
 	}
@@ -12449,7 +12449,7 @@
 	{
 		culture = iroquoian
 		religion = totemism
-		size= 1
+		size= 14
 	}
 
 	artisans=
@@ -12510,7 +12510,7 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 325
 	}
@@ -12538,21 +12538,21 @@
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 46
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 29299
 	}
@@ -12575,8 +12575,8 @@
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 4106
 	}
 
@@ -12652,8 +12652,8 @@
 
 	officers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 3
 	}
 
@@ -12666,49 +12666,49 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 325
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 1427
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 232
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 36
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 46
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 20985
 	}
@@ -12843,49 +12843,49 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = americano
 		religion = catholic
 		size= 299
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = americano
 		religion = catholic
 		size= 1344
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = americano
 		religion = catholic
 		size= 218
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = americano
 		religion = catholic
 		size= 34
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = americano
 		religion = catholic
 		size= 44
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = americano
 		religion = catholic
 		size= 282
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = americano
 		religion = catholic
 		size= 18818
 	}
@@ -12957,14 +12957,14 @@
 
 	soldiers=
 	{
-		culture = siouan
+		culture = americano
 		religion = catholic
 		size= 222
 	}
 
 	artisans=
 	{
-		culture = siouan
+		culture = americano
 		religion = catholic
 		size= 974
 	}
@@ -12985,14 +12985,14 @@
 
 	officers=
 	{
-		culture = siouan
+		culture = americano
 		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = siouan
+		culture = americano
 		religion = catholic
 		size= 205
 	}
@@ -18899,49 +18899,49 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 96
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 1488
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 69
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 11
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 179
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = americano
 		religion = catholic
 		size= 7210
 	}
@@ -23712,49 +23712,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = vinlander
 		religion = protestant
 		size= 2218
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = vinlander
 		religion = protestant
 		size= 6989
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = vinlander
 		religion = protestant
 		size= 375
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = vinlander
 		religion = protestant
 		size= 119
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = vinlander
 		religion = protestant
 		size= 79
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = vinlander
 		religion = protestant
 		size= 419
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = vinlander
 		religion = protestant
 		size= 29532
 	}
@@ -23777,98 +23777,98 @@
 
 	farmers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = catholic
 		size= 33823
 	}
 
 	artisans=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = catholic
 		size= 1701
 	}
 
 	clergymen=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = catholic
 		size= 276
 	}
 
 	aristocrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = catholic
 		size= 356
 	}
 
 	bureaucrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = catholic
 		size= 84
 	}
 
 	soldiers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = protestant
 		size= 40
 	}
 
 	artisans=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = protestant
 		size= 65
 	}
 
 	clergymen=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = protestant
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = protestant
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = protestant
 		size= 1877
 	}
 
 	soldiers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = catholic
 		size= 736
 	}
 
 	officers=
 	{
-		culture = nyasverigian
+		culture = vinlander
 		religion = catholic
 		size= 54
 	}
@@ -24683,42 +24683,42 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 8
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 18
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 366
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 1
 	}
@@ -24890,35 +24890,35 @@
 
 	farmers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 266
 	}
 
 	soldiers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 6
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 13
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 3
 	}
@@ -24941,42 +24941,42 @@
 
 	soldiers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 27
 	}
 
 	clergymen=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 555
 	}
 
 	bureaucrats=
 	{
-		culture = dongren
+		culture = japanese
 		religion = shinto
 		size= 1
 	}

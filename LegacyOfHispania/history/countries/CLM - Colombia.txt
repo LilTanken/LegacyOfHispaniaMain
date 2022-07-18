@@ -1,6 +1,5 @@
 capital = 2247
 primary_culture = mexican
-culture = chibchan
 culture = guajiro
 culture = platinean
 culture = zzz_religion_catholic

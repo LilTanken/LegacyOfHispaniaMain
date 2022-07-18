@@ -1,5 +1,5 @@
 owner=SON
-controller=REB
+controller=SON
 add_core=SON
 add_core=YKT
 trade_goods = fruit

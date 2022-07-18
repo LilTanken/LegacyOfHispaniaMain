@@ -1,5 +1,5 @@
 owner=USA
-controller=REB
+controller=USA
 add_core=MHC
 add_core=USA
 trade_goods = iron

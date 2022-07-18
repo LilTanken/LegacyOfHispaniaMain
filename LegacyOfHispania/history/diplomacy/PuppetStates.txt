@@ -8,30 +8,6 @@ vassal=
 
 vassal=
 {
-	first="ENG"
-	second="NEW"
-	start_date="1534.8.14"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="ENG"
-	second="X44"
-	start_date="1556.1.7"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="JAP"
-	second="LSK"
-	start_date="1588.6.25"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
 	first="JAP"
 	second="MNX"
 	start_date="1656.9.23"

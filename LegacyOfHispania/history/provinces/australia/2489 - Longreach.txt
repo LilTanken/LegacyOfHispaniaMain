@@ -1,6 +1,6 @@
-owner=X44
-controller=X44
-add_core=X44
+owner=ENG
+controller=ENG
+add_core=AST
 trade_goods = cattle
 life_rating = 20
 terrain = savanna

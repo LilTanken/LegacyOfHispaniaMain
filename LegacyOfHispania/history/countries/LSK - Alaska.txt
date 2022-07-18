@@ -1,5 +1,5 @@
 capital = 1
-primary_culture = dongren
+primary_culture = japanese
 culture = zzz_religion_shinto
 religion = shinto
 government = presidential_dictatorship

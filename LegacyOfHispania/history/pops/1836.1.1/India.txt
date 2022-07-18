@@ -13365,84 +13365,84 @@
 1320 = {
 	soldiers=
 	{
-		culture = filipino
+		culture = dynamic-burmese-culture-num1
 		religion = animist
 		size= 26
 	}
 
 	artisans=
 	{
-		culture = filipino
+		culture = dynamic-burmese-culture-num1
 		religion = animist
 		size= 12
 	}
 
 	clergymen=
 	{
-		culture = filipino
+		culture = dynamic-burmese-culture-num1
 		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = filipino
+		culture = dynamic-burmese-culture-num1
 		religion = animist
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = filipino
+		culture = dynamic-burmese-culture-num1
 		religion = animist
 		size= 1283
 	}
 
 	artisans=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 460
 	}
 
 	clergymen=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 42
 	}
 
 	aristocrats=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 28
 	}
 
 	bureaucrats=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 6
 	}
 
 	soldiers=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 41
 	}
 
 	officers=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 1544
 	}

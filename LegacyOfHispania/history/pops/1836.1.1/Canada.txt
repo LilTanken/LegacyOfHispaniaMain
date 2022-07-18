@@ -110,49 +110,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 38
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 781
 	}
@@ -326,8 +326,8 @@
 
 	farmers=
 	{
-		culture = americano
-		religion = catholic
+		culture = anglo_canadian
+		religion = protestant
 		size= 332
 	}
 
@@ -698,42 +698,42 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 334
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 74
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 8
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
@@ -784,42 +784,42 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 32
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 564
 	}
@@ -1238,49 +1238,49 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1878
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 151
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 63
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 24
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 171
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 7
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}
@@ -1317,49 +1317,49 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 698
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 89
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 16
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 8
 	}
@@ -1617,49 +1617,49 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 567
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 230
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 13
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 74
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
@@ -1689,49 +1689,49 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 460
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 136
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 44
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
@@ -1768,49 +1768,49 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1034
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 138
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 10
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
@@ -2012,35 +2012,35 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 438
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 194
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 13
 	}
@@ -2068,7 +2068,7 @@
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
@@ -2119,49 +2119,49 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 489
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 270
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 16
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 32
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
@@ -2612,49 +2612,49 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 606
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 31
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 13
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
@@ -2770,49 +2770,49 @@
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 480
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 267
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 16
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 32
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
@@ -3224,49 +3224,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 620
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 5172
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 240
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 37
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 621
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 24292
 	}
@@ -3466,42 +3466,42 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 9
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 71
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 371
 	}
@@ -3750,49 +3750,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 59
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 476
 	}
@@ -3871,49 +3871,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 92
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 399
 	}
@@ -4048,49 +4048,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 78
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 239
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1045
 	}
@@ -4197,49 +4197,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 122
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 545
 	}
@@ -4374,49 +4374,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 368
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1097
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 51
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 8
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 66
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4964
 	}
@@ -4523,49 +4523,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 699
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2084
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 97
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 15
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 9433
 	}
@@ -4672,49 +4672,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 399
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1246
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 58
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 9
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 149
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 5254
 	}
@@ -4821,49 +4821,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 81
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 240
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1103
 	}
@@ -5075,49 +5075,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 418
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3343
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 155
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 48
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 201
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 16727
 	}
@@ -5168,42 +5168,42 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 132
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 672
 	}
@@ -5261,49 +5261,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 42
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 332
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 20
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1677
 	}
@@ -6015,98 +6015,98 @@
 
 	farmers=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 2693
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 135
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 29
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 22
 	}
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 58
 	}
 
 	bureaucrats=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1473
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 74
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 15
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 32
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
@@ -6185,147 +6185,147 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 301
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2318
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 108
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 33
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 139
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 12119
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 6436
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 1300
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 60
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 77
 	}
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = protestant
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = protestant
 		size= 92
 	}
 
 	clergymen=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = protestant
 		size= 508
 	}
 
 	soldiers=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 159
 	}
 
 	bureaucrats=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = vinlander
+		culture = anglo_canadian
 		religion = catholic
 		size= 7
 	}
@@ -6418,49 +6418,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 114
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 988
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 46
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 14
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 59
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4497
 	}
@@ -6704,49 +6704,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 377
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 306
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 49
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 15
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 128
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 5889
 	}
@@ -6925,98 +6925,98 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 113
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 615
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 237
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1829
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 85
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 31
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 110
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 9526
 	}
@@ -7067,84 +7067,84 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 40
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 174
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 98
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 749
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 35
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 13
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 45
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3940
 	}
@@ -7202,49 +7202,49 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 33
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 685
 	}
@@ -7267,49 +7267,49 @@
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = catholic
 		size= 4
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 13
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 67
 	}
@@ -7497,42 +7497,42 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 16
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 325
 	}
@@ -7657,42 +7657,42 @@
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 97
 	}
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 11
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 453
 	}
@@ -7787,42 +7787,42 @@
 
 	soldiers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 33
 	}
 
 	clergymen=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = yankee
+		culture = anglo_canadian
 		religion = protestant
 		size= 678
 	}

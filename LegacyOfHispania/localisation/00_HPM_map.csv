@@ -154,15 +154,15 @@ PROV1196;Gurgench;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV686;Merv;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 BUR_1334;Mandalay;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2623;Midway and Wake Islands;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2524;Kirikiriroa;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV2524;Hamilton;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV579;Neuwied;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV574;Koblenz;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV547;Greifswald;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV57;Bytown;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2036;Mzizima;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2681;Taipei;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV2681;Taihoku;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV1485;Tainan;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2562;Taitung;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV2562;Taichu;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV1743;Nordhorn;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV1738;Al Jaghbub;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2585;Al Jawf;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -208,7 +208,7 @@ savanna;Savanna;;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1377;Da Nang;;;;;;;;;;;;;;;;;;x;;;;
 PROV1720;Bechar;;;;;;;;;;;;;;;;;;x;;;;
 PROV1714;Santa Rosa;;;;;;;;;;;;;;;;;;x;;;;
-PROV2631;Unalakleet;;;;;;;;;;;;;;;;;;x;;;;
+PROV2631;Kitataku;;;;;;;;;;;;;;;;;;x;;;;
 PROV1780;Debar;;;;;;;;;;;;;;;;;;x;;;;
 PROV2371;Uquia;;;;;;;;;;;;;;;;;;x;;;;
 PROV2953;New York Bight;;;;;;;;;;;;;;;;;;x;;;;
@@ -228,7 +228,7 @@ PROV1557;Xining;;;;;;;;;;;;;;;;;x;;;;
 PROV2329;Araucanía;;;;;;;;;;;;;;;;;x;;;;
 PROV2326;Aconcagua;;;;;;;;;;;;;;;;;x;;;;
 PROV2244;Christimas & Cocos;;;;;;;;;;;;;;;;;x;;;;
-PROV2406;Penghu;;;;;;;;;;;;;;;;;x;;;;
+PROV2406;Hoko;;;;;;;;;;;;;;;;;x;;;;
 PROV2113;uMgungundlovu;;;;;;;;;;;;;;;;;x;;;;
 PROV2110;Tsaneng;;;;;;;;;;;;;;;;;x;;;;
 PROV2058;Moyo;;;;;;;;;;;;;;;;;x;;;;
@@ -247,7 +247,7 @@ PROV1788;Kahone;;;;;;;;;;;;;;;;;x;;;;
 PROV1540;Nantong;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2526;Palmyra and Line Islands;;;;;;;;;;;;;;;;;;;;;;;x
 TIB_1591;Tibetan Plateau;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2482;Van Diemen's Land;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2482;Tasmania;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2382;Laboulaye;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2640;Gwadar;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1071;Qeshm;;;;;;;;;;;;;;;;;;;;;;;x
@@ -378,19 +378,19 @@ NEJ_1156;Ha'il;;;;;;;;;;;;;;;;;;;x;
 PROV396;Eupen-Malmedy;;;;;;;;;;;;;;;;;x;;;;;;
 PROV1445;Koepang;;;;;;;;;;;;;;;;;x;;;;;;
 PROV1448;Ternate;;;;;;;;;;;;;;;;;x;;;;;;
-KOR_1624;Hanseong;;;;;;;;;;;;;;;;;x;;;;;;
+KOR_1624;Keijo;;;;;;;;;;;;;;;;;x;;;;;;
 PROV3101;Lake Chad;;;;;;;;;;;;;;;;;x;;;;;;
 PROV3102;Ukerewe;;;;;;;;;;;;;x;;;;;;
 PROV1845;Bahr el Ghazal;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2070;Umtali;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2581;Chiconono;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2516;Whakatu;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2515;Otautahi;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2513;Otepoti;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2512;Te Upoko-o-te-Ika;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2511;Ahuriri;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV2510;Ngamotu;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV1624;Hanseong;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2516;Marlborough;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2515;Christchurch;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2513;Dunedin;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2512;Wellington;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2511;Napier;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV2510;New Plymouth;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+PROV1624;Keijo;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2086;Aixa-aibes;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2079;Otjozondjii;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2078;Otjomuise;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -535,7 +535,7 @@ CHI_1470;South Anhui;;;;;;;;;;;;x
 CHI_1477;North Anhui;;;;;;;;;;;;x
 CHI_1479;Fengtian;;;;;;;;;;;;x
 CHI_1482;Fujian;;;;;;;;;;;;x
-CHI_1485;Formosa;;;;;;;;;;;;x
+CHI_1485;Taiwan;;;;;;;;;;;;x
 CHI_1490;Gansu;;;;;;;;;;;;x
 CHI_1493;East Canton;;;;;;;;;;;;x
 CHI_1496;Hong Kong;;;;;;;;;;;;x
@@ -640,11 +640,11 @@ MEX_2172;México;;;;;;;;;;;;x
 MEX_2181;Chiapas;;;;;;;;;;;;x
 PROV220;Annapolis;;;;;;;;;;;;x
 PROV981;Arkhangelsk;;;;;;;;;;;;x
-PROV1;New Arkhangelsk;;;;;;;;;;;;x
-PROV2;Saint Dionysius;;;;;;;;;;;;x
-PROV3;Kasilof;;;;;;;;;;;;x
-PROV4;Paul's Harbor;;;;;;;;;;;;x
-PROV5;Unalaska;;;;;;;;;;;;x
+PROV1;Shitokagun;;;;;;;;;;;;x
+PROV2;Shanseito;;;;;;;;;;;;x
+PROV3;Shikitakuto;;;;;;;;;;;;x
+PROV4;Wakasamura;;;;;;;;;;;;x
+PROV5;Arueto;;;;;;;;;;;;x
 PROV107;Riverside;;;;;;;;;;;;x
 PROV108;Grand Junction;;;;;;;;;;;;x
 PROV104;San Francisco;;;;;;;;;;;;x
@@ -894,7 +894,7 @@ PROV128;Hugoton;;;;;;;;;;;;x
 PROV158;Duluth;;;;;;;;;;;;x
 PROV638;Prešov;;;;;;;;;;;;x
 AUS_626;Sudetes;;;;;;;;;;;;x
-PROV2630;Tok;;;;;;;;;;;;x
+PROV2630;Tasaruti;;;;;;;;;;;;x
 PROV84;Sacramento;;;;;;;;;;;;x
 PROV86;Truckee;;;;;;;;;;;;x
 PROV98;Cedar City;;;;;;;;;;;;x
@@ -970,3 +970,43 @@ PROV3282;Lake Pyhäjärvi;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV3283;Lake Geneva;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3284;Lake Constance;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV906;As-Suwayda;;;;;;;;;;;x
+PROV1455;Manira;x
+PROV1456;Irokosu;x
+PROV1457;Hamatsugu;x
+PROV1459;Barawan;x
+PROV1460;Panai;x
+PROV1461;Samaru;x
+PROV1462;Sanboanga;x
+PROV1463;Taguroku;x
+PROV1464;Suru;x
+PROV2565;Sebu;x
+PROV2599;Hodetaru;x
+PROV1619;Heijo;x
+PROV1620;Neihen;x
+PROV1621;Kanko;x
+PROV1622;Funei;x
+PROV1623;Kyojo;x
+PROV1625;Kaijo;x
+PROV1626;Kaishu;x
+PROV1627;Koshu;x
+PROV1628;Jinsen;x
+PROV1629;Gensan;x
+PROV1630;Kojo;x
+PROV1631;Koryo;x
+PROV1632;Fusan;x
+PROV1633;Taikyu;x
+PROV1634;Neikei;x
+PROV1635;Moppo;x
+PROV1636;Seishu;x
+PROV1637;Saishu;x
+KOR_1627;Koshu;x
+KOR_1635;Fusan;x
+KOR_1619;Heijo;x
+SPA_1455;Tondo;x
+SPA_1459;Bisayas;x
+SPA_1463;Makindono;x
+USA_1;Kita Kaigan;x
+PROV2514;West Coast;x
+PROV250;Ølastuvig;x
+PROV249;Mørkstad;x
+PROV248;Sundelva;x
