@@ -1,7 +1,6 @@
 owner=X12
 controller=X12
-add_core=PRT
-add_core=UBD
 add_core=X12
+add_core=PRU
 trade_goods = grain
 life_rating = 40

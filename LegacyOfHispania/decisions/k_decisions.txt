@@ -1,0 +1,46 @@
+political_decisions = {
+	#Establishes cores for a South Baltic Dutchy
+	liberate_south_baltic = {
+		picture = south_baltic
+		potential = {
+			tag = RUS
+			NOT = {
+				has_global_flag = south_baltic
+				}
+			}
+		allow = {
+			war_with = X12
+			is_greater_power = yes
+		}
+		effect = {
+			prestige = 10
+			PRU_690 = {	#Westpreußen
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			PRU_695 = {	#Ostpreußen
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			PRU_546 = {	#Pomerania
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			PRU_543 = {	#Magdeburg
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			PRU_544 = {	#Mecklenburg
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			HOL_369 = {	#Holstein
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			set_global_flag = south_baltic
+		}
+		ai_will_do = {factor = 1
+		}
+	}
+}
