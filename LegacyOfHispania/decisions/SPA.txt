@@ -855,4 +855,30 @@ political_decisions = {
 
         ai_will_do = { factor = 1 }
     }
+
+the_ruhr_boom = {
+        picture = essen_ruhr
+        potential = {
+            OR = {
+                tag = SPA
+            }
+            owns = 495
+            NOT = { has_global_flag = ruhr_boom_has_happened }
+        }
+
+        allow = {
+            market_structure = 1
+            organized_factories = 1
+            early_railroad = 1
+        }
+
+        effect = {
+            add_country_modifier = {
+                name = ruhr_boom
+                duration = 3650
+            }
+            set_global_flag = ruhr_boom_has_happened
+        }
+    }
+	
 }

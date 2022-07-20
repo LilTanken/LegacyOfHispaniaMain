@@ -2,14 +2,10 @@ name = "Japanese-Manchurian Imperialist War"
 
 1830.1.2 = {
 	add_attacker = JAP
-	add_attacker = MNX
-	add_attacker = LSK
 	add_defender = MCK
-
 	war_goal = {
-		casus_belli = acquire_state
+		casus_belli = conquest
 		actor = JAP
 		receiver = MCK
-		country = MCK
 	}
 }
