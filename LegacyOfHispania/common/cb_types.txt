@@ -785,20 +785,15 @@ restore_america = {
     good_relation_militancy_factor = 1
 
     can_use = {
-        war_policy = jingoism
         NOT = { is_our_vassal = THIS }
-        THIS = {
-            OR = {
-                primary_culture = yankee
-                primary_culture = dixie
-                primary_culture = texan
-            }
-            NOT = { tag = USA }
-        }
-        OR = {
-            THIS = { has_global_flag = second_american_civil_war }
-            USA = { exists = no }
-        }
+	OR = {
+		tag = SON
+		tag = MEX
+		tag = LOU
+		tag = USA
+		tag = FLR
+		tag = CAS
+	}
         OR = {
             THIS = { ai = no }
             THIS = {
@@ -816,6 +811,11 @@ restore_america = {
                 is_core = USA
                 is_core = CSA
                 is_core = FSA
+		is_core = SON
+		is_core = MEX
+		is_core = LOU
+		is_core = FLR
+		is_core = CAS
             }
         }
         #NOT = { in_sphere = THIS }
@@ -831,6 +831,11 @@ restore_america = {
                 is_core = USA
                 is_core = CSA
                 is_core = FSA
+		is_core = SON
+		is_core = MEX
+		is_core = LOU
+		is_core = FLR
+		is_core = CAS
             }
         }
     }

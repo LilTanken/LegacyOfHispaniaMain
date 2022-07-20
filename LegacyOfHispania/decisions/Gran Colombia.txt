@@ -40,6 +40,7 @@ political_decisions = {
                 tag = CLM
                 tag = ECU
                 tag = VNZ
+		tag = MEX
             }
             NOT = { exists = GCO }
         }

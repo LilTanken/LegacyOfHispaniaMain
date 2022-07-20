@@ -2,6 +2,7 @@ owner=MOD
 controller=MOD
 add_core=ITA
 add_core=MOD
+add_core=SGF
 trade_goods = grain
 life_rating = 40
 naval_base = 1
