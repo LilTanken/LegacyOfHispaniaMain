@@ -762,25 +762,18 @@
 
 }
 2552 = {
-	farmers=
-	{
-		culture = polynesian
-		religion = animist
-		size= 5
-	}
-
 	artisans=
 	{
-		culture = sureno
-		religion = catholic
+		culture = british
+		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = sureno
-		religion = catholic
-		size= 18
+		culture = british
+		religion = protestant
+		size= 23
 	}
 
 }
@@ -873,8 +866,8 @@
 2623 = {
 	farmers=
 	{
-		culture = polynesian
-		religion = animist
+		culture = japanese
+		religion = shinto
 		size= 30
 	}
 

@@ -1,5 +1,2 @@
-owner=NOR
-controller=FRA
 trade_goods = fish
-life_rating = 32
-colonial=2
+life_rating = 30

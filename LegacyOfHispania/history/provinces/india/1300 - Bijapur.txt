@@ -1,4 +1,8 @@
-owner=ENG
-controller=ENG
+owner=EIC
+controller=EIC
+add_core=X11
+add_core=MRT
+add_core=HND
+add_core=EIC
 trade_goods = fruit
 life_rating = 32

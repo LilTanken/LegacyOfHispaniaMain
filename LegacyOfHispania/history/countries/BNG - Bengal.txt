@@ -1,6 +1,5 @@
 capital = 1252
-primary_culture = dummy
-culture = dynamic-burmese-culture-num1
+primary_culture = dynamic-burmese-culture-num1
 culture = dynamic-burmese-culture-num2
 culture = dynamic-mali-yorumba-culture-num1
 culture = zzz_religion_mahayana

@@ -1,168 +1,119 @@
 1329 = {
 	slaves=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = gelugpa
-		size= 3239
+		size= 5341
 	}
 
 	soldiers=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = gelugpa
-		size= 1033
+		size= 1692
 	}
 
 	artisans=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = gelugpa
-		size= 512
+		size= 2173
 	}
 
 	clergymen=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = gelugpa
-		size= 37
+		size= 157
 	}
 
 	bureaucrats=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = gelugpa
-		size= 11
+		size= 46
 	}
 
 	officers=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = gelugpa
-		size= 9
+		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = gelugpa
-		size= 47
+		size= 202
 	}
 
 	farmers=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = gelugpa
 		size= 13231
 	}
 
-	slaves=
-	{
-		culture = nepali
-		religion = mahayana
-		size= 2102
-	}
-
-	soldiers=
-	{
-		culture = nepali
-		religion = mahayana
-		size= 659
-	}
-
-	artisans=
-	{
-		culture = nepali
-		religion = mahayana
-		size= 1661
-	}
-
-	clergymen=
-	{
-		culture = nepali
-		religion = mahayana
-		size= 120
-	}
-
-	bureaucrats=
-	{
-		culture = nepali
-		religion = mahayana
-		size= 35
-	}
-
-	officers=
-	{
-		culture = nepali
-		religion = mahayana
-		size= 29
-	}
-
-	aristocrats=
-	{
-		culture = nepali
-		religion = mahayana
-		size= 155
-	}
-
 	farmers=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = mahayana
 		size= 6995
 	}
 
 	slaves=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size= 1390
 	}
 
 	soldiers=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size= 435
 	}
 
 	artisans=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size= 1215
 	}
 
 	clergymen=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size= 88
 	}
 
 	bureaucrats=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size= 26
 	}
 
 	officers=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size= 113
 	}
 
 	farmers=
 	{
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size= 4484
 	}

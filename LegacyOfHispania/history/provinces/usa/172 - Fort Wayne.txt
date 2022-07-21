@@ -1,5 +1,5 @@
-owner=LOU
-controller=LOU
-add_core=LOU
+owner=POT
+controller=POT
+add_core=POT
 trade_goods = timber
 life_rating = 35

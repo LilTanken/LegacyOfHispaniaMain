@@ -40,9 +40,8 @@ vassal=
 
 vassal=
 {
-	first="SPA"
-	second="X03"
-	start_date="1781.3.1"
+	first="ENG"
+	second="EIC"
+	start_date="1600.12.31"
 	end_date="1936.1.1"
 }
-

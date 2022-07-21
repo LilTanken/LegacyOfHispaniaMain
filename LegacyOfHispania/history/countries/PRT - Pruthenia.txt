@@ -45,7 +45,7 @@ consciousness = 2
 nonstate_consciousness= 0
 
 # Technologies
-prestige=0
+prestige=15
 oob = "PRT_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_PRT

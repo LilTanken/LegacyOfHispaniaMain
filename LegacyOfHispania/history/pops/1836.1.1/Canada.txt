@@ -4721,76 +4721,6 @@
 
 }
 57 = {
-	soldiers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 125
-	}
-
-	farmers=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 1953
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 18
-	}
-
-	farmers=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 288
-	}
-
-	farmers=
-	{
-		culture = cree
-		religion = totemism
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = eastern_algonquian
-		religion = totemism
-		size= 150
-	}
-
-	artisans=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 13
-	}
-
-	clergymen=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	aristocrats=
-	{
-		culture = central_algonquian
-		religion = totemism
-		size= 1
-	}
-
-	soldiers=
-	{
-		culture = central_algonquian
-		religion = protestant
-		size= 3
-	}
-
 	artisans=
 	{
 		culture = central_algonquian
@@ -4823,49 +4753,49 @@
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 81
+		size= 500
 	}
 
 	artisans=
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 240
+		size= 395
 	}
 
 	clergymen=
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 11
+		size= 18
 	}
 
 	bureaucrats=
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 3
+		size= 20
 	}
 
 	officers=
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 3
+		size= 14
 	}
 
 	aristocrats=
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 14
+		size= 24
 	}
 
 	farmers=
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 1103
+		size= 4203
 	}
 
 	clergymen=
@@ -6045,7 +5975,7 @@
 	{
 		culture = anglo_canadian
 		religion = catholic
-		size= 58
+		size= 88
 	}
 
 	bureaucrats=
@@ -6066,7 +5996,7 @@
 	{
 		culture = anglo_canadian
 		religion = protestant
-		size= 1473
+		size= 1873
 	}
 
 	artisans=

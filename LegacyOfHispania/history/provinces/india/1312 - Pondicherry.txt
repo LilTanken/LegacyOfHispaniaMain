@@ -1,4 +1,6 @@
-owner=ENG
-controller=ENG
+owner=EIC
+controller=EIC
+add_core=X11
+add_core=EIC
 trade_goods = fish
 life_rating = 32

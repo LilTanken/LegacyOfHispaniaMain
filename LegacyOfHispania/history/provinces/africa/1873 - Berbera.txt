@@ -2,6 +2,5 @@ owner=ETH
 controller=ETH
 add_core=ETH
 trade_goods = fish
-life_rating = 31
+life_rating = 15
 terrain = semidesert
-naval_base = 2

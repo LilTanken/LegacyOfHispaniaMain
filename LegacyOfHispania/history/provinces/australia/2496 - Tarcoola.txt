@@ -1,4 +1,7 @@
+owner=ENG
+controller=ENG
 add_core=AST
 trade_goods = wool
-life_rating = 31
+life_rating = 32
 terrain = semidesert
+colonial=2
