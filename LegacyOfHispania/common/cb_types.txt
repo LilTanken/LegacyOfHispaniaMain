@@ -66,6 +66,7 @@ acquire_core_state
 restore_austrian_empire
 colonial_reconquest_cb
 restore_america
+restore_anatolia
 claim_holy_land
 restore_british_raj
 unification_casus_belli
@@ -786,6 +787,15 @@ restore_america = {
 
     can_use = {
         NOT = { is_our_vassal = THIS }
+	THIS = {
+		            OR = {
+				primary_culture = yankee
+				primary_culture = texan
+				primary_culture = dixie
+				primary_culture = mexican
+				primary_culture = americano
+            	}
+	}
 	OR = {
 		tag = SON
 		tag = MEX
@@ -10110,7 +10120,172 @@ claim_colonial_region = {
         }
     }
 }
+restore_anatolia = {
+    sprite_index = 5
+    is_triggered_only = yes
+    months = 12
+    crisis = no
+    construction_speed = 0.8
 
+    badboy_factor = 0
+    prestige_factor = 0
+    peace_cost_factor = 0.7
+    penalty_factor = 1
+    always = yes
+
+    break_truce_prestige_factor = 5
+    break_truce_infamy_factor = 2
+    break_truce_militancy_factor = 2
+    truce_months = 48
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    can_use = {
+        NOT = { is_our_vassal = THIS }
+		THIS = {
+		            OR = {
+				primary_culture = greek
+				primary_culture = dynamic-greek-culture-num2
+				primary_culture = dynamic-greek-culture-num3
+				primary_culture = dynamic-greek-culture-num4
+				primary_culture = dynamic-greek-culture-num5
+				primary_culture = dynamic-greek-culture-num6
+				primary_culture = dynamic-greek-culture-num7
+            	}
+	}
+		OR = {
+			tag = EPI
+			tag = X42 #Soli
+			tag = X41 #Rhodos
+			tag = X40
+			tag = X39
+			tag = X38
+			tag = X37
+			tag = X36
+			tag = X35
+			tag = X34
+			tag = X33 #Chalkidike
+			tag = X32
+			tag = X31
+			tag = X30
+			tag = X29
+			tag = X28 #Thessaly
+			tag = X27
+			tag = X26
+			tag = X25
+			tag = X24
+			tag = X23
+			tag = X22
+			tag = X21
+			tag = X20
+			tag = X19
+			tag = X18
+			tag = X16
+			tag = X15
+			tag = X08
+		}
+		OR = {
+			THIS = { ai = no }
+			THIS = {
+				OR = {
+					war_policy = pro_military
+					war_policy = jingoism
+					}
+				}
+				war_with = THIS
+			}
+		is_vassal = no
+		neighbour = THIS
+    any_owned_province = {
+        OR = {
+				is_core = EPI
+				is_core = X42 #Soli
+				is_core = X41 #Rhodos
+				is_core = X40
+				is_core = X39
+				is_core = X38
+				is_core = X37
+				is_core = X36
+				is_core = X35
+				is_core = X34
+				is_core = X33 #Chalkidike
+				is_core = X32
+				is_core = X31
+				is_core = X30
+				is_core = X29
+				is_core = X28 #Thessaly
+				is_core = X27
+				is_core = X26
+				is_core = X25
+				is_core = X24
+				is_core = X23
+				is_core = X22
+				is_core = X21
+				is_core = X20
+				is_core = X19
+				is_core = X18
+				is_core = X16
+				is_core = X15
+				is_core = X08
+            }
+        }
+        #NOT = { in_sphere = THIS }
+        OR = {
+            war_with = THIS
+            THIS = { NOT = { has_country_modifier = punitive_effects } }
+        }
+    }
+
+    allowed_states = {
+        any_owned_province = {
+            OR = {
+                is_core = EPI
+				is_core = X42 #Soli
+				is_core = X41 #Rhodos
+				is_core = X40
+				is_core = X39
+				is_core = X38
+				is_core = X37
+				is_core = X36
+				is_core = X35
+				is_core = X34
+				is_core = X33 #Chalkidike
+				is_core = X32
+				is_core = X31
+				is_core = X30
+				is_core = X29
+				is_core = X28 #Thessaly
+				is_core = X27
+				is_core = X26
+				is_core = X25
+				is_core = X24
+				is_core = X23
+				is_core = X22
+				is_core = X21
+				is_core = X20
+				is_core = X19
+				is_core = X18
+				is_core = X16
+				is_core = X15
+				is_core = X08
+            }
+        }
+    }
+
+    po_demand_state = yes
+
+    war_name = WAR_RESTORE_AMERICA_NAME
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.25
+        }
+    }
+}
 # Claim Colonial Region - Annex
 claim_colonial_region_full = {
     sprite_index = 22
