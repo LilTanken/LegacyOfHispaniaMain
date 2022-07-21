@@ -1,6 +1,5 @@
 owner=FLR
 controller=FLR
 add_core=FLR
-add_core=SUS
 trade_goods = coal
 life_rating = 35

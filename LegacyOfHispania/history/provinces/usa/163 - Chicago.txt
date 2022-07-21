@@ -1,6 +1,6 @@
-owner=LOU
-controller=LOU
-add_core=LOU
+owner=POT
+controller=POT
+add_core=POT
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

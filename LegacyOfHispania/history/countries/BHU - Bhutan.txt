@@ -1,7 +1,5 @@
-capital = 1586
-primary_culture = dummy
-culture = dynamic-assamese-nepali-culture-num1
-culture = nanfaren
+capital = 1329
+primary_culture = tibetan
 culture = zzz_religion_gelugpa
 religion = gelugpa
 government = absolute_monarchy

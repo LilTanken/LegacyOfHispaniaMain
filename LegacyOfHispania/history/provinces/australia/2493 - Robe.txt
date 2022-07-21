@@ -4,3 +4,4 @@ add_core=AST
 trade_goods = wool
 life_rating = 32
 terrain = savanna
+colonial=2

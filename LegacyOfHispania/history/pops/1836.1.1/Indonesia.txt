@@ -1782,104 +1782,6 @@
 		size= 9007
 	}
 
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 525
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 5032
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 85
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 109
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 26
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 10
-	}
-
-	soldiers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 56
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 1005
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 112
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 18
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 23
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 5
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 11
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 2
-	}
-
 }
 1413 = {
 	slaves=
@@ -3698,62 +3600,6 @@
 		size= 15
 	}
 
-	slaves=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 384
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 103
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 471
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 39
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 3
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 44
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 787
-	}
-
 }
 1433 = {
 	slaves=
@@ -3917,62 +3763,6 @@
 		size= 72
 	}
 
-	slaves=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 1170
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 98
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 2403
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 200
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 53
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 21
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 224
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 5627
-	}
-
 }
 1434 = {
 	slaves=
@@ -4078,62 +3868,6 @@
 		culture = moluccan
 		religion = protestant
 		size= 41
-	}
-
-	slaves=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 623
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 52
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 1331
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 111
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 30
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 124
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 2912
 	}
 
 }
@@ -4248,62 +3982,6 @@
 		culture = moluccan
 		religion = protestant
 		size= 25
-	}
-
-	slaves=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 641
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 53
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 594
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 111
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 30
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 12
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 187
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 3710
 	}
 
 }
@@ -4678,118 +4356,6 @@
 		size= 472
 	}
 
-	slaves=
-	{
-		culture = thai
-		religion = theravada
-		size= 152
-	}
-
-	soldiers=
-	{
-		culture = thai
-		religion = theravada
-		size= 230
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = theravada
-		size= 2512
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = theravada
-		size= 134
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 9
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = theravada
-		size= 29
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 150
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = theravada
-		size= 1920
-	}
-
-	slaves=
-	{
-		culture = thai
-		religion = hindu
-		size= 531
-	}
-
-	soldiers=
-	{
-		culture = thai
-		religion = hindu
-		size= 803
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = hindu
-		size= 4837
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = hindu
-		size= 259
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = hindu
-		size= 17
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = hindu
-		size= 55
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = hindu
-		size= 290
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = hindu
-		size= 7544
-	}
-
 }
 1440 = {
 	soldiers=
@@ -4911,55 +4477,6 @@
 		culture = javan
 		religion = animist
 		size= 32532
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 2022
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 14420
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 478
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 424
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 379
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 121
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 81
 	}
 
 }
@@ -5162,55 +4679,6 @@
 		size= 79
 	}
 
-	soldiers=
-	{
-		culture = thai
-		religion = theravada
-		size= 16
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = theravada
-		size= 147
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = theravada
-		size= 27
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 5
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = theravada
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 31
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = theravada
-		size= 1401
-	}
-
 }
 1444 = {
 	soldiers=
@@ -5281,104 +4749,6 @@
 		culture = javan
 		religion = theravada
 		size= 83
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = theravada
-		size= 419
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = theravada
-		size= 23
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = theravada
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 25
-	}
-
-	soldiers=
-	{
-		culture = thai
-		religion = theravada
-		size= 38
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 1
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = theravada
-		size= 344
-	}
-
-	soldiers=
-	{
-		culture = thai
-		religion = hindu
-		size= 134
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = hindu
-		size= 806
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = hindu
-		size= 43
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = hindu
-		size= 3
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = hindu
-		size= 9
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = hindu
-		size= 48
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = hindu
-		size= 1346
 	}
 
 }
@@ -5481,55 +4851,6 @@
 		size= 82
 	}
 
-	soldiers=
-	{
-		culture = thai
-		religion = theravada
-		size= 17
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = theravada
-		size= 151
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = theravada
-		size= 28
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 6
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = theravada
-		size= 3
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 32
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = theravada
-		size= 1439
-	}
-
 }
 1446 = {
 	soldiers=
@@ -5579,55 +4900,6 @@
 		culture = javan
 		religion = animist
 		size= 14063
-	}
-
-	soldiers=
-	{
-		culture = thai
-		religion = theravada
-		size= 70
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = theravada
-		size= 572
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = theravada
-		size= 107
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 21
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = theravada
-		size= 11
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 120
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = theravada
-		size= 6082
 	}
 
 }
@@ -5688,62 +4960,6 @@
 		size= 17838
 	}
 
-	slaves=
-	{
-		culture = afro_norse
-		religion = catholic
-		size= 303
-	}
-
-	soldiers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 256
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 1874
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 2522
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 100
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 112
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 19
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 21
-	}
-
 }
 1448 = {
 	soldiers=
@@ -5765,55 +4981,6 @@
 		culture = moluccan
 		religion = catholic
 		size= 8
-	}
-
-	farmers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 343
-	}
-
-	artisans=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 237
-	}
-
-	aristocrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 13
-	}
-
-	clergymen=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 10
-	}
-
-	soldiers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 15
-	}
-
-	bureaucrats=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 2
-	}
-
-	officers=
-	{
-		culture = norwegian
-		religion = catholic
-		size= 2
 	}
 
 	artisans=
@@ -5867,108 +5034,10 @@
 		size= 1447
 	}
 
-	farmers=
-	{
-		culture = thai
-		religion = theravada
-		size= 242
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = theravada
-		size= 77
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = theravada
-		size= 6
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 7
-	}
-
-	soldiers=
-	{
-		culture = thai
-		religion = theravada
-		size= 9
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 1
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = theravada
-		size= 1
-	}
-
 	artisans=
 	{
 		culture = moluccan
 		religion = animist
-		size= 1
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 125
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 321
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 12
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 10
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 12
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 2
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
 		size= 1
 	}
 
@@ -5993,55 +5062,6 @@
 		culture = moluccan
 		religion = animist
 		size= 9866
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 1992
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 2678
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 106
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 119
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 28
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 11
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 41
 	}
 
 }
@@ -6135,55 +5155,6 @@
 		culture = moluccan
 		religion = protestant
 		size= 8
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 34
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 280
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 23
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 6
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 26
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 833
 	}
 
 	soldiers=
@@ -6321,55 +5292,6 @@
 		size= 6
 	}
 
-	soldiers=
-	{
-		culture = thai
-		religion = theravada
-		size= 7
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = theravada
-		size= 85
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = theravada
-		size= 16
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 3
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = theravada
-		size= 2
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 18
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = theravada
-		size= 574
-	}
-
 }
 1453 = {
 	soldiers=
@@ -6461,55 +5383,6 @@
 		culture = melanesian
 		religion = theravada
 		size= 17
-	}
-
-	soldiers=
-	{
-		culture = thai
-		religion = theravada
-		size= 19
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = theravada
-		size= 233
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = theravada
-		size= 44
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 9
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = theravada
-		size= 5
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 49
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = theravada
-		size= 1564
 	}
 
 }
@@ -6619,62 +5492,6 @@
 		size= 28
 	}
 
-	slaves=
-	{
-		culture = thai
-		religion = theravada
-		size= 307
-	}
-
-	soldiers=
-	{
-		culture = thai
-		religion = theravada
-		size= 33
-	}
-
-	artisans=
-	{
-		culture = thai
-		religion = theravada
-		size= 399
-	}
-
-	clergymen=
-	{
-		culture = thai
-		religion = theravada
-		size= 75
-	}
-
-	bureaucrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 15
-	}
-
-	officers=
-	{
-		culture = thai
-		religion = theravada
-		size= 8
-	}
-
-	aristocrats=
-	{
-		culture = thai
-		religion = theravada
-		size= 84
-	}
-
-	farmers=
-	{
-		culture = thai
-		religion = theravada
-		size= 2374
-	}
-
 }
 1560 = {
 	soldiers=
@@ -6766,55 +5583,6 @@
 		culture = melanesian
 		religion = protestant
 		size= 23
-	}
-
-	soldiers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 29
-	}
-
-	artisans=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 328
-	}
-
-	clergymen=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 62
-	}
-
-	bureaucrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 16
-	}
-
-	officers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 7
-	}
-
-	aristocrats=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 69
-	}
-
-	farmers=
-	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
-		religion = protestant
-		size= 2346
 	}
 
 }
@@ -6984,50 +5752,50 @@
 
 	soldiers=
 	{
-		culture = thai
-		religion = theravada
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = thai
-		religion = theravada
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
 		size= 36
 	}
 
 	clergymen=
 	{
-		culture = thai
-		religion = theravada
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = thai
-		religion = theravada
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = thai
-		religion = theravada
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = thai
-		religion = theravada
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = thai
-		religion = theravada
+		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		religion = protestant
 		size= 382
 	}
 

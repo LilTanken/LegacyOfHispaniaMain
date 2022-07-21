@@ -1,14 +1,12 @@
 capital = 1872
-primary_culture = dummy
-culture = amhara
-culture = dynamic-al_suryah_arabic-somali-culture-num1
+primary_culture = amhara
 culture = oromo
 culture = zzz_religion_coptic
 religion = coptic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_autocracy
-literacy = 0.12118
+literacy = 0.08
 
 
 # Social Reforms

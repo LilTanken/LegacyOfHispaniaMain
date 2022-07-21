@@ -269,8 +269,8 @@
 2525 = {
 	farmers=
 	{
-		culture = micronesian
-		religion = animist
+		culture = japanese
+		religion = shinto
 		size= 15
 	}
 
@@ -288,55 +288,6 @@
 		culture = micronesian
 		religion = animist
 		size= 783
-	}
-
-	farmers=
-	{
-		culture = sydlig
-		religion = catholic
-		size= 2177
-	}
-
-	artisans=
-	{
-		culture = sydlig
-		religion = catholic
-		size= 126
-	}
-
-	clergymen=
-	{
-		culture = sydlig
-		religion = catholic
-		size= 20
-	}
-
-	aristocrats=
-	{
-		culture = sydlig
-		religion = catholic
-		size= 26
-	}
-
-	soldiers=
-	{
-		culture = sydlig
-		religion = catholic
-		size= 23
-	}
-
-	bureaucrats=
-	{
-		culture = sydlig
-		religion = catholic
-		size= 5
-	}
-
-	officers=
-	{
-		culture = sydlig
-		religion = catholic
-		size= 2
 	}
 
 }

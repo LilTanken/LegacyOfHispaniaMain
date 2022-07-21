@@ -1,5 +1,5 @@
-owner=CAO
-controller=CAO
-add_core=CAO
+owner=LOU
+controller=LOU
+add_core=LOU
 trade_goods = grain
 life_rating = 35

@@ -29,7 +29,7 @@ ARA = {
 	level = 2
 }
 ARG = {
-	value = -13
+	value = 0
 	level = 2
 }
 ARM = {
@@ -41,11 +41,11 @@ ASM = {
 	level = 2
 }
 AUK = {
-	value = 50
+	value = 0
 	level = 2
 }
 AUM = {
-	value = 47
+	value = 0
 	level = 2
 }
 AUO = {
@@ -61,7 +61,7 @@ AUW = {
 	level = 2
 }
 AUY = {
-	value = 13
+	value = 0
 	level = 2
 }
 AUZ = {
@@ -101,7 +101,7 @@ BNJ = {
 	level = 2
 }
 BNY = {
-	value = 40
+	value = 0
 	level = 2
 }
 BOS = {
@@ -109,7 +109,7 @@ BOS = {
 	level = 2
 }
 BRZ = {
-	value = -11
+	value = 0
 	level = 2
 }
 BUL = {
@@ -133,7 +133,7 @@ CDL = {
 	level = 2
 }
 CLM = {
-	value = -12
+	value = 0
 	level = 2
 }
 CRE = {
@@ -149,7 +149,7 @@ CUA = {
 	level = 2
 }
 CUB = {
-	value = -12
+	value = 0
 	level = 2
 }
 CWU = {
@@ -166,7 +166,6 @@ DLM = {
 }
 ENG = {
 	value = 0
-	military_access = yes
 	level = 2
 }
 EPI = {
@@ -194,7 +193,7 @@ FLO = {
 	level = 2
 }
 FLR = {
-	value = -13
+	value = 0
 	level = 2
 }
 FRA = {
@@ -270,8 +269,7 @@ KRM = {
 	level = 2
 }
 KRW = {
-	value = 70
-	influence_value = 5
+	value = 0
 	level = 2
 }
 KWN = {
@@ -291,11 +289,11 @@ LOT = {
 	level = 2
 }
 LOU = {
-	value = -12
+	value = 0
 	level = 2
 }
 LSK = {
-	value = -33
+	value = 0
 	level = 2
 }
 MBA = {
@@ -311,7 +309,7 @@ MDI = {
 	level = 2
 }
 MEX = {
-	value = -12
+	value = 0
 	level = 2
 }
 MJP = {
@@ -351,8 +349,7 @@ NET = {
 	level = 2
 }
 NEW = {
-	value = 198
-	influence_value = 37
+	value = 0
 	level = 2
 }
 NOR = {
@@ -392,7 +389,7 @@ PER = {
 	level = 2
 }
 PEU = {
-	value = -13
+	value = 0
 	level = 2
 }
 PGR = {
@@ -524,8 +521,7 @@ URB = {
 	level = 2
 }
 USA = {
-	value = 195
-	influence_value = 36
+	value = 0
 	level = 2
 }
 UTS = {
@@ -665,7 +661,7 @@ X36 = {
 	level = 2
 }
 X37 = {
-	value = -4
+	value = 0
 	level = 2
 }
 X38 = {

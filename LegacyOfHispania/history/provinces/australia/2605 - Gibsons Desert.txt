@@ -3,3 +3,4 @@ controller=ENG
 add_core=AST
 trade_goods = grain
 life_rating = 15
+colonial=2

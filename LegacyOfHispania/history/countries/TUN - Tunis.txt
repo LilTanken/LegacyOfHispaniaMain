@@ -1,8 +1,7 @@
 capital = 1725
-primary_culture = dummy
+primary_culture = berber
 culture = andalucian
-culture = berber
-culture = catalan
+culture = spanish
 culture = zzz_religion_sunni
 religion = sunni
 government = absolute_monarchy

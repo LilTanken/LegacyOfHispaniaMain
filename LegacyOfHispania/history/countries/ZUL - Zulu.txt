@@ -2,7 +2,7 @@ capital = 2113
 primary_culture = zulu
 culture = zzz_religion_shamanism
 religion = shamanism
-government = democracy
+government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_equality
 literacy = 0.125078
@@ -44,6 +44,7 @@ consciousness = 1.77633
 nonstate_consciousness= 0.5329
 
 # Technologies
+flintlock_rifles = 1
 land_reform=yes_land_reform
 admin_reform=no_admin_reform
 finance_reform=no_finance_reform
@@ -52,7 +53,7 @@ transport_improv=no_transport_improv
 pre_indust=no_pre_indust
 industrial_construction=no_industrial_construction
 foreign_training=yes_foreign_training
-foreign_weapons=no_foreign_weapons
+foreign_weapons=yes_foreign_weapons
 military_constructions=no_military_constructions
 foreign_officers=no_foreign_officers
 army_schools=no_army_schools

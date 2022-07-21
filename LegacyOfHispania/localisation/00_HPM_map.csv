@@ -127,12 +127,12 @@ PROV155;Fort Snelling;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV156;Fort Renville;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV157;Fort Ripley;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV92;Kullyspell;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV93;Fort Hall;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV123;Fort Robidoux;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV124;Bordeaux's Post;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV125;Fontenelle's Post;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV126;Fort Leavenworth;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV127;Fort Mann;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV93;Fuerte Augusto;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV123;Fuerte Arocha;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV124;Marcos' Post;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV125;Desi's Post;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV126;Fuerte Maximiliano;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV127;Fuerte Carmelo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV113;Gallatin Valley;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV117;Fort Clark;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV118;Fort James;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -142,18 +142,18 @@ PROV121;Fort Cedar;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV120;Fort Kiowa;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV114;Fort Owen;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV115;Fort Benton;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV116;Fort Van Buren;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV131;Fort Washita;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV130;Fort Gibson;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV111;Fort Bonneville;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV112;Fort Laramie;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV106;Bent's Fort;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV116;Fuerte Rico;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV131;Fuerte Veras;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV130;Fuerte Amigos;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV111;Fuerte Arturo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV112;Fuerte David;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV106;Fuerte Callejo;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2702;Alty-Kuduk;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV1210;Kunduz;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV1196;Gurgench;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV686;Merv;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 BUR_1334;Mandalay;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2623;Midway and Wake Islands;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV2623;Minazukijima;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2524;Hamilton;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV579;Neuwied;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV574;Koblenz;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -401,8 +401,8 @@ PROV1019;Voronezh;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV3246;Saint Barths;;;;;;;;;;;;;;;;;;;;x;
 PROV82;Grande Ronde;;;;;;;;;;;;;;;;;;;;x;
 PROV81;Oregon City;;;;;;;;;;;;;;;;;;;;x;
-PROV83;Fort Umpqua;;;;;;;;;;;;;;;;;;;;x;
-PROV78;Fort Nisqually;;;;;;;;;;;;;;;;;;;;x;
+PROV83;Puerto Jiménez;;;;;;;;;;;;;;;;;;;;x;
+PROV78;Fuerte Nuno;;;;;;;;;;;;;;;;;;;;x;
 PROV2101;Thaba Nchu;;;;;;;;;;;;;;;;;;;;x;
 PROV2102;Qwa-Qwa;;;;;;;;;;;;;;;;;;;;x;
 PROV2103;Lephoi;;;;;;;;;;;;;;;;;;;;x;
@@ -1010,3 +1010,37 @@ PROV2514;West Coast;x
 PROV250;Ølastuvig;x
 PROV249;Mørkstad;x
 PROV248;Sundelva;x
+PROV3012;Chikuzen Strait;x
+PROV3013;Kita Kaigan-wan;x
+PROV3135;Maruyama Pass;x
+PROV3134;Eastern Arueto Islands;x
+PROV3132;Western Arueto Islands;x
+PROV3133;Kichirojima;x
+PROV3014;Kita Kaiganese Coast;x
+PROV3015;Kirute-wan;x
+PROV3131;Minamitsugunada;x
+PROV3130;Kitatsugunada;x
+PROV2898;Ichijo Plains;x
+PROV3119;Maru Gulch;x
+PROV3122;Nanban Plains;x
+PROV3139;Eastern Arueto Sea;x
+PROV3136;Western Arueto Sea;x
+PROV3138;Kita Kaiganese Plain;x
+PROV3153;Minazukijima Coast;x
+PROV2846;Tondo Strait;x
+PROV2849;Coast of Tondo;x
+PROV2855;Mayi Sea;x
+PROV2889;Mayi Trench;x
+PROV2890;Mayi Basin;x
+PROV2848;Manira Bay;x
+PROV2847;Hideaki Islands;x
+PROV2850;Gulf of Reite;x
+PROV2525;Minamitorishima;x
+PROV173;Yondotega;x
+PROV174;Bow-e-ting;x
+PROV177;Mackinac;x
+PROV163;Shikaakwa;x
+PROV161;Manitowoc;x
+PROV172;Shipshewana;x
+PROV171;Mishawaka;x
+PROV180;Maumee;x

@@ -4,4 +4,4 @@ add_core=ARA
 add_core=SUD
 trade_goods = grain
 life_rating = 10
-naval_base = 1
+
