@@ -69,6 +69,10 @@ treaty_port_casus_belli_setup;Force a 即country劬 to negotiate an 即unequal trea
 NORMAL_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$Dominican War of Independence;;;;;;;;;;;;;
 AGRESSION_WAR_CONQUEST_NAME_HAI_DOM;$ORDER$Dominican War of Independence;;;;;;;;;;;;;
 AGRESSION_WAR_GUNBOAT_NAME;Gunboat Diplomacy;;;;;;;;;;;;;
+restore_anatolia;Unification of Greece;;;;;;;;;;;;;
+restore_anatolia_desc;Move to 即Annex劬 this 即country劬, for the greater 即good劬 of Greece;;;;;;;;;;;;;
+restore_anatolia_short;Unify Greek Lands;;;;;;;;;;;;;
+restore_anatolia_setup;Move to 即Annex劬 this 即country劬, for the greater 即good劬 of Greece;;;;;;;;;;;;;
 status_quo;Status Quo;;;;;;;;;;;;;
 AGRESSION_WAR_BOXER_NAME;Boxer War;;;;;;;;;;;;;
 call_allies_cb;Call Allies;;;;;;;;;;;;;

@@ -481,4 +481,502 @@ political_decisions = {
 
     }
 
+
+unification_of_nova_america = {
+        picture = native_removal_act
+        
+	potential = {
+        tag = MEX
+		NOT = { has_country_flag = unified_new_america }
+		}
+
+    allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            money = 500000
+            all_core = {
+                owned_by = THIS
+                is_colonial = no
+                any_pop = { is_primary_culture = yes }
+            }
+			NOT = { exists = USA }
+			NOT = { exists = SON }
+			NOT = { exists = LOU }
+			NOT = { exists = FLR }
+			NOT = { exists = CAS }
+        }
+
+    effect = {
+			#remove all cores of USA, SON, CAS, LOU, FLR
+			#add these cores of MEX
+            treasury = -500000
+            badboy = 20
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = dixie
+                    }
+                }
+                add_core = MEX
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = mexican
+                    }
+                }
+                add_core = MEX
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = americano
+                    }
+                }
+                add_core = MEX
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = yankee
+                    }
+                }
+                add_core = MEX
+            }
+			any_owned = {
+				remove_core = CSA
+				remove_core = SON
+				remove_core = LOU
+				remove_core = FLR
+				remove_core = CAS
+				remove_core = USA
+			}
+			set_country_flag = unified_new_america
+		}
+    ai_will_do = { factor = 1 }
+
+    }
+	
+unification_of_new_america = {
+        picture = native_removal_act
+        
+	potential = {
+        tag = USA
+		NOT = { has_country_flag = unified_new_america }
+		}
+
+    allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            money = 500000
+            all_core = {
+                owned_by = THIS
+                is_colonial = no
+                any_pop = { is_primary_culture = yes }
+            }
+			NOT = { exists = MEX }
+			NOT = { exists = SON }
+			NOT = { exists = LOU }
+			NOT = { exists = FLR }
+			NOT = { exists = CAS }
+        }
+
+    effect = {
+			#remove all cores of MEX, SON, CAS, LOU, FLR
+			#add these cores of USA
+            treasury = -500000
+            badboy = 20
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = dixie
+                    }
+                }
+                add_core = USA
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = mexican
+                    }
+                }
+                add_core = USA
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = americano
+                    }
+                }
+                add_core = USA
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = yankee
+                    }
+                }
+                add_core = USA
+            }
+			any_owned = {
+				remove_core = CSA
+				remove_core = SON
+				remove_core = LOU
+				remove_core = FLR
+				remove_core = CAS
+				remove_core = MEX
+			}
+			set_country_flag = unified_new_america
+		}
+    ai_will_do = { factor = 1 }
+
+    }
+	
+unification_of_louis_america = {
+        picture = native_removal_act
+        
+	potential = {
+        tag = LOU
+		NOT = { has_country_flag = unified_new_america }
+		}
+
+    allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            money = 500000
+            all_core = {
+                owned_by = THIS
+                is_colonial = no
+                any_pop = { is_primary_culture = yes }
+            }
+			NOT = { exists = MEX }
+			NOT = { exists = SON }
+			NOT = { exists = USA }
+			NOT = { exists = FLR }
+			NOT = { exists = CAS }
+        }
+
+    effect = {
+			#remove all cores of MEX, SON, CAS, LOU, FLR
+			#add these cores of USA
+            treasury = -500000
+            badboy = 20
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = dixie
+                    }
+                }
+                add_core = LOU
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = mexican
+                    }
+                }
+                add_core = LOU
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = americano
+                    }
+                }
+                add_core = LOU
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = yankee
+                    }
+                }
+                add_core = LOU
+            }
+			any_owned = {
+				remove_core = CSA
+				remove_core = SON
+				remove_core = USA
+				remove_core = FLR
+				remove_core = CAS
+				remove_core = MEX
+			}
+			set_country_flag = unified_new_america
+		}
+    ai_will_do = { factor = 1 }
+
+    }
+
+unification_of_sonara_america = {
+        picture = native_removal_act
+        
+	potential = {
+        tag = SON
+		NOT = { has_country_flag = unified_new_america }
+		}
+
+    allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            money = 500000
+            all_core = {
+                owned_by = THIS
+                is_colonial = no
+                any_pop = { is_primary_culture = yes }
+            }
+			NOT = { exists = MEX }
+			NOT = { exists = LOU }
+			NOT = { exists = USA }
+			NOT = { exists = FLR }
+			NOT = { exists = CAS }
+        }
+
+    effect = {
+			#remove all cores of MEX, SON, CAS, LOU, FLR
+			#add these cores of USA
+            treasury = -500000
+            badboy = 20
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = dixie
+                    }
+                }
+                add_core = SON
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = mexican
+                    }
+                }
+                add_core = SON
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = americano
+                    }
+                }
+                add_core = SON
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = yankee
+                    }
+                }
+                add_core = SON
+            }
+			any_owned = {
+				remove_core = CSA
+				remove_core = LOU
+				remove_core = USA
+				remove_core = FLR
+				remove_core = CAS
+				remove_core = MEX
+			}
+			set_country_flag = unified_new_america
+		}
+    ai_will_do = { factor = 1 }
+
+    }
+	
+unification_of_florida_america = {
+        picture = native_removal_act
+        
+	potential = {
+        tag = FLR
+		NOT = { has_country_flag = unified_new_america }
+		}
+
+    allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            money = 500000
+            all_core = {
+                owned_by = THIS
+                is_colonial = no
+                any_pop = { is_primary_culture = yes }
+            }
+			NOT = { exists = MEX }
+			NOT = { exists = LOU }
+			NOT = { exists = USA }
+			NOT = { exists = SON }
+			NOT = { exists = CAS }
+        }
+
+    effect = {
+			#remove all cores of MEX, SON, CAS, LOU, FLR
+			#add these cores of USA
+            treasury = -500000
+            badboy = 20
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = dixie
+                    }
+                }
+                add_core = FLR
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = mexican
+                    }
+                }
+                add_core = FLR
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = americano
+                    }
+                }
+                add_core = FLR
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = yankee
+                    }
+                }
+                add_core = FLR
+            }
+			any_owned = {
+				remove_core = CSA
+				remove_core = LOU
+				remove_core = USA
+				remove_core = SON
+				remove_core = CAS
+				remove_core = MEX
+			}
+			set_country_flag = unified_new_america
+		}
+    ai_will_do = { factor = 1 }
+
+    }
+	
+unification_of_cascadia_america = {
+        picture = native_removal_act
+        
+	potential = {
+        tag = CAS
+		NOT = { has_country_flag = unified_new_america }
+		}
+
+    allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            money = 500000
+            all_core = {
+                owned_by = THIS
+                is_colonial = no
+                any_pop = { is_primary_culture = yes }
+            }
+			NOT = { exists = MEX }
+			NOT = { exists = LOU }
+			NOT = { exists = USA }
+			NOT = { exists = SON }
+			NOT = { exists = FLR }
+        }
+
+    effect = {
+			#remove all cores of MEX, SON, CAS, LOU, FLR
+			#add these cores of USA
+            treasury = -500000
+            badboy = 20
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = dixie
+                    }
+                }
+                add_core = CAS
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = mexican
+                    }
+                }
+                add_core = CAS
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = americano
+                    }
+                }
+                add_core = CAS
+            }
+			any_owned = {
+                limit = {
+                    NOT = { is_core = THIS }
+                    any_core = {
+                        exists = no
+                        primary_culture = yankee
+                    }
+                }
+                add_core = CAS
+            }
+			any_owned = {
+				remove_core = CSA
+				remove_core = LOU
+				remove_core = USA
+				remove_core = SON
+				remove_core = FLR
+				remove_core = MEX
+			}
+			set_country_flag = unified_new_america
+		}
+    ai_will_do = { factor = 1 }
+
+    }
 }

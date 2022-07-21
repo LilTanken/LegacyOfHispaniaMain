@@ -1,6 +1,6 @@
-owner=DLH
-controller=DLH
-add_core=DLH
+owner=UTS
+controller=UTS
+add_core=UTS
 trade_goods = cattle
 life_rating = 30
 fort = 1

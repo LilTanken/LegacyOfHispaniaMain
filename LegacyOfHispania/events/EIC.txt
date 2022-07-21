@@ -164,57 +164,6 @@ country_event = {
 }
 
 country_event = {
-    id = 9990006
-    title = "EVTNAME9990006"
-    desc = "EVTDESC9990006"
-    picture = sepoy
-
-    is_triggered_only = yes
-
-    option = {
-        name = "EVT9990007OPTA"
-        leave_alliance = ENG
-        ENG = {
-            release_vassal = THIS
-            diplomatic_influence = {
-                who = THIS
-                value = -1000
-            }
-        }
-    }
-}
-
-country_event = {
-    id = 9990007
-    title = "EVTNAME9990008"
-    desc = "EVTDESC9990007"
-    picture = "deliberation"
-
-    trigger = {
-        tag = ENG
-        OR = {
-            NOT = { is_our_vassal = EIC }
-            NOT = { is_sphere_leader_of = EIC }
-        }
-        exists = EIC
-        NOT = { has_global_flag = EIC_independence }
-    }
-
-    fire_only_once = yes
-
-    mean_time_to_happen = {
-        months = 1
-    }
-
-    option = {
-        name = "EVT9990007OPTA"
-        EIC = {
-            country_event = 9990008
-        }
-    }
-}
-
-country_event = {
     id = 9990008
     title = "EVTNAME9990008"
     desc = "EVTDESC9990008"

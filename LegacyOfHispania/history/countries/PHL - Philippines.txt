@@ -1,7 +1,7 @@
 capital = 1455
 primary_culture = filipino
-culture = zzz_religion_catholic
-religion = catholic
+culture = zzz_religion_shinto
+religion = shinto
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_equality

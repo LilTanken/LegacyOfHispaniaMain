@@ -60,7 +60,11 @@ political_decisions = {
                 militancy = -1
             }
             set_country_flag = empress_of_india
-        }
+        inherit = EIC
+        treasury = 100000
+        1251 = { remove_core = EIC }
+        EIC = { all_core = { remove_core = EIC } }
+		}
     }
 
     found_the_bbc = {

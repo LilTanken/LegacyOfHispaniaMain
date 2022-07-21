@@ -8,12 +8,12 @@ party = {
 
 	ideology = liberal
 
-	citizenship_policy = full_citizenship
-	economic_policy = laissez_faire
-	religious_policy = pluralism
+	citizenship_policy = residency
+	economic_policy = interventionism
+	religious_policy = moralism
 	social_policy = no_position_set
 	trade_policy = protectionism
-	war_policy = pro_military
+	war_policy = jingoism
 }
 
 party = {

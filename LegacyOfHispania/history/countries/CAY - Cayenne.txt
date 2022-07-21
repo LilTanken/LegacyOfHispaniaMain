@@ -1,7 +1,7 @@
 capital = 2241
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = french_south_america_superregion_culture
+culture = zzz_religion_protestant
+religion = protestant
 government = democracy
 plurality = 0
 nationalvalue = nv_order

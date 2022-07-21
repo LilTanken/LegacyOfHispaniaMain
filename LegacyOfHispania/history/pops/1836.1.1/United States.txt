@@ -11157,70 +11157,21 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 16
+		size= 1344
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 995
-	}
-
-	farmers=
-	{
-		culture = mexican
-		religion = catholic
-		size= 1735
-	}
-
-	artisans=
-	{
-		culture = mexican
-		religion = catholic
-		size= 92
-	}
-
-	clergymen=
-	{
-		culture = mexican
-		religion = catholic
-		size= 15
-	}
-
-	aristocrats=
-	{
-		culture = mexican
-		religion = catholic
-		size= 19
-	}
-
-	soldiers=
-	{
-		culture = mexican
-		religion = catholic
-		size= 38
-	}
-
-	bureaucrats=
-	{
-		culture = mexican
-		religion = catholic
-		size= 4
-	}
-
-	officers=
-	{
-		culture = mexican
-		religion = catholic
-		size= 2
+		size= 2995
 	}
 
 	farmers=
 	{
 		culture = siouan
 		religion = totemism
-		size= 3
+		size= 5
 	}
 
 	artisans=
@@ -11299,65 +11250,51 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 10
+		size= 1200
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 683
-	}
-
-	farmers=
-	{
-		culture = mexican
-		religion = catholic
-		size= 1955
+		size= 8500
 	}
 
 	artisans=
 	{
-		culture = mexican
-		religion = catholic
+		culture = central_algonquian
+		religion = totemism
 		size= 368
 	}
-
+	
 	clergymen=
 	{
-		culture = mexican
-		religion = catholic
+		culture = central_algonquian
+		religion = totemism
 		size= 26
 	}
-
+	
 	aristocrats=
 	{
-		culture = mexican
-		religion = catholic
+		culture = central_algonquian
+		religion = totemism
 		size= 34
 	}
-
-	soldiers=
-	{
-		culture = mexican
-		religion = catholic
-		size= 1033
-	}
-
+	
 	bureaucrats=
 	{
-		culture = mexican
-		religion = catholic
+		culture = central_algonquian
+		religion = totemism
 		size= 9
 	}
-
+	
 	officers=
 	{
-		culture = mexican
-		religion = catholic
+		culture = central_algonquian
+		religion = totemism
 		size= 3
 	}
-
+	
 }
 176 = {
 	soldiers=
@@ -11862,21 +11799,21 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 77
+		size= 2477
 	}
 
 	farmers=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 7766
+		size= 17766
 	}
 
 	farmers=
 	{
 		culture = siouan
 		religion = totemism
-		size= 45
+		size= 445
 	}
 
 	farmers=
@@ -11932,70 +11869,21 @@
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 10
+		size= 331
 	}
 
 	aristocrats=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 34
+		size= 134
 	}
 
 	officers=
 	{
 		culture = central_algonquian
 		religion = totemism
-		size= 5
-	}
-
-	soldiers=
-	{
-		culture = americano
-		religion = catholic
-		size= 398
-	}
-
-	artisans=
-	{
-		culture = americano
-		religion = catholic
-		size= 1756
-	}
-
-	clergymen=
-	{
-		culture = americano
-		religion = catholic
-		size= 285
-	}
-
-	bureaucrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 105
-	}
-
-	officers=
-	{
-		culture = americano
-		religion = catholic
-		size= 57
-	}
-
-	aristocrats=
-	{
-		culture = americano
-		religion = catholic
-		size= 369
-	}
-
-	farmers=
-	{
-		culture = americano
-		religion = catholic
-		size= 36788
+		size= 25
 	}
 
 }

@@ -1,6 +1,6 @@
 capital = 635
-primary_culture = dummy
-culture = dynamic-bavarian-slovene-culture-num1
+primary_culture = polish
+culture = dynamic-polish-culture-num1
 culture = hungarian
 culture = slovak
 culture = zzz_religion_orthodox
@@ -65,7 +65,7 @@ no_standard = 1
 piston_steam_engine = 1
 post_napoleonic_thought = 1
 private_banks = 1
-prestige=0.0523813
+prestige=15
 oob = "POL_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_POL

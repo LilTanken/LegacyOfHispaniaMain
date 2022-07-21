@@ -1,4 +1,2 @@
-owner=SIA
-controller=SIA
 trade_goods = grain
-life_rating = 31
+life_rating = 15

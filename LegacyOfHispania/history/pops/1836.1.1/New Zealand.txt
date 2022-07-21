@@ -470,29 +470,29 @@
 2516 = {
 	aristocrats=
 	{
-		culture = maori
-		religion = animist
+		culture = australian
+		religion = protestant
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = maori
-		religion = animist
+		culture = australian
+		religion = protestant
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = maori
-		religion = animist
+		culture = australian
+		religion = protestant
 		size= 150
 	}
 
 	soldiers=
 	{
-		culture = maori
-		religion = animist
+		culture = australian
+		religion = protestant
 		size= 75
 	}
 
@@ -500,16 +500,9 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 5
+		size= 2680
 	}
-
-	farmers=
-	{
-		culture = maori
-		religion = animist
-		size= 2675
-	}
-
+	
 }
 2524 = {
 	clergymen=

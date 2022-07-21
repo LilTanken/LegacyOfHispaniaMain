@@ -1,8 +1,7 @@
 capital = 1699
-primary_culture = dummy
+primary_culture = maghrebi
 culture = andalucian
-culture = catalan
-culture = maghrebi
+culture = spanish
 culture = zzz_religion_shiite
 religion = shiite
 government = absolute_monarchy

@@ -1481,4 +1481,46 @@ political_decisions = {
         }
     }
 
+
+	form_alpine = {
+		picture = map_malta
+		potential = {
+			tag = MOD
+			NOT = {
+				exists = SGF
+			}
+		}
+		
+		allow = {
+			is_greater_power = yes
+			prestige = 45
+			war = no
+			nationalism_n_imperialism = 1
+			SGF = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = SGF
+			capital = 603
+			all_core = { add_core = SGF }
+			}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+
 }

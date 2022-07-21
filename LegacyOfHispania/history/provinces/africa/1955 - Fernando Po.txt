@@ -2,4 +2,3 @@ owner=SPA
 controller=SPA
 trade_goods = fruit
 life_rating = 10
-naval_base = 1

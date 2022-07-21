@@ -1,5 +1,6 @@
-owner=X25
-controller=REB
-add_core=X25
+owner=TCA
+controller=TCA
+add_core=TCA
+add_core=RUS
 trade_goods = wool
 life_rating = 35

@@ -1,4 +1,6 @@
-owner=ENG
-controller=ENG
+owner=EIC
+controller=EIC
+add_core=TRT
+add_core=EIC
 trade_goods = dye
 life_rating = 32

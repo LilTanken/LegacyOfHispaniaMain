@@ -960,7 +960,7 @@ navy = {
 
 army = {
 	name="2nd Army"
-	location=2488
+	location=1346
 	regiment = {
 		name="1st Ratchaburi Irregulars"
 		type=irregular
@@ -1010,7 +1010,7 @@ navy = {
 
 army = {
 	name="9th Army"
-	location=2488
+	location=1346
 	regiment = {
 		name="1st Udon Thani Irregulars"
 		type=irregular
@@ -1099,7 +1099,7 @@ navy = {
 
 army = {
 	name="11th Army"
-	location=1446
+	location=1387
 	regiment = {
 		name="2nd Nakhon Si Thammarat Irregulars"
 		type=irregular

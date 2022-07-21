@@ -1,6 +1,6 @@
-owner=CLM
-controller=CLM
-add_core=CLM
+owner=X45
+controller=X45
+add_core=X45
 trade_goods = grain
 life_rating = 35
 naval_base = 1

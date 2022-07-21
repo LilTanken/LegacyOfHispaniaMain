@@ -1,6 +1,6 @@
-owner=BHU
-controller=BHU
-add_core=BHU
+owner=SZC
+controller=SZC
+add_core=SZC
 add_core=CHI
 add_core=CWU
 trade_goods = timber
