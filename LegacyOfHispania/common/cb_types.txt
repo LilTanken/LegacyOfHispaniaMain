@@ -787,6 +787,7 @@ restore_america = {
 
     can_use = {
         NOT = { is_our_vassal = THIS }
+		NOT = { tag = CLM } 
 	THIS = {
 		            OR = {
 				primary_culture = yankee
