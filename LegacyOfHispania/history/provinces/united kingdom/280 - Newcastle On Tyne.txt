@@ -12,8 +12,9 @@ state_building=
 	building = cement_factory
 	upgrade = yes
 }
+state_building=
 {
-	level=1
+	level=2
 	building = clipper_shipyard
 	upgrade = yes
 }
