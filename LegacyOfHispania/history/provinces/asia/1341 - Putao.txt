@@ -3,5 +3,6 @@ controller=KWN
 add_core=IDO
 add_core=KCH
 add_core=KWN
+add_core=EIC
 trade_goods = timber
 life_rating = 31

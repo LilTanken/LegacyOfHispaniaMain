@@ -29,49 +29,49 @@
 
 	farmers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 32917
 	}
 
 	soldiers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 818
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 8273
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 597
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 1157
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 275
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 73
 	}

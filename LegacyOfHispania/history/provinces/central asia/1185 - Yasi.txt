@@ -1,6 +1,3 @@
-owner=KOK
-controller=KOK
-add_core=KOK
 add_core=SHY
 add_core=TKS
 trade_goods = wool

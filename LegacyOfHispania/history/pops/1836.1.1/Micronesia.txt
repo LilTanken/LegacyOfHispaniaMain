@@ -38,8 +38,8 @@
 1654 = {
 	farmers=
 	{
-		culture = yankee
-		religion = protestant
+		culture = japanese
+		religion = shinto
 		size= 7
 	}
 

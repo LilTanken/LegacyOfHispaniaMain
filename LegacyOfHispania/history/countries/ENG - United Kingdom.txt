@@ -31,6 +31,11 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
 
+# New Reforms
+debt_law = debtors_prisons
+penal_system = colonial_transportation
+border_policy = open_borders
+
 ruling_party = ENG_conservative
 upper_house = 
 {
@@ -84,7 +89,7 @@ market_structure = 1
 piston_steam_engine = 1
 high_pressure_steam_engine = 1
 interchangeable_parts = 1
-prestige=150
+prestige=140
 
 # Decisions
 1.1.1 = {

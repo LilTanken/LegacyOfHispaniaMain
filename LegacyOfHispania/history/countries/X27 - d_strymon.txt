@@ -1,6 +1,5 @@
 capital = 823
-primary_culture = dummy
-culture = dynamic-greek-culture-num5
+primary_culture = dynamic-greek-culture-num5
 culture = greek
 culture = zzz_religion_catholic
 religion = catholic
@@ -21,7 +20,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=none_voting
 upper_house_composition=party_appointed
 voting_system=first_past_the_post

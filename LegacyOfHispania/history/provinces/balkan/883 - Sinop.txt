@@ -1,6 +1,6 @@
-owner=ARM
-controller=ARM
-add_core=ARM
+owner=X23
+controller=X23
+add_core=X23
 add_core=BYZ
 add_core=GRE
 trade_goods = fish

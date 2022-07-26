@@ -224,27 +224,27 @@ PROV1600;Urumqi;;;;;;;;;;;;;;;;;x;;;;
 PROV2839;Gulf of Patience;;;;;;;;;;;;;;;;;x;;;;
 PROV2831;Soya Strait;;;;;;;;;;;;;;;;;x;;;;
 PROV2830;East Sea;;;;;;;;;;;;;;;;;x;;;;
-PROV1557;Xining;;;;;;;;;;;;;;;;;x;;;;
+PROV1557;Sining;;;;;;;;;;;;;;;;;x;;;;
 PROV2329;Araucanía;;;;;;;;;;;;;;;;;x;;;;
 PROV2326;Aconcagua;;;;;;;;;;;;;;;;;x;;;;
 PROV2244;Christimas & Cocos;;;;;;;;;;;;;;;;;x;;;;
 PROV2406;Hoko;;;;;;;;;;;;;;;;;x;;;;
-PROV2113;uMgungundlovu;;;;;;;;;;;;;;;;;x;;;;
+PROV2113;Richard's Bay;;;;;;;;;;;;;;;;;x;;;;
 PROV2110;Tsaneng;;;;;;;;;;;;;;;;;x;;;;
 PROV2058;Moyo;;;;;;;;;;;;;;;;;x;;;;
 PROV2050;Manjakazi;;;;;;;;;;;;;;;;;x;;;;
 POR_2049;Gaza;;;;;;;;;;;;;;;;;x;;;;
 PROV2049;Inkomati;;;;;;;;;;;;;;;;;x;;;;
 POR_2060;Moçambique;;;;;;;;;;;;;;;;;x;;;;
-PROV2088;O'okiep;;;;;;;;;;;;;;;;;x;;;;
-PROV2558;Emthanjeni;;;;;;;;;;;;;;;;;x;;;;
-PROV2093;Hantam;;;;;;;;;;;;;;;;;x;;;;
+PROV2088;Port Nolloth;;;;;;;;;;;;;;;;;x;;;;
+PROV2558;Wentworth;;;;;;;;;;;;;;;;;x;;;;
+PROV2093;Sutherland;;;;;;;;;;;;;;;;;x;;;;
 PROV2084;Nomabeb;;;;;;;;;;;;;;;;;x;;;;
 PROV2081;Luhonono;;;;;;;;;;;;;;;;;x;;;;
 PROV2082;Epako;;;;;;;;;;;;;;;;;x;;;;
 PROV2080;Otjivanda;;;;;;;;;;;;;;;;;x;;;;
 PROV1788;Kahone;;;;;;;;;;;;;;;;;x;;;;
-PROV1540;Nantong;;;;;;;;;;;;;;;;;;;;;;;x
+PROV1540;Nantung;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2526;Palmyra and Line Islands;;;;;;;;;;;;;;;;;;;;;;;x
 TIB_1591;Tibetan Plateau;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2482;Tasmania;;;;;;;;;;;;;;;;;;;;;;;x
@@ -269,7 +269,7 @@ PROV3236;Anam a Cheper;;;;;;;;;;;;x
 PROV641;Pest;;;;;;;;;;;;x
 PROV2637;Vyon;;;;;;;;;;;;x
 PROV2632;Kwangchowan;;;;;;;;;;;;x
-PROV1495;Maoming;;;;;;;;;;;;x
+PROV1495;Mowming;;;;;;;;;;;;x
 PROV1644;Meakan;;;;;;;;;;;;x
 PROV1443;Rote;;;;;;;;;;;;x
 PROV2224;Antigua & Barbuda;;;;;;;;;;;;x
@@ -403,16 +403,16 @@ PROV82;Grande Ronde;;;;;;;;;;;;;;;;;;;;x;
 PROV81;Oregon City;;;;;;;;;;;;;;;;;;;;x;
 PROV83;Puerto Jiménez;;;;;;;;;;;;;;;;;;;;x;
 PROV78;Fuerte Nuno;;;;;;;;;;;;;;;;;;;;x;
-PROV2101;Thaba Nchu;;;;;;;;;;;;;;;;;;;;x;
-PROV2102;Qwa-Qwa;;;;;;;;;;;;;;;;;;;;x;
-PROV2103;Lephoi;;;;;;;;;;;;;;;;;;;;x;
-PROV2094;Griqualand;;;;;;;;;;;;;;;;;;;;x;
+PROV2101;Collingham;;;;;;;;;;;;;;;;;;;;x;
+PROV2102;Hibernia;;;;;;;;;;;;;;;;;;;;x;
+PROV2103;Philippolis;;;;;;;;;;;;;;;;;;;;x;
+PROV2094;Kimberley;;;;;;;;;;;;;;;;;;;;x;
 TRN_2108;Tky-Gariep;;;;;;;;;;;;;;;;;;;;x;
 PROV2107;Makwasi;;;;;;;;;;;;;;;;;;;;x;
 PROV2106;Saan;;;;;;;;;;;;;;;;;;;;x;
 PROV2105;Ga-Rankuwa;;;;;;;;;;;;;;;;;;;;x;
 PROV2109;Ga-Riba;;;;;;;;;;;;;;;;;;;;x;
-PROV2112;Emnambithi;;;;;;;;;;;;;;;;;;;;x;
+PROV2112;Newcastle;;;;;;;;;;;;;;;;;;;;x;
 ORA_2103;Basutoland;;;;;;;;;;;;;;;;;;;;x;
 ZUL_2113;Zululand;;;;;;;;;;;;;;;;;;;;x;
 PROV1152;Jeddah;;;;;;;;;;;;x
@@ -531,10 +531,10 @@ NET_1447;Moluccas;;;;;;;;;;;;x
 NET_1449;Celebes;;;;;;;;;;;;x
 CHI_1465;Eastern Mongolia;;;;;;;;;;;;x
 CHI_1468;Western Mongolia;;;;;;;;;;;;x
-CHI_1470;South Anhui;;;;;;;;;;;;x
-CHI_1477;North Anhui;;;;;;;;;;;;x
+CHI_1470;Anking;;;;;;;;;;;;x
+CHI_1477;Taiping;;;;;;;;;;;;x
 CHI_1479;Fengtian;;;;;;;;;;;;x
-CHI_1482;Fujian;;;;;;;;;;;;x
+CHI_1482;Foochow;;;;;;;;;;;;x
 CHI_1485;Taiwan;;;;;;;;;;;;x
 CHI_1490;Gansu;;;;;;;;;;;;x
 CHI_1493;East Canton;;;;;;;;;;;;x
@@ -546,30 +546,30 @@ CHI_1508;East Henan;;;;;;;;;;;;x
 CHI_1510;West Henan;;;;;;;;;;;;x
 CHI_1519;West Hubei;;;;;;;;;;;;x
 CHI_1522;East Hubei;;;;;;;;;;;;x
-PROV1523;Xiangyang;;;;;;;;;;;;x
-CHI_1524;North Hunan;;;;;;;;;;;;x
-CHI_1526;South Hunan;;;;;;;;;;;;x
-CHI_1532;Inner Mongolia;;;;;;;;;;;;x
-CHI_1540;North Jiangsu;;;;;;;;;;;;x
-PROV1542;Xuzhou;;;;;;;;;;;;x
+PROV1523;Siangyang;;;;;;;;;;;;x
+CHI_1524;Changte;;;;;;;;;;;;x
+CHI_1526;Paotsing;;;;;;;;;;;;x
+CHI_1532;Kweihua;;;;;;;;;;;;x
+CHI_1540;Nantung;;;;;;;;;;;;x
+PROV1542;Suchow;;;;;;;;;;;;x
 CHI_1545;North Jiangxi;;;;;;;;;;;;x
-CHI_1547;South Jiangxi;;;;;;;;;;;;x
+CHI_1547;Chian;;;;;;;;;;;;x
 CHI_1552;Heilongjiang;;;;;;;;;;;;x
 CHI_1555;Kirin;;;;;;;;;;;;x
-PROV1559;Xian;;;;;;;;;;;;x
-CHI_1559;Shaanxi;;;;;;;;;;;;x
+PROV1559;Sian;;;;;;;;;;;;x
+CHI_1559;Sian;;;;;;;;;;;;x
 CHI_1563;West Shandong;;;;;;;;;;;;x
-CHI_1565;East Shandong;;;;;;;;;;;;x
+CHI_1565;Laichow;;;;;;;;;;;;x
 CHI_1572;Shanxi;;;;;;;;;;;;x
-CHI_1578;West Sichuan;;;;;;;;;;;;x
-CHI_1579;East Sichuan;;;;;;;;;;;;x
+CHI_1578;Sichuan;;;;;;;;;;;;x
+CHI_1579;Paotung;;;;;;;;;;;;x
 CHI_1594;Kashgar;;;;;;;;;;;;x
 CHI_1600;Urumqui;;;;;;;;;;;;x
 CHI_1601;Yunnan;;;;;;;;;;;;x
-CHI_1604;North Zhejiang;;;;;;;;;;;;x
-CHI_1610;South Zhejiang;;;;;;;;;;;;x
-PROV1612;Baoding;;;;;;;;;;;;x
-CHI_1612;Hebei;;;;;;;;;;;;x
+CHI_1604;Hangchow;;;;;;;;;;;;x
+CHI_1610;Taichow;;;;;;;;;;;;x
+PROV1612;Paoting;;;;;;;;;;;;x
+CHI_1612;Paoting;;;;;;;;;;;;x
 PROV1616;Peking;;;;;;;;;;;;x
 CHI_1616;Shuntian;;;;;;;;;;;;x
 PROV1643;Ishikari;;;;;;;;;;;;x
@@ -653,7 +653,7 @@ PROV2148;Albuquerque;;;;;;;;;;;;x
 PROV231;Camden;;;;;;;;;;;;x
 UCA_2191;El Salvador;;;;;;;;;;;;x
 UCA_2193;Honduras;;;;;;;;;;;;x
-CHI_2221;South Jiangsu;;;;;;;;;;;;x
+CHI_2221;Nanking;;;;;;;;;;;;x
 NET_2235;Leeward Antilles;;;;;;;;;;;;x
 PEU_2308;Arica;;;;;;;;;;;;x
 BOL_2309;Antofagasta;;;;;;;;;;;;x
@@ -761,8 +761,8 @@ NET_1449;Celebes;;;;;;;;;;;;x
 CHI_1465;Eastern Mongolia;;;;;;;;;;;;x
 CHI_1468;Western Mongolia;;;;;;;;;;;;x
 PROV1469;Uriankhai;;;;;;;;;;;;x
-CHI_1470;South Anhui;;;;;;;;;;;;x
-CHI_1477;North Anhui;;;;;;;;;;;;x
+CHI_1470;Anking;;;;;;;;;;;;x
+CHI_1477;Taiping;;;;;;;;;;;;x
 CHI_1479;Fengtian;;;;;;;;;;;;x
 CHI_1482;Fujian;;;;;;;;;;;;x
 CHI_1485;Formosa;;;;;;;;;;;;x
@@ -776,27 +776,27 @@ CHI_1508;East Henan;;;;;;;;;;;;x
 CHI_1510;West Henan;;;;;;;;;;;;x
 CHI_1519;West Hubei;;;;;;;;;;;;x
 CHI_1522;East Hubei;;;;;;;;;;;;x
-PROV1523;Xiangyang;;;;;;;;;;;;x
-CHI_1524;North Hunan;;;;;;;;;;;;x
-CHI_1526;South Hunan;;;;;;;;;;;;x
-CHI_1532;Inner Mongolia;;;;;;;;;;;;x
-PROV1542;Xuzhou;;;;;;;;;;;;x
+PROV1523;Siangyang;;;;;;;;;;;;x
+CHI_1524;Changte;;;;;;;;;;;;x
+CHI_1526;Paotsing;;;;;;;;;;;;x
+CHI_1532;Kweihua;;;;;;;;;;;;x
+PROV1542;Suchow;;;;;;;;;;;;x
 CHI_1545;North Jiangxi;;;;;;;;;;;;x
-CHI_1547;South Jiangxi;;;;;;;;;;;;x
+CHI_1547;Chian;;;;;;;;;;;;x
 CHI_1552;Heilongjiang;;;;;;;;;;;;x
 CHI_1555;Kirin;;;;;;;;;;;;x
-PROV1559;Xian;;;;;;;;;;;;x
-CHI_1559;Shaanxi;;;;;;;;;;;;x
+PROV1559;Sian;;;;;;;;;;;;x
+CHI_1559;Sian;;;;;;;;;;;;x
 CHI_1563;West Shandong;;;;;;;;;;;;x
 CHI_1565;East Shandong;;;;;;;;;;;;x
 CHI_1572;Shanxi;;;;;;;;;;;;x
-CHI_1578;West Sichuan;;;;;;;;;;;;x
-CHI_1579;East Sichuan;;;;;;;;;;;;x
+CHI_1578;Sichuan;;;;;;;;;;;;x
+CHI_1579;Paotung;;;;;;;;;;;;x
 CHI_1594;Kashgar;;;;;;;;;;;;x
 CHI_1600;Urumqui;;;;;;;;;;;;x
 CHI_1601;Yunnan;;;;;;;;;;;;x
-CHI_1604;North Zhejiang;;;;;;;;;;;;x
-CHI_1610;South Zhejiang;;;;;;;;;;;;x
+CHI_1604;Hangchow;;;;;;;;;;;;x
+CHI_1610;Taichow;;;;;;;;;;;;x
 PROV1612;Baoding;;;;;;;;;;;;x
 CHI_1612;Baoding;;;;;;;;;;;;x
 PROV1616;Peking;;;;;;;;;;;;x
@@ -979,7 +979,7 @@ PROV1461;Samaru;x
 PROV1462;Sanboanga;x
 PROV1463;Taguroku;x
 PROV1464;Suru;x
-PROV2565;Sebu;x
+PROV2565;Sibu;x
 PROV2599;Hodetaru;x
 PROV1619;Heijo;x
 PROV1620;Neihen;x
@@ -1044,3 +1044,93 @@ PROV161;Manitowoc;x
 PROV172;Shipshewana;x
 PROV171;Mishawaka;x
 PROV180;Maumee;x
+PROV139;Nueva Algarve;x
+PROV1654;Iwo Jima;x
+PROV2100;Port St. Johns;x
+PROV2104;Basutoland;x
+PROV2097;Aberdeen;x
+PROV2098;Port Rex;x
+PROV2099;King William's Town;x
+PROV2221;Nanking;x
+PROV1608;Ningpo;x
+PROV1482;Foochow;x
+PROV1577;Chungking;x
+PROV1565;Laichow;x
+PROV1617;Tientsin;x
+PROV1613;Chengte;x
+PROV1576;Tatung;x
+PROV1532;Kweihua;x
+PROV1618;Chonting;x
+PROV1615;Tsichow;x
+PROV1614;Taming;x
+PROV1563;Tsinan;x
+PROV1573;Fenchow;x
+PROV1515;Weihwei;x
+PROV1511;Chengchow;x
+PROV1564;Tsaochow;x
+PROV1567;Tsingchow;x
+PROV1566;Tsingtao;
+PROV1571;Yechow;x
+PROV1536;Hwaian;x
+PROV1476;Sichow;x
+PROV1543;Yangchow;x
+PROV1541;Tungchow;x
+PROV1544;Chinkiang;x
+PROV1537;Changchow;x
+PROV1539;Soochow;x
+PROV1606;Kiahsing;x
+PROV1605;Huchow;x
+PROV1604;Hangchow;x
+PROV1609;Shaohsing;x
+PROV1610;Taichow;x
+PROV1607;Kinhwa;x
+PROV1611;Wenchow;x
+PROV1483;Kienning;x
+PROV1486;Tingchow;x
+PROV1484;Chinchew;x
+PROV1487;Changchow;x
+PROV1494;Teochew;x
+PROV1497;Huichow;x
+PROV1501;Shiuhing;x
+PROV1504;Pinglo;x
+PROV1500;Shaochow;x
+PROV1550;Kanchow;x
+PROV1548;Chienchang;x
+PROV1547;Chian;x
+PROV1527;Hengchow;x
+PROV1530;Yungchow;x
+PROV1526;Paotsing;x
+PROV1507;Chenyuan;x
+PROV1503;Kweilin;x
+PROV1546;Kwangchin;x
+PROV1551;Raochow;x
+PROV1549;Kew Keang;x
+PROV1528;Yuechow;x
+PROV1524;Changte;x
+PROV1529;Yungshun;x
+PROV1520;Kingchow;x
+PROV1518;Hwangchow;x
+PROV1470;Anking;x
+PROV1471;Chihchow;x
+PROV1473;Huichow;x
+PROV1475;Ningkwo;x
+PROV1474;Luchow;x
+PROV1478;Yingchow;x
+PROV1509;Kwite;x
+PROV1512;Chenchow;x
+PROV1517;Teian;x
+PROV2062;Shangchow;x
+PROV1562;Hanchung;x
+PROV1581;Kweichow;x
+PROV1583;Shuntsing;x
+PROV1579;Paotung;x
+PROV1580;Kiating;x
+PROV1578;Chengtu;x
+PROV1582;Lungan;x
+PROV1586;Yachow;x
+PROV1491;Ninghsia;x
+PROV1489;Kongshang;x
+PROV1490;Lanchow;x
+PROV1488;Chiayukwan;x
+PROV1002;Manchouli;x
+PROV1480;Chinchow;x

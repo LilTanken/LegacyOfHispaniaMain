@@ -1,5 +1,6 @@
-owner=CUB
-controller=CUB
+owner=ATC
+controller=ATC
+add_core=ATC
 trade_goods = cotton
 life_rating = 35
 terrain = new_world_plains

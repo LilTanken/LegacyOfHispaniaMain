@@ -3,6 +3,7 @@ controller=GUJ
 add_core=GUJ
 add_core=HND
 add_core=SIN
+add_core=EIC
 trade_goods = fruit
 life_rating = 35
 naval_base = 1
