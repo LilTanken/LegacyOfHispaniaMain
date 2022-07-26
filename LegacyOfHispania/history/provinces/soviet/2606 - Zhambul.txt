@@ -1,8 +1,2 @@
-owner=RUS
-controller=KOK
-add_core=SHY
-add_core=TKS
 trade_goods = coal
 life_rating = 30
-colonial=2
-fort = 1

@@ -21,7 +21,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=none_voting
 upper_house_composition=party_appointed
 voting_system=first_past_the_post
@@ -48,17 +48,16 @@ nonstate_consciousness= 1.1098
 
 # Technologies
 flintlock_rifles = 1
-post_napoleonic_thought = 1
-land_reform=yes_land_reform
-admin_reform=yes_admin_reform
+land_reform=no_land_reform
+admin_reform=no_admin_reform
 finance_reform=no_finance_reform
 education_reform=no_education_reform
 transport_improv=no_transport_improv
 pre_indust=no_pre_indust
 industrial_construction=no_industrial_construction
-foreign_training=yes_foreign_training
+foreign_training=no_foreign_training
 foreign_weapons=yes_foreign_weapons
-military_constructions=yes_military_constructions
+military_constructions=no_military_constructions
 foreign_officers=no_foreign_officers
 army_schools=no_army_schools
 foreign_naval_officers=no_foreign_naval_officers

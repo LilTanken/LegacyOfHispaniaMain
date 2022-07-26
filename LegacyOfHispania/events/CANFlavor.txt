@@ -51,7 +51,7 @@ country_event = {
         }
         any_pop = {
             limit = {
-                has_pop_culture = french_canadian
+                has_pop_culture = mexican
                 location = { is_core = QUE }
             }
             consciousness = 6
@@ -662,7 +662,7 @@ country_event = {
                 duration = 1095
             }
             any_pop = {
-                limit = { has_pop_culture = french_canadian }
+                limit = { has_pop_culture = mexican }
                 militancy = 6
                 consciousness = 6
             }
@@ -1794,7 +1794,7 @@ country_event = {
         set_country_flag = RielRebellionIgnored
         any_pop = {
             limit = {
-                has_pop_culture = french_canadian
+                has_pop_culture = mexican
             }
             militancy = 5
             consciousness = 3
@@ -1822,7 +1822,7 @@ country_event = {
         set_country_flag = RielRebellion
         any_pop = {
             limit = {
-                has_pop_culture = french_canadian
+                has_pop_culture = mexican
             }
             militancy = 1
             consciousness = 3

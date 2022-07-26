@@ -1,10 +1,12 @@
 owner=SIA
 controller=SIA
 add_core=BUR
+add_core=AVA
 add_core=IDO
 add_core=MNI
 add_core=SHA
 add_core=SIA
+add_core=EIC
 trade_goods = tropical_wood
 life_rating = 33
 fort = 1

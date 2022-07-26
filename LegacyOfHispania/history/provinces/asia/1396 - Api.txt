@@ -1,6 +1,5 @@
-owner=BNJ
-controller=BNJ
-add_core=BNJ
+owner=BRU
+controller=BRU
 add_core=BRU
 add_core=MLY
 trade_goods = grain

@@ -22,7 +22,7 @@
 
 	farmers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 1554
 	}
@@ -36,42 +36,42 @@
 
 	artisans=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 455
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 41
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 21
 	}
 
 	soldiers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 29
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 9
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 2
 	}
@@ -101,7 +101,7 @@
 
 	artisans=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 85
 	}
@@ -115,35 +115,35 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 289
 	}
@@ -173,7 +173,7 @@
 
 	artisans=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 23
 	}
@@ -187,42 +187,42 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 15
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = caribeno
 		religion = catholic
 		size= 333
 	}

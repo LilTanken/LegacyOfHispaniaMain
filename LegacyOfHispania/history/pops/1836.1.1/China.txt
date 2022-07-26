@@ -1122,56 +1122,56 @@
 1480 = {
 	slaves=
 	{
-		culture = beifaren
+		culture = manchu
 		religion = mahayana
 		size= 10559
 	}
 
 	soldiers=
 	{
-		culture = beifaren
+		culture = manchu
 		religion = mahayana
 		size= 4299
 	}
 
 	artisans=
 	{
-		culture = beifaren
+		culture = manchu
 		religion = mahayana
 		size= 6141
 	}
 
 	clergymen=
 	{
-		culture = beifaren
+		culture = manchu
 		religion = mahayana
 		size= 998
 	}
 
 	bureaucrats=
 	{
-		culture = beifaren
+		culture = manchu
 		religion = mahayana
 		size= 230
 	}
 
 	officers=
 	{
-		culture = beifaren
+		culture = manchu
 		religion = mahayana
 		size= 246
 	}
 
 	aristocrats=
 	{
-		culture = beifaren
+		culture = manchu
 		religion = mahayana
 		size= 1290
 	}
 
 	farmers=
 	{
-		culture = beifaren
+		culture = manchu
 		religion = mahayana
 		size= 129768
 	}

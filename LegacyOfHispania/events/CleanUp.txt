@@ -1770,6 +1770,8 @@ country_event = {
             tag = UBD
             tag = INO
             tag = IRE
+			tag = EIC
+			tag = SAF
         }
         NOT = { has_country_flag = post_colonial_country }
     }

@@ -1,4 +1,4 @@
-graphical_culture = Generic
+graphical_culture = SouthAmericanGC
 color = { 234 190 43 }
 
 party = {

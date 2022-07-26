@@ -1,4 +1,4 @@
-graphical_culture = Generic
+graphical_culture = BritishGC
 color = { 180  158  127 }
 
 party = {
