@@ -1,7 +1,7 @@
 capital = 425
-primary_culture = dynamic-cosmopolitan_french-greek-culture-num1
+primary_culture = french
 culture = breton
-culture = french
+culture = dynamic-cosmopolitan_french-greek-culture-num1
 culture = occitan
 culture = picard
 culture = rollonian

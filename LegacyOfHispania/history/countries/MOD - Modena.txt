@@ -1,5 +1,8 @@
 capital = 739
 primary_culture = dynamic-bavarian-italian-culture-num1
+culture = dynamic-bavarian-slovene-culture-num1
+culture = dynamic-bavarian-culture-num1
+culture = south_german
 culture = zzz_religion_protestant
 religion = protestant
 government = absolute_monarchy

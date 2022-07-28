@@ -1,6 +1,5 @@
-owner=SUN
-controller=FRA
+owner=MKS
+controller=MKS
 add_core=MKS
-add_core=SUN
 trade_goods = grain
 life_rating = 31

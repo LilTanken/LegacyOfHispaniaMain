@@ -1,5 +1,5 @@
-owner=SUN
-controller=SUN
-add_core=SUN
+owner=MKS
+controller=MKS
+add_core=MKS
 trade_goods = dye
 life_rating = 31

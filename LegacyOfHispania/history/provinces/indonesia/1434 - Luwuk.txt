@@ -1,2 +1,5 @@
+owner=MKS
+controller=MKS
+add_core=MKS
 trade_goods = fruit
 life_rating = 30

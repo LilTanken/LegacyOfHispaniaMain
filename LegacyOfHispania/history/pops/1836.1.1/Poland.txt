@@ -450,98 +450,98 @@
 682 = {
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 2890
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 1745
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 190
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 18
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 122
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 46776
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 358
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 2176
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 237
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 23
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 153
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 3344
 	}
@@ -797,49 +797,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 3428
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 12768
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1382
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 252
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 155
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1629
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 41164
 	}
@@ -995,49 +995,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1327
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 10449
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1120
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 134
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 119
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 940
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 9614
 	}
@@ -1795,98 +1795,98 @@
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 791
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 957
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 43
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 10
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 122
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 12365
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 772
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 2826
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 125
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 30
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 361
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 9708
 	}
@@ -1995,140 +1995,140 @@
 703 = {
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 807
 	}
 
 	craftsmen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 4136
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 1129
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 102
 	}
 
 	clerks=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 125
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 36
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 24
 	}
 
 	capitalists=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 99
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 11961
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 788
 	}
 
 	craftsmen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 4034
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 3332
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 301
 	}
 
 	clerks=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 368
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 105
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 70
 	}
 
 	capitalists=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 31
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 293
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 8267
 	}
@@ -2186,98 +2186,98 @@
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 1133
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 3727
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 227
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 82
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 55
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 264
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 32674
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1405
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 10819
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 660
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 238
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 159
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 767
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 32060
 	}
@@ -2286,98 +2286,98 @@
 705 = {
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 2950
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 6060
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 364
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 172
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 86
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 904
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 89628
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1599
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 12630
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 757
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 359
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 179
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1884
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 35421
 	}
@@ -2386,98 +2386,98 @@
 706 = {
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 3474
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 6190
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 905
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 179
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 75
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 511
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 107197
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 2794
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 16147
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 2360
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 467
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 195
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1330
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 67950
 	}
@@ -2733,98 +2733,98 @@
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 291
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 902
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 56
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 15
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 143
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 3360
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 1285
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 3992
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 247
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 68
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 60
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 634
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 14824
 	}
@@ -2933,98 +2933,98 @@
 710 = {
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 1281
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 190
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 32
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 225
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 31344
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 395
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 2992
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 443
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 76
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 50
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 526
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 7966
 	}
@@ -3129,42 +3129,42 @@
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = animist
 		size= 7
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = animist
 		size= 203
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = animist
 		size= 31
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = animist
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = animist
 		size= 35
 	}
@@ -3245,147 +3245,147 @@
 712 = {
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 1041
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 554
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 30
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 12
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 76
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = orthodox
 		size= 35275
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 957
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 7054
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 386
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 149
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 99
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 962
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = protestant
 		size= 101
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = protestant
 		size= 1327
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = protestant
 		size= 73
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = protestant
 		size= 28
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = protestant
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = protestant
 		size= 182
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = protestant
 		size= 1611
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num2
+		culture = polish
 		religion = catholic
 		size= 23837
 	}
@@ -3394,98 +3394,98 @@
 713 = {
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 2023
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 3746
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 239
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 134
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 60
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 313
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 60522
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1104
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 7836
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 501
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 281
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 125
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 655
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 24585
 	}
@@ -3543,98 +3543,98 @@
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 1222
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 4281
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 251
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 88
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 59
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 307
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 36280
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1515
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 12430
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 729
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 255
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 170
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 892
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 35598
 	}
@@ -3743,98 +3743,98 @@
 716 = {
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 1598
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 3003
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 192
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 107
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 47
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 249
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 48267
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1562
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 8871
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 564
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 316
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 140
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 736
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 38538
 	}
@@ -3941,98 +3941,98 @@
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 1357
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 1106
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 128
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 17
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 92
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = orthodox
 		size= 15069
 	}
 
 	soldiers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 1378
 	}
 
 	artisans=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 3353
 	}
 
 	clergymen=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 386
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 51
 	}
 
 	officers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 57
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 277
 	}
 
 	farmers=
 	{
-		culture = dynamic-polish-culture-num1
+		culture = polish
 		religion = catholic
 		size= 12259
 	}
