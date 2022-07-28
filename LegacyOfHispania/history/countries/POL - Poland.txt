@@ -1,7 +1,5 @@
 capital = 635
 primary_culture = polish
-culture = dynamic-polish-culture-num1
-culture = hungarian
 culture = slovak
 culture = zzz_religion_orthodox
 religion = orthodox

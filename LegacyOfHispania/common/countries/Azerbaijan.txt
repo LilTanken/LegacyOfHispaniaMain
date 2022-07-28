@@ -1,4 +1,4 @@
-graphical_culture = Generic
+graphical_culture = MiddleEasternGC
 color = { 56 32 172}
 
 party = {

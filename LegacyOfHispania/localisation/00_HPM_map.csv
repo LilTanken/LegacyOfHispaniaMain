@@ -115,7 +115,7 @@ PROV49;Rat Portage;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV52;Orillia;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV75;Port-Aux-Basques;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV69;Petit-Sault;;;;;;;;;;;;x
-PROV683;Waldenburg;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV683;Walbrzych;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV43;Clarksville;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV134;Fort Parker;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV135;Llano Estacado;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -157,7 +157,7 @@ PROV2623;Minazukijima;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2524;Hamilton;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV579;Neuwied;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV574;Koblenz;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV547;Greifswald;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV547;Graifsvald;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV57;Bytown;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2036;Mzizima;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2681;Taihoku;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -1134,3 +1134,40 @@ PROV1490;Lanchow;x
 PROV1488;Chiayukwan;x
 PROV1002;Manchouli;x
 PROV1480;Chinchow;x
+PROV1887;Carloffhavn;x
+PROV1888;Rasmusborg;x
+PROV573;Sarre;x
+PROV685;Katowice;x
+PROV699;Poznan;x
+PROV700;Bydgoszcz;x
+PROV690;Gdansk;x
+PROV691;Tuchola;x
+PROV680;Koszalin;x
+PROV692;Walcz;x
+PROV679;Kolobrzeg;x
+PROV681;Kostrzyn nad Odra;x
+PROV546;Szczecin;x
+PROV682;Wroclaw;x
+PROV684;Opole;x
+PROV558;Drezno;x
+PROV545;Strelci;x
+PROV561;Veymar;x
+PROV544;Shverin;x
+PROV552;Chocebuz;x
+PROV556;Sala;x
+PROV559;Lipsk;x
+PROV550;Premyslaw;x
+PROV544;Zwierzyn;x
+PROV561;Vimar;x
+PROV564;Francfort;x
+PROV535;Nienbourg;x
+PROV566;Cassel;x
+PROV580;Trémonie;x
+PROV584;Corbach;x
+PROV541;Cloppenbourg;x
+PROV532;Lünebourg;x
+PROV528;Hambourg;x
+PROV529;Lauenbourg;x
+PROV2561;Siegbourg;x
+PROV596;Achaffenbourg;x
+PROV597;Wuersbourg;x

@@ -1791,8 +1791,8 @@ recognize_puerto_rico_title;Recognize Puerto Rican Independence;;;;;;;;;;;;;
 recognize_puerto_rico_desc;The Puerto Ricans have established themselves as a free country, and it falls on the Americans as descendants of the Sons of Liberty to officially recognize their independence and encourage their growth as American allies.;;;;;;;;;;;;;
 recognize_cuba_title;Recognize Cuban Independence;;;;;;;;;;;;;
 recognize_cuba_desc;The Cubans have established themselves as a free country, and it falls on the Americans as descendants of the Sons of Liberty to officially recognize their independence and encourage their growth as American allies.;;;;;;;;;;;;;
-recognize_phillipines_title;Recognize Filipino Independence;;;;;;;;;;;;;
-recognize_phillipines_desc;The Filipinos have established themselves as a free country, and it falls on the Americans as descendants of the Sons of Liberty to officially recognize their independence and encourage their growth as American allies.;;;;;;;;;;;;;
+recognize_phillipines_title;Recognize Mayian Independence;;;;;;;;;;;;;
+recognize_phillipines_desc;The Mayians have established themselves as a free country, and it falls on the Americans as descendants of the Sons of Liberty to officially recognize their independence and encourage their growth as American allies.;;;;;;;;;;;;;
 reform_CSA_title;Form the New Confederacy;;;;;;;;;;;;;
 reform_CSA_desc;If the North will not stand for truth and justice, then the South shall rise and take its place!;;;;;;;;;;;;;
 join_new_CSA_title;Join the Confederacy;;;;;;;;;;;;;
@@ -1991,3 +1991,5 @@ ghost_country_absorb_player_title;AI: Player Country Cleanup End;;;;;;;;;;;;;
 ghost_country_absorb_player_desc;AI: Player Country Cleanup End;;;;;;;;;;;;;
 claim_vorarlberg_title;Our claims on Vorarlberg;;;;;;;;;;;;;
 claim_vorarlberg_desc;The people of Vorarlberg are our brothers and for too long they have been under the foreign yoke. It is time for all the Swiss to live under the protection of mother Switzerland!;;;;;;;;;;;;;
+form_alpine_title;Form the Alpinereich;x
+form_alpine_desc;We have, at long last, consolidated control over the Alpine region. Banished from our northern lands centuries ago by the Lotharingian menace, those that remained were subjected to over 1000 years of ruthless assimilation, leaving the natives of Germania a minority within their own land. Those that refused to submit, however, escaped southward into the Alps and Emilia. The German people, once on the verge of annihilation, have rebounded and now rule over an impenetrable mountain kingdom.;x
