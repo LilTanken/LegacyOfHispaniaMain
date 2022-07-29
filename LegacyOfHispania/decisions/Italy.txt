@@ -1512,6 +1512,9 @@ political_decisions = {
 			change_tag = SGF
 			capital = 603
 			all_core = { add_core = SGF }
+			add_country_modifier = {
+				name = ghettos_and_propaganda
+				duration = 7305
 			}
 		
 		ai_will_do = {
