@@ -97,9 +97,20 @@ IRE_fascist;The Blueshirts;;;;;;;;;;;;;
 IRE_communist;Communist Party of Ireland;;;;;;;;;;;;;
 IRE_conservative;Irish Conservative Party;;;;;;;;;;;;;
 AST_fascist;New Guard;;;;;;;;;;;;;
+<<<<<<< Updated upstream
 SGF;Großalpenreich;x
 SGF_absolute_monarchy;Großalpenreich;x
 SGF_ADJ;Alpenländische;;;;;;;;;;;;;
+=======
+SGF_ADJ;Alpine German;;;;;;;;;;;;;
+SGF_liberal;Alpinesrepublik;;;;;;;;;;;;;
+SGF_conservative;Alpineriech;;;;;;;;;;;;;
+SGF_reactionary;Alpineriech;;;;;;;;;;;;;
+SGF_socialist;Alpinesvolkrepublik;;;;;;;;;;;;;
+SGF_communist;Spartakus Alpinia;;;;;;;;;;;;;
+SGF_fascist;Alpinesuberriech;;;;;;;;;;;;;
+SGF_anarcho_liberal;Alpinebereichia;;;;;;;;;;;;;
+>>>>>>> Stashed changes
 alaskan;Alaskan;;;;;;;;;;;;;
 USA_conservative_2;Democrats;;;;;;;;;;;;;
 USA_conservative_4;Democratic Party;;;;;;;;;;;;;
