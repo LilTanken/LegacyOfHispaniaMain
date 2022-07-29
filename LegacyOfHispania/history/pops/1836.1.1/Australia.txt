@@ -1986,28 +1986,28 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 1533
+		size= 1541
 	}
 
 	artisans=
 	{
 		culture = australian
 		religion = protestant
-		size= 182
+		size= 207
 	}
 
 	clergymen=
 	{
 		culture = australian
 		religion = protestant
-		size= 30
+		size= 33
 	}
 
 	bureaucrats=
 	{
 		culture = australian
 		religion = protestant
-		size= 9
+		size= 10
 	}
 
 	officers=
@@ -2021,7 +2021,7 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 38
+		size= 43
 	}
 
 	farmers=

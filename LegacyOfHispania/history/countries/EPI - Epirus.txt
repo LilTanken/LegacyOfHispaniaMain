@@ -1,5 +1,7 @@
 capital = 837
 primary_culture = dynamic-greek-culture-num6
+culture = greek
+culture = dynamic-greek-culture-num5
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

@@ -1,5 +1,5 @@
 color = { 193  179  127 }
-graphical_culture = Generic
+graphical_culture = AsianGC
 
 party = {
 	name = "CRI_conservative"

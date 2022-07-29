@@ -1,4 +1,4 @@
-graphical_culture = EuropeanGC
+graphical_culture = RussianGC
 color = { 250 241 19 }
 
 party = {

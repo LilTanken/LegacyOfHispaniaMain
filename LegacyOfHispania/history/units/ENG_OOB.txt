@@ -406,8 +406,9 @@ POL = {
 	level = 2
 }
 POT = {
-	value = 0
-	level = 2
+	value = 100
+	military_access = yes
+	level = 5
 }
 PRU = {
 	value = 0

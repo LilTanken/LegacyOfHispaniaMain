@@ -1,6 +1,7 @@
 owner=MOD
 controller=MOD
 add_core=MOD
+add_core=SGF
 trade_goods = iron
 life_rating = 35
 fort = 1

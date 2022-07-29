@@ -1,4 +1,4 @@
-graphical_culture = Generic
+graphical_culture = AsianGC
 color = { 92 87 122}
 
 party = {

@@ -97,7 +97,9 @@ IRE_fascist;The Blueshirts;;;;;;;;;;;;;
 IRE_communist;Communist Party of Ireland;;;;;;;;;;;;;
 IRE_conservative;Irish Conservative Party;;;;;;;;;;;;;
 AST_fascist;New Guard;;;;;;;;;;;;;
-SGF_ADJ;South German;;;;;;;;;;;;;
+SGF;Groﬂalpenreich;x
+SGF_absolute_monarchy;Groﬂalpenreich;x
+SGF_ADJ;Alpenl‰ndische;;;;;;;;;;;;;
 alaskan;Alaskan;;;;;;;;;;;;;
 USA_conservative_2;Democrats;;;;;;;;;;;;;
 USA_conservative_4;Democratic Party;;;;;;;;;;;;;
@@ -1636,15 +1638,15 @@ MLY_hms_government;Malay Federation;;;;;;;;;;;;;
 MLY_absolute_monarchy_ADJ;Malay;;;;;;;;;;;;;
 MLY_prussian_constitutionalism_ADJ;Malay;;;;;;;;;;;;;
 MLY_hms_government_ADJ;Malay;;;;;;;;;;;;;
-MOD_reactionary;Restaurazionisti;Restaurazionisti;Restaurazionisti;;Restaurazionis ti;;;;;;;;;
-MOD_conservative;Moderati ;Moderati ;Moderati;;Moderati ;;;;;;;;;
-MOD_liberal;Riformisti ;Riformisti ;Riformisti;;Riformisti ;;;;;;;;;
-MOD_liberal_2;Liberali;Liberali;Liberali;;Liberali ;;;;;;;;;
-MOD_socialist;Socialisti;Socialisti;Socialisti;;Socialisti;;;;;;;;;
-MOD_conservative_2;Popolari;Popolari;Popolari;;Pop olari;;;;;;;;;
-MOD_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;
-MOD_communist;Comunisti;Comunisti;Comunisti;;Comunisti;;;;;;;;;
-MOD_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;
+MOD_reactionary;Restauratoren;x
+MOD_conservative;Konservative;x
+MOD_liberal;Reformisten;x
+MOD_liberal_2;Liberale Partei;x
+MOD_socialist;Sozialistisch;x
+MOD_conservative_2;Patriotische Partei;x
+MOD_anarcho_liberal;Radikale;x
+MOD_communist;Kommunisten;x
+MOD_fascist;Nationale Rettung;x
 MOZ;Mozambique;;;;;;;;;;;;;
 MOZ_ADJ;Mozambican;;;;;;;;;;;;;
 MOZ_liberal;Social Liberal Party;;;;;;;;;;;;;

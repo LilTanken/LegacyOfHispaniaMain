@@ -1,6 +1,3 @@
-owner=PER
-controller=PER
-add_core=PER
 add_core=TKS
 trade_goods = wool
-life_rating = 35
+life_rating = 30

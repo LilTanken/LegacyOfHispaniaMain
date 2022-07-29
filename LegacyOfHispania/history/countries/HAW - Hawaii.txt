@@ -1,7 +1,7 @@
 capital = 658
 primary_culture = polynesian
-culture = zzz_religion_protestant
-religion = protestant
+culture = zzz_religion_shinto
+religion = shinto
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition

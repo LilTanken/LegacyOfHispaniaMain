@@ -109,7 +109,7 @@ DLM = {
 	level = 2
 }
 ENG = {
-	value = 0
+	value = 50
 	level = 2
 }
 EPI = {
@@ -565,7 +565,7 @@ ZUL = {
 #Leaders
 leader = {
 	name="Scomack Secawgo"
-	date="1767.4.29"
+	date="1835.4.29"
 	type=land
 	personality="stalwart"
 	background="generals_aide"

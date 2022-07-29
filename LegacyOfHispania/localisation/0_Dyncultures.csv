@@ -16,7 +16,7 @@ dynamic-avadhi-culture-num1;Vodamayutjan;Vodamayutjan;Vodamayutjan;Vodamayutjan;
 dynamic-basque-occitain-culture-num1;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;Lengadoco-Basque;x
 dynamic-bavarian-culture-num1;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;Geisenhausian;x
 dynamic-bavarian-italian-culture-num1;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;Alpine-Geisenhausian;x
-dynamic-bavarian-slovene-culture-num1;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;Bavaro-Carantanian;x
+dynamic-bavarian-slovene-culture-num1;Ostgeisenhausian;x
 dynamic-bedouin_arabic-culture-num1;Wabarian;Wabarian;Wabarian;Wabarian;Wabarian;Wabarian;Wabarian;Wabarian;Wabarian;Wabarian;Wabarian;Wabarian;Wabarian;x
 dynamic-bedouin_arabic-persian-culture-num1;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;Perso-Bedouin;x
 dynamic-bengali-gondi-culture-num1;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;Gond-Bengali;x
@@ -28,7 +28,7 @@ dynamic-buryat-culture-num1;Buryato-Uriankhai;Buryato-Uriankhai;Buryato-Uriankha
 dynamic-chihan-chihan-culture-num1;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;Sino-Shatuo;x
 dynamic-chihan-chihan-culture-num2;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;Tuyuhuno-Han;x
 dynamic-chihan-culture-num1;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;Sumpo-Tuyuhun;x
-dynamic-cosmopolitan_french-culture-num1;Rhinelander;Rhinelander;Rhinelander;Rhinelander;Rhinelander;Rhinelander;Rhinelander;Rhinelander;Rhinelander;Rhinelander;Rhinelander;Rhinelander;Rhinelander;x
+dynamic-cosmopolitan_french-culture-num1;Rhinefrancois;x
 dynamic-cosmopolitan_french-culture-num2;Troyesian;Troyesian;Troyesian;Troyesian;Troyesian;Troyesian;Troyesian;Troyesian;Troyesian;Troyesian;Troyesian;Troyesian;Troyesian;x
 dynamic-cosmopolitan_french-greek-culture-num1;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;Franco-Greek;x
 dynamic-croatian-culture-num1;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;Slovieno-Croatian;x
@@ -43,7 +43,7 @@ dynamic-greek-culture-num5;Burgasan;Burgasan;Burgasan;Burgasan;Burgasan;Burgasan
 dynamic-greek-culture-num6;Avlonasian;Avlonasian;Avlonasian;Avlonasian;Avlonasian;Avlonasian;Avlonasian;Avlonasian;Avlonasian;Avlonasian;Avlonasian;Avlonasian;Avlonasian;x
 dynamic-greek-culture-num7;Phrygian;Phrygian;Phrygian;Phrygian;Phrygian;Phrygian;Phrygian;Phrygian;Phrygian;Phrygian;Phrygian;Phrygian;Phrygian;x
 dynamic-highland_scottish-norse-culture-num1;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;Norse-Gael;x
-dynamic-hungarian-culture-num1;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;Székelyföldian;x
+dynamic-hungarian-culture-num1;Szekelyfeldish;x
 dynamic-kannada-sinhala-culture-num1;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;Kannada-Sinhala;x
 dynamic-kashmiri-saka-culture-num1;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;Kashmiri-Saka;x
 dynamic-kashmiri-zhangzhung-culture-num1;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;Zhangzhungo-Kashmiri;x
@@ -79,7 +79,7 @@ dynamic-samoyed-karelian-culture-num1;Bjarmo-Vepsian;Bjarmo-Vepsian;Bjarmo-Vepsi
 dynamic-sapmi-culture-num1;Sombian;Sombian;Sombian;Sombian;Sombian;Sombian;Sombian;Sombian;Sombian;Sombian;Sombian;Sombian;Sombian;x
 dynamic-sapmi-culture-num2;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;Jåhkåmåhkkian;x
 dynamic-sapmi-swedish-culture-num1;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;Sombian-Swedish;x
-dynamic-saxon-culture-num1;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;Lüneburgian;x
+dynamic-saxon-culture-num1;Luneburgian;Luneburgian;Luneburgian;Luneburgian;Luneburgian;Luneburgian;Luneburgian;Luneburgian;Luneburgian;Luneburgian;Luneburgian;Luneburgian;Luneburgian;x
 dynamic-senegambian-culture-num1;Wulian;Wulian;Wulian;Wulian;Wulian;Wulian;Wulian;Wulian;Wulian;Wulian;Wulian;Wulian;Wulian;x
 dynamic-senegambian-fulani-culture-num1;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;Mel-Pulaar;x
 dynamic-sinhala-culture-num1;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;Tamil-Sinhala;x
@@ -90,7 +90,7 @@ dynamic-sorbian-culture-num1;Magdeburgian;Magdeburgian;Magdeburgian;Magdeburgian
 dynamic-sorbian-culture-num2;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;Magdeburgian-Franconian;x
 dynamic-sumpa-culture-num1;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;Sumpo-Saka;x
 dynamic-swabian-culture-num1;Bernian;Bernian;Bernian;Bernian;Bernian;Bernian;Bernian;Bernian;Bernian;Bernian;Bernian;Bernian;Bernian;x
-dynamic-swabian-culture-num2;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;Fürstenbergian;x
+dynamic-swabian-culture-num2;Furstenbergian;x
 dynamic-tangut-culture-num1;Dêgê;Dêgê;Dêgê;Dêgê;Dêgê;Dêgê;Dêgê;Dêgê;Dêgê;Dêgê;Dêgê;Dêgê;Dêgê;x
 dynamic-telegu-culture-num1;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;Tondai Nadu;x
 dynamic-tibetan-chihan-culture-num1;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;Qingtang-Han;x

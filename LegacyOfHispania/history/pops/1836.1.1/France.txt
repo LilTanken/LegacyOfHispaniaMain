@@ -499,98 +499,98 @@
 403 = {
 	soldiers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 5235
 	}
 
 	artisans=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 15478
 	}
 
 	clergymen=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 718
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 398
 	}
 
 	officers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 265
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 1393
 	}
 
 	farmers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 90315
 	}
 
 	soldiers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 978
 	}
 
 	artisans=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 3430
 	}
 
 	clergymen=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 159
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 88
 	}
 
 	officers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 59
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 309
 	}
 
 	farmers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 16228
 	}
@@ -841,98 +841,98 @@
 406 = {
 	soldiers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 1238
 	}
 
 	artisans=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 1884
 	}
 
 	clergymen=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 202
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 30
 	}
 
 	officers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 132
 	}
 
 	farmers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 23391
 	}
 
 	soldiers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 1763
 	}
 
 	artisans=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 7251
 	}
 
 	clergymen=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 777
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 114
 	}
 
 	officers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 124
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 508
 	}
 
 	farmers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 27798
 	}
@@ -1041,98 +1041,98 @@
 408 = {
 	soldiers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 3467
 	}
 
 	artisans=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 10251
 	}
 
 	clergymen=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 476
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 264
 	}
 
 	officers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 176
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 923
 	}
 
 	farmers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = catholic
 		size= 59815
 	}
 
 	soldiers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 647
 	}
 
 	artisans=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 2271
 	}
 
 	clergymen=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 105
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 58
 	}
 
 	officers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 204
 	}
 
 	farmers=
 	{
-		culture = dynamic-cosmopolitan_french-culture-num2
+		culture = french
 		religion = protestant
 		size= 10751
 	}
@@ -3040,98 +3040,98 @@
 425 = {
 	soldiers=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = catholic
 		size= 6222
 	}
 
 	artisans=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = catholic
 		size= 5817
 	}
 
 	clergymen=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = catholic
 		size= 936
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = catholic
 		size= 125
 	}
 
 	officers=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = catholic
 		size= 146
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = catholic
 		size= 576
 	}
 
 	farmers=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = catholic
 		size= 121574
 	}
 
 	soldiers=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = protestant
 		size= 8961
 	}
 
 	artisans=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = protestant
 		size= 22572
 	}
 
 	clergymen=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = protestant
 		size= 3630
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = protestant
 		size= 483
 	}
 
 	officers=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = protestant
 		size= 565
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = protestant
 		size= 2234
 	}
 
 	farmers=
 	{
-		culture = dynamic-cosmopolitan_french-greek-culture-num1
+		culture = french
 		religion = protestant
 		size= 155360
 	}

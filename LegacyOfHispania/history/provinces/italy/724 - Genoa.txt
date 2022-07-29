@@ -3,6 +3,7 @@ controller=MOD
 add_core=GEN
 add_core=ITA
 add_core=MOD
+add_core=SGF
 trade_goods = fruit
 life_rating = 40
 naval_base = 1

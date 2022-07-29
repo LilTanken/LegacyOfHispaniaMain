@@ -1,98 +1,98 @@
 612 = {
 	soldiers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 1476
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 321
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 104
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 101
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 30064
 	}
 
 	soldiers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 1452
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 2225
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 723
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 56
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 133
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 701
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 26268
 	}
@@ -101,49 +101,49 @@
 613 = {
 	soldiers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 223
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 780
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 36
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 10
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 70
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 21155
 	}
@@ -399,98 +399,98 @@
 615 = {
 	soldiers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 71
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 248
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 23
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 6726
 	}
 
 	soldiers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 76
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 1803
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 167
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 18
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 108
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 5379
 	}
@@ -599,98 +599,98 @@
 617 = {
 	soldiers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 1158
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 827
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 134
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 37
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 33
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 347
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 38811
 	}
 
 	soldiers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 374
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 1361
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 221
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 61
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 54
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 572
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-slovene-culture-num1
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 10703
 	}
@@ -797,98 +797,98 @@
 
 	soldiers=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 394
 	}
 
 	artisans=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 986
 	}
 
 	clergymen=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 92
 	}
 
 	bureaucrats=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 10
 	}
 
 	officers=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 59
 	}
 
 	farmers=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = catholic
 		size= 12531
 	}
 
 	soldiers=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 365
 	}
 
 	artisans=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 2812
 	}
 
 	clergymen=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 261
 	}
 
 	bureaucrats=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 28
 	}
 
 	officers=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 32
 	}
 
 	aristocrats=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 169
 	}
 
 	farmers=
 	{
-		culture = all_italian
+		culture = dynamic-bavarian-italian-culture-num1
 		religion = protestant
 		size= 9380
 	}

@@ -30,6 +30,7 @@ political_parties=gerrymandering
 
 # HPM reforms
 border_policy = open_borders
+debt_law = debtors_prisons
 
 ruling_party = CAN_liberal_1
 upper_house = 

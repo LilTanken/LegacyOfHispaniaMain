@@ -29,6 +29,10 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
 
+# HPM reforms
+debt_law = debtors_prisons
+border_policy = open_borders
+
 ruling_party = SPA_conservative
 upper_house = 
 {

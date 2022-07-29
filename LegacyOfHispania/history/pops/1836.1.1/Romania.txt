@@ -401,84 +401,84 @@
 654 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 155
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 1216
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 53
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 62
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 17508
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 205
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 4416
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 192
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 65
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 225
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 19516
 	}
@@ -687,98 +687,98 @@
 657 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 800
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 455
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 92
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 21
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 106
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 27891
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 1104
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 1709
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 346
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 79
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 396
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 36373
 	}
@@ -787,98 +787,98 @@
 659 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 467
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 196
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 48
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 13
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 76
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 16636
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 645
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 736
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 177
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 48
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 55
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 287
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 21695
 	}
@@ -887,98 +887,98 @@
 660 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 668
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 336
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 74
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 107
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 23383
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 885
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 1225
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 270
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 65
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 74
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 389
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 29329
 	}
@@ -987,98 +987,98 @@
 661 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 245
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 1844
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 87
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 121
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 25674
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 323
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 6696
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 314
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 94
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 42
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 439
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 28621
 	}
@@ -2702,98 +2702,98 @@
 2533 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 983
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 561
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 116
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 154
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 33110
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 1303
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 2047
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 424
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 94
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 107
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 562
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 41529
 	}
