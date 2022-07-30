@@ -1,6 +1,5 @@
 capital = 345
-primary_culture = dynamic-finnish-norse-culture-num1
-culture = finnish
+primary_culture = finnish
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy

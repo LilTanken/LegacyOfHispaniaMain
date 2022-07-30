@@ -4074,63 +4074,63 @@
 2399 = {
 	soldiers=
 	{
-		culture = patagonian
-		religion = animist
+		culture = platinean
+		religion = catholic
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = patagonian
-		religion = animist
+		culture = platinean
+		religion = catholic
 		size= 172
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 621
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 33
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 7
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 6
 	}
@@ -4139,63 +4139,63 @@
 2400 = {
 	soldiers=
 	{
-		culture = patagonian
-		religion = animist
+		culture = platinean
+		religion = catholic
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = patagonian
-		religion = animist
+		culture = platinean
+		religion = catholic
 		size= 180
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 631
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 14
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 7
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = patagonian
 		religion = catholic
 		size= 1
 	}

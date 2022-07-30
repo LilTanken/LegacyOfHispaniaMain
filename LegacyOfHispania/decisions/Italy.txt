@@ -1508,10 +1508,13 @@ political_decisions = {
 		}
 		
 		effect = {
-			prestige = 25
+			prestige = 40
 			change_tag = SGF
 			capital = 603
 			all_core = { add_core = SGF }
+		739 = { remove_core = MOD }
+        MOD = { all_core = { remove_core = MOD } }
+		}
 			add_country_modifier = {
 				name = ghettos_and_propaganda
 				duration = 7305

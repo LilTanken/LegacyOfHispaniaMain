@@ -1,6 +1,7 @@
 owner=ION
 controller=ION
 add_core=ION
+add_core=BYZ
 trade_goods = fruit
 life_rating = 34
 terrain = small_island

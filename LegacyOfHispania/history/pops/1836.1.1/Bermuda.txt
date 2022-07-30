@@ -8,21 +8,21 @@
 
 	soldiers=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = catholic
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = catholic
 		size= 830
 	}
 
 	artisans=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = catholic
 		size= 86
 	}
@@ -36,63 +36,63 @@
 
 	soldiers=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = protestant
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = protestant
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = protestant
 		size= 34
 	}
 
 	clergymen=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = catholic
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = hjartnaaeter
+		culture = norwegian
 		religion = catholic
 		size= 18
 	}

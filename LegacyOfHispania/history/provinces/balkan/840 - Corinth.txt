@@ -1,5 +1,6 @@
 owner=ACH
 controller=ACH
 add_core=ACH
+add_core=BYZ
 trade_goods = fruit
 life_rating = 35

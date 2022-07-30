@@ -3173,42 +3173,42 @@
 711 = {
 	soldiers=
 	{
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size= 1065
 	}
 
 	clergymen=
 	{
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size= 632
 	}
 
 	bureaucrats=
 	{
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size= 116
 	}
 
 	officers=
 	{
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size= 93
 	}
 
 	aristocrats=
 	{
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size= 978
 	}
 
 	farmers=
 	{
-		culture = ukrainian
+		culture = polish
 		religion = orthodox
 		size= 100499
 	}

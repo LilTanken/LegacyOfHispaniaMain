@@ -1,6 +1,7 @@
 owner=X30
 controller=X30
 add_core=X30
+add_core=BYZ
 trade_goods = grain
 life_rating = 35
 fort = 1
