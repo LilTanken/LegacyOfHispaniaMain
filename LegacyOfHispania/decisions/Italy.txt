@@ -1515,6 +1515,10 @@ political_decisions = {
 		739 = { remove_core = MOD }
         MOD = { all_core = { remove_core = MOD } }
 		}
+			add_country_modifier = {
+				name = ghettos_and_propaganda
+				duration = 7305
+			}
 		
 		ai_will_do = {
 			factor = 1

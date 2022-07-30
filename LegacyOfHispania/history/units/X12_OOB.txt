@@ -571,7 +571,7 @@ X07 = {
 X08 = {
 	value = 73
 	influence_value = 5
-	level = 2
+	level = 5
 }
 X09 = {
 	value = 0

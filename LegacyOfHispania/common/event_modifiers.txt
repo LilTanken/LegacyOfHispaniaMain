@@ -2573,3 +2573,7 @@ the_british_raj = {
 	prestige = 0.03
     icon = 19
 }
+### ALPINE GENOCIDE ###
+ghettos_and_propaganda = {
+	assimilation_rate = 0.25
+	}
