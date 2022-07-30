@@ -1,7 +1,5 @@
 capital = 2295
-primary_culture = platinean
-culture = aimara
-culture = quechua
+primary_culture = south_andean
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy
@@ -10,6 +8,8 @@ nationalvalue = nv_liberty
 literacy = 0.480202
 
 civilized = yes
+is_releasable_vassal = no
+
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
@@ -32,7 +32,6 @@ political_parties=gerrymandering
 #HPM reforms
 border_policy = open_borders
 serfdom = debtors_prisons
-
 
 ruling_party = PEU_liberal
 upper_house = 

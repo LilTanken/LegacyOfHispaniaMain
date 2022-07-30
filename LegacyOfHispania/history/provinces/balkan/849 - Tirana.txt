@@ -1,5 +1,6 @@
 owner=ALB
 controller=ALB
 add_core=ALB
+add_core=BYZ
 trade_goods = grain
 life_rating = 35

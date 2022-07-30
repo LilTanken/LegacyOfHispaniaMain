@@ -765,7 +765,7 @@ leader = {
 #Armies
 army = {
 	name="3rd Army"
-	location=2154
+	location=2463
 	regiment = {
 		name="1st São Paulo Infantry"
 		type=infantry
@@ -840,7 +840,7 @@ army = {
 
 army = {
 	name="Free Company"
-	location=58
+	location=2432
 	regiment = {
 		name="1st Rio de Janeiro Infantry"
 		type=infantry
@@ -855,7 +855,7 @@ army = {
 
 army = {
 	name="Bandeirantes"
-	location=2173
+	location=2450
 	regiment = {
 		name="1st Aracaju Infantry"
 		type=infantry
@@ -885,7 +885,7 @@ army = {
 
 army = {
 	name="Silver Company"
-	location=58
+	location=2436
 	regiment = {
 		name="2nd Rio de Janeiro Infantry"
 		type=infantry
@@ -905,7 +905,7 @@ army = {
 
 army = {
 	name="2nd Army"
-	location=2159
+	location=2447
 	regiment = {
 		name="3rd Salvador da Bahia Infantry"
 		type=infantry

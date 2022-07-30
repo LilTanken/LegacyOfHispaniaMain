@@ -1,5 +1,12 @@
 capital = 845
 primary_culture = greek
+culture = dynamic-greek-culture-num1
+culture = dynamic-greek-culture-num2
+culture = dynamic-greek-culture-num3
+culture = dynamic-greek-culture-num4
+culture = dynamic-greek-culture-num5
+culture = dynamic-greek-culture-num6
+culture = dynamic-greek-culture-num7
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy
@@ -8,6 +15,7 @@ nationalvalue = nv_tradition
 literacy = 0.336142
 
 civilized = yes
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -19,7 +27,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=wealth_weighted_voting
 upper_house_composition=appointed
 voting_system=jefferson_method

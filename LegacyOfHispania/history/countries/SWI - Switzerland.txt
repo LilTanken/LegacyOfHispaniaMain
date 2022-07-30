@@ -1,11 +1,12 @@
 capital = 605
 primary_culture = swiss
+culture = dynamic-bavarian-italian-culture-num1
 culture = zzz_religion_protestant
 religion = protestant
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0
+literacy = 0.67195
 
 civilized = yes
 
@@ -28,6 +29,9 @@ press_rights=censored_press
 trade_unions=non_socialist
 political_parties=harassment
 
+# HPM reforms
+debt_law = debtors_prisons
+
 ruling_party = SWI_liberal
 upper_house = 
 {
@@ -41,10 +45,31 @@ upper_house =
 }
 
 # Starting Consciousness
-consciousness = 3
-nonstate_consciousness= 1
+consciousness = 1.94815
+nonstate_consciousness= 0.884069
 
 # Technologies
+ad_hoc_money_bill_printing = 1
+army_command_principle = 1
+army_professionalism = 1
+bronze_muzzle_loaded_artillery = 1
+classicism_n_early_romanticism = 1
+early_classical_theory_and_critique = 1
+flintlock_rifles = 1
+freedom_of_trade = 1
+guild_based_production = 1
+late_classical_theory = 1
+late_enlightenment_philosophy = 1
+market_structure = 1
+mechanical_production = 1
+military_staff_system = 1
+no_standard = 1
+piston_steam_engine = 1
+post_napoleonic_thought = 1
+post_nelsonian_thought = 1
+private_banks = 1
+stock_exchange = 1
+the_command_principle = 1
 prestige=0
 oob = "SWI_OOB.txt"
 set_country_flag = religi

@@ -1,6 +1,7 @@
 owner=X36
-controller=KRM
+controller=X36
 add_core=X36
+add_core=BYZ
 trade_goods = wool
 life_rating = 35
 fort = 1

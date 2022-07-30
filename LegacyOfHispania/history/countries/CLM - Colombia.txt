@@ -1,7 +1,5 @@
 capital = 2247
-primary_culture = mexican
-culture = guajiro
-culture = platinean
+primary_culture = north_andean
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy
