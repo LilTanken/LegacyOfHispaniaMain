@@ -1,5 +1,6 @@
 owner=RUS
 controller=RUS
+add_core=TKS
 trade_goods = wool
 life_rating = 30
-fort = 1
+colonial=2

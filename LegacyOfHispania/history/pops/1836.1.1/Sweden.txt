@@ -1026,49 +1026,49 @@
 329 = {
 	soldiers=
 	{
-		culture = dynamic-norwegian-culture-num1
+		culture = norwegian
 		religion = orthodox
 		size= 1205
 	}
 
 	artisans=
 	{
-		culture = dynamic-norwegian-culture-num1
+		culture = norwegian
 		religion = orthodox
 		size= 1721
 	}
 
 	clergymen=
 	{
-		culture = dynamic-norwegian-culture-num1
+		culture = norwegian
 		religion = orthodox
 		size= 323
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-norwegian-culture-num1
+		culture = norwegian
 		religion = orthodox
 		size= 86
 	}
 
 	officers=
 	{
-		culture = dynamic-norwegian-culture-num1
+		culture = norwegian
 		religion = orthodox
 		size= 90
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-norwegian-culture-num1
+		culture = norwegian
 		religion = orthodox
 		size= 361
 	}
 
 	farmers=
 	{
-		culture = dynamic-norwegian-culture-num1
+		culture = norwegian
 		religion = orthodox
 		size= 39243
 	}

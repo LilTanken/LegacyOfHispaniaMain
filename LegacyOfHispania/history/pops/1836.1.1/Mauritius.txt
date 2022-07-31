@@ -101,35 +101,35 @@
 2128 = {
 	soldiers=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 142
 	}
 
 	artisans=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 23
 	}
 
 	clergymen=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 1
 	}

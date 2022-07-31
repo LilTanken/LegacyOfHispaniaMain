@@ -1,5 +1,5 @@
-owner=NOR
-controller=FRA
+owner=PSA
+controller=PSA
+add_core=PSA
 trade_goods = fish
-life_rating = 32
-colonial=2
+life_rating = 25

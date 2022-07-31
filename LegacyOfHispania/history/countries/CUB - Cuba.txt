@@ -1,5 +1,5 @@
 capital = 2209
-primary_culture = mexican
+primary_culture = caribeno
 culture = afro_caribeno
 culture = zzz_religion_catholic
 religion = catholic

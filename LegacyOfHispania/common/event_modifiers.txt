@@ -2562,13 +2562,7 @@ emergency_tax_measures2 = {
     icon = 10
 }
 
-### NEW ONES ###
-imperial_milenium = {
-    prestige = 0.02
-    core_pop_militancy_modifier = -0.3
-    ruling_party_support = 0.01
-    icon = 5
-}
+### Russia ONES ###
 unbroken_dynasty = {
     prestige = 0.02
     global_assimilation_rate = 2
@@ -2587,3 +2581,27 @@ rus_intergration_campaign = {
     non_accepted_pop_militancy_modifier = 0.01
     icon = 7
 }
+
+### Imperial Millenium ###
+imperial_milenium = {
+    prestige = 0.02
+    core_pop_militancy_modifier = -0.3
+    ruling_party_support = 0.01
+    icon = 5
+}
+
+### THE RAJ EIC ###
+the_british_raj = {
+	research_points = -500
+	core_pop_militancy_modifier = -0.05
+	supply_consumption = 0.1
+	tax_efficiency = -0.1
+	administrative_efficiency_modifier = 0.5
+	influence_modifier = 0.05
+	prestige = 0.03
+    icon = 19
+}
+### ALPINE GENOCIDE ###
+ghettos_and_propaganda = {
+	assimilation_rate = 0.25
+	}

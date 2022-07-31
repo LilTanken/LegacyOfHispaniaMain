@@ -3,5 +3,6 @@ controller=AVA
 add_core=AVA
 add_core=BNG
 add_core=KWN
+add_core=EIC
 trade_goods = fruit
 life_rating = 35

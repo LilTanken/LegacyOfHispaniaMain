@@ -1,7 +1,7 @@
 capital = 576
 primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = zzz_religion_catholic
+religion = catholic
 government = prussian_constitutionalism
 plurality = 0
 nationalvalue = nv_order
@@ -19,7 +19,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 # Political Reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=none_voting
 upper_house_composition=appointed
 voting_system=jefferson_method

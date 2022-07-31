@@ -1,8 +1,7 @@
 capital = 1711
-primary_culture = dummy
+primary_culture = berber
 culture = andalucian
-culture = berber
-culture = catalan
+culture = spanish
 culture = zzz_religion_kharijite
 religion = kharijite
 government = absolute_monarchy

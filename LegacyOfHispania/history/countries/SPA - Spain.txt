@@ -1,5 +1,6 @@
 capital = 495
 primary_culture = spanish
+culture = sureno
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy
@@ -27,6 +28,10 @@ public_meetings=no_meeting
 press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
+
+# HPM reforms
+debt_law = debtors_prisons
+border_policy = open_borders
 
 ruling_party = SPA_conservative
 upper_house = 
@@ -75,7 +80,11 @@ romanticism = 1
 practical_steam_engine = 1
 steamers = 1
 piston_steam_engine = 1
-prestige=50
+ad_hoc_money_bill_printing = 1
+stock_exchange = 1
+market_structure = 1
+late_classical_theory = 1
+prestige=140
 oob = "SPA_OOB.txt"
 set_country_flag = religi
 decision = literacy_SPA

@@ -4,3 +4,4 @@ trade_goods = fish
 life_rating = 15
 terrain = small_island
 naval_base = 1
+colonial=2

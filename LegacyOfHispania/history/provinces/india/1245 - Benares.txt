@@ -3,6 +3,7 @@ controller=DLH
 add_core=AWA
 add_core=DLH
 add_core=HND
+add_core=EIC
 trade_goods = opium
 life_rating = 32
 fort = 1

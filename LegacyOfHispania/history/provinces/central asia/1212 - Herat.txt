@@ -2,6 +2,7 @@ owner=PER
 controller=PER
 add_core=PER
 add_core=TKS
+add_core=AFG
 trade_goods = fruit
 life_rating = 35
 fort = 1

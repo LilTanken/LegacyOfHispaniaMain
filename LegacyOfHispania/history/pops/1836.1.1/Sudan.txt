@@ -277,56 +277,56 @@
 1830 = {
 	slaves=
 	{
-		culture = amhara
+		culture = beja
 		religion = coptic
 		size= 2076
 	}
 
 	soldiers=
 	{
-		culture = amhara
+		culture = beja
 		religion = coptic
 		size= 2328
 	}
 
 	artisans=
 	{
-		culture = amhara
+		culture = beja
 		religion = coptic
 		size= 5821
 	}
 
 	clergymen=
 	{
-		culture = amhara
+		culture = beja
 		religion = coptic
 		size= 312
 	}
 
 	bureaucrats=
 	{
-		culture = amhara
+		culture = beja
 		religion = coptic
 		size= 37
 	}
 
 	officers=
 	{
-		culture = amhara
+		culture = beja
 		religion = coptic
 		size= 67
 	}
 
 	aristocrats=
 	{
-		culture = amhara
+		culture = beja
 		religion = coptic
 		size= 349
 	}
 
 	farmers=
 	{
-		culture = amhara
+		culture = beja
 		religion = coptic
 		size= 30587
 	}

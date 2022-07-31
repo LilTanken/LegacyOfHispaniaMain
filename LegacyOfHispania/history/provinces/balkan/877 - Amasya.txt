@@ -1,6 +1,5 @@
-owner=ARM
-controller=ARM
-add_core=ARM
+owner=X18
+controller=X18
 add_core=BYZ
 add_core=GRE
 add_core=X18

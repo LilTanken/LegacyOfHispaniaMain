@@ -3,6 +3,7 @@ controller=DLH
 add_core=DLH
 add_core=HND
 add_core=MEW
+add_core=EIC
 trade_goods = timber
 life_rating = 32
 fort = 1

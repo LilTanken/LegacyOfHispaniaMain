@@ -1,5 +1,6 @@
 owner=X02
 controller=X02
 add_core=X02
+add_core=SGF
 trade_goods = cattle
 life_rating = 32

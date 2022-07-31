@@ -2,7 +2,7 @@ capital = 249
 primary_culture = vinlander
 culture = zzz_religion_catholic
 religion = catholic
-government = presidential_dictatorship
+government = hms_government
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.38683
@@ -19,14 +19,18 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=wealth_weighted_voting
 upper_house_composition=state_equal_weight
 voting_system=jefferson_method
-public_meetings=no_meeting
+public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=non_socialist
 political_parties=gerrymandering
+
+# New Reforms
+debt_law = debtors_prisons
+border_policy = open_borders
 
 ruling_party = NOR_conservative
 upper_house = 

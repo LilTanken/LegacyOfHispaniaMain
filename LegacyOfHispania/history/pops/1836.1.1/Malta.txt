@@ -1,98 +1,98 @@
 854 = {
 	soldiers=
 	{
-		culture = english
+		culture = british
 		religion = catholic
 		size= 220
 	}
 
 	artisans=
 	{
-		culture = english
+		culture = british
 		religion = catholic
 		size= 220
 	}
 
 	clergymen=
 	{
-		culture = english
+		culture = british
 		religion = catholic
 		size= 71
 	}
 
 	bureaucrats=
 	{
-		culture = english
+		culture = british
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = english
+		culture = british
 		religion = catholic
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = english
+		culture = british
 		religion = catholic
 		size= 46
 	}
 
 	farmers=
 	{
-		culture = english
+		culture = british
 		religion = catholic
 		size= 10416
 	}
 
 	soldiers=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 310
 	}
 
 	artisans=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 839
 	}
 
 	clergymen=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 273
 	}
 
 	bureaucrats=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 21
 	}
 
 	officers=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 176
 	}
 
 	farmers=
 	{
-		culture = english
+		culture = british
 		religion = protestant
 		size= 13846
 	}

@@ -97,7 +97,9 @@ IRE_fascist;The Blueshirts;;;;;;;;;;;;;
 IRE_communist;Communist Party of Ireland;;;;;;;;;;;;;
 IRE_conservative;Irish Conservative Party;;;;;;;;;;;;;
 AST_fascist;New Guard;;;;;;;;;;;;;
-SGF_ADJ;South German;;;;;;;;;;;;;
+SGF;Groﬂalpenreich;x
+SGF_absolute_monarchy;Groﬂalpenreich;x
+SGF_ADJ;Alpenl‰ndische;;;;;;;;;;;;;
 alaskan;Alaskan;;;;;;;;;;;;;
 USA_conservative_2;Democrats;;;;;;;;;;;;;
 USA_conservative_4;Democratic Party;;;;;;;;;;;;;
@@ -1288,7 +1290,7 @@ JAM_socialist;People's Political Party;People's Political Party;People's Politic
 JAM_communist;Worker's Party;Worker's Party;Worker's Party;;;;;;;;;;;
 JAM_anarcho_liberal;Radical Party;Radical Party;Radical Party;;;;;;;;;;;
 JAM_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;
-JAP_absolute_monarchy;Imperial Japan;;;;;;;;;;;;;
+JAP_absolute_monarchy;Empire of Japan;;;;;;;;;;;;;
 JAP_reactionary;Handoutou;Faction Shogunate;Shogunate Faction;;;;;;;;;;;
 JAP_conservative;Rikken Teiseitou;Faction de la cour;Court Faction;;;;;;;;;;;
 JAP_conservative_2;Rikken Kaishintou;Faction impÈrialiste;Imperialist Faction;;;;;;;;;;;
@@ -1636,15 +1638,15 @@ MLY_hms_government;Malay Federation;;;;;;;;;;;;;
 MLY_absolute_monarchy_ADJ;Malay;;;;;;;;;;;;;
 MLY_prussian_constitutionalism_ADJ;Malay;;;;;;;;;;;;;
 MLY_hms_government_ADJ;Malay;;;;;;;;;;;;;
-MOD_reactionary;Restaurazionisti;Restaurazionisti;Restaurazionisti;;Restaurazionis ti;;;;;;;;;
-MOD_conservative;Moderati ;Moderati ;Moderati;;Moderati ;;;;;;;;;
-MOD_liberal;Riformisti ;Riformisti ;Riformisti;;Riformisti ;;;;;;;;;
-MOD_liberal_2;Liberali;Liberali;Liberali;;Liberali ;;;;;;;;;
-MOD_socialist;Socialisti;Socialisti;Socialisti;;Socialisti;;;;;;;;;
-MOD_conservative_2;Popolari;Popolari;Popolari;;Pop olari;;;;;;;;;
-MOD_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;;;
-MOD_communist;Comunisti;Comunisti;Comunisti;;Comunisti;;;;;;;;;
-MOD_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;;;
+MOD_reactionary;Restauratoren;x
+MOD_conservative;Konservative;x
+MOD_liberal;Reformisten;x
+MOD_liberal_2;Liberale Partei;x
+MOD_socialist;Sozialistisch;x
+MOD_conservative_2;Patriotische Partei;x
+MOD_anarcho_liberal;Radikale;x
+MOD_communist;Kommunisten;x
+MOD_fascist;Nationale Rettung;x
 MOZ;Mozambique;;;;;;;;;;;;;
 MOZ_ADJ;Mozambican;;;;;;;;;;;;;
 MOZ_liberal;Social Liberal Party;;;;;;;;;;;;;
@@ -1859,15 +1861,15 @@ PAN_absolute_monarchy_ADJ;Sikh;;;;;;;;;;;;;
 PAN_prussian_constitutionalism_ADJ;Sikh;;;;;;;;;;;;;
 PAN_fascist_dictatorship;Khalistan;;;;;;;;;;;;;
 PAN_fascist_dictatorship_ADJ;Khalistani;;;;;;;;;;;;;
-PHL;Philippines;Philippines;Philippinen;;;;;;;;;;;
-PHL_ADJ;Philippine;Philippine;Philippinisch;;;;;;;;;;;
-PHL_reactionary;Partido Tradicionalista;Partido Tradicionalista;Partido Tradicionalista;;;;;;;;;;;
-PHL_socialist;Partido Demokratiko;Partido Demokratiko;Partido Demokratiko;;;;;;;;;;;
-PHL_communist;Partido Komunista;Partido Komunista;Partido Komunista;;;;;;;;;;;
-PHL_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;;;;;;;;;;
-PHL_anarcho_liberal;Partido Libertad;Partido Libertad;Partido Libertad;;;;;;;;;;;
-PHL_conservative;Partido Nacionalista;Partido Nacionalista;Partido Nacionalista;;;;;;;;;;;
-PHL_fascist;Partido Nacional Socialista;;;;;;;;;;;;;
+PHL;Mayi;x
+PHL_ADJ;Mayian;x
+PHL_reactionary;Traditionalists;x
+PHL_socialist;Socialists;x
+PHL_communist;Communist Party of Mayi;x
+PHL_liberal;Liberal Party;x
+PHL_anarcho_liberal;Liberty Party;x
+PHL_conservative;Conservatives;x
+PHL_fascist;Mayi National Party;x
 PLC;Polish-Lithuanian Commonwealth;;;;;;;;;;;;;
 PLC_ADJ;Polish-Lithuanian;;;;;;;;;;;;;
 PLC_proletarian_dictatorship;Polish-Lithuanian Republic;;;;;;;;;;;;;
@@ -3225,3 +3227,19 @@ TIG_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;
 UTI_ADJ;Territories Exchange;;;;;;;;;;;;;
 SPA;Hispania;x
 SPA_ADJ;Hispanian;x
+EIC;East India Company;x
+EIC_ADJ;Company;x
+POT;Indian Confederacy;x
+POT_ADJ;Indian;x
+KKN;Kita Kaigan;x
+KKN_ADJ;Kaiganese;x
+KKN_absolute_monarchy;Kita Kaigan;;;;;;;;;;;;;
+KKN_reactionary;Handoutou;Faction Shogunate;Shogunate Faction;;;;;;;;;;;
+KKN_conservative;Danketsu;x
+KKN_conservative_2;Tennonoishi;x
+KKN_reactionary_2;Fukkoshugisha;x
+KKN_liberal;Aikokusha;x
+KKN_socialist;Shakaitou;Faction marxiste;Marxist Faction;;;;;;;;;;;
+KKN_anarcho_liberal;Ishin Seito Shimpu;;;;;;;;;;;;;
+KKN_communist;Kyousantou;Faction communiste;Kommunistische Fraktion;;;;;;;;;;;
+KKN_fascist;Enganbogyo;x

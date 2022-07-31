@@ -1,4 +1,2 @@
-owner=NOR
-controller=NOR
 trade_goods = coffee
 life_rating = 10

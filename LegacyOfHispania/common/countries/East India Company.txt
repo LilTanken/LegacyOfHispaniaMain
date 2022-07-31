@@ -1,4 +1,4 @@
-graphical_culture = Generic
+graphical_culture = BritishGC
 color = { 207 20 43 }
 
 party = {
@@ -8,7 +8,7 @@ party = {
 
 	ideology = reactionary
 
-	citizenship_policy = residency
+	citizenship_policy = full_citizenship
 	economic_policy = interventionism
 	religious_policy = secularized
 	social_policy = colonial_spending_policy
@@ -23,7 +23,7 @@ party = {
 
 	ideology = conservative
 
-	citizenship_policy = limited_citizenship
+	citizenship_policy = full_citizenship
 	economic_policy = interventionism
 	religious_policy = moralism
 	social_policy = colonial_spending_policy
@@ -38,7 +38,7 @@ party = {
 
 	ideology = liberal
 
-	citizenship_policy = residency
+	citizenship_policy = full_citizenship
 	economic_policy = laissez_faire
 	religious_policy = pluralism
 	social_policy = colonial_spending_policy

@@ -2,6 +2,7 @@ owner=X21
 controller=X21
 add_core=ARM
 add_core=X21
+add_core=BYZ
 trade_goods = iron
 life_rating = 35
 fort = 1

@@ -1,7 +1,6 @@
-owner=SUN
-controller=SUN
+owner=MKS
+controller=MKS
 add_core=MAL
 add_core=MKS
-add_core=SUN
 trade_goods = fish
 life_rating = 31

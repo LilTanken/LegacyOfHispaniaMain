@@ -401,84 +401,84 @@
 654 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 155
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 1216
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 53
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 62
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 17508
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 205
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 4416
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 192
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 65
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 225
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 19516
 	}
@@ -687,98 +687,98 @@
 657 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 800
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 455
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 92
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 21
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 106
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 27891
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 1104
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 1709
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 346
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 79
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 396
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 36373
 	}
@@ -787,98 +787,98 @@
 659 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 467
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 196
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 48
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 13
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 76
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 16636
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 645
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 736
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 177
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 48
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 55
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 287
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 21695
 	}
@@ -887,98 +887,98 @@
 660 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 668
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 336
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 74
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 107
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 23383
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 885
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 1225
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 270
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 65
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 74
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 389
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 29329
 	}
@@ -987,98 +987,98 @@
 661 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 245
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 1844
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 87
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 121
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 25674
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 323
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 6696
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 314
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 94
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 42
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 439
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 28621
 	}
@@ -1187,161 +1187,161 @@
 664 = {
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 194
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 2165
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 2448
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 265
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 53
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 457
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 38681
 	}
 
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = animist
 		size= 1
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = animist
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = animist
 		size= 696
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = animist
 		size= 76
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = animist
 		size= 15
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = animist
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = animist
 		size= 130
 	}
 
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 268
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 3002
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 11816
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 1280
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 254
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 139
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 2205
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 41818
 	}
@@ -1513,112 +1513,112 @@
 666 = {
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 145
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 1355
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 2062
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 221
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 41
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 35
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 186
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 23309
 	}
 
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 201
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 1874
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 7764
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 832
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 155
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 133
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 699
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 26170
 	}
@@ -1627,112 +1627,112 @@
 667 = {
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 98
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 1239
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 1581
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 169
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 31
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 27
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 284
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 23119
 	}
 
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 135
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 1703
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 7372
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 790
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 148
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 127
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 1327
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 23107
 	}
@@ -1741,112 +1741,112 @@
 668 = {
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 150
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 1522
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 2225
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 239
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 45
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 401
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 28033
 	}
 
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 205
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 2088
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 8762
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 939
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 175
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 150
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 1577
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 28026
 	}
@@ -1855,112 +1855,112 @@
 669 = {
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 75
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 1173
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 1715
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 184
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 34
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 309
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 22324
 	}
 
 	slaves=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 103
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 1609
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 6752
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 724
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 135
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 116
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 1216
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = protestant
 		size= 22589
 	}
@@ -2190,98 +2190,98 @@
 672 = {
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 372
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 744
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 121
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 19
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 156
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 32415
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 623
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 3234
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 526
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 81
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 65
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 679
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 51446
 	}
@@ -2290,98 +2290,98 @@
 673 = {
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 248
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 497
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 81
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 12
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 104
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = catholic
 		size= 21867
 	}
 
 	soldiers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 416
 	}
 
 	artisans=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 2159
 	}
 
 	clergymen=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 351
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 54
 	}
 
 	officers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 43
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 453
 	}
 
 	farmers=
 	{
-		culture = dynamic-romanian-culture-num1
+		culture = romanian
 		religion = orthodox
 		size= 34722
 	}
@@ -2702,98 +2702,98 @@
 2533 = {
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 983
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 561
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 116
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 154
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = catholic
 		size= 33110
 	}
 
 	soldiers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 1303
 	}
 
 	artisans=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 2047
 	}
 
 	clergymen=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 424
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 94
 	}
 
 	officers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 107
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 562
 	}
 
 	farmers=
 	{
-		culture = dynamic-hungarian-culture-num1
+		culture = hungarian
 		religion = protestant
 		size= 41529
 	}

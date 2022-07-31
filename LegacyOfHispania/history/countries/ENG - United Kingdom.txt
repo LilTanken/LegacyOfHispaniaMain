@@ -5,7 +5,7 @@ culture = australian
 culture = anglo_african
 culture = zzz_religion_protestant
 religion = protestant
-government = absolute_monarchy
+government = hms_government
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.606922
@@ -30,6 +30,11 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
+
+# New Reforms
+debt_law = debtors_prisons
+penal_system = colonial_transportation
+border_policy = open_borders
 
 ruling_party = ENG_conservative
 upper_house = 
@@ -80,13 +85,11 @@ clean_coal = 1
 battleship_column_doctrine = 1
 naval_professionalism = 1
 stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-late_classical_theory = 1
 market_structure = 1
 piston_steam_engine = 1
 high_pressure_steam_engine = 1
 interchangeable_parts = 1
-prestige=48.7051
+prestige=140
 
 schools = naval_tech_school
 

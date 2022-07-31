@@ -1,7 +1,7 @@
 capital = 1835
 primary_culture = sudanese
-culture = amhara
 culture = misri
+culture = beja
 culture = zzz_religion_coptic
 religion = coptic
 government = absolute_monarchy

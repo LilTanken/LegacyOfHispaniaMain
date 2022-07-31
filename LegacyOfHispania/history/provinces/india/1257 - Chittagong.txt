@@ -1,6 +1,7 @@
-owner=BNG
-controller=BNG
+owner=SPA
+controller=SPA
 add_core=AVA
 trade_goods = dye
 life_rating = 32
 naval_base = 2
+colonial=2

@@ -57,7 +57,7 @@ country_event = {
     news_desc_short = "EVTDESC37201_NEWS_SHORT"
 
     trigger = {
-        tag = FRA
+        tag = SPA
         year = 1836
         war = no
         NOT = {
@@ -104,7 +104,7 @@ country_event = {
     id = 37202
 
     trigger = {
-        tag = FRA
+        tag = SPA
         year = 1840
         war = no
         NOT = {
@@ -245,7 +245,7 @@ country_event = {
     id = 37205
 
     trigger = {
-        tag = FRA
+        tag = SPA
         year = 1842
         war = no
         NOT = {

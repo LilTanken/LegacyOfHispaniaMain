@@ -1,6 +1,7 @@
-owner=ENG
-controller=ENG
+owner=EIC
+controller=EIC
 add_core=HND
 add_core=MRT
+add_core=EIC
 trade_goods = precious_goods
 life_rating = 32

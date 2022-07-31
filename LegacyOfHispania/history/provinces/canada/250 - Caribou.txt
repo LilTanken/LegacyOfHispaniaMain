@@ -1,6 +1,5 @@
 owner=VRM
 controller=VRM
-add_core=OSH
 add_core=VRM
 trade_goods = grain
 life_rating = 35

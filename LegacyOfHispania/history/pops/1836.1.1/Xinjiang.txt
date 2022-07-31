@@ -110,7 +110,7 @@
 	{
 		culture = uighur
 		religion = sunni
-		size= 890
+		size= 4090
 	}
 
 	artisans=

@@ -1,6 +1,7 @@
 owner=X32
 controller=X32
 add_core=X32
+add_core=BYZ
 trade_goods = grain
 life_rating = 35
 naval_base = 1

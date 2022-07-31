@@ -1272,6 +1272,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = TNT }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1316,6 +1317,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = TAM }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1358,6 +1360,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = MCK }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1399,6 +1402,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = MGL }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1441,6 +1445,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = IMG }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1479,6 +1484,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = PYO }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1521,6 +1527,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = GMJ }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1563,6 +1570,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = SHD }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1601,6 +1609,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = TPG }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1639,6 +1648,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = SHG }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1681,6 +1691,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = HUI }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1722,6 +1733,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = SXI }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1760,6 +1772,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = HNN }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1802,6 +1815,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = FJN }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1840,6 +1854,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = TAI }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1878,6 +1893,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = GXI }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1921,6 +1937,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = GNG }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1959,6 +1976,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = YNN }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -1998,6 +2016,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = SZC }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2039,6 +2058,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = XSM }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2081,6 +2101,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = XIN }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2123,6 +2144,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = TIB }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2162,6 +2184,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = KYR }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2204,6 +2227,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = BHU }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2349,6 +2373,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = TAJ }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2391,6 +2416,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = PNJ }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2433,6 +2459,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = ASM }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2475,6 +2502,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = SHA }
 		NOT = { number_of_states = 6 }
 		capital_scope = {
@@ -2517,6 +2545,7 @@ country_event = {
 		NOT = { tag = CHI }
 		NOT = { tag = MNG }
 		NOT = { tag = YUA }
+		NOT = { tag = MNX }
 		NOT = { exists = TOK }
 		NOT = { number_of_states = 6 }
 		capital_scope = {

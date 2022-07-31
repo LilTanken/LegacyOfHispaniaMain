@@ -2,12 +2,10 @@ capital = 1207
 primary_culture = tajik
 culture = zzz_religion_sunni
 religion = sunni
-government = democracy
+government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0
-
-civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

@@ -1481,4 +1481,51 @@ political_decisions = {
         }
     }
 
+
+	form_alpine = {
+		picture = map_malta
+		potential = {
+			tag = MOD
+			NOT = {
+				exists = SGF
+			}
+		}
+		
+		allow = {
+			prestige = 40
+			war = no
+			nationalism_n_imperialism = 1
+			SGF = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 40
+			change_tag = SGF
+			capital = 603
+			all_core = { add_core = SGF }
+		739 = { remove_core = MOD }
+        MOD = { all_core = { remove_core = MOD } }
+		}
+			add_country_modifier = {
+				name = ghettos_and_propaganda
+				duration = 7305
+			}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+
+
 }

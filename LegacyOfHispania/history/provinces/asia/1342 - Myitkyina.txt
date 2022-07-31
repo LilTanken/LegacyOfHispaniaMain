@@ -3,6 +3,7 @@ controller=KWN
 add_core=IDO
 add_core=KCH
 add_core=KWN
+add_core=EIC
 trade_goods = grain
 life_rating = 33
 fort = 1

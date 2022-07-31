@@ -25,11 +25,11 @@ ANN = {
 	level = 2
 }
 ARA = {
-	value = 22
+	value = 0
 	level = 2
 }
 ARG = {
-	value = -13
+	value = 0
 	level = 2
 }
 ARM = {
@@ -101,7 +101,7 @@ BNJ = {
 	level = 2
 }
 BNY = {
-	value = 40
+	value = 0
 	level = 2
 }
 BOS = {
@@ -109,7 +109,7 @@ BOS = {
 	level = 2
 }
 BRZ = {
-	value = -15
+	value = 0
 	level = 2
 }
 BUL = {
@@ -121,7 +121,7 @@ CAO = {
 	level = 2
 }
 CAS = {
-	value = 1
+	value = 0
 	level = 2
 }
 CCM = {
@@ -133,7 +133,7 @@ CDL = {
 	level = 2
 }
 CLM = {
-	value = -12
+	value = 0
 	level = 2
 }
 CRE = {
@@ -149,7 +149,7 @@ CUA = {
 	level = 2
 }
 CUB = {
-	value = -12
+	value = 0
 	level = 2
 }
 CWU = {
@@ -165,8 +165,7 @@ DLM = {
 	level = 2
 }
 ENG = {
-	value = 24
-	military_access = yes
+	value = 0
 	level = 2
 }
 EPI = {
@@ -194,7 +193,7 @@ FLO = {
 	level = 2
 }
 FLR = {
-	value = -13
+	value = 0
 	level = 2
 }
 FRA = {
@@ -270,8 +269,7 @@ KRM = {
 	level = 2
 }
 KRW = {
-	value = 70
-	influence_value = 5
+	value = 0
 	level = 2
 }
 KWN = {
@@ -287,11 +285,11 @@ LNA = {
 	level = 2
 }
 LOT = {
-	value = 16
+	value = 0
 	level = 2
 }
 LOU = {
-	value = -12
+	value = 0
 	level = 2
 }
 LSK = {
@@ -311,7 +309,7 @@ MDI = {
 	level = 2
 }
 MEX = {
-	value = -12
+	value = 0
 	level = 2
 }
 MJP = {
@@ -391,7 +389,7 @@ PER = {
 	level = 2
 }
 PEU = {
-	value = 11
+	value = 0
 	level = 2
 }
 PGR = {
@@ -455,12 +453,11 @@ SNZ = {
 	level = 2
 }
 SON = {
-	value = -13
+	value = 0
 	level = 2
 }
 SPA = {
-	value = 70
-	influence_value = 5
+	value = 0
 	level = 2
 }
 SUD = {
@@ -548,7 +545,7 @@ WOL = {
 	level = 2
 }
 X02 = {
-	value = -5
+	value = 0
 	level = 2
 }
 X03 = {
@@ -624,7 +621,7 @@ X24 = {
 	level = 2
 }
 X25 = {
-	value = -10
+	value = 0
 	level = 2
 }
 X27 = {
@@ -668,7 +665,7 @@ X36 = {
 	level = 2
 }
 X37 = {
-	value = -4
+	value = 0
 	level = 2
 }
 X38 = {
@@ -720,15 +717,6 @@ leader = {
 	personality="disciplined"
 	background="artillerist"
 }
-
-leader = {
-	name="Peter Cornwallis"
-	date="1830.1.2"
-	type=sea
-	personality="stalwart"
-	background="natural_born_leader"
-}
-
 
 #Armies
 navy = {

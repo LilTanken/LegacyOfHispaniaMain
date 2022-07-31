@@ -1,5 +1,5 @@
 capital = 1319
-primary_culture = malayalam
+primary_culture = dynamic-sinhala-culture-num1
 culture = zzz_religion_hindu
 religion = hindu
 government = absolute_monarchy

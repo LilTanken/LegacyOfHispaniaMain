@@ -1,7 +1,7 @@
 owner=ENG
 controller=ENG
-add_core=TIW
 add_core=AST
 trade_goods = grain
 life_rating = 31
 terrain = savanna
+colonial=2

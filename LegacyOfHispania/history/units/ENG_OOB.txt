@@ -160,6 +160,11 @@ DLM = {
 	value = 0
 	level = 2
 }
+EIC = {
+	value = 175
+	military_access = yes
+	level = 5
+}
 ENG = {
 	value = 0
 	level = 2
@@ -233,8 +238,8 @@ IPR = {
 	level = 2
 }
 JAP = {
-	value = 50
-	level = 3
+	value = 100
+	level = 4
 }
 JIM = {
 	value = 0
@@ -344,10 +349,8 @@ NET = {
 	level = 2
 }
 NEW = {
-	value = 273
-	military_access = yes
-	influence_value = 105
-	level = 5
+	value = 0
+	level = 2
 }
 NOR = {
 	value = 0
@@ -403,8 +406,9 @@ POL = {
 	level = 2
 }
 POT = {
-	value = 0
-	level = 2
+	value = 100
+	military_access = yes
+	level = 5
 }
 PRU = {
 	value = 0
@@ -689,10 +693,8 @@ X42 = {
 	level = 2
 }
 X44 = {
-	value = 124
-	military_access = yes
-	influence_value = 68
-	level = 5
+	value = 0
+	level = 2
 }
 X45 = {
 	value = 0
@@ -849,6 +851,14 @@ leader = {
 }
 
 leader = {
+	name="Peter Cornwallis"
+	date="1830.1.2"
+	type=sea
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
 	name="Roman Carleton"
 	date="1767.9.8"
 	type=land
@@ -900,117 +910,380 @@ navy = {
 }
 
 army = {
-	name="12th Army"
-	location=464
+	name = "1st Corps"
+	location = 300
 	regiment = {
-		name="1st Amarati Infantry"
-		type=infantry
-		home=1278
+		name= "Light Brigade"
+		type = hussar
+		home = 300
 	}
+
 	regiment = {
-		name="1st Kurnool Infantry"
-		type=infantry
-		home=1308
+		name= "Royal Dragoons"
+		type = dragoon
+		home = 294
 	}
+
 	regiment = {
-		name="1st Jaffna Infantry"
-		type=infantry
-		home=1322
+		name= "Heavy Brigade"
+		type = cuirassier
+		home = 291
 	}
+
 	regiment = {
-		name="2nd Amarati Infantry"
-		type=infantry
-		home=1278
+		name= "1.1st Division"
+		type = infantry
+		home = 300
 	}
+
 	regiment = {
-		name="1st Kandy Artillery"
-		type=artillery
-		home=1323
+		name= "2.1st Division"
+		type = infantry
+		home = 293
 	}
+
 	regiment = {
-		name="1st Hyderabad Artillery"
-		type=artillery
-		home=1283
+		name= "3.1st Division"
+		type = artillery
+		home = 295
 	}
-	regiment = {
-		name="1st Tanjore Artillery"
-		type=artillery
-		home=1309
-	}
-	regiment = {
-		name="1st Coimbatore Artillery"
-		type=artillery
-		home=1311
-	}
-	regiment = {
-		name="2nd Tanjore Artillery"
-		type=artillery
-		home=1309
-	}
-	regiment = {
-		name="1st Tanjore Infantry"
-		type=infantry
-		home=1309
-	}
+
 }
 
 army = {
-	name="9th Army"
-	location=1928
+	name = "2nd Division"
+	location = 288
 	regiment = {
-		name="1st Newcastle-upon-Tyne Infantry"
-		type=infantry
-		home=280
+		name= "1.2nd Division"
+		type = infantry
+		home = 288
 	}
+
 	regiment = {
-		name="1st Madras Artillery"
-		type=artillery
-		home=1304
+		name= "2.2nd Division"
+		type = infantry
+		home = 287
 	}
+
 	regiment = {
-		name="2nd Coimbatore Artillery"
-		type=artillery
-		home=1311
+		name= "3.2nd Division"
+		type = infantry
+		home = 256
 	}
-	regiment = {
-		name="1st Sheffield Infantry"
-		type=infantry
-		home=283
-	}
+
 }
 
 army = {
-	name="3rd Army"
-	location=1256
+	name = "3rd Division"
+	location = 273
 	regiment = {
-		name="1st Cambridge Infantry"
-		type=infantry
-		home=291
+		name= "1.3rd Division"
+		type = infantry
+		home = 273
 	}
+
 	regiment = {
-		name="1st Brighton Infantry"
-		type=infantry
-		home=302
+		name= "2.3rd Division"
+		type = infantry
+		home = 266
 	}
+
 	regiment = {
-		name="1st Plymouth Artillery"
-		type=artillery
-		home=299
+		name= "3.3rd Division"
+		type = infantry
+		home = 270
 	}
+
+}
+
+army = {
+	name = "4th Division"
+	location = 263
 	regiment = {
-		name="1st Chelmsford Artillery"
-		type=artillery
-		home=293
+		name= "1.4th Division"
+		type = infantry
+		home = 263
 	}
+
 	regiment = {
-		name="2nd Plymouth Artillery"
-		type=artillery
-		home=299
+		name= "2.4th Division"
+		type = infantry
+		home = 255
 	}
+
 	regiment = {
-		name="7th Birmingham Infantry"
-		type=infantry
-		home=284
+		name= "3.4th Division"
+		type = infantry
+		home = 281
+	}
+
+}
+
+army = {
+	name = "5th Division"
+	location = 269
+	regiment = {
+		name= "1.5th Division"
+		type = infantry
+		home = 269
+	}
+
+	regiment = {
+		name= "2.5th Division"
+		type = infantry
+		home = 271
+	}
+
+	regiment = {
+		name= "3.5th Division"
+		type = infantry
+		home = 267
+	}
+
+}
+
+army = {
+	name = "The Canada Garrison"
+	location = 57 
+	regiment = {
+		name= "1.6th Division"
+		type = infantry
+		home = 277
+	}
+
+	regiment = {
+		name= "2.6th Division"
+		type = infantry
+		home = 292
+	}
+
+	regiment = {
+		name= "3.6th Division"
+		type = infantry
+		home = 46
+	}
+
+}
+
+army = {
+	name = "The South Africa Garrison"
+	location = 2087
+	regiment = {
+		name= "1.7th Division"
+		type = infantry
+		home = 278
+	}
+
+	regiment = {
+		name= "2.7th Division"
+		type = infantry
+		home = 274
+	}
+
+	regiment = {
+		name= "3.7th Division"
+		type = infantry
+		home = 2087
+	}
+
+}
+
+army = {
+	name = "The Australia Garrison"
+	location = 2468
+	regiment = {
+		name= "1.8th Division"
+		type = infantry
+		home = 299
+	}
+
+	regiment = {
+		name= "2.8th Division"
+		type = infantry
+		home = 283
+	}
+
+	regiment = {
+		name= "3.8th Division"
+		type = infantry
+		home = 2468
+	}
+
+}
+
+army = {
+	name = "The Bombay Army"
+	location = 1297
+	regiment = {
+		name= "1.9th Division"
+		type = infantry
+		home = 271
+	}
+
+	regiment = {
+		name= "2.9th Division"
+		type = infantry
+		home = 280
+	}
+
+	regiment = {
+		name= "3.9th Division"
+		type = infantry
+		home = 289
+	}
+
+	regiment = {
+		name= "1.1st Indian Division"
+		type = infantry
+		home = 1297
+	}
+
+	regiment = {
+		name= "2.1st Indian Division"
+		type = infantry
+		home = 1291
+	}
+
+	regiment = {
+		name= "3.1st Indian Division"
+		type = infantry
+		home = 1299
+	}
+
+	regiment = {
+		name= "1.2nd Indian Division"
+		type = infantry
+		home = 1316
+	}
+
+	regiment = {
+		name= "2.2nd Indian Division"
+		type = infantry
+		home = 1317
+	}
+
+	regiment = {
+		name= "3.2nd Indian Division"
+		type = infantry
+		home = 1317
+	}
+
+}
+
+army = {
+	name = "The Calcutta Army"
+	location = 1256
+	regiment = {
+		name= "1.10th Division"
+		type = infantry
+		home = 300
+	}
+
+	regiment = {
+		name= "2.10th Division"
+		type = infantry
+		home = 282
+	}
+
+	regiment = {
+		name= "3.10th Division"
+		type = infantry
+		home = 265
+	}
+
+	regiment = {
+		name= "1.3rd Indian Division"
+		type = infantry
+		home = 1307
+	}
+
+	regiment = {
+		name= "2.3rd Indian Division"
+		type = infantry
+		home = 1306
+	}
+
+	regiment = {
+		name= "3.3rd Indian Division"
+		type = infantry
+		home = 1254
+	}
+
+	regiment = {
+		name= "1.4th Indian Division"
+		type = infantry
+		home = 1240
+	}
+
+	regiment = {
+		name= "2.4th Indian Division"
+		type = infantry
+		home = 1248
+	}
+
+	regiment = {
+		name= "3.4th Indian Division"
+		type = infantry
+		home = 1243
+	}
+
+}
+
+army = {
+	name = "The Ceylon Army"
+	location = 1307
+	regiment = {
+		name= "1.2nd Cavalry Division"
+		type = cuirassier
+		home = 278
+	}
+
+	regiment = {
+		name= "2.2nd Cavalry Division"
+		type = cuirassier
+		home = 297
+	}
+
+	regiment = {
+		name= "3.2nd Cavalry Division"
+		type = hussar
+		home = 260
+	}
+
+	regiment = {
+		name= "1.11th Division"
+		type = infantry
+		home = 296
+	}
+
+	regiment = {
+		name= "2.11th Division"
+		type = infantry
+		home = 268
+	}
+
+	regiment = {
+		name= "3.11th Division"
+		type = infantry
+		home = 261
+	}
+
+	regiment = {
+		name= "1.12th Division"
+		type = infantry
+		home = 284
+	}
+
+	regiment = {
+		name= "2.12th Division"
+		type = infantry
+		home = 254
+	}
+
+	regiment = {
+		name= "3.12th Division"
+		type = infantry
+		home = 258
 	}
 }
 
@@ -1040,86 +1313,6 @@ navy = {
 	ship = {
 		name="Centaur"
 		type=frigate
-	}
-}
-
-army = {
-	name="15th Army"
-	location=463
-	regiment = {
-		name="1st Bangalore Infantry"
-		type=infantry
-		home=1313
-	}
-	regiment = {
-		name="1st Madras Infantry"
-		type=infantry
-		home=1304
-	}
-	regiment = {
-		name="2nd Madras Infantry"
-		type=infantry
-		home=1304
-	}
-	regiment = {
-		name="1st Tranquebar Artillery"
-		type=artillery
-		home=2591
-	}
-	regiment = {
-		name="1st Madurai Artillery"
-		type=artillery
-		home=1310
-	}
-	regiment = {
-		name="1st Chitaldroog Artillery"
-		type=artillery
-		home=1315
-	}
-	regiment = {
-		name="4th Madurai Artillery"
-		type=artillery
-		home=1310
-	}
-}
-
-army = {
-	name="Royal Army"
-	location=461
-	regiment = {
-		name="1st Bijapur Infantry"
-		type=infantry
-		home=1300
-	}
-	regiment = {
-		name="2nd Kurnool Infantry"
-		type=infantry
-		home=1308
-	}
-	regiment = {
-		name="1st Kandy Infantry"
-		type=infantry
-		home=1323
-	}
-	regiment = {
-		name="1st Trivandrum Artillery"
-		type=artillery
-		home=1319
-	}
-	regiment = {
-		name="1st Belgaum Artillery"
-		type=artillery
-		home=1302
-	}
-	regiment = {
-		name="1st Jaffna Artillery"
-		type=artillery
-		home=1322
-	}
-	regiment = {
-		name="2nd Cochin Artillery"
-		type=artillery
-		home=1318
 	}
 }
 
@@ -1189,81 +1382,6 @@ navy = {
 	ship = {
 		name="3rd Cayman Islands Clipper Transport"
 		type=clipper_transport
-	}
-}
-
-army = {
-	name="21st Army"
-	location=1271
-	regiment = {
-		name="2nd Jaffna Infantry"
-		type=infantry
-		home=1322
-	}
-	regiment = {
-		name="1st Madurai Infantry"
-		type=infantry
-		home=1310
-	}
-	regiment = {
-		name="2nd Madras Artillery"
-		type=artillery
-		home=1304
-	}
-	regiment = {
-		name="2nd Belgaum Artillery"
-		type=artillery
-		home=1302
-	}
-	regiment = {
-		name="2nd Madurai Artillery"
-		type=artillery
-		home=1310
-	}
-	regiment = {
-		name="1st Chitaldroog Infantry"
-		type=infantry
-		home=1315
-	}
-}
-
-army = {
-	name="26th Army"
-	location=453
-	regiment = {
-		name="1st Salisbury Infantry"
-		type=infantry
-		home=297
-	}
-	regiment = {
-		name="1st Jubbulpore Infantry"
-		type=infantry
-		home=1275
-	}
-	regiment = {
-		name="1st Bilaspur Infantry"
-		type=infantry
-		home=1281
-	}
-	regiment = {
-		name="1st Bombay Artillery"
-		type=artillery
-		home=1297
-	}
-	regiment = {
-		name="1st Nasik Artillery"
-		type=artillery
-		home=1298
-	}
-	regiment = {
-		name="1st Dumfries Artillery"
-		type=artillery
-		home=272
-	}
-	regiment = {
-		name="1st Aurangabad Artillery"
-		type=artillery
-		home=1284
 	}
 }
 
@@ -1349,86 +1467,6 @@ navy = {
 	ship = {
 		name="1st Pondicherry Clipper Transport"
 		type=clipper_transport
-	}
-}
-
-army = {
-	name="7th Army"
-	location=470
-	regiment = {
-		name="1st Bombay Infantry"
-		type=infantry
-		home=1297
-	}
-	regiment = {
-		name="1st Kolhapur Infantry"
-		type=infantry
-		home=1301
-	}
-	regiment = {
-		name="1st Bardwan Infantry"
-		type=infantry
-		home=1253
-	}
-	regiment = {
-		name="1st Kolhapur Artillery"
-		type=artillery
-		home=1301
-	}
-	regiment = {
-		name="1st Goa Artillery"
-		type=artillery
-		home=1303
-	}
-	regiment = {
-		name="2nd Chitaldroog Artillery"
-		type=artillery
-		home=1315
-	}
-	regiment = {
-		name="1st Kurnool Artillery"
-		type=artillery
-		home=1308
-	}
-}
-
-army = {
-	name="30th Army"
-	location=463
-	regiment = {
-		name="1st Hyderabad Infantry"
-		type=infantry
-		home=1283
-	}
-	regiment = {
-		name="1st Gulbarga Infantry"
-		type=infantry
-		home=1286
-	}
-	regiment = {
-		name="2nd Bijapur Infantry"
-		type=infantry
-		home=1300
-	}
-	regiment = {
-		name="1st Bardwan Artillery"
-		type=artillery
-		home=1253
-	}
-	regiment = {
-		name="1st Vizagapatnam Artillery"
-		type=artillery
-		home=1305
-	}
-	regiment = {
-		name="1st Surat Artillery"
-		type=artillery
-		home=1296
-	}
-	regiment = {
-		name="1st Nellore Artillery"
-		type=artillery
-		home=1307
 	}
 }
 
@@ -2288,81 +2326,6 @@ navy = {
 	}
 }
 
-army = {
-	name="Independent Army"
-	location=463
-	regiment = {
-		name="1st Birmingham Infantry"
-		type=infantry
-		home=284
-	}
-	regiment = {
-		name="2nd Birmingham Infantry"
-		type=infantry
-		home=284
-	}
-	regiment = {
-		name="3rd Birmingham Infantry"
-		type=infantry
-		home=284
-	}
-	regiment = {
-		name="4th Birmingham Infantry"
-		type=infantry
-		home=284
-	}
-	regiment = {
-		name="5th Birmingham Infantry"
-		type=infantry
-		home=284
-	}
-	regiment = {
-		name="6th Birmingham Infantry"
-		type=infantry
-		home=284
-	}
-	regiment = {
-		name="8th Birmingham Infantry"
-		type=infantry
-		home=284
-	}
-}
-
-army = {
-	name="Australian Army"
-	location=2491
-	regiment = {
-		name="1st Sydney Infantry"
-		type=infantry
-		home=2468
-	}
-	regiment = {
-		name="Australian Light Horse"
-		type=cavalry
-		home=2484
-	}
-	regiment = {
-		name="1st Perth Artillery"
-		type=artillery
-		home=2497
-	}
-	regiment = {
-		name="1st Newcastle Infantry"
-		type=infantry
-		home=2469
-	}
-	regiment = {
-		name="1st Sydney Cavalry"
-		type=cavalry
-		home=2468
-	}
-	regiment = {
-		name="1st Eden Artillery"
-		type=artillery
-		home=2472
-	}
-}
-
 navy = {
 	name="5th Fleet"
 	location=2740
@@ -2385,166 +2348,6 @@ navy = {
 	ship = {
 		name="10th Holyhead Man'o'war"
 		type=manowar
-	}
-}
-
-army = {
-	name="Grand Company"
-	location=463
-	regiment = {
-		name="2nd Bardwan Infantry"
-		type=infantry
-		home=1253
-	}
-	regiment = {
-		name="3rd Bardwan Infantry"
-		type=infantry
-		home=1253
-	}
-	regiment = {
-		name="4th Bardwan Infantry"
-		type=infantry
-		home=1253
-	}
-	regiment = {
-		name="5th Bardwan Infantry"
-		type=infantry
-		home=1253
-	}
-}
-
-army = {
-	name="Gascon Musket Company"
-	location=463
-	regiment = {
-		name="6th Bardwan Infantry"
-		type=infantry
-		home=1253
-	}
-	regiment = {
-		name="7th Bardwan Infantry"
-		type=infantry
-		home=1253
-	}
-	regiment = {
-		name="8th Bardwan Infantry"
-		type=infantry
-		home=1253
-	}
-}
-
-army = {
-	name="Army of Scotland"
-	location=1928
-	regiment = {
-		name="1st Hull Infantry"
-		type=infantry
-		home=281
-	}
-	regiment = {
-		name="1st St Albans Artillery"
-		type=artillery
-		home=295
-	}
-	regiment = {
-		name="1st Holyhead Infantry"
-		type=infantry
-		home=276
-	}
-}
-
-army = {
-	name="1st Army"
-	location=463
-	regiment = {
-		name="2nd Madurai Infantry"
-		type=infantry
-		home=1310
-	}
-	regiment = {
-		name="3rd Madurai Artillery"
-		type=artillery
-		home=1310
-	}
-	regiment = {
-		name="2nd Tanjore Infantry"
-		type=infantry
-		home=1309
-	}
-	regiment = {
-		name="3rd Tanjore Artillery"
-		type=artillery
-		home=1309
-	}
-}
-
-army = {
-	name="2nd Army"
-	location=461
-	regiment = {
-		name="3rd Madras Infantry"
-		type=infantry
-		home=1304
-	}
-	regiment = {
-		name="1st Cochin Artillery"
-		type=artillery
-		home=1318
-	}
-	regiment = {
-		name="2nd Trivandrum Artillery"
-		type=artillery
-		home=1319
-	}
-}
-
-army = {
-	name="4th Army"
-	location=453
-	regiment = {
-		name="2nd Bombay Infantry"
-		type=infantry
-		home=1297
-	}
-	regiment = {
-		name="1st Bijapur Artillery"
-		type=artillery
-		home=1300
-	}
-	regiment = {
-		name="2nd Bijapur Artillery"
-		type=artillery
-		home=1300
-	}
-}
-
-army = {
-	name="5th Army"
-	location=470
-	regiment = {
-		name="1st Aurangabad Infantry"
-		type=infantry
-		home=1284
-	}
-	regiment = {
-		name="1st Jubbulpore Artillery"
-		type=artillery
-		home=1275
-	}
-}
-
-army = {
-	name="6th Army"
-	location=463
-	regiment = {
-		name="1st Nizamabad Infantry"
-		type=infantry
-		home=1285
-	}
-	regiment = {
-		name="1st Hoshangabad Artillery"
-		type=artillery
-		home=1276
 	}
 }
 

@@ -1,6 +1,9 @@
-owner=ARG
-controller=ARG
-add_core=ARG
+owner=PBC
+controller=PBC
+add_core=PRG
+add_core=PBC
+add_core=BOL
+add_core=LPL
 trade_goods = fish
 life_rating = 15
 terrain = savanna

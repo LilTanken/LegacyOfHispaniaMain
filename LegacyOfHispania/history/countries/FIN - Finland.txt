@@ -1,6 +1,5 @@
 capital = 345
-primary_culture = dynamic-finnish-norse-culture-num1
-culture = finnish
+primary_culture = finnish
 culture = zzz_religion_orthodox
 religion = orthodox
 government = absolute_monarchy
@@ -20,7 +19,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=none_voting
 upper_house_composition=party_appointed
 voting_system=first_past_the_post

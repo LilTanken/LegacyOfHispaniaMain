@@ -1,4 +1,4 @@
-graphical_culture = PrussianGC
+graphical_culture = EuropeanGC
 color = { 61 136 66 }
 
 party = {

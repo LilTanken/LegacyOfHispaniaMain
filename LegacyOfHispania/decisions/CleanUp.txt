@@ -3573,6 +3573,7 @@ political_decisions = {
             ai = yes
             has_country_flag = annex_to_master
             is_vassal = yes
+	    NOT = { tag = EIC }
             OR = {
                 AND = {
                     tag = CRT
@@ -3645,6 +3646,7 @@ political_decisions = {
         potential = {
             ai = yes
             has_country_flag = annex_to_master
+	    NOT = { tag = EIC }
             is_vassal = no
         }
 

@@ -1,4 +1,5 @@
 owner=ARA
 controller=ARA
+add_core=BYZ
 trade_goods = fish
 life_rating = 35

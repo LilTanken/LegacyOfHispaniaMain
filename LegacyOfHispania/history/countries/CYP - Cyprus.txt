@@ -1,5 +1,6 @@
 capital = 855
-primary_culture = greek
+primary_culture = dynamic-greek-culture-num4
+culture = greek
 culture = zzz_religion_orthodox
 religion = orthodox
 government = democracy
