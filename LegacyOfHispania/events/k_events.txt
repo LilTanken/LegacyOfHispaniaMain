@@ -1,0 +1,89 @@
+#Imperial Milenium
+country_event = {
+	id = 1
+	title = "EVTNAME1" 
+	desc = "EVTDESC1"
+	picture = "milenium"
+
+	trigger = {
+		tag = ENG
+		is_greater_power = yes
+		year = 1849
+	        OR = {
+			government = absolute_monarchy
+			government = prussian_constitutionalism
+			government = hms_government
+			}
+	}
+        mean_time_to_happen  {
+	        months = 4
+        }
+        fire_only_once = yes
+
+	option = {
+		name = "EVT1OPTA"
+		prestige = 15
+		add_country_modifier = {
+			name = "imperial_milenium"
+			duration = 700
+			}
+	}
+}
+
+#Unbroken Dynasty
+country_event = {
+	id = 2
+	title = "EVTNAME2" 
+	desc = "EVTDESC2"
+	picture = "unbroken_dynasty"
+        fire_only_once = yes
+
+	trigger = {
+		tag = RUS
+		is_greater_power = yes
+		year = 1867
+	        OR = {
+			government = absolute_monarchy
+			government = prussian_constitutionalism
+			government = hms_government
+			}
+	}
+        mean_time_to_happen  {
+	        months = 4
+        }
+
+	option = {
+		name = "EVT2OPTA"
+		prestige = 15
+		add_country_modifier = {
+			name = "unbroken_dynasty"
+			duration = 700
+			}
+	}
+}
+
+#steel statists
+country_event = {
+	id = 4
+	title = "EVTNAME4" 
+	desc = "EVTDESC4"
+	picture = "steel_statists"
+
+	trigger = {
+		tag = RUS
+		is_greater_power = yes
+		invention = the_doctrine_of_fascism
+	}
+        mean_time_to_happen  {
+	        months = 12
+        }
+        fire_only_once = yes
+
+	option = {
+		name = "EVT4OPTA"
+		add_country_modifier = {
+			name = "steel_statists"
+			duration = 1000
+			}
+	}
+}
