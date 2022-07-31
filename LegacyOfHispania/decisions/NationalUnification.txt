@@ -1553,4 +1553,117 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+	unite_byzantium = {
+		picture = form_byzantine_empire
+		potential = {
+			capital_scope = { is_core = BYZ }
+			NOT = {
+				exists = BYZ
+			}
+		}
+		
+		allow = {
+			war = no
+			BYZ = {
+				860 = {
+					owned_by = THIS
+							}
+				869 = {
+					owned_by = THIS
+							}
+				834 = {
+					owned_by = THIS
+							}
+				822 = {
+					owned_by = THIS
+							}
+				875 = {
+					owned_by = THIS
+							}
+				823 = {
+					owned_by = THIS
+							}
+				840 = {
+					owned_by = THIS
+							}
+				842 = {
+					owned_by = THIS
+							}
+				837 = {
+					owned_by = THIS
+							}
+				824 = {
+					owned_by = THIS
+							}
+				862 = {
+					owned_by = THIS
+							}
+				870 = {
+					owned_by = THIS
+							}
+				871 = {
+					owned_by = THIS
+							}
+				874 = {
+					owned_by = THIS
+							}
+				866 = {
+					owned_by = THIS
+							}
+				873 = {
+					owned_by = THIS
+							}
+				880 = {
+					owned_by = THIS
+							}
+				878 = {
+					owned_by = THIS
+							}
+				879 = {
+					owned_by = THIS
+							}
+				884 = {
+					owned_by = THIS
+							}
+				882 = {
+					owned_by = THIS
+							}
+				831 = {
+					owned_by = THIS
+							}
+				836 = {
+					owned_by = THIS
+							}
+				805 = {
+					owned_by = THIS
+							}
+				835 = {
+					owned_by = THIS
+							}
+				863 = {
+					owned_by = THIS
+							}
+			}
+		}
+		
+		effect = {
+			prestige = 40
+			change_tag = BYZ
+			add_accepted_culture = greek
+			add_accepted_culture = dynamic-greek-culture-num1
+			add_accepted_culture = dynamic-greek-culture-num2
+			add_accepted_culture = dynamic-greek-culture-num3
+			add_accepted_culture = dynamic-greek-culture-num4
+			add_accepted_culture = dynamic-greek-culture-num5
+			add_accepted_culture = dynamic-greek-culture-num6
+			add_accepted_culture = dynamic-greek-culture-num7
+			capital = 860
+			all_core = { add_core = BYZ }
+			}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 }

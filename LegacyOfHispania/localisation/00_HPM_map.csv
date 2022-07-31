@@ -157,7 +157,7 @@ PROV2623;Minazukijima;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2524;Hamilton;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV579;Neuwied;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV574;Koblenz;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV547;Graifsvald;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV547;Ryck;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV57;Bytown;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2036;Mzizima;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2681;Taihoku;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -361,7 +361,7 @@ PROV1382;Hà Tiên;;;;;;;;;;;;;;;;;;;;;;;x
 RUS_1048;Circassia;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1049;Ubykhia;;;;;;;;;;;;;;;;;;;;;;;x
 PROV900;Antakya;;;;;;;;;;;;;;;;;;;;;;;x
-PROV689;Teschen;;;;;;;;;;;;;;;;;;;;;;;x
+PROV689;Cieszyn;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1773;Saguia el-Hamra;;;;;;;;;;;;;;;;;;;;;;;x
 PROV1178;Sana'a;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV969;Olviopol;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -451,9 +451,9 @@ HAN_534;Hanover;;;;;;;;;;;;x
 HAN_540;East Friesland;;;;;;;;;;;;x
 PRU_544;Mecklenburg;;;;;;;;;;;;x
 PRU_546;Pomerania;;;;;;;;;;;;x
-PRU_553;Anhalt;;;;;;;;;;;;x
+PRU_553;Moricane;;;;;;;;;;;;x
 PRU_554;Thuringia;;;;;;;;;;;;x
-SAX_558;Saxony;;;;;;;;;;;;x
+SAX_558;Sakska;;;;;;;;;;;;x
 PRU_570;Palatinate;;;;;;;;;;;;x
 PRU_575;Rheinland;;;;;;;;;;;;x
 PRU_578;Eastern Rheinland;;;;;;;;;;;;x
@@ -1151,14 +1151,20 @@ PROV682;Wroclaw;x
 PROV684;Opole;x
 PROV558;Drezno;x
 PROV545;Strelci;x
-PROV561;Veymar;x
-PROV544;Shverin;x
+PROV544;Zverin;x
 PROV552;Chocebuz;x
 PROV556;Sala;x
 PROV559;Lipsk;x
 PROV550;Premyslaw;x
 PROV544;Zwierzyn;x
 PROV561;Vimar;x
+PROV687;Zhorjelc;x
+PROV548;Stralow;x
+PROV628;Ústí;x
+PROV627;Karlovy Vary;x
+PROV688;Opava;x
+PROV560;Kamienica;x
+PROV551;Glinane;
 PROV564;Francfort;x
 PROV535;Nienbourg;x
 PROV566;Cassel;x

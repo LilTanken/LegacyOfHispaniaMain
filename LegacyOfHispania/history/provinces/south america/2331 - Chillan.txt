@@ -1,6 +1,7 @@
-owner=ARG
-controller=ARG
-add_core=ARG
+owner=LPL
+controller=LPL
+add_core=LPL
+add_core=CHL
 trade_goods = iron
 life_rating = 35
 terrain = montane_forest

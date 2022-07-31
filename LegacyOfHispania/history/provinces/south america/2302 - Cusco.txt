@@ -1,7 +1,8 @@
-owner=PEU
-controller=PEU
-add_core=CSU
+owner=PBC
+controller=PBC
 add_core=PEU
+add_core=PBC
+add_core=CSU
 trade_goods = wool
 life_rating = 37
 fort = 1

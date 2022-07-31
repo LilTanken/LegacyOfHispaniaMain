@@ -78,49 +78,49 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 834
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 7273
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 338
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 177
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 42
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 873
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 21798
 	}
@@ -229,7 +229,7 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 4208
 	}
@@ -243,42 +243,42 @@
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 1383
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 247
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 1033
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 63
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 32
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 15
 	}
@@ -520,49 +520,49 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 408
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 66
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 35
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 86
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 5194
 	}
@@ -762,49 +762,49 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 1323
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 3471
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 161
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 84
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 39
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 417
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 8733
 	}
@@ -841,49 +841,49 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 1630
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 18575
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 4426
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 530
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 205
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 95
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 50
 	}
@@ -1032,49 +1032,49 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 651
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 1826
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 85
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 50
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 219
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 5391
 	}
@@ -1188,49 +1188,49 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 1238
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 3250
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 151
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 70
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 37
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 195
 	}
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 13426
 	}
@@ -1260,21 +1260,21 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 4420
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 307
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 129
 	}
@@ -1288,28 +1288,28 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 1033
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 49
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 26
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 12
 	}
@@ -1346,35 +1346,35 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 2538
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 145
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 61
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 23
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 12
 	}
@@ -1388,14 +1388,14 @@
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 169
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 5
 	}
@@ -1665,49 +1665,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 2926
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 149
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 63
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 24
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 64
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 12
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 3
 	}
@@ -1730,49 +1730,49 @@
 
 	farmers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 666
 	}
 
 	artisans=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 138
 	}
 
 	soldiers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 16
 	}
 
 	clergymen=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = platinean
+		culture = north_andean
 		religion = catholic
 		size= 8
 	}

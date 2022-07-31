@@ -1,6 +1,7 @@
-owner=PEU
-controller=PEU
+owner=PBC
+controller=PBC
 add_core=PEU
+add_core=PBC
 trade_goods = sulphur
 life_rating = 39
 naval_base = 1

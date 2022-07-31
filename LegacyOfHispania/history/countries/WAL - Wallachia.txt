@@ -1,5 +1,5 @@
-capital = 668
-primary_culture = dynamic-romanian-culture-num1
+capital = 664
+primary_culture = romanian
 culture = zzz_religion_protestant
 religion = protestant
 government = absolute_monarchy
