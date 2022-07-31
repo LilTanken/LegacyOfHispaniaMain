@@ -1,6 +1,7 @@
 owner=X29
 controller=X29
 add_core=X29
+add_core=BYZ
 trade_goods = fish
 life_rating = 32
 terrain = small_island

@@ -1,7 +1,8 @@
-owner=PEU
-controller=PEU
-add_core=CHM
+owner=PBC
+controller=PBC
 add_core=PEU
+add_core=PBC
+add_core=CHM
 trade_goods = wool
 life_rating = 35
 terrain = dryhills

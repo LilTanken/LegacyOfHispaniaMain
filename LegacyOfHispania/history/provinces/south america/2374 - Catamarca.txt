@@ -1,7 +1,8 @@
-owner=ARG
-controller=ARG
+owner=LPL
+controller=LPL
 add_core=ARG
 add_core=CCQ
+add_core=LPL
 trade_goods = wool
 life_rating = 35
 terrain = dryhills

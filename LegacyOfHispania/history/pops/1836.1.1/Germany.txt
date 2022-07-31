@@ -3114,91 +3114,91 @@
 555 = {
 	soldiers=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 16533
 	}
 
 	artisans=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 1354
 	}
 
 	clergymen=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 254
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 47
 	}
 
 	officers=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 54
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 285
 	}
 
 	farmers=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 19060
 	}
 
 	soldiers=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = protestant
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = protestant
 		size= 151
 	}
 
 	clergymen=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = protestant
 		size= 28
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = protestant
 		size= 5
 	}
 
 	officers=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = protestant
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = protestant
 		size= 32
 	}
@@ -3472,49 +3472,49 @@
 559 = {
 	soldiers=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 12477
 	}
 
 	artisans=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 19038
 	}
 
 	clergymen=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 1951
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 246
 	}
 
 	officers=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 328
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 1722
 	}
 
 	farmers=
 	{
-		culture = dynamic-sorbian-culture-num2
+		culture = western_slavic
 		religion = catholic
 		size= 100641
 	}

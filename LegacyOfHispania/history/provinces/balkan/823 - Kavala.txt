@@ -1,6 +1,7 @@
 owner=X27
 controller=X27
 add_core=X27
+add_core=BYZ
 trade_goods = tobacco
 life_rating = 35
 fort = 1

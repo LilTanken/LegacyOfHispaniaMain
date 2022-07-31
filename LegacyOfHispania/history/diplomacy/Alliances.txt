@@ -1,40 +1,8 @@
 alliance=
 {
-	first="ACH"
-	second="X37"
-	start_date="1512.11.1"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="ACH"
-	second="X39"
-	start_date="1717.5.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="AFG"
 	second="PER"
 	start_date="1760.1.15"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="ALB"
-	second="X27"
-	start_date="1444.11.12"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="ALB"
-	second="CRE"
-	start_date="1764.2.1"
 	end_date="1936.1.1"
 }
 
@@ -64,33 +32,9 @@ alliance=
 
 alliance=
 {
-	first="ARM"
-	second="X31"
-	start_date="1700.5.12"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="ARM"
-	second="X08"
-	start_date="1740.1.26"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="SIA"
 	second="KWN"
 	start_date="1566.12.22"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="BAU"
-	second="SUN"
-	start_date="1756.11.14"
 	end_date="1936.1.1"
 }
 
@@ -136,33 +80,9 @@ alliance=
 
 alliance=
 {
-	first="ION"
-	second="X33"
-	start_date="1686.12.24"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="CLM"
 	second="CUB"
 	start_date="1732.12.2"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="CLM"
-	second="MEX"
-	start_date="1765.7.18"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="DLM"
-	second="X30"
-	start_date="1613.6.3"
 	end_date="1936.1.1"
 }
 
@@ -200,14 +120,6 @@ alliance=
 
 alliance=
 {
-	first="GEO"
-	second="X21"
-	start_date="1598.9.11"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="HUN"
 	second="ACH"
 	start_date="1743.6.24"
@@ -219,22 +131,6 @@ alliance=
 	first="HUN"
 	second="WAL"
 	start_date="1747.9.2"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="IME"
-	second="TBZ"
-	start_date="1635.9.9"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="LBN"
-	second="X08"
-	start_date="1740.10.31"
 	end_date="1936.1.1"
 }
 
@@ -264,25 +160,9 @@ alliance=
 
 alliance=
 {
-	first="MLC"
-	second="BLM"
-	start_date="1720.7.13"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="NET"
 	second="X12"
 	start_date="1692.8.31"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="NOR"
-	second="IPR"
-	start_date="1651.4.8"
 	end_date="1936.1.1"
 }
 
@@ -296,25 +176,9 @@ alliance=
 
 alliance=
 {
-	first="POT"
-	second="OEO"
-	start_date="1645.8.19"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="SMB"
 	second="IPR"
 	start_date="1451.6.18"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="SME"
-	second="GEO"
-	start_date="1444.11.12"
 	end_date="1936.1.1"
 }
 
@@ -336,14 +200,6 @@ alliance=
 
 alliance=
 {
-	first="SUN"
-	second="SMB"
-	start_date="1445.2.10"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="SWE"
 	second="RUS"
 	start_date="1448.6.24"
@@ -355,14 +211,6 @@ alliance=
 	first="SWE"
 	second="X14"
 	start_date="1566.2.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="TTE"
-	second="BAU"
-	start_date="1668.11.3"
 	end_date="1936.1.1"
 }
 
@@ -384,353 +232,9 @@ alliance=
 
 alliance=
 {
-	first="X12"
-	second="EPI"
-	start_date="1739.2.13"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X15"
-	second="ACH"
-	start_date="1650.7.29"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X15"
-	second="WAL"
-	start_date="1749.11.1"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="X18"
 	second="X36"
 	start_date="1444.11.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X18"
-	second="SME"
-	start_date="1568.2.24"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X18"
-	second="X25"
-	start_date="1669.9.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X19"
-	second="CRE"
-	start_date="1458.2.20"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X21"
-	second="SME"
-	start_date="1516.10.12"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X21"
-	second="LBN"
-	start_date="1756.1.9"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X22"
-	second="X15"
-	start_date="1445.1.30"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X22"
-	second="X29"
-	start_date="1526.8.6"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X22"
-	second="X36"
-	start_date="1603.10.17"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X22"
-	second="X18"
-	start_date="1636.12.29"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X22"
-	second="X24"
-	start_date="1696.7.12"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X22"
-	second="X21"
-	start_date="1701.1.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X23"
-	second="X32"
-	start_date="1601.2.15"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X23"
-	second="TBZ"
-	start_date="1602.12.27"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X23"
-	second="IME"
-	start_date="1609.4.24"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X24"
-	second="BUL"
-	start_date="1613.10.22"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X24"
-	second="X15"
-	start_date="1679.12.5"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X24"
-	second="BOS"
-	start_date="1706.8.3"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X25"
-	second="GEO"
-	start_date="1446.5.17"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X25"
-	second="PER"
-	start_date="1690.3.9"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X27"
-	second="X08"
-	start_date="1444.11.15"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X27"
-	second="EPI"
-	start_date="1737.10.3"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X28"
-	second="X42"
-	start_date="1596.11.30"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X29"
-	second="X08"
-	start_date="1444.12.11"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X29"
-	second="X28"
-	start_date="1528.5.31"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X29"
-	second="X36"
-	start_date="1605.6.22"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X29"
-	second="X33"
-	start_date="1636.12.3"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X30"
-	second="X33"
-	start_date="1667.9.20"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X30"
-	second="X22"
-	start_date="1727.8.2"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X31"
-	second="X39"
-	start_date="1444.12.18"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X31"
-	second="X27"
-	start_date="1472.7.22"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X31"
-	second="ACH"
-	start_date="1517.9.16"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X32"
-	second="IME"
-	start_date="1739.8.24"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X33"
-	second="BUL"
-	start_date="1705.6.27"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X36"
-	second="X33"
-	start_date="1742.10.18"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X37"
-	second="X32"
-	start_date="1506.10.6"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X37"
-	second="X41"
-	start_date="1545.5.25"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X37"
-	second="X24"
-	start_date="1597.5.15"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X37"
-	second="X25"
-	start_date="1729.9.24"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X38"
-	second="X28"
-	start_date="1444.11.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X38"
-	second="X27"
-	start_date="1682.10.29"
 	end_date="1936.1.1"
 }
 
@@ -739,110 +243,6 @@ alliance=
 	first="X39"
 	second="X32"
 	start_date="1444.11.27"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X39"
-	second="EPI"
-	start_date="1737.7.5"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X40"
-	second="X37"
-	start_date="1529.1.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X40"
-	second="X23"
-	start_date="1601.7.21"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X40"
-	second="X36"
-	start_date="1613.5.16"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X40"
-	second="X41"
-	start_date="1700.1.13"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X40"
-	second="X18"
-	start_date="1728.8.9"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X41"
-	second="X23"
-	start_date="1618.6.27"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X41"
-	second="X30"
-	start_date="1637.8.13"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X42"
-	second="DLM"
-	start_date="1452.4.19"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X42"
-	second="X12"
-	start_date="1648.1.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X08"
-	second="X22"
-	start_date="1515.2.25"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X08"
-	second="X38"
-	start_date="1621.1.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="X02"
-	second="MOD"
-	start_date="1830.1.2"
 	end_date="1936.1.1"
 }
 

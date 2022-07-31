@@ -8,6 +8,7 @@ nationalvalue = nv_liberty
 literacy = 0
 
 civilized = yes
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -19,7 +20,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=wealth_voting
 upper_house_composition=state_equal_weight
 voting_system=jefferson_method
@@ -27,6 +28,10 @@ public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=all_trade_unions
 political_parties=non_secret_ballots
+
+#HPM reforms
+border_policy = open_borders
+serfdom = debtors_prisons
 
 ruling_party = URU_conservative
 upper_house = 

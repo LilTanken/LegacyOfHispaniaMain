@@ -1,6 +1,5 @@
 capital = 2373
 primary_culture = platinean
-culture = south_andean
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy
@@ -9,6 +8,7 @@ nationalvalue = nv_productivity
 literacy = 0.480202
 
 civilized = yes
+is_releasable_vassal = no
 
 # Social Reforms
 wage_reform = no_minimum_wage
