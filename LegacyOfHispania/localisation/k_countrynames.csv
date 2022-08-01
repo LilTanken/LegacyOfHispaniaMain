@@ -1,3 +1,4 @@
+Key;English;
 RUS_absolute_monarchy;Russian Empire;
 RUS_prussian_constitutionalism;Russian Empire;
 RUS_hms_government;Russian Empire;
@@ -6,3 +7,12 @@ RUS_presidential_dictatorship;Union States of Russia;
 RUS_bourgeois_dictatorship;Union States of Russia;
 RUS_fascist_dictatorship;Russian Steel State;
 RUS_democracy;Russian Federation;
+UBD_ADJ;South Baltic;
+UBD_absolute_monarchy;United Baltic Duchies;
+UBD_prussian_constitutionalism;United Baltic Duchies;
+UBD_hms_government;United Baltic Duchies;
+UBD_proletarian_dictatorship;South Baltic Workers Union;
+UBD_presidential_dictatorship;South Baltic Confederacy;
+UBD_bourgeois_dictatorship;South Baltic League;
+UBD_fascist_dictatorship;South Baltic Order;
+UBD_democracy;South Baltic Federation;

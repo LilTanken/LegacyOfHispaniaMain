@@ -1603,7 +1603,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 9458
+		size= 8458
 	}
 
 	artisans=
@@ -1631,7 +1631,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 863
+		size= 463
 	}
 
 	aristocrats=
@@ -1645,7 +1645,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 234827
+		size= 194827
 	}
 
 	aristocrats=
@@ -1725,6 +1725,13 @@
 		culture = finnish
 		religion = catholic
 		size= 15
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = catholic
+		size= 7019
 	}
 
 	soldiers=
@@ -1822,7 +1829,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 9656
+		size= 6656
 	}
 
 }
@@ -2235,7 +2242,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 21477
+		size= 2477
 	}
 
 	artisans=
@@ -2553,7 +2560,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 4404
+		size= 1404
 	}
 
 	artisans=
@@ -3058,7 +3065,7 @@
 
 	artisans=
 	{
-		culture = russian
+		culture = ugrian
 		religion = orthodox
 		size= 11322
 	}
@@ -3072,7 +3079,7 @@
 
 	bureaucrats=
 	{
-		culture = russian
+		culture = ugrian
 		religion = orthodox
 		size= 126
 	}
@@ -3704,7 +3711,7 @@
 	{
 		culture = ugrian
 		religion = orthodox
-		size= 13819
+		size= 83819
 	}
 
 	soldiers=
@@ -3753,7 +3760,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 201393
+		size= 101393
 	}
 
 	soldiers=

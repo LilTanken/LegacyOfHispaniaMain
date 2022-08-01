@@ -1,7 +1,7 @@
 owner=X12
 controller=X12
 add_core=X12
-add_core=PRU
 add_core=POM
+add_core=PRU
 trade_goods = cattle
 life_rating = 40

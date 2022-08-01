@@ -268,16 +268,13 @@ FRO_fascist;Loysingarflokkurin;;;;;;;;;;;;;
 RUS_proletarian_dictatorship;The Soviet Union;;;;;;;;;;;;;
 NEH;Neuchatel;;;;;;;;;;;;;
 NEH_ADJ;Neuchateli;;;;;;;;;;;;;
-UBD_fascist;Baltic Fascist Union;;;;;;;;;;;;;
-UBD_communist;Baltic Communist Party;;;;;;;;;;;;;
-UBD_socialist;Union of Baltic Workers and Socialists;;;;;;;;;;;;;
-UBD_socialist_2;Baltic Labour Party;;;;;;;;;;;;;
-UBD_anarcho_liberals;Radical Party;;;;;;;;;;;;;
-UBD_liberal_2;The All-Baltic Landtag;;;;;;;;;;;;;
-UBD_liberal;Progressive Union;;;;;;;;;;;;;
-UBD_conservative_2;Union of Landowners and Farmers;;;;;;;;;;;;;
-UBD_reactionary;Royalist Faction;;;;;;;;;;;;;
-UBD_conservative;German Landtag;;;;;;;;;;;;;
+UBD_conservative;Traditionalists;;;;;;;;;;;x
+UBD_liberal;Liberals;;;;;;;;;;;x
+UBD_reactionary;Pan-Ducal;;;;;;;;;;;x
+UBD_anarcho_liberals;Anarcho-Liberals;;;;;;;;;;;x
+UBD_socialist;Baltic Socialists;;;;;;;;;;;x
+UBD_communist;Bolsheviks;;;;;;;;;;;x
+UBD_fascist;Radical Patriarchate;;;;;;;;;;;x
 EST_fascist;Vabadussõjalased;;;;;;;;;;;;;
 EST_communist;Eestimaa Kommunistlik Partei;;;;;;;;;;;;;
 EST_socialist;Eesti Sotsialistlik Tööliste Partei;;;;;;;;;;;;;

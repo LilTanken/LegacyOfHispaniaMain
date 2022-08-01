@@ -301,49 +301,49 @@
 320 = {
 	soldiers=
 	{
-		culture = dynamic-sapmi-culture-num2
+		culture = swedish
 		religion = orthodox
 		size= 170
 	}
 
 	artisans=
 	{
-		culture = dynamic-sapmi-culture-num2
+		culture = swedish
 		religion = orthodox
 		size= 121
 	}
 
 	clergymen=
 	{
-		culture = dynamic-sapmi-culture-num2
+		culture = swedish
 		religion = orthodox
 		size= 23
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-sapmi-culture-num2
+		culture = swedish
 		religion = orthodox
 		size= 6
 	}
 
 	officers=
 	{
-		culture = dynamic-sapmi-culture-num2
+		culture = swedish
 		religion = orthodox
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-sapmi-culture-num2
+		culture = swedish
 		religion = orthodox
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = dynamic-sapmi-culture-num2
+		culture = swedish
 		religion = orthodox
 		size= 5720
 	}

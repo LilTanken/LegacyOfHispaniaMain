@@ -1,4 +1,4 @@
-capital = 635
+capital = 706
 primary_culture = polish
 culture = slovak
 culture = zzz_religion_orthodox

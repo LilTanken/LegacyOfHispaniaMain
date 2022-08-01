@@ -2562,7 +2562,7 @@ emergency_tax_measures2 = {
     icon = 10
 }
 
-### Russia ONES ###
+### RUS ONES ###
 unbroken_dynasty = {
     prestige = 0.02
     global_assimilation_rate = 2
@@ -2578,11 +2578,11 @@ steel_statists = {
 rus_intergration_campaign = {
     immigrant_attract = 1
     assimilation_rate = 2
-    non_accepted_pop_militancy_modifier = 0.01
+    non_accepted_pop_militancy_modifier = 0.05
     icon = 7
 }
 
-### Imperial Millenium ###
+### Imperial Milenium ###
 imperial_milenium = {
     prestige = 0.02
     core_pop_militancy_modifier = -0.3

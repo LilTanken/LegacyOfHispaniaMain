@@ -428,12 +428,6 @@
 
 }
 482 = {
-	aristocrats=
-	{
-		culture = ashkenazi
-		religion = jewish
-		size= 120
-	}
 	soldiers=
 	{
 		culture = spanish
@@ -473,14 +467,14 @@
 	{
 		culture = spanish
 		religion = catholic
-		size= 1957
+		size= 957
 	}
 
 	farmers=
 	{
 		culture = spanish
 		religion = catholic
-		size= 61790
+		size= 41790
 	}
 
 }
