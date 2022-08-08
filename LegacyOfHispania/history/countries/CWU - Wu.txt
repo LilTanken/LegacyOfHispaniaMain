@@ -1,5 +1,6 @@
 capital = 1482
-primary_culture = beifaren
+primary_culture = min
+culture = beifaren
 culture = nanfaren
 culture = zzz_religion_mahayana
 religion = mahayana
@@ -28,7 +29,7 @@ press_rights=state_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = CWU_reactionary
+ruling_party = CHI_reactionary
 upper_house = 
 {
 	fascist = 0
@@ -46,8 +47,9 @@ nonstate_consciousness= 0.309298
 
 # Technologies
 flintlock_rifles = 1
-land_reform=yes_land_reform
-admin_reform=no_admin_reform
+bronze_muzzle_loaded_artillery = 1
+land_reform=no_land_reform
+admin_reform=yes_admin_reform
 finance_reform=no_finance_reform
 education_reform=no_education_reform
 transport_improv=no_transport_improv

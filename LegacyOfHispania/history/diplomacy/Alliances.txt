@@ -32,14 +32,6 @@ alliance=
 
 alliance=
 {
-	first="SIA"
-	second="KWN"
-	start_date="1566.12.22"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="BOS"
 	second="ALB"
 	start_date="1719.2.22"
@@ -144,14 +136,6 @@ alliance=
 
 alliance=
 {
-	first="LNA"
-	second="CDL"
-	start_date="1591.12.6"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="LOT"
 	second="HUN"
 	start_date="1685.1.9"
@@ -216,22 +200,6 @@ alliance=
 
 alliance=
 {
-	first="CWU"
-	second="CDL"
-	start_date="1562.6.21"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
-	first="CWU"
-	second="SIA"
-	start_date="1590.5.8"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="X18"
 	second="X36"
 	start_date="1444.11.14"
@@ -259,5 +227,13 @@ alliance=
 	first="ENG"
 	second="POT"
 	start_date="1812.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BRZ"
+	second="PBC"
+	start_date="1829.1.1"
 	end_date="1936.1.1"
 }

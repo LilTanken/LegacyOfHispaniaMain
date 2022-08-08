@@ -1,0 +1,298 @@
+political_decisions = {
+	#Establishes cores for a South Baltic Dutchy
+	liberate_south_baltic = {
+		picture = south_baltic
+		potential = {
+			tag = RUS
+			NOT = {
+				has_global_flag = south_baltic
+				}
+			}
+		allow = {
+            nationalism_n_imperialism = 1
+			war_with = X12
+			is_greater_power = yes
+		}
+		effect = {
+			prestige = 5
+			PRU_690 = {	#Westpreußen
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			PRU_695 = {	#Ostpreußen
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			PRU_546 = {	#Pomerania
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			PRU_543 = {	#Magdeburg
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			PRU_544 = {	#Mecklenburg
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			HOL_369 = {	#Holstein
+				add_core = UBD
+				flashpoint_tension = 10
+			}
+			set_global_flag = south_baltic
+		}
+		ai_will_do = {factor = 1
+		}
+	}
+	
+	#Southern expansion 1
+	rus_southern_expansion1 = {
+		picture = southern_expansion
+		potential = {
+			tag = RUS
+			NOT = {
+				has_global_flag = southern_expansion1
+				}
+			}
+		allow = {
+			state_n_government = 1
+		}
+		effect = {
+			prestige = 1
+			RUS_979 = {	#Don Host Oblast
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1048 = {	#Circassia
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1052 = {	#North Caucasia
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1102 = {	#Azerbaijan
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			set_global_flag = southern_expansion1
+		}
+	}
+	#Southern Expansion 2
+	rus_southern_expansion2 = {
+		picture = southern_expansion
+		potential = {
+			tag = RUS
+			has_global_flag = southern_expansion1
+			NOT = {
+				has_global_flag = southern_expansion2
+				}
+			}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			prestige = 1
+			RUS_1090 = {	#Georgia
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1098 = {	#Armenia
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			TUR_885 = {	#Kars
+				add_core = RUS
+			}
+			TUR_890 = {	#Van
+				add_core = RUS
+			}
+			PER_1112 = {	#Tabriz
+				add_core = RUS
+			}
+			set_global_flag = southern_expansion2
+		}
+	}
+
+	#Eastern expansion 1
+	rus_eastern_expansion1 = {
+		picture = siberia
+		potential = {
+			tag = RUS
+			NOT = {
+				has_global_flag = eastern_expansion1
+				}
+			}
+		allow = {
+			state_n_government = 1
+		}
+		effect = {
+			prestige = 1
+			RUS_1182 = {	#Uralsk
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1184 = {	#Akmolinsk
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1065 = {	#Yamalia
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_2685 = {	#Ural
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1469 = {	#Tomsk
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1070 = {	#Upper Yeniseysk
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1075 = {	#Irkutsk
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1079 = {	#Trans-Baikal
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1071 = {	#Yakutsk
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1072 = {	#Amur
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_2685 = {	#Ural
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			CHI_1082 = {	#Outer Manchuria
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_2618 = {	#Magadan
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_1074 = {	#Kamchatka
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			RUS_2590 = {	#Coastal Chukotka
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			}
+			set_global_flag = eastern_expansion1
+		}
+	}
+	#Establishes cores for a South Baltic Dutchy
+	intergration_finland = {
+		picture = finland
+		potential = {
+			tag = RUS
+			NOT = {
+				has_global_flag = inherit_finland
+				}
+			}
+		allow = {
+			is_our_vassal = FIN
+			war = no
+			is_greater_power = yes
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			prestige = 5
+			inherit = FIN
+			RUS_343 = {	#Helsinki
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			RUS_345 = {	#Turku
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			RUS_336 = {	#Northern Finland
+				add_core = RUS
+				add_province_modifier = {
+					name = rus_intergration_campaign
+					duration = 365
+				}
+			set_global_flag = inherit_finland
+		}
+		ai_will_do = {factor = 1
+		}
+	}
+}

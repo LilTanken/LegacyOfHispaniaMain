@@ -1457,56 +1457,56 @@
 1121 = {
 	slaves=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 8490
 	}
 
 	soldiers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 10333
 	}
 
 	artisans=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 11783
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 1130
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 245
 	}
 
 	officers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 210
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 1105
 	}
 
 	farmers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 53865
 	}
@@ -1727,49 +1727,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 840
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 39
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 12
 	}
 
 	officers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 101
 	}
 
 	farmers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 3962
 	}
@@ -1778,49 +1778,49 @@
 1124 = {
 	soldiers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 3388
 	}
 
 	artisans=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 5155
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 479
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 88
 	}
 
 	officers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 88
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 309
 	}
 
 	farmers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 27317
 	}
@@ -1829,49 +1829,49 @@
 1125 = {
 	soldiers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 4826
 	}
 
 	artisans=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 7344
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 682
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 168
 	}
 
 	officers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 126
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 882
 	}
 
 	farmers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 38430
 	}
@@ -1880,49 +1880,49 @@
 1126 = {
 	soldiers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 680
 	}
 
 	artisans=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 1699
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 79
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 29
 	}
 
 	officers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 102
 	}
 
 	farmers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 9528
 	}
@@ -2003,49 +2003,49 @@
 1128 = {
 	soldiers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 1455
 	}
 
 	artisans=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 2213
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 205
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 50
 	}
 
 	officers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 38
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 265
 	}
 
 	farmers=
 	{
-		culture = dynamic-bedouin_arabic-persian-culture-num1
+		culture = persian
 		religion = sunni
 		size= 11584
 	}

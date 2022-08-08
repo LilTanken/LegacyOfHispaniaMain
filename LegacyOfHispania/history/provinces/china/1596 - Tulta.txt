@@ -1,5 +1,6 @@
 owner=KHA
 controller=KHA
 add_core=KHA
+add_core=MNX
 trade_goods = cotton
-life_rating = 32
+life_rating = 20

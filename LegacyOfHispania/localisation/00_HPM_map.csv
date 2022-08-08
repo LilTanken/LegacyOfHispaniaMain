@@ -183,7 +183,7 @@ PROV2496;Nullarbor;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2603;Chanamee;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2507;Mparntwe;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2505;Port Essington;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-RUS_973;Kherson-Zaporizhia;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+RUS_973;Novorossiya;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 RUS_955;Yekaterinoslav;;;;;;;;;;;;x
 PROV3107;Lake Baikal;;;;;;;;;;;;;;;;;;;;;x;;;;;;
 PROV2589;Tsushima;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -220,7 +220,7 @@ PROV2697;Jingkiri;;;;;;;;;;;;;;;;;;x;;;;
 PROV1081;Yakesa;;;;;;;;;;;;;;;;;;x;;;;
 RUS_1072;Hailanpao;;;;;;;;;;;;;;;;;x;;;;
 PROV1085;Hailanpao;;;;;;;;;;;;;;;;;x;;;;
-PROV1600;Urumqi;;;;;;;;;;;;;;;;;x;;;;
+PROV1600;Tihwa;;;;;;;;;;;;;;;;;x;;;;
 PROV2839;Gulf of Patience;;;;;;;;;;;;;;;;;x;;;;
 PROV2831;Soya Strait;;;;;;;;;;;;;;;;;x;;;;
 PROV2830;East Sea;;;;;;;;;;;;;;;;;x;;;;
@@ -254,8 +254,8 @@ PROV1071;Qeshm;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2786;Gulf of Oman;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2787;Hormuz Strait;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2664;Khasab;;;;;;;;;;;;;;;;;;;;;;;x
-PROV45;Marigot;;;;;;;;;;;;x
-PROV2236;Philipsburg;;;;;;;;;;;;x
+PROV45;San Martin;;;;;;;;;;;;x
+PROV2236;Puerto Anton;;;;;;;;;;;;x
 PEU_2297;Cusco;;;;;;;;;;;;x
 PROV2667;Batagay;;;;;;;;;;;;x
 PROV110;Rock Springs;;;;;;;;;;;;x
@@ -398,7 +398,7 @@ PROV1481;Lüshun;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV2083;Ezorongondo;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV1028;Vyatka;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 PROV1019;Voronezh;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PROV3246;Saint Barths;;;;;;;;;;;;;;;;;;;;x;
+PROV3246;San Barto;;;;;;;;;;;;;;;;;;;;x;
 PROV82;Grande Ronde;;;;;;;;;;;;;;;;;;;;x;
 PROV81;Oregon City;;;;;;;;;;;;;;;;;;;;x;
 PROV83;Puerto Jiménez;;;;;;;;;;;;;;;;;;;;x;
@@ -531,45 +531,45 @@ NET_1447;Moluccas;;;;;;;;;;;;x
 NET_1449;Celebes;;;;;;;;;;;;x
 CHI_1465;Eastern Mongolia;;;;;;;;;;;;x
 CHI_1468;Western Mongolia;;;;;;;;;;;;x
-CHI_1470;Anking;;;;;;;;;;;;x
-CHI_1477;Taiping;;;;;;;;;;;;x
+CHI_1470;South Anhwei;;;;;;;;;;;;x
+CHI_1477;North Anhwei;;;;;;;;;;;;x
 CHI_1479;Fengtian;;;;;;;;;;;;x
-CHI_1482;Foochow;;;;;;;;;;;;x
+CHI_1482;Fukien;;;;;;;;;;;;x
 CHI_1485;Taiwan;;;;;;;;;;;;x
-CHI_1490;Gansu;;;;;;;;;;;;x
+CHI_1490;Kansu;;;;;;;;;;;;x
 CHI_1493;East Canton;;;;;;;;;;;;x
 CHI_1496;Hong Kong;;;;;;;;;;;;x
 CHI_1499;West Canton;;;;;;;;;;;;x
-CHI_1502;Guangxi;;;;;;;;;;;;x
-CHI_1505;Guizhou;;;;;;;;;;;;x
-CHI_1508;East Henan;;;;;;;;;;;;x
-CHI_1510;West Henan;;;;;;;;;;;;x
-CHI_1519;West Hubei;;;;;;;;;;;;x
-CHI_1522;East Hubei;;;;;;;;;;;;x
+CHI_1502;Kwanghsi;;;;;;;;;;;;x
+CHI_1505;Kweichow;;;;;;;;;;;;x
+CHI_1508;East Honan;;;;;;;;;;;;x
+CHI_1510;West Honan;;;;;;;;;;;;x
+CHI_1519;West Hupeh;;;;;;;;;;;;x
+CHI_1522;East Hupeh;;;;;;;;;;;;x
 PROV1523;Siangyang;;;;;;;;;;;;x
-CHI_1524;Changte;;;;;;;;;;;;x
-CHI_1526;Paotsing;;;;;;;;;;;;x
-CHI_1532;Kweihua;;;;;;;;;;;;x
-CHI_1540;Nantung;;;;;;;;;;;;x
+CHI_1524;North Hunan;;;;;;;;;;;;x
+CHI_1526;South Hunan;;;;;;;;;;;;x
+CHI_1532;Inner Mongolia;;;;;;;;;;;;x
+CHI_1540;North Kiangsu;;;;;;;;;;;;x
 PROV1542;Suchow;;;;;;;;;;;;x
-CHI_1545;North Jiangxi;;;;;;;;;;;;x
-CHI_1547;Chian;;;;;;;;;;;;x
-CHI_1552;Heilongjiang;;;;;;;;;;;;x
+CHI_1545;North Kiangsi;;;;;;;;;;;;x
+CHI_1547;South Kiangsi;;;;;;;;;;;;x
+CHI_1552;Heilungkiang;;;;;;;;;;;;x
 CHI_1555;Kirin;;;;;;;;;;;;x
 PROV1559;Sian;;;;;;;;;;;;x
-CHI_1559;Sian;;;;;;;;;;;;x
-CHI_1563;West Shandong;;;;;;;;;;;;x
-CHI_1565;Laichow;;;;;;;;;;;;x
-CHI_1572;Shanxi;;;;;;;;;;;;x
-CHI_1578;Sichuan;;;;;;;;;;;;x
-CHI_1579;Paotung;;;;;;;;;;;;x
+CHI_1559;Shensi;;;;;;;;;;;;x
+CHI_1563;West Shantung;;;;;;;;;;;;x
+CHI_1565;East Shantung;;;;;;;;;;;;x
+CHI_1572;Shansi;;;;;;;;;;;;x
+CHI_1578;West Sichuan;;;;;;;;;;;;x
+CHI_1579;East Sichuan;;;;;;;;;;;;x
 CHI_1594;Kashgar;;;;;;;;;;;;x
-CHI_1600;Urumqui;;;;;;;;;;;;x
+CHI_1600;Tihwa;;;;;;;;;;;;x
 CHI_1601;Yunnan;;;;;;;;;;;;x
-CHI_1604;Hangchow;;;;;;;;;;;;x
-CHI_1610;Taichow;;;;;;;;;;;;x
+CHI_1604;North Chekiang;;;;;;;;;;;;x
+CHI_1610;South Chekiang;;;;;;;;;;;;x
 PROV1612;Paoting;;;;;;;;;;;;x
-CHI_1612;Paoting;;;;;;;;;;;;x
+CHI_1612;Chihli;;;;;;;;;;;;x
 PROV1616;Peking;;;;;;;;;;;;x
 CHI_1616;Shuntian;;;;;;;;;;;;x
 PROV1643;Ishikari;;;;;;;;;;;;x
@@ -758,49 +758,11 @@ NET_1423;East Borneo;;;;;;;;;;;;x
 NET_1426;South Borneo;;;;;;;;;;;;x
 NET_1446;Timor;;;;;;;;;;;;x
 NET_1449;Celebes;;;;;;;;;;;;x
-CHI_1465;Eastern Mongolia;;;;;;;;;;;;x
-CHI_1468;Western Mongolia;;;;;;;;;;;;x
 PROV1469;Uriankhai;;;;;;;;;;;;x
-CHI_1470;Anking;;;;;;;;;;;;x
-CHI_1477;Taiping;;;;;;;;;;;;x
-CHI_1479;Fengtian;;;;;;;;;;;;x
-CHI_1482;Fujian;;;;;;;;;;;;x
-CHI_1485;Formosa;;;;;;;;;;;;x
-CHI_1490;Gansu;;;;;;;;;;;;x
-CHI_1493;East Canton;;;;;;;;;;;;x
-CHI_1496;Hong Kong;;;;;;;;;;;;x
-CHI_1499;Hainan;;;;;;;;;;;;x
-CHI_1502;Guangxi;;;;;;;;;;;;x
-CHI_1505;Guizhou;;;;;;;;;;;;x
-CHI_1508;East Henan;;;;;;;;;;;;x
-CHI_1510;West Henan;;;;;;;;;;;;x
-CHI_1519;West Hubei;;;;;;;;;;;;x
-CHI_1522;East Hubei;;;;;;;;;;;;x
 PROV1523;Siangyang;;;;;;;;;;;;x
-CHI_1524;Changte;;;;;;;;;;;;x
-CHI_1526;Paotsing;;;;;;;;;;;;x
-CHI_1532;Kweihua;;;;;;;;;;;;x
 PROV1542;Suchow;;;;;;;;;;;;x
-CHI_1545;North Jiangxi;;;;;;;;;;;;x
-CHI_1547;Chian;;;;;;;;;;;;x
-CHI_1552;Heilongjiang;;;;;;;;;;;;x
-CHI_1555;Kirin;;;;;;;;;;;;x
 PROV1559;Sian;;;;;;;;;;;;x
-CHI_1559;Sian;;;;;;;;;;;;x
-CHI_1563;West Shandong;;;;;;;;;;;;x
-CHI_1565;East Shandong;;;;;;;;;;;;x
-CHI_1572;Shanxi;;;;;;;;;;;;x
-CHI_1578;Sichuan;;;;;;;;;;;;x
-CHI_1579;Paotung;;;;;;;;;;;;x
-CHI_1594;Kashgar;;;;;;;;;;;;x
-CHI_1600;Urumqui;;;;;;;;;;;;x
-CHI_1601;Yunnan;;;;;;;;;;;;x
-CHI_1604;Hangchow;;;;;;;;;;;;x
-CHI_1610;Taichow;;;;;;;;;;;;x
-PROV1612;Baoding;;;;;;;;;;;;x
-CHI_1612;Baoding;;;;;;;;;;;;x
 PROV1616;Peking;;;;;;;;;;;;x
-CHI_1616;Peking;;;;;;;;;;;;x
 PROV1643;Ishikari;;;;;;;;;;;;x
 JAP_1649;Kanto;;;;;;;;;;;;x
 JAP_1654;Bonin Islands;;;;;;;;;;;;x
@@ -1134,6 +1096,7 @@ PROV1490;Lanchow;x
 PROV1488;Chiayukwan;x
 PROV1002;Manchouli;x
 PROV1480;Chinchow;x
+PROV1505;Kweiyang;x
 PROV1887;Carloffhavn;x
 PROV1888;Rasmusborg;x
 PROV573;Sarre;x
@@ -1177,3 +1140,11 @@ PROV529;Lauenbourg;x
 PROV2561;Siegbourg;x
 PROV596;Achaffenbourg;x
 PROV597;Wuersbourg;x
+PROV2217;Santiago;x
+PROV2218;Las Tortugas;x
+PROV2969;Santiago Channel;x
+PROV2230;Guadalupe;x
+PROV2228;Martinica;x
+PROV2213;Santa Maria;x
+PROV151;Los Monjes;x
+PROV149;Nueva Zaragoza;x

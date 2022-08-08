@@ -1,13 +1,11 @@
 capital = 1446
-primary_culture = melanesian
-culture = zzz_religion_catholic
-religion = catholic
-government = democracy
+primary_culture = javan
+culture = zzz_religion_animist
+religion = animist
+government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0
-
-civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -21,19 +19,19 @@ school_reforms = no_schools
 slavery=yes_slavery
 vote_franschise=none_voting
 upper_house_composition=appointed
-voting_system=jefferson_method
-public_meetings=yes_meeting
+voting_system=first_past_the_post
+public_meetings=no_meeting
 press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = JAV_conservative
+ruling_party = JAV_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
+	liberal = 0
+	conservative = 0
+	reactionary = 100
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
@@ -44,6 +42,21 @@ consciousness = 0
 nonstate_consciousness= 0
 
 # Technologies
+land_reform=no_land_reform
+admin_reform=no_admin_reform
+finance_reform=no_finance_reform
+education_reform=no_education_reform
+transport_improv=no_transport_improv
+pre_indust=no_pre_indust
+industrial_construction=no_industrial_construction
+foreign_training=no_foreign_training
+foreign_weapons=no_foreign_weapons
+military_constructions=no_military_constructions
+foreign_officers=no_foreign_officers
+army_schools=no_army_schools
+foreign_naval_officers=no_foreign_naval_officers
+naval_schools=no_naval_schools
+foreign_navies=no_foreign_navies
 prestige=0
 oob = "TMR_OOB.txt"
 set_country_flag = religi

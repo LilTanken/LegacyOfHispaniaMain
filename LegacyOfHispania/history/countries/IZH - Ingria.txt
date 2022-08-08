@@ -1,5 +1,5 @@
 capital = 994
-primary_culture = estonian
+primary_culture = russian
 culture = zzz_religion_orthodox
 religion = orthodox
 government = democracy

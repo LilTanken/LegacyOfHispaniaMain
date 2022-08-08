@@ -1,0 +1,16 @@
+name = "Chilean Revolution"
+
+1830.1.2 = {
+	add_attacker = LPL
+	add_defender = CHL
+	war_goal = {
+		casus_belli = conquest
+		actor = LPL
+		receiver = CHL
+	}
+	war_goal = {
+		casus_belli = status_quo
+		actor = CHL
+		receiver = LPL
+	}
+}

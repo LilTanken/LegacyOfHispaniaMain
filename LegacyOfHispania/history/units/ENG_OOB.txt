@@ -756,7 +756,7 @@ leader = {
 
 leader = {
 	name="Henry Davis"
-	date="1755.1.21"
+	date="1835.9.24"
 	type=land
 	personality="au_fait"
 	background="cavalry_school"

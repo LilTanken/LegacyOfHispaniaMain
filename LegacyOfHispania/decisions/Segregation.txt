@@ -483,7 +483,10 @@ political_decisions = {
 
 
 unification_of_nova_america = {
-        picture = native_removal_act
+		news = yes
+		news_desc_long = "form_america_NEWS_LONG"
+		news_desc_medium = "form_america_NEWS_MEDIUM"
+		news_desc_short = "form_america_NEWS_SHORT"
         
 	potential = {
         tag = MEX
@@ -566,7 +569,10 @@ unification_of_nova_america = {
     }
 	
 unification_of_new_america = {
-        picture = native_removal_act
+		news = yes
+		news_desc_long = "form_america_NEWS_LONG"
+		news_desc_medium = "form_america_NEWS_MEDIUM"
+		news_desc_short = "form_america_NEWS_SHORT"
         
 	potential = {
         tag = USA
@@ -594,46 +600,37 @@ unification_of_new_america = {
 			#add these cores of USA
             treasury = -500000
             badboy = 20
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = dixie
-                    }
-                }
-                add_core = USA
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = mexican
-                    }
-                }
-                add_core = USA
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = americano
-                    }
-                }
-                add_core = USA
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = yankee
-                    }
-                }
-                add_core = USA
-            }
+		USA_78 = { add_core = USA } #Washington
+		USA_81 = { add_core = USA } #Oregon
+		MEX_85 = { add_core = USA } #California
+		USA_91 = { add_core = USA } #Idaho
+		MEX_94 = { add_core = USA } #Nevada
+		MEX_97 = { add_core = USA } #Utah
+		MEX_100 = { add_core = USA } #Arizona
+		MEX_103 = { add_core = USA } #New Mexico
+		USA_106 = { add_core = USA } #Colorado
+		USA_111 = { add_core = USA } #Wyoming
+		USA_116 = { add_core = USA } #Montana
+		USA_118 = { add_core = USA } #North Dakota
+		USA_121 = { add_core = USA } #South Dakota
+		USA_124 = { add_core = USA } #Nebraska
+		USA_126 = { add_core = USA } #Kansas
+		USA_129 = { add_core = USA } #Oklahoma
+		TEX_132 = { add_core = USA } #Texas
+		USA_139 = { add_core = USA } #Louisiana
+		USA_144 = { add_core = USA } #Arkansas
+		USA_148 = { add_core = USA } #Missouri
+		USA_151 = { add_core = USA } #Iowa
+		USA_158 = { add_core = USA } #Minnesota
+		USA_162 = { add_core = USA } #Wisconsin
+		USA_168 = { add_core = USA } #Illinois
+		USA_170 = { add_core = USA } #Indiana
+		USA_176 = { add_core = USA } #Michigan
+		USA_178 = { add_core = USA } #Ohio
+		USA_185 = { add_core = USA } #Kentucky
+		USA_188 = { add_core = USA } #Tennessee
+		USA_194 = { add_core = USA } #Mississippi
+		USA_218 = { add_core = USA } #West Virginia
 			any_owned = {
 				remove_core = CSA
 				remove_core = SON
@@ -649,7 +646,10 @@ unification_of_new_america = {
     }
 	
 unification_of_louis_america = {
-        picture = native_removal_act
+		news = yes
+		news_desc_long = "form_america_NEWS_LONG"
+		news_desc_medium = "form_america_NEWS_MEDIUM"
+		news_desc_short = "form_america_NEWS_SHORT"
         
 	potential = {
         tag = LOU
@@ -677,46 +677,48 @@ unification_of_louis_america = {
 			#add these cores of USA
             treasury = -500000
             badboy = 20
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = dixie
-                    }
-                }
-                add_core = LOU
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = mexican
-                    }
-                }
-                add_core = LOU
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = americano
-                    }
-                }
-                add_core = LOU
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = yankee
-                    }
-                }
-                add_core = LOU
-            }
+		USA_78 = { owner = LOU } #Washington
+		USA_81 = { owner = LOU } #Oregon
+		MEX_85 = { owner = LOU } #California
+		USA_91 = { owner = LOU } #Idaho
+		MEX_94 = { owner = LOU } #Nevada
+		MEX_97 = { owner = LOU } #Utah
+		MEX_100 = { owner = LOU } #Arizona
+		MEX_103 = { owner = LOU } #New Mexico
+		USA_106 = { owner = LOU } #Colorado
+		USA_111 = { owner = LOU } #Wyoming
+		USA_116 = { owner = LOU } #Montana
+		USA_118 = { owner = LOU } #North Dakota
+		USA_121 = { owner = LOU } #South Dakota
+		USA_124 = { owner = LOU } #Nebraska
+		USA_126 = { owner = LOU } #Kansas
+		USA_129 = { owner = LOU } #Oklahoma
+		TEX_132 = { owner = LOU } #Texas
+		USA_139 = { owner = LOU } #Louisiana
+		USA_144 = { owner = LOU } #Arkansas
+		USA_148 = { owner = LOU } #Missouri
+		USA_151 = { owner = LOU } #Iowa
+		USA_158 = { owner = LOU } #Minnesota
+		USA_162 = { owner = LOU } #Wisconsin
+		USA_168 = { owner = LOU } #Illinois
+		USA_170 = { owner = LOU } #Indiana
+		USA_176 = { owner = LOU } #Michigan
+		USA_178 = { owner = LOU } #Ohio
+		USA_185 = { owner = LOU } #Kentucky
+		USA_188 = { owner = LOU } #Tennessee
+		USA_194 = { owner = LOU } #Mississippi
+		USA_196 = { owner = LOU } #Alabama
+		USA_200 = { owner = LOU } #Florida
+		USA_201 = { owner = LOU } #Georgia
+		USA_218 = { owner = LOU } #West Virginia
+		USA_205 = { owner = LOU } #South Carolina
+		USA_2556 = { owner = LOU } #North Carolina
+		USA_211 = { owner = LOU } #Virginia
+		USA_219 = { owner = LOU } #Maryland
+		USA_223 = { owner = LOU } #Pennsylvania
+		USA_231 = { owner = LOU } #New Jersey
+		USA_232 = { owner = LOU } #New York
+		USA_243 = { owner = LOU } #Massachusetts
 			any_owned = {
 				remove_core = CSA
 				remove_core = SON
@@ -732,7 +734,10 @@ unification_of_louis_america = {
     }
 
 unification_of_sonara_america = {
-        picture = native_removal_act
+		news = yes
+		news_desc_long = "form_america_NEWS_LONG"
+		news_desc_medium = "form_america_NEWS_MEDIUM"
+		news_desc_short = "form_america_NEWS_SHORT"
         
 	potential = {
         tag = SON
@@ -760,46 +765,48 @@ unification_of_sonara_america = {
 			#add these cores of USA
             treasury = -500000
             badboy = 20
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = dixie
-                    }
-                }
-                add_core = SON
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = mexican
-                    }
-                }
-                add_core = SON
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = americano
-                    }
-                }
-                add_core = SON
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = yankee
-                    }
-                }
-                add_core = SON
-            }
+		USA_78 = { owner = SON } #Washington
+		USA_81 = { owner = SON } #Oregon
+		MEX_85 = { owner = SON } #California
+		USA_91 = { owner = SON } #Idaho
+		MEX_94 = { owner = SON } #Nevada
+		MEX_97 = { owner = SON } #Utah
+		MEX_100 = { owner = SON } #Arizona
+		MEX_103 = { owner = SON } #New Mexico
+		USA_106 = { owner = SON } #Colorado
+		USA_111 = { owner = SON } #Wyoming
+		USA_116 = { owner = SON } #Montana
+		USA_118 = { owner = SON } #North Dakota
+		USA_121 = { owner = SON } #South Dakota
+		USA_124 = { owner = SON } #Nebraska
+		USA_126 = { owner = SON } #Kansas
+		USA_129 = { owner = SON } #Oklahoma
+		TEX_132 = { owner = SON } #Texas
+		USA_139 = { owner = SON } #Louisiana
+		USA_144 = { owner = SON } #Arkansas
+		USA_148 = { owner = SON } #Missouri
+		USA_151 = { owner = SON } #Iowa
+		USA_158 = { owner = SON } #Minnesota
+		USA_162 = { owner = SON } #Wisconsin
+		USA_168 = { owner = SON } #Illinois
+		USA_170 = { owner = SON } #Indiana
+		USA_176 = { owner = SON } #Michigan
+		USA_178 = { owner = SON } #Ohio
+		USA_185 = { owner = SON } #Kentucky
+		USA_188 = { owner = SON } #Tennessee
+		USA_194 = { owner = SON } #Mississippi
+		USA_196 = { owner = SON } #Alabama
+		USA_200 = { owner = SON } #Florida
+		USA_201 = { owner = SON } #Georgia
+		USA_218 = { owner = SON } #West Virginia
+		USA_205 = { owner = SON } #South Carolina
+		USA_2556 = { owner = SON } #North Carolina
+		USA_211 = { owner = SON } #Virginia
+		USA_219 = { owner = SON } #Maryland
+		USA_223 = { owner = SON } #Pennsylvania
+		USA_231 = { owner = SON } #New Jersey
+		USA_232 = { owner = SON } #New York
+		USA_243 = { owner = SON } #Massachusetts
 			any_owned = {
 				remove_core = CSA
 				remove_core = LOU
@@ -815,7 +822,10 @@ unification_of_sonara_america = {
     }
 	
 unification_of_florida_america = {
-        picture = native_removal_act
+		news = yes
+		news_desc_long = "form_america_NEWS_LONG"
+		news_desc_medium = "form_america_NEWS_MEDIUM"
+		news_desc_short = "form_america_NEWS_SHORT"
         
 	potential = {
         tag = FLR
@@ -843,46 +853,48 @@ unification_of_florida_america = {
 			#add these cores of USA
             treasury = -500000
             badboy = 20
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = dixie
-                    }
-                }
-                add_core = FLR
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = mexican
-                    }
-                }
-                add_core = FLR
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = americano
-                    }
-                }
-                add_core = FLR
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = yankee
-                    }
-                }
-                add_core = FLR
-            }
+		USA_78 = { owner = FLR } #Washington
+		USA_81 = { owner = FLR } #Oregon
+		MEX_85 = { owner = FLR } #California
+		USA_91 = { owner = FLR } #Idaho
+		MEX_94 = { owner = FLR } #Nevada
+		MEX_97 = { owner = FLR } #Utah
+		MEX_100 = { owner = FLR } #Arizona
+		MEX_103 = { owner = FLR } #New Mexico
+		USA_106 = { owner = FLR } #Colorado
+		USA_111 = { owner = FLR } #Wyoming
+		USA_116 = { owner = FLR } #Montana
+		USA_118 = { owner = FLR } #North Dakota
+		USA_121 = { owner = FLR } #South Dakota
+		USA_124 = { owner = FLR } #Nebraska
+		USA_126 = { owner = FLR } #Kansas
+		USA_129 = { owner = FLR } #Oklahoma
+		TEX_132 = { owner = FLR } #Texas
+		USA_139 = { owner = FLR } #Louisiana
+		USA_144 = { owner = FLR } #Arkansas
+		USA_148 = { owner = FLR } #Missouri
+		USA_151 = { owner = FLR } #Iowa
+		USA_158 = { owner = FLR } #Minnesota
+		USA_162 = { owner = FLR } #Wisconsin
+		USA_168 = { owner = FLR } #Illinois
+		USA_170 = { owner = FLR } #Indiana
+		USA_176 = { owner = FLR } #Michigan
+		USA_178 = { owner = FLR } #Ohio
+		USA_185 = { owner = FLR } #Kentucky
+		USA_188 = { owner = FLR } #Tennessee
+		USA_194 = { owner = FLR } #Mississippi
+		USA_196 = { owner = FLR } #Alabama
+		USA_200 = { owner = FLR } #Florida
+		USA_201 = { owner = FLR } #Georgia
+		USA_218 = { owner = FLR } #West Virginia
+		USA_205 = { owner = FLR } #South Carolina
+		USA_2556 = { owner = FLR } #North Carolina
+		USA_211 = { owner = FLR } #Virginia
+		USA_219 = { owner = FLR } #Maryland
+		USA_223 = { owner = FLR } #Pennsylvania
+		USA_231 = { owner = FLR } #New Jersey
+		USA_232 = { owner = FLR } #New York
+		USA_243 = { owner = FLR } #Massachusetts
 			any_owned = {
 				remove_core = CSA
 				remove_core = LOU
@@ -898,7 +910,10 @@ unification_of_florida_america = {
     }
 	
 unification_of_cascadia_america = {
-        picture = native_removal_act
+		news = yes
+		news_desc_long = "form_america_NEWS_LONG"
+		news_desc_medium = "form_america_NEWS_MEDIUM"
+		news_desc_short = "form_america_NEWS_SHORT"
         
 	potential = {
         tag = CAS
@@ -926,46 +941,48 @@ unification_of_cascadia_america = {
 			#add these cores of USA
             treasury = -500000
             badboy = 20
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = dixie
-                    }
-                }
-                add_core = CAS
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = mexican
-                    }
-                }
-                add_core = CAS
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = americano
-                    }
-                }
-                add_core = CAS
-            }
-			any_owned = {
-                limit = {
-                    NOT = { is_core = THIS }
-                    any_core = {
-                        exists = no
-                        primary_culture = yankee
-                    }
-                }
-                add_core = CAS
-            }
+		USA_78 = { owner = CAS } #Washington
+		USA_81 = { owner = CAS } #Oregon
+		MEX_85 = { owner = CAS } #California
+		USA_91 = { owner = CAS } #Idaho
+		MEX_94 = { owner = CAS } #Nevada
+		MEX_97 = { owner = CAS } #Utah
+		MEX_100 = { owner = CAS } #Arizona
+		MEX_103 = { owner = CAS } #New Mexico
+		USA_106 = { owner = CAS } #Colorado
+		USA_111 = { owner = CAS } #Wyoming
+		USA_116 = { owner = CAS } #Montana
+		USA_118 = { owner = CAS } #North Dakota
+		USA_121 = { owner = CAS } #South Dakota
+		USA_124 = { owner = CAS } #Nebraska
+		USA_126 = { owner = CAS } #Kansas
+		USA_129 = { owner = CAS } #Oklahoma
+		TEX_132 = { owner = CAS } #Texas
+		USA_139 = { owner = CAS } #Louisiana
+		USA_144 = { owner = CAS } #Arkansas
+		USA_148 = { owner = CAS } #Missouri
+		USA_151 = { owner = CAS } #Iowa
+		USA_158 = { owner = CAS } #Minnesota
+		USA_162 = { owner = CAS } #Wisconsin
+		USA_168 = { owner = CAS } #Illinois
+		USA_170 = { owner = CAS } #Indiana
+		USA_176 = { owner = CAS } #Michigan
+		USA_178 = { owner = CAS } #Ohio
+		USA_185 = { owner = CAS } #Kentucky
+		USA_188 = { owner = CAS } #Tennessee
+		USA_194 = { owner = CAS } #Mississippi
+		USA_196 = { owner = CAS } #Alabama
+		USA_200 = { owner = CAS } #Florida
+		USA_201 = { owner = CAS } #Georgia
+		USA_218 = { owner = CAS } #West Virginia
+		USA_205 = { owner = CAS } #South Carolina
+		USA_2556 = { owner = CAS } #North Carolina
+		USA_211 = { owner = CAS } #Virginia
+		USA_219 = { owner = CAS } #Maryland
+		USA_223 = { owner = CAS } #Pennsylvania
+		USA_231 = { owner = CAS } #New Jersey
+		USA_232 = { owner = CAS } #New York
+		USA_243 = { owner = CAS } #Massachusetts
 			any_owned = {
 				remove_core = CSA
 				remove_core = LOU
