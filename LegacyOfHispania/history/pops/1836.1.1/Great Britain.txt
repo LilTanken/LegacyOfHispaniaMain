@@ -4524,98 +4524,98 @@
 419 = {
 	soldiers=
 	{
-		culture = french
+		culture = british
 		religion = catholic
 		size= 214
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = british
 		religion = catholic
 		size= 345
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = british
 		religion = catholic
 		size= 29
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = british
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = french
+		culture = british
 		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = british
 		religion = catholic
 		size= 49
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = british
 		religion = catholic
 		size= 7003
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = british
 		religion = protestant
 		size= 306
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = british
 		religion = protestant
 		size= 1328
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = british
 		religion = protestant
 		size= 111
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = british
 		religion = protestant
 		size= 20
 	}
 
 	officers=
 	{
-		culture = french
+		culture = british
 		religion = protestant
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = british
 		religion = protestant
 		size= 186
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = british
 		religion = protestant
 		size= 8954
 	}

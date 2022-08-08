@@ -99,49 +99,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 16726
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 48672
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 5349
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 650
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 800
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 4483
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 103059
 	}
@@ -471,49 +471,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 4054
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 11319
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 656
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 137
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 157
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 823
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-culture-num1
+		culture = dynamic-bavarian-slovene-culture-num1
 		religion = catholic
 		size= 52741
 	}

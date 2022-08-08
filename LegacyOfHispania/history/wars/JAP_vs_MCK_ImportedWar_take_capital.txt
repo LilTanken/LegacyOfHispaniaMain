@@ -1,11 +1,12 @@
-name = "Japanese-Manchurian Imperialist War"
+name = "Sino-Japanese Invasion of Manchuria"
 
 1830.1.2 = {
 	add_attacker = JAP
+	add_attacker = MNX
 	add_defender = MCK
 	war_goal = {
 		casus_belli = conquest
-		actor = JAP
+		actor = MNX
 		receiver = MCK
 	}
 }

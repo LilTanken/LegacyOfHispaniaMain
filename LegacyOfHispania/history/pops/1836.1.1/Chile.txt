@@ -582,7 +582,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 1021
+		size= 8051
 	}
 
 	aristocrats=
@@ -689,7 +689,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 312
+		size= 3120
 	}
 
 }
@@ -761,7 +761,7 @@
 	{
 		culture = south_andean
 		religion = catholic
-		size= 153
+		size= 5009
 	}
 
 	officers=

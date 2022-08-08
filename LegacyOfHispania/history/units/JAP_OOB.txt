@@ -735,6 +735,14 @@ leader = {
 	background="generals_aide"
 }
 
+leader = {
+	name="Kataoka Teruo"
+	date="1835.12.29"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
 
 #Armies
 navy = {
@@ -774,13 +782,13 @@ army = {
 	name="Kita Kaigan Guntai"
 	location=2631
 	regiment = {
-		name="1st Nara Irregulars"
-		type=irregular
+		name="1st Nara Infantry"
+		type=infantry
 		home=1658
 	}
 	regiment = {
-		name="1st Kagoshima Irregulars"
-		type=irregular
+		name="1st Kagoshima Infantry"
+		type=infantry
 		home=1662
 	}
 	regiment = {
@@ -789,8 +797,8 @@ army = {
 		home=1675
 	}
 	regiment = {
-		name="2nd Fukushima Irregulars"
-		type=irregular
+		name="2nd Fukushima Infantry"
+		type=infantry
 		home=1669
 	}
 	regiment = {
@@ -802,15 +810,15 @@ army = {
 
 army = {
 	name="Yamaguchi Dan"
-	location=2526
+	location=658
 	regiment = {
-		name="1st Miyazaki Irregulars"
-		type=irregular
+		name="1st Miyazaki Infantry"
+		type=infantry
 		home=1663
 	}
 	regiment = {
-		name="1st Hanseong Irregulars"
-		type=irregular
+		name="1st Keijo Infantry"
+		type=infantry
 		home=1624
 	}
 }
@@ -819,23 +827,23 @@ army = {
 	name="Manila Dan"
 	location=1661
 	regiment = {
-		name="1st Fukushima Irregulars"
-		type=irregular
+		name="1st Fukushima Infantry"
+		type=infantry
 		home=1669
 	}
 	regiment = {
-		name="1st Hakodate Irregulars"
-		type=irregular
+		name="1st Hakodate Infantry"
+		type=infantry
 		home=1642
 	}
 	regiment = {
-		name="1st Nagoya Irregulars"
-		type=irregular
+		name="1st Nagoya Infantry"
+		type=infantry
 		home=1675
 	}
 	regiment = {
-		name="2nd Nara Irregulars"
-		type=irregular
+		name="2nd Nara Infantry"
+		type=infantry
 		home=1658
 	}
 	regiment = {
@@ -859,8 +867,8 @@ army = {
 		home=1649
 	}
 	regiment = {
-		name="1st Pusan Irregulars"
-		type=irregular
+		name="1st Fusan Infantry"
+		type=infantry
 		home=1632
 	}
 	regiment = {
@@ -871,26 +879,26 @@ army = {
 }
 
 army = {
-	name="Hanseong Dan"
+	name="Keijo Dan"
 	location=1628
 	regiment = {
-		name="1st Urawa Irregulars"
-		type=irregular
+		name="1st Urawa Infantry"
+		type=infantry
 		home=1652
 	}
 	regiment = {
-		name="1st Okayama Irregulars"
-		type=irregular
+		name="1st Okayama Infantry"
+		type=infantry
 		home=1639
 	}
 	regiment = {
-		name="2nd Kagoshima Irregulars"
-		type=irregular
+		name="2nd Kagoshima Infantry"
+		type=infantry
 		home=1662
 	}
 	regiment = {
-		name="1st Kochi Irregulars"
-		type=irregular
+		name="1st Kochi Infantry"
+		type=infantry
 		home=1665
 	}
 	regiment = {

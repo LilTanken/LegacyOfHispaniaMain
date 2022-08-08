@@ -705,19 +705,225 @@ political_decisions = {
 			}
 			NOT = {
 				exists = CHI
+				tag = MNX
+				tag = CWU
 			}
 		}	
 		allow = {
 			war = no
 			CHI = {
-				all_core = {
+				2221 = {
+					owned_by = THIS
+							} #Nanking
+				1538 = {
+					owned_by = THIS
+							} #Shanghai
+				1482 = {
+					owned_by = THIS
+							} #Foochow
+				1565 = {
+					owned_by = THIS
+							} #Laichow
+				1616 = {
+					owned_by = THIS
+							} #Peking
+				1479 = {
+					owned_by = THIS
+							} #Mukden
+				1493 = {
+					owned_by = THIS
+							} #Canton
+				1577 = {
+					owned_by = THIS
+							} #Chungking
+				1601 = {
+					owned_by = THIS
+							} #Kunming
+				1578 = {
+					owned_by = THIS
+							} #Chengtu
+				1490 = {
+					owned_by = THIS
+							} #Lanchow
+				1572 = {
+					owned_by = THIS
+							} #Taiyuan
+				1547 = {
+					owned_by = THIS
+							} #Chian
+				1563 = {
+					owned_by = THIS
+							} #Tsinan
+				1618 = {
+					owned_by = THIS
+							} #Chonting
+				1503 = {
+					owned_by = THIS
+							} #Kweilin
+			}
+		}
+		
+		effect = {
+			prestige = 10
+			any_country = {
+				limit = {
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+					capital_scope = { continent = asia }
 					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
+						primary_culture = manchu
+						primary_culture = nanfaren
+						primary_culture = beifaren
+						primary_culture = min
+						primary_culture = hakka
+						primary_culture = zhuang
+						primary_culture = miao
+						primary_culture = yi
 					}
 				}
+				annex_to = THIS
+			}
+			1535 = {
+				add_core = CHI
+			}
+			1466 = {
+				add_core = CHI
+			}
+			2207 = {
+				add_core = CHI
+			}
+			1534 = {
+				add_core = CHI
+			}
+			1467 = {
+				add_core = CHI
+			}
+			1465 = {
+				add_core = CHI
+			}
+			1468 = {
+				add_core = CHI
+			}
+			2678 = {
+				add_core = CHI
+			}
+			2608 = {
+				add_core = CHI
+			}
+			2679 = {
+				add_core = CHI
+			}
+			1599 = {
+				add_core = CHI
+			}
+			1488 = {
+				add_core = CHI
+			}
+			1600 = {
+				add_core = CHI
+			}
+			1595 = {
+				add_core = CHI
+			}
+			1556 = {
+				add_core = CHI
+			}
+			1557 = {
+				add_core = CHI
+			}
+			1558 = {
+				add_core = CHI
+			}
+			2607 = {
+				add_core = CHI
+			}
+			1598 = {
+				add_core = CHI
+			}
+			1597 = {
+				add_core = CHI
+			}
+			1594 = {
+				add_core = CHI
+			}
+			1596 = {
+				add_core = CHI
+			}
+			change_tag = CHI
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	establish_wun = {
+		picture = clear_out_the_manchu_elite
+		news = yes
+		news_desc_long = "form_china_NEWS_LONG"
+		news_desc_medium = "form_china_NEWS_MEDIUM"
+		news_desc_short = "form_china_NEWS_SHORT"
+		potential = {
+			OR = {
+				tag = CWU
+			}
+			NOT = {
+				exists = CHI
+				exists = WUN
+				tag = MNX
+			}
+		}	
+		allow = {
+			war = no
+			WUN = {
+				2221 = {
+					owned_by = CWU
+							} #Nanking
+				1538 = {
+					owned_by = CWU
+							} #Shanghai
+				1482 = {
+					owned_by = CWU
+							} #Foochow
+				1565 = {
+					owned_by = CWU
+							} #Laichow
+				1616 = {
+					owned_by = CWU
+							} #Peking
+				1479 = {
+					owned_by = CWU
+							} #Mukden
+				1493 = {
+					owned_by = CWU
+							} #Canton
+				1577 = {
+					owned_by = CWU
+							} #Chungking
+				1601 = {
+					owned_by = CWU
+							} #Kunming
+				1578 = {
+					owned_by = CWU
+							} #Chengtu
+				1490 = {
+					owned_by = CWU
+							} #Lanchow
+				1572 = {
+					owned_by = CWU
+							} #Taiyuan
+				1547 = {
+					owned_by = CWU
+							} #Chian
+				1563 = {
+					owned_by = CWU
+							} #Tsinan
+				1618 = {
+					owned_by = CWU
+							} #Chonting
+				1503 = {
+					owned_by = CWU
+							} #Kweilin
 			}
 		}
 		
@@ -744,9 +950,76 @@ political_decisions = {
 				annex_to = THIS
 			}
 			any_owned = {
-				add_core = CHI
-			}			
-			change_tag = CHI
+				add_core = WUN
+				remove_core = CWU
+			}
+			1535 = {
+				add_core = WUN
+			}
+			1466 = {
+				add_core = WUN
+			}
+			2207 = {
+				add_core = WUN
+			}
+			1534 = {
+				add_core = WUN
+			}
+			1467 = {
+				add_core = WUN
+			}
+			1465 = {
+				add_core = WUN
+			}
+			1468 = {
+				add_core = WUN
+			}
+			2678 = {
+				add_core = WUN
+			}
+			2608 = {
+				add_core = WUN
+			}
+			2679 = {
+				add_core = WUN
+			}
+			1599 = {
+				add_core = WUN
+			}
+			1488 = {
+				add_core = WUN
+			}
+			1600 = {
+				add_core = WUN
+			}
+			1595 = {
+				add_core = WUN
+			}
+			1556 = {
+				add_core = WUN
+			}
+			1557 = {
+				add_core = WUN
+			}
+			1558 = {
+				add_core = WUN
+			}
+			2607 = {
+				add_core = WUN
+			}
+			1598 = {
+				add_core = WUN
+			}
+			1597 = {
+				add_core = WUN
+			}
+			1594 = {
+				add_core = WUN
+			}
+			1596 = {
+				add_core = WUN
+			}
+			change_tag = WUN
 		}
 		ai_will_do = {
 			factor = 1

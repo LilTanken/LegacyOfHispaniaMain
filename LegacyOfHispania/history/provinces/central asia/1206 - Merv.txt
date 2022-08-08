@@ -1,6 +1,6 @@
-owner=KOK
-controller=KOK
-add_core=KOK
+owner=TAJ
+controller=TAJ
+add_core=TAJ
 add_core=TKS
 trade_goods = grain
 life_rating = 35

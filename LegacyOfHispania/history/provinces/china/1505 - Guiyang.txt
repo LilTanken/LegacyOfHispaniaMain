@@ -3,5 +3,6 @@ controller=CDL
 add_core=CDL
 add_core=CHI
 add_core=CYI
+add_core=MNX
 trade_goods = tea
 life_rating = 32

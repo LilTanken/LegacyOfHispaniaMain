@@ -1,5 +1,6 @@
 capital = 2222
-primary_culture = caribeno
+primary_culture = afro_caribeno
+culture = caribeno
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy
@@ -19,7 +20,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=wealth_weighted_voting
 upper_house_composition=state_equal_weight
 voting_system=jefferson_method

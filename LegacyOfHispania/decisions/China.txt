@@ -3,6 +3,8 @@ political_decisions = {
         potential = {
             NOT = { tag = QNG }
             QNG = { owns = 1616 }
+			MNX = { owns = 1616 }
+			CHI = { owns = 1616 }
             civilized = yes
             is_greater_power = yes
             state_n_government = 1
@@ -1651,6 +1653,29 @@ political_decisions = {
                 change_province_name = "Daemado"
                 owner = { set_country_flag = tsushima_renamed }
             }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+	
+	move_capital_peking = {
+    picture = peking_convention
+        potential = {
+            tag = MNX
+                NOT = {
+                    has_country_flag = change_peking_capital
+                }
+        }
+
+        allow = {
+            war = no
+			owns = 1616
+        }
+
+        effect = {
+            set_country_flag = change_peking_capital
+			capital = 1616
+            prestige = 10
         }
 
         ai_will_do = { factor = 1 }

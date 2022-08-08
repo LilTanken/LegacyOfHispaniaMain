@@ -1281,15 +1281,16 @@ IVC_communist;Ivorian Popular Front;;;;;;;;;;;;;
 IVC_fascist;Movement of the Forces of the Future;;;;;;;;;;;;;
 IZH;Ingria;;;;;;;;;;;;;
 IZH_ADJ;Ingrian;;;;;;;;;;;;;
-JAM;Jamaica;Jamaïque;Jamaica;;Jamaica;;;;;;;;;
-JAM_ADJ;Jamaican;Jamaïcain;Jamaican;;Jamaican;;;;;;;;;
-JAM_conservative;Conservative Party;Conservative Party;Conservative Party;;;;;;;;;;;
-JAM_liberal;Liberal Party;Liberal Party;Liberal Party;;;;;;;;;;;
-JAM_reactionary;Alliance for National Unity;Alliance for National Unity;Alliance for National Unity;;;;;;;;;;;
-JAM_socialist;People's Political Party;People's Political Party;People's Political Party;;;;;;;;;;;
-JAM_communist;Worker's Party;Worker's Party;Worker's Party;;;;;;;;;;;
-JAM_anarcho_liberal;Radical Party;Radical Party;Radical Party;;;;;;;;;;;
-JAM_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;
+JAM;Santiago;x
+JAM_absolute_monarchy;Reino de Santiago;x
+JAM_ADJ;Santiagan;x
+JAM_conservative;Partido Moderado;x
+JAM_liberal;Partido Reformista;x
+JAM_reactionary;Dinastía Ramos;x
+JAM_socialist;Partido Popular;x
+JAM_communist;Partido Comunista;x
+JAM_anarcho_liberal;Liberación;x
+JAM_fascist;Nueva Reconquista;x
 JAP_absolute_monarchy;Empire of Japan;;;;;;;;;;;;;
 JAP_reactionary;Handoutou;Faction Shogunate;Shogunate Faction;;;;;;;;;;;
 JAP_conservative;Rikken Teiseitou;Faction de la cour;Court Faction;;;;;;;;;;;
@@ -2435,12 +2436,12 @@ TTB_socialist;People's Partnership;People's Partnership;People's Partnership;;;;
 TTB_communist;Worker's Party;Worker's Party;Worker's Party;;;;;;;;;;;
 TTB_anarcho_liberal;Butler Party;Butler Party;Butler Party;;;;;;;;;;;
 TTB_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;
-BYZ;Greek Empire;;;;;;;;;;;;;
-BYZ_ADJ;Greek;;;;;;;;;;;;;
-BYZ_democracy;Greek Federation;;;;;;;;;;;;;
-BYZ_presidential_dictatorship;Greek Federation;;;;;;;;;;;;;
-BYZ_bourgeois_dictatorship;Greek Federation;;;;;;;;;;;;;
-BYZ_proletarian_dictatorship;Socialist Balkan Union;;;;;;;;;;;;;
+BYZ;Byzantine Empire;;;;;;;;;;;;;
+BYZ_ADJ;Byzantine;;;;;;;;;;;;;
+BYZ_democracy;Byzantine Federation;;;;;;;;;;;;;
+BYZ_presidential_dictatorship;Byzantine Federation;;;;;;;;;;;;;
+BYZ_bourgeois_dictatorship;Byzantine Federation;;;;;;;;;;;;;
+BYZ_proletarian_dictatorship;Socialist Byzantine Union;;;;;;;;;;;;;
 TUR;Turkey;;;;;;;;;;;;;
 TUR_ADJ;Turkish;;;;;;;;;;;;;
 TUR_absolute_monarchy;The Ottoman Empire;;;;;;;;;;;;;
@@ -2655,7 +2656,7 @@ XBI_presidential_dictatorship_ADJ;Hui;;;;;;;;;;;;;
 XBI_reactionary_2;Confucianist Faction;;;;;;;;;;;;;
 XBI_conservative_2;Amban Faction;;;;;;;;;;;;;
 XBI_liberal_2;Reformer Faction;;;;;;;;;;;;;
-XIN_presidential_dictatorship;Xinjiang Clique;Clique de Xinjiang;Xinjiang-Clique;;;;;;;;;;;
+XIN_presidential_dictatorship;Sinkiang Clique;Clique de Sinkiang;Sinkiang-Clique;;;;;;;;;;;
 YAK;Yakutia;;;;;;;;;;;;;
 YAK_ADJ;Yakut;;;;;;;;;;;;;
 YAK_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;
@@ -3243,3 +3244,10 @@ KKN_socialist;Shakaitou;Faction marxiste;Marxist Faction;;;;;;;;;;;
 KKN_anarcho_liberal;Ishin Seito Shimpu;;;;;;;;;;;;;
 KKN_communist;Kyousantou;Faction communiste;Kommunistische Fraktion;;;;;;;;;;;
 KKN_fascist;Enganbogyo;x
+XIN;Sinkiang;x
+XIN_ADJ;Sinkiangese;x
+WUN;Wu;x
+WUN_ADJ;Wun;x
+WUN_absolute_monarchy;Wun Empire;x
+WUN_prussian_constitutionalism;Wun Empire;;;;;;;;;;;;;
+WUN_hms_government;Wun Empire;;;;;;;;;;;;;

@@ -680,17 +680,25 @@ ZUL = {
 #Leaders
 leader = {
 	name="Martin III Zorzi"
-	date="1830.1.2"
+	date="1834.1.2"
 	type=land
 	personality="persistant"
 	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Eldrich Gormann"
+	date="1835.11.23"
+	type=land
+	personality="disciplined"
+	background="school_of_the_bayonet"
 }
 
 
 #Armies
 army = {
 	name="Armata di Welsch-Bern"
-	location=463
+	location=726
 	regiment = {
 		name="1st Innsbruck Infantry"
 		type=infantry
@@ -740,7 +748,7 @@ army = {
 
 army = {
 	name="Armata di Narbona"
-	location=463
+	location=619
 	regiment = {
 		name="1st Savona Infantry"
 		type=infantry
@@ -770,7 +778,7 @@ army = {
 
 army = {
 	name="2nd Army"
-	location=463
+	location=729
 	regiment = {
 		name="4th Milan Infantry"
 		type=infantry
@@ -800,7 +808,7 @@ army = {
 
 army = {
 	name="3rd Army"
-	location=463
+	location=739
 	regiment = {
 		name="1st Treviso Infantry"
 		type=infantry

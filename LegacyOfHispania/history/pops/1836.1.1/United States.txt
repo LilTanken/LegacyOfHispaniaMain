@@ -24,28 +24,28 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 39
+		size= 1071
 	}
 
 	clergymen=
 	{
 		culture = japanese
 		religion = shinto
-		size= 13
+		size= 119
 	}
 
 	aristocrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 19
+		size= 314
 	}
 
 	farmers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 1558
+		size= 6558
 	}
 
 	soldiers=
@@ -66,14 +66,14 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 4
+		size= 10
 	}
 
 	officers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 1
+		size= 9
 	}
 
 }
@@ -96,28 +96,28 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 17
+		size= 219
 	}
 
 	clergymen=
 	{
 		culture = japanese
 		religion = shinto
-		size= 6
+		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 7
+		size= 15
 	}
 
 	farmers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 645
+		size= 1145
 	}
 
 	soldiers=
@@ -138,14 +138,14 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 1
+		size= 7
 	}
 
 	officers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 1
+		size= 2
 	}
 
 }
@@ -168,42 +168,42 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 376
+		size= 10743
 	}
 
 	artisans=
 	{
 		culture = japanese
 		religion = shinto
-		size= 75
+		size= 375
 	}
 
 	soldiers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 9
+		size= 4009
 	}
 
 	clergymen=
 	{
 		culture = japanese
 		religion = shinto
-		size= 3
+		size= 45
 	}
 
 	bureaucrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 1
+		size= 16
 	}
 
 	aristocrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 4
+		size= 54
 	}
 
 }
@@ -226,42 +226,42 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 307
+		size= 2307
 	}
 
 	artisans=
 	{
 		culture = japanese
 		religion = shinto
-		size= 16
+		size= 23
 	}
 
 	soldiers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 7
+		size= 204
 	}
 
 	clergymen=
 	{
 		culture = japanese
 		religion = shinto
-		size= 2
+		size= 15
 	}
 
 	bureaucrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 1
+		size= 8
 	}
 
 	aristocrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 3
+		size= 6
 	}
 
 }
@@ -284,42 +284,42 @@
 	{
 		culture = japanese
 		religion = shinto
-		size= 10
+		size= 1198
 	}
 
 	artisans=
 	{
 		culture = japanese
 		religion = shinto
-		size= 22
+		size= 78
 	}
 
 	clergymen=
 	{
 		culture = japanese
 		religion = shinto
-		size= 4
+		size= 24
 	}
 
 	aristocrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 5
+		size= 29
 	}
 
 	farmers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 446
+		size= 4076
 	}
 
 	bureaucrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 1
+		size= 4
 	}
 
 }
@@ -19786,7 +19786,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 1894
+		size= 6894
 	}
 
 	craftsmen=
@@ -21253,7 +21253,7 @@
 	{
 		culture = yankee
 		religion = protestant
-		size= 2935
+		size= 9935
 	}
 
 	artisans=
@@ -24319,7 +24319,7 @@
 	{
 		culture = dixie
 		religion = catholic
-		size= 2
+		size= 1131
 	}
 
 	bureaucrats=
@@ -24340,7 +24340,7 @@
 	{
 		culture = dixie
 		religion = protestant
-		size= 618
+		size= 2618
 	}
 
 	artisans=
@@ -24824,49 +24824,49 @@
 	{
 		culture = eskaleut
 		religion = totemism
-		size= 89
+		size= 189
 	}
 
 	soldiers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 12
+		size= 22
 	}
 
 	artisans=
 	{
 		culture = japanese
 		religion = shinto
-		size= 27
+		size= 31
 	}
 
 	clergymen=
 	{
 		culture = japanese
 		religion = shinto
-		size= 4
+		size= 7
 	}
 
 	aristocrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 5
+		size= 10
 	}
 
 	farmers=
 	{
 		culture = japanese
 		religion = shinto
-		size= 555
+		size= 755
 	}
 
 	bureaucrats=
 	{
 		culture = japanese
 		religion = shinto
-		size= 1
+		size= 3
 	}
 
 }

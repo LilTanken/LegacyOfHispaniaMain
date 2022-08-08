@@ -348,11 +348,11 @@
 
 }
 860 = {
-	slaves=
+	craftsmen=
 	{
 		culture = dynamic-greek-culture-num5
 		religion = orthodox
-		size= 1904
+		size= 3404
 	}
 
 	soldiers=

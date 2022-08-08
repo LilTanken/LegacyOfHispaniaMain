@@ -1,10 +1,10 @@
 capital = 2217
-primary_culture = afro_caribbean
-culture = zzz_religion_protestant
-religion = protestant
-government = democracy
+primary_culture = afro_caribeno
+culture = zzz_religion_catholic
+religion = catholic
+government = absolute_monarchy
 plurality = 0
-nationalvalue = nv_equality
+nationalvalue = nv_order
 literacy = 0
 
 civilized = yes
@@ -19,22 +19,22 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
-slavery=yes_slavery
-vote_franschise=wealth_weighted_voting
-upper_house_composition=state_equal_weight
-voting_system=jefferson_method
-public_meetings=yes_meeting
+slavery=no_slavery
+vote_franschise=none_voting
+upper_house_composition=appointed
+voting_system=first_past_the_post
+public_meetings=no_meeting
 press_rights=censored_press
-trade_unions=all_trade_unions
-political_parties=non_secret_ballots
+trade_unions=no_trade_unions
+political_parties=underground_parties
 
-ruling_party = JAM_liberal
+ruling_party = JAM_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
+	liberal = 0
+	conservative = 20
+	reactionary = 80
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

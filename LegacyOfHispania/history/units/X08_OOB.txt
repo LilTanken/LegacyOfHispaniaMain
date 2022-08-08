@@ -795,9 +795,9 @@ leader = {
 
 leader = {
 	name="Maximos Melissinos"
-	date="1758.6.15"
+	date="1835.12.15"
 	type=land
-	personality="audacious"
+	personality="au_fait"
 	background="school_of_the_bayonet"
 }
 
@@ -1046,7 +1046,7 @@ army = {
 	name="5th Army"
 	location=1048
 	regiment = {
-		name="1st Istanbul Artillery"
+		name="1st Constantinople Artillery"
 		type=artillery
 		home=860
 	}
