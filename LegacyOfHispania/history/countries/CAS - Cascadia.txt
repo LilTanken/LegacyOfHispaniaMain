@@ -1,6 +1,5 @@
 capital = 79
-primary_culture = mexican
-culture = penutian
+primary_culture = americano
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy

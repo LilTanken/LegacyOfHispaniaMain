@@ -665,7 +665,9 @@ unification_of_louis_america = {
                 is_colonial = no
                 any_pop = { is_primary_culture = yes }
             }
-			NOT = { exists = MEX }
+			TEX_132 = { NOT = { owned_by = MEX } }
+			MEX_103 = { NOT = { owned_by = MEX } }
+			MEX_100 = { NOT = { owned_by = MEX } }
 			NOT = { exists = SON }
 			NOT = { exists = USA }
 			NOT = { exists = FLR }

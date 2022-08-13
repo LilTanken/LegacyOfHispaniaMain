@@ -1011,49 +1011,49 @@
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 39
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 195
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 36
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 1678
 	}
@@ -1577,49 +1577,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 247
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 105
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 22
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 4012
 	}
@@ -1726,49 +1726,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 277
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 312
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 14
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 37
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 3100
 	}
@@ -1889,49 +1889,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 95
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 107
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 1065
 	}
@@ -2187,49 +2187,49 @@
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 533
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 426
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 69
 	}
 
 	bureaucrats=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 21
 	}
 
 	officers=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 179
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 8264
 	}
@@ -2385,49 +2385,49 @@
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 372
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 298
 	}
 
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 48
 	}
 
 	bureaucrats=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 15
 	}
 
 	officers=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = mexican
 		religion = catholic
 		size= 5786
 	}
@@ -2592,49 +2592,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 458
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1015
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 165
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 25
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 213
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 21020
 	}
@@ -2939,49 +2939,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 573
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 548
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 40
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 12
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 8996
 	}
@@ -3118,49 +3118,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 834
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 354
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 58
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 9
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 13552
 	}
@@ -3267,49 +3267,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 279
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 579
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 94
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 20
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 182
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 12794
 	}
@@ -3402,49 +3402,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 405
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1572
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 114
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 25
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 440
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 17684
 	}
@@ -3558,49 +3558,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 232
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 42
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 3739
 	}
@@ -3698,49 +3698,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 213
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 91
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 38
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 3446
 	}
@@ -3784,49 +3784,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 323
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 53
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 68
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 3528
 	}
@@ -3947,49 +3947,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 541
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 88
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 14
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 227
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 10250
 	}
@@ -4047,49 +4047,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 627
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1762
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 82
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 18
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 211
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 8477
 	}
@@ -4145,49 +4145,49 @@
 
 	soldiers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 2632
 	}
 
 	artisans=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 7323
 	}
 
 	clergymen=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 340
 	}
 
 	bureaucrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 73
 	}
 
 	officers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 84
 	}
 
 	aristocrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 879
 	}
 
 	farmers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 35664
 	}
@@ -4245,49 +4245,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 577
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 686
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 112
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 24
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 144
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 27302
 	}
@@ -4392,49 +4392,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 695
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 845
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 137
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 30
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 17
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 177
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 32855
 	}
@@ -4492,49 +4492,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 245
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 106
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 22
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 3979
 	}
@@ -4639,49 +4639,49 @@
 
 	soldiers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 1129
 	}
 
 	artisans=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 902
 	}
 
 	clergymen=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 147
 	}
 
 	bureaucrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 32
 	}
 
 	officers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 36
 	}
 
 	aristocrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 189
 	}
 
 	farmers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 17718
 	}
@@ -4739,49 +4739,49 @@
 
 	soldiers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 426
 	}
 
 	artisans=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 954
 	}
 
 	clergymen=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 155
 	}
 
 	bureaucrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 52
 	}
 
 	officers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 200
 	}
 
 	farmers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 19493
 	}
@@ -4839,49 +4839,49 @@
 
 	soldiers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 2754
 	}
 
 	artisans=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 4520
 	}
 
 	clergymen=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 327
 	}
 
 	bureaucrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 71
 	}
 
 	officers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 80
 	}
 
 	aristocrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 844
 	}
 
 	farmers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 40585
 	}
@@ -4986,49 +4986,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 391
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 384
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 28
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 72
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 6096
 	}
@@ -5079,49 +5079,49 @@
 
 	soldiers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 129
 	}
 
 	artisans=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 157
 	}
 
 	clergymen=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 25
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 33
 	}
 
 	farmers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 6108
 	}
@@ -5226,49 +5226,49 @@
 
 	soldiers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 407
 	}
 
 	clergymen=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 66
 	}
 
 	bureaucrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 14
 	}
 
 	officers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 85
 	}
 
 	farmers=
 	{
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size= 7461
 	}
@@ -5326,49 +5326,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 6541
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 5088
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1653
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 178
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 204
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1603
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 101539
 	}
@@ -5426,49 +5426,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 3770
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 2644
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 430
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 93
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 106
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1110
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 59162
 	}
@@ -5575,49 +5575,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1685
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1128
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 183
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 39
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 46
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 237
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 26777
 	}
@@ -5724,49 +5724,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 2286
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 6185
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 286
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 61
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 71
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 742
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 31211
 	}
@@ -5824,49 +5824,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 5814
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 4493
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 730
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 157
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 179
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1886
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 90569
 	}
@@ -5924,49 +5924,49 @@
 
 	soldiers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 1071
 	}
 
 	artisans=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 5392
 	}
 
 	clergymen=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 389
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 132
 	}
 
 	officers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 1006
 	}
 
 	farmers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 45521
 	}
@@ -6022,49 +6022,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 410
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 1981
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 143
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 48
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 370
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 17533
 	}
@@ -6122,49 +6122,49 @@
 
 	soldiers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 547
 	}
 
 	clergymen=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 89
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 19
 	}
 
 	officers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 115
 	}
 
 	farmers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 10067
 	}
@@ -6271,49 +6271,49 @@
 
 	soldiers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 415
 	}
 
 	artisans=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 506
 	}
 
 	clergymen=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 83
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 17
 	}
 
 	officers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 159
 	}
 
 	farmers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 19561
 	}
@@ -6406,49 +6406,49 @@
 
 	soldiers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 81
 	}
 
 	artisans=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 205
 	}
 
 	clergymen=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size= 3735
 	}
@@ -6553,49 +6553,49 @@
 
 	soldiers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 894
 	}
 
 	clergymen=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 65
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 14
 	}
 
 	officers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 83
 	}
 
 	farmers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 3634
 	}
@@ -6653,49 +6653,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 902
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 717
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 117
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 25
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 301
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 14004
 	}
@@ -6739,49 +6739,49 @@
 
 	soldiers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 515
 	}
 
 	clergymen=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 37
 	}
 
 	bureaucrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 48
 	}
 
 	farmers=
 	{
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size= 3474
 	}
@@ -6823,49 +6823,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 153
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 274
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 26
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 2256
 	}
@@ -6916,49 +6916,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 4707
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 340
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 115
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 41
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 879
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 41580
 	}
@@ -7023,49 +7023,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 3594
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 167
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 35
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 432
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 18928
 	}
@@ -7109,49 +7109,49 @@
 
 	soldiers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 1157
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 1974
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 143
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 30
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 36
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 368
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = mexican
 		religion = catholic
 		size= 16961
 	}

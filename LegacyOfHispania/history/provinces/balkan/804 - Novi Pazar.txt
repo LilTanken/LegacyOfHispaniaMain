@@ -1,6 +1,6 @@
-owner=HUN
-controller=HUN
-add_core=HUN
+owner=X42
+controller=X42
+add_core=X42
 add_core=SER
 add_core=YUG
 trade_goods = iron

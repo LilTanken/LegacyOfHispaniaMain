@@ -42,8 +42,8 @@ country_event = {
                 has_pop_culture = anglo_canadian
                 location = { is_core = CAN }
             }
-            consciousness = 6
-            militancy = 8
+            consciousness = 2
+            militancy = 4
             ideology = {
                 value = liberal
                 factor = 0.30
@@ -51,8 +51,8 @@ country_event = {
         }
         any_pop = {
             limit = {
-                has_pop_culture = mexican
-                location = { is_core = QUE }
+                has_pop_culture = americano
+                location = { is_core = CAN }
             }
             consciousness = 6
             militancy = 8

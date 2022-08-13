@@ -2,5 +2,6 @@ owner=EIC
 controller=EIC
 add_core=MRT
 add_core=EIC
+add_core=HND
 trade_goods = grain
 life_rating = 32

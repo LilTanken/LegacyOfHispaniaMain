@@ -89,6 +89,7 @@ market_structure = 1
 piston_steam_engine = 1
 high_pressure_steam_engine = 1
 interchangeable_parts = 1
+naval_plans = 1
 prestige=145
 
 # Decisions

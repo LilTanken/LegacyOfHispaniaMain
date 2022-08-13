@@ -1,6 +1,5 @@
 owner=MOD
 controller=MOD
-add_core=BOS
 add_core=MOD
 add_core=YUG
 trade_goods = fish

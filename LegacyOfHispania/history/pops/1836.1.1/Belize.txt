@@ -43,56 +43,56 @@
 
 	slaves=
 	{
-		culture = mayan
+		culture = central_american
 		religion = catholic
 		size= 345
 	}
 
 	soldiers=
 	{
-		culture = mayan
+		culture = central_american
 		religion = catholic
 		size= 26
 	}
 
 	artisans=
 	{
-		culture = mayan
+		culture = central_american
 		religion = catholic
 		size= 117
 	}
 
 	clergymen=
 	{
-		culture = mayan
+		culture = central_american
 		religion = catholic
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = mayan
+		culture = central_american
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = mayan
+		culture = central_american
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = mayan
+		culture = central_american
 		religion = catholic
 		size= 21
 	}
 
 	farmers=
 	{
-		culture = mayan
+		culture = central_american
 		religion = catholic
 		size= 788
 	}
@@ -106,42 +106,42 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 37
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 122
 	}

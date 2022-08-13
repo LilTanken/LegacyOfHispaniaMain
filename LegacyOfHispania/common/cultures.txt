@@ -3895,6 +3895,14 @@ oceanic = {
 		last_names = { "Ma'ufanga" "Feletoa" "Moengangongo" "Tuabayi" "Maeakafa" "Te Fuli" "Ielemia" }
 		
 	}
+	taiyaru = {
+		color = { 89 35 168 }
+		
+		first_names = { "Tahas" "Difang" "Taiban" "Paelabang" "Uliw" "Kilash" "Yungai" "Yohani" "Tain" "Mona" "Bokeh" "Baqah" "Mayaw" "Ado" }
+		
+		last_names = { "Pacidal" "Tuwana" "Rudao" "Kosang" "Sasala" "Danapan" "Kaybaybaw" }
+		
+	}
 	
 }
 

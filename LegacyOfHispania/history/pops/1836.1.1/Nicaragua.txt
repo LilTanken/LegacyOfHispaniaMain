@@ -64,49 +64,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 856
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 1846
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 300
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 111
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 37
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 388
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 39253
 	}
@@ -171,49 +171,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 171
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 369
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 60
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 22
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 78
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 7853
 	}
@@ -285,49 +285,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 632
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 487
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 79
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 24
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 102
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 9940
 	}
@@ -378,49 +378,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 49
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 368
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 7
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 22
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 1508
 	}

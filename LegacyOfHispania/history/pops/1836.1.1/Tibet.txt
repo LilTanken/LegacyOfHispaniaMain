@@ -593,98 +593,98 @@
 
 	soldiers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 72
 	}
 
 	artisans=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 260
 	}
 
 	clergymen=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 21
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 6
 	}
 
 	officers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 2203
 	}
 
 	soldiers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 106
 	}
 
 	clergymen=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 1305
 	}
@@ -1101,112 +1101,112 @@
 
 	slaves=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 130
 	}
 
 	soldiers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 27
 	}
 
 	artisans=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 97
 	}
 
 	clergymen=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 9
 	}
 
 	farmers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 686
 	}
 
 	slaves=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 74
 	}
 
 	soldiers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 39
 	}
 
 	clergymen=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 3
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 1
 	}
 
 	officers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = mahayana
 		size= 409
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 1
 	}
@@ -1215,98 +1215,98 @@
 1592 = {
 	soldiers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 724
 	}
 
 	artisans=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 207
 	}
 
 	clergymen=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 39
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 7
 	}
 
 	officers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 43
 	}
 
 	farmers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = gelugpa
 		size= 11902
 	}
 
 	soldiers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = hindu
 		size= 364
 	}
 
 	artisans=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = hindu
 		size= 446
 	}
 
 	clergymen=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = hindu
 		size= 84
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = hindu
 		size= 14
 	}
 
 	officers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = hindu
 		size= 24
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = hindu
 		size= 93
 	}
 
 	farmers=
 	{
-		culture = dynamic-saka-zhangzhung-culture-num1
+		culture = tibetan
 		religion = hindu
 		size= 5470
 	}

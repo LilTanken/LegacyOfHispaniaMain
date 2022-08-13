@@ -3,5 +3,6 @@ controller=X42
 add_core=SER
 add_core=X42
 add_core=YUG
+add_core=BOS
 trade_goods = fruit
 life_rating = 35

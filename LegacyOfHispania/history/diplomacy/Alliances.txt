@@ -192,14 +192,6 @@ alliance=
 
 alliance=
 {
-	first="SWE"
-	second="X14"
-	start_date="1566.2.14"
-	end_date="1936.1.1"
-}
-
-alliance=
-{
 	first="X18"
 	second="X36"
 	start_date="1444.11.14"
@@ -235,5 +227,13 @@ alliance=
 	first="BRZ"
 	second="PBC"
 	start_date="1829.1.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="FRA"
+	second="NET"
+	start_date="1834.1.1"
 	end_date="1936.1.1"
 }
