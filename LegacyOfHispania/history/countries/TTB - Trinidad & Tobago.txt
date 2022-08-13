@@ -1,5 +1,5 @@
 capital = 2237
-primary_culture = afro_caribeno
+primary_culture = carribean
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy

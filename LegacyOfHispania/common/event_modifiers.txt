@@ -2455,6 +2455,98 @@ louis_napoleon_iii = {
     icon = 17
 }
 
+###HFM UK Modifiers###
+royal_irish_constabulary = {
+	pop_consciousness_modifier = -0.03
+	pop_militancy_modifier = -0.03
+	icon = 19
+}
+
+india_civil_service = {
+	non_accepted_pop_militancy_modifier = -0.02
+	non_accepted_pop_consciousness_modifier = -0.02
+	administrative_efficiency_modifier = 0.025
+	influence_modifier = 0.05
+	icon = 17
+}
+
+pax_britannica = {
+	prestige = 0.01
+	navy_tech_research_bonus = 0.05
+	naval_unit_start_experience = 5
+	naval_organisation = 0.05
+	diplomatic_points_modifier = 0.5
+	badboy = -0.05
+	influence_modifier = 0.05
+	supply_consumption = 0.05
+	min_military_spending = 0.25
+	icon = 7
+}
+
+singapore_port = {
+	mine_rgo_size = 1
+	farm_rgo_size = 1
+	mine_RGO_eff = 0.5
+	rich_income_modifier = 0.025
+	icon = 11
+}
+
+anglification = {
+	assimilation_rate = 1.5
+	icon = 19
+}
+
+white_rajah = {
+	global_pop_consciousness_modifier = -0.05
+	global_pop_militancy_modifier = -0.05
+	diplomatic_points_modifier = 0.05
+	cb_generation_speed_modifier = -1
+	supply_consumption = -0.05
+	icon = 5
+}
+
+###HFM ANZAC & CAN Modifiers ###
+
+gateway_to_australia = {
+	assimilation_rate = 1
+	immigrant_attract = 3
+	population_growth = 0.01
+	icon = 9
+}
+
+australia_goldrush = {
+	assimilation_rate = 1
+	immigrant_attract = 5
+	population_growth = 0.02
+	icon = 9
+}
+
+australia_migrations = {
+	population_growth = 0.005
+	immigrant_attract = 3
+	assimilation_rate = 1
+	icon = 9
+}
+
+australia_migrations_vic = {
+	population_growth = 0.02
+	immigrant_attract = 3
+	assimilation_rate = 1
+	icon = 9
+}
+
+vancouver_boom = {
+	population_growth = 0.01
+	assimilation_rate = 1
+	icon = 17
+}
+
+america_new_world = {
+	global_immigrant_attract = 0.5
+	global_population_growth = 0.01
+	icon = 17
+}
+
 ### Neutrality ###
 neutrality_modifier = {
     max_military_spending = -0.10
@@ -2592,14 +2684,14 @@ imperial_milenium = {
 
 ### THE RAJ EIC ###
 the_british_raj = {
-	research_points = -500
-	core_pop_militancy_modifier = -0.05
-	supply_consumption = 0.1
-	tax_efficiency = -0.1
+	max_tax = 0.75
 	administrative_efficiency_modifier = 0.5
-	influence_modifier = 0.05
-	prestige = 0.03
-    icon = 19
+	research_points_modifier = -2.55
+	leadership_modifier = 4
+	supply_consumption = -0.3
+	tax_efficiency = -0.05
+	import_cost = -0.25
+	icon = 7
 }
 ### ALPINE GENOCIDE ###
 ghettos_and_propaganda = {

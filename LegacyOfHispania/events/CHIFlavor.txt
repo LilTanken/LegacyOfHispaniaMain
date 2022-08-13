@@ -5349,7 +5349,7 @@ country_event = {
             add_core = TAI
         }
         any_pop = {
-            limit = { has_pop_culture = min }
+            limit = { has_pop_culture = taiyaru }
             militancy = 4
         }
     }

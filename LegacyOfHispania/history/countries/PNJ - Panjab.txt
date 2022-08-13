@@ -1,7 +1,7 @@
 capital = 1227
-primary_culture = dummy
-culture = avadhi
+primary_culture = panjabi
 culture = dynamic-panjabi-culture-num1
+culture = avadhi
 culture = zzz_religion_hindu
 religion = hindu
 government = absolute_monarchy

@@ -1,8 +1,9 @@
-owner=MNX
-controller=MNX
+owner=SPA
+controller=SPA
 add_core=MNX
 add_core=CHI
 trade_goods = precious_goods
 life_rating = 35
 terrain = urban
 naval_base = 2
+colonial=2

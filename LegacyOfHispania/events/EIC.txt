@@ -1210,6 +1210,39 @@ country_event = {
     }
 }
 
+#War with Delhi
+country_event = {
+	id = 314012
+	title = "EVTNAME314012"
+	desc = "EVTDESC314012"
+	picture = "2nd_anglo_sikh_war"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = ENG
+		is_greater_power = yes
+        DLH = {
+            exists = yes
+        }
+	}
+
+	mean_time_to_happen = {
+		months = 8
+		}
+	
+	option = {
+		name = "EVTOPT314012A"
+		relation = { who = DLH value = -200 }
+        diplomatic_influence = { who = DLH value = -400 }
+        leave_alliance = DLH
+        casus_belli = {
+                target = DLH
+                type = free_allied_cores
+                months = 800
+        }
+	}
+}
 
 #EIC Setup
 country_event = {

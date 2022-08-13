@@ -112,9 +112,9 @@ PROV33;Battleford;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV41;Fort Ellice;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2594;Osnaburgh House;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV49;Rat Portage;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV52;Orillia;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV75;Port-Aux-Basques;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV69;Petit-Sault;;;;;;;;;;;;x
+PROV52;Sudbury;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV75;Rocky Harbour;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV69;Edmundston;;;;;;;;;;;;x
 PROV683;Walbrzych;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV43;Clarksville;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV134;Fort Parker;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -1148,3 +1148,8 @@ PROV2228;Martinica;x
 PROV2213;Santa Maria;x
 PROV151;Los Monjes;x
 PROV149;Nueva Zaragoza;x
+PROV58;Mt. Royal;x
+PROV65;Brockville;x
+PROV51;Iron Bridge;x
+PROV77;Gloucester Island;x
+PROV62;Harrington Harbour;x

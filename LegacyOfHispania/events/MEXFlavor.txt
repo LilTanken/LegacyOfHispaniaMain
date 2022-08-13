@@ -13,7 +13,10 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = MEX
+        OR = {
+			tag = MEX
+			tag = MXC
+		}
         year = 1909
         war = no
         NOT = {
@@ -106,7 +109,10 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = MEX
+        OR = {
+			tag = MEX
+			tag = MXC
+		}
         year = 1911
         war = no
         has_country_flag = Madero
@@ -165,7 +171,10 @@ country_event = {
      fire_only_once = yes
 
     trigger = {
-        tag = MEX
+        OR = {
+			tag = MEX
+			tag = MXC
+		}
         year = 1911
         has_country_flag = MaderoRevolt
         NOT = {
@@ -212,7 +221,10 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = MEX
+        OR = {
+			tag = MEX
+			tag = MXC
+		}
         has_country_flag = MaderoRevolt
         year = 1911
         NOT = {
@@ -328,7 +340,10 @@ province_event = {
 
     trigger = {
         owner = {
-            tag = MEX
+            OR = {
+			tag = MEX
+			tag = MXC
+			}
             government = presidential_dictatorship
             has_country_modifier = fight_the_power
         }
@@ -582,7 +597,10 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = MEX
+        OR = {
+			tag = MEX
+			tag = MXC
+		}
         is_vassal = no
         NOT = {
             exists = YUC
@@ -885,7 +903,10 @@ country_event = {
     picture = "execution_of_emperor_maximillian"
 
     trigger = {
-        tag = MEX
+        OR = {
+			tag = MEX
+			tag = MXC
+		}
         government = hms_government
         has_country_flag = we_have_tried_this_once
         2172 = { controlled_by_rebels = yes }
@@ -914,7 +935,7 @@ country_event = {
             duration = 365
         }
         any_pop = { militancy = -6 }
-        2172 = { change_controller = MEX }
+        2172 = { change_controller = THIS }
         FRA = {
             relation = {
                 who = THIS
@@ -942,7 +963,10 @@ country_event = {
     fire_only_once = yes
 
     trigger = {
-        tag = MEX
+        OR = {
+			tag = MEX
+			tag = MXC
+		}
         war = no
         ai = yes
         government = democracy

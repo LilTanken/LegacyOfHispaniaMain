@@ -1,6 +1,5 @@
 capital = 2348
 primary_culture = platinean
-culture = south_andean
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship

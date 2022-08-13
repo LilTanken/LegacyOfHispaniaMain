@@ -1882,68 +1882,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	form_greece = {
-		picture = megali_idea
-		potential = {
-			primary_culture = greek
-			NOT = {
-				exists = BYZ
-				exists = SPQ
-				exists = GRE
-				tag = TUR
-				tag = ITA
-				tag = MCD
-			}
-		}	
-		allow = {
-			war = no
-			prestige = 5
-			834 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-				}
-			}
-			GRE = {
-				all_core = {
-					NOT = { province_id = 834 }
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-						owned_by = TUR
-						owned_by = MCD
-					}
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 10
-			any_country = {
-				limit = {
-					in_sphere = THIS
-					NOT = {
-						tag = THIS
-					}
-					capital_scope = { continent = europe }
-					primary_culture = greek
-				}
-				annex_to = THIS
-			}
-			any_owned = {
-				add_core = GRE
-			}			
-			
-			change_tag = GRE
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	land_of_turks = {
 		picture = tanzimat_reforms
 		potential = {

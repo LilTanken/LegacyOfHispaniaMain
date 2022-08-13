@@ -2,6 +2,7 @@ owner=SIA
 controller=SIA
 add_core=IDO
 add_core=SIA
+add_core=ANN
 trade_goods = fruit
 life_rating = 32
 fort = 1

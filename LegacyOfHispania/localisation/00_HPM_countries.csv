@@ -2186,11 +2186,11 @@ SON_reactionary;Partido Imperialista;Partido Imperialista;Partido Imperialista;;
 SON_socialist;Partido Socialist;Partido socialiste;Partido Socialist;;;;;;;;;;;
 SON_communist;Partido Communist;Partido communiste;Partido Communist;;;;;;;;;;;
 SON_fascist;Partido Fascist;Partido fasciste;Partido Fascist;;;;;;;;;;;
-SPC;Spain;;;;;;;;;;;;;
-SPC_absolute_monarchy;Carlist Spain;;;;;;;;;;;;;
-SPC_prussian_constitutionalism;Carlist Spain;;;;;;;;;;;;;
-SPC_hms_government;Carlist Spain;;;;;;;;;;;;;
-SPC_ADJ;Spanish;;;;;;;;;;;;;
+SPC;Hispania;;;;;;;;;;;;;
+SPC_absolute_monarchy;Jimenist Hispania;;;;;;;;;;;;;
+SPC_prussian_constitutionalism;Jimenist Hispania;;;;;;;;;;;;;
+SPC_hms_government;Jimenist Hispania;;;;;;;;;;;;;
+SPC_ADJ;Hispanian;;;;;;;;;;;;;
 SPU;South Peru;;;;;;;;;;;;;
 SPU_ADJ;South Peruvian;;;;;;;;;;;;;
 SRD;Sardinia;;;;;;;;;;;;;
@@ -3251,3 +3251,18 @@ WUN_ADJ;Wun;x
 WUN_absolute_monarchy;Wun Empire;x
 WUN_prussian_constitutionalism;Wun Empire;;;;;;;;;;;;;
 WUN_hms_government;Wun Empire;;;;;;;;;;;;;
+X12_conservative;Partia Konserwatywna;x
+X12_reactionary;Koalicja Niepodleglosci;x
+X12_liberal;Reformatorzy;x
+X12_anarcho_liberal;Radykalowie;x
+X12_socialist;Progresywne;x
+X12_communist;Partii Komunistycznej;x
+X12_fascist;Kontrrewolucjonisci;x
+MXC;Mexico;x
+MXC_ADJ;Mexican;x
+MXC_absolute_monarchy;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
+MXC_prussian_constitutionalism;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
+MXC_hms_government;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
+MXC_socialist;Partido Laborista Mexicano;;;;;;;;;;;;;
+MXC_communist;Partido Socialista Obrero;;;;;;;;;;;;;
+MXC_fascist;Unión Nacional Sinarquista;;;;;;;;;;;;;

@@ -1,6 +1,8 @@
 capital = 1153
 primary_culture = bedouin
 culture = mashriqi
+culture = dynamic-bedouin_arabic-culture-num1
+culture = assyrian
 culture = zzz_religion_kharijite
 religion = kharijite
 government = absolute_monarchy
@@ -68,3 +70,4 @@ oob = "ARA_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_ARA
 set_country_flag = eu4_country_ARB
+set_country_flag = kharijite_country

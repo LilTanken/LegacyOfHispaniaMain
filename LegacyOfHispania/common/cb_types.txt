@@ -788,13 +788,16 @@ restore_america = {
     can_use = {
         NOT = { is_our_vassal = THIS }
 		NOT = { tag = CLM } 
+		NOT = { tag = MXC }
+		NOT = { has_country_flag = revoke_mexamerica_expansion }
 	THIS = {
 		            OR = {
-				primary_culture = yankee
-				primary_culture = texan
-				primary_culture = dixie
-				primary_culture = mexican
-				primary_culture = americano
+				tag = SON
+				tag = MEX
+				tag = LOU
+				tag = USA
+				tag = FLR
+				tag = CAS
             	}
 	}
 	OR = {

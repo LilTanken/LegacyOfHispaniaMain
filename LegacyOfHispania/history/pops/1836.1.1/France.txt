@@ -5480,98 +5480,98 @@
 448 = {
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 2645
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 4026
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 431
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 52
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 69
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 282
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 50005
 	}
 
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 3811
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 15623
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 1674
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 201
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 268
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 1094
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 60168
 	}
@@ -5580,98 +5580,98 @@
 449 = {
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 2009
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 3057
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 328
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 39
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 52
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 214
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 37978
 	}
 
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 2894
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 11865
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 1271
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 153
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 203
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 831
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 45696
 	}
@@ -5680,98 +5680,98 @@
 450 = {
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 902
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 1449
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 121
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 23
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 135
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 29543
 	}
 
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 1275
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 5547
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 462
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 86
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 99
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 518
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 37552
 	}
@@ -6273,98 +6273,98 @@
 456 = {
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 1659
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 2667
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 222
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 41
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 47
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 249
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 54378
 	}
 
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 2347
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 10210
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 851
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 159
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 182
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 953
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 69115
 	}
@@ -6424,98 +6424,98 @@
 458 = {
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 614
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 1007
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 188
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 36
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 247
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 60181
 	}
 
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 4915
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 921
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 172
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 98
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 1204
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 78319
 	}
@@ -6524,49 +6524,49 @@
 459 = {
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 871
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 3049
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 283
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 22
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 183
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 39127
 	}
@@ -6775,98 +6775,98 @@
 462 = {
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 507
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 2284
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 190
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 36
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 426
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 47287
 	}
 
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 715
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 8719
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 727
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 136
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 78
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 1628
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = protestant
 		size= 59505
 	}
@@ -6924,49 +6924,49 @@
 
 	soldiers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 115
 	}
 
 	artisans=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 404
 	}
 
 	clergymen=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 38
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 73
 	}
 
 	farmers=
 	{
-		culture = dynamic-basque-occitain-culture-num1
+		culture = occitan
 		religion = catholic
 		size= 5135
 	}

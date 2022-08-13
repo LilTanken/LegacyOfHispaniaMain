@@ -7,6 +7,7 @@ political_decisions = {
             NOT = { has_country_flag = sunni_country }
             NOT = { has_country_flag = shiite_country }
             NOT = { has_country_flag = ibadi_country }
+			NOT = { has_country_flag = kharijite_country }
             NOT = { has_global_flag = israel_has_her_cores }
             916 = {
                 OR = {

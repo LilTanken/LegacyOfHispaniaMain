@@ -1,8 +1,8 @@
-owner=SMB
-controller=SMB
+owner=ENG
+controller=ENG
 add_core=MLC
 add_core=MLY
-add_core=SMB
 trade_goods = tropical_wood
 life_rating = 35
 naval_base = 1
+colonial=2
