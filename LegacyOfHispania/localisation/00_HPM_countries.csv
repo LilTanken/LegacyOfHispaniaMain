@@ -3232,6 +3232,10 @@ EIC;East India Company;x
 EIC_ADJ;Company;x
 POT;Indian Confederacy;x
 POT_ADJ;Indian;x
+POT_reactionary;Tenskwatawa's Faction;x
+POT_conservative;Paukeesaa's Faction;x
+POT_liberal;Open Door Coalition;x
+POT_fascist;Native Resurgence Group;x
 KKN;Kita Kaigan;x
 KKN_ADJ;Kaiganese;x
 KKN_absolute_monarchy;Kita Kaigan;;;;;;;;;;;;;
@@ -3266,3 +3270,5 @@ MXC_hms_government;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;
 MXC_socialist;Partido Laborista Mexicano;;;;;;;;;;;;;
 MXC_communist;Partido Socialista Obrero;;;;;;;;;;;;;
 MXC_fascist;Unión Nacional Sinarquista;;;;;;;;;;;;;
+MTC;Mestizo Confederacy;x
+MTC_ADJ;Mestizan;x

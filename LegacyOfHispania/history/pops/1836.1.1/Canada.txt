@@ -2454,49 +2454,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 49
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 247
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 54
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 799
 	}
@@ -3082,49 +3082,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 34
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 171
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 33
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 654
 	}
@@ -3573,49 +3573,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 48
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 106
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 1371
 	}
@@ -3680,49 +3680,49 @@
 
 	soldiers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 61
 	}
 
 	clergymen=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 1
 	}
 
 	officers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = anglo_canadian
+		culture = metis
 		religion = catholic
 		size= 525
 	}

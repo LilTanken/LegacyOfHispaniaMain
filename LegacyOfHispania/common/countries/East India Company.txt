@@ -2,7 +2,7 @@ graphical_culture = BritishGC
 color = { 207 20 43 }
 
 party = {
-	name = "ENG_reactionary"
+	name = "EIC_reactionary"
 	start_date = 1790.1.1
 	end_date = 2000.1.1
 
