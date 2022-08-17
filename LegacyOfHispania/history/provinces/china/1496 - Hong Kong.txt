@@ -6,3 +6,4 @@ add_core=MNX
 trade_goods = tea
 life_rating = 35
 terrain = urban
+naval_base = 1

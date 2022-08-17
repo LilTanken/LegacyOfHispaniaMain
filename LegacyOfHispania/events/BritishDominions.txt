@@ -692,24 +692,24 @@ country_event = {
         prestige = -20
         badboy = -5
         random_owned = { limit = { province_id = 2113 } change_province_name = "Richards Bay" add_core = SAF }
-        random_owned = { limit = { province_id = 2112 } change_province_name = "Ladysmith" add_core = SAF }
+        random_owned = { limit = { province_id = 2112 } change_province_name = "Newcastle" add_core = SAF }
         random_owned = { limit = { province_id = 2100 } change_province_name = "Port St. Johns" add_core = SAF }
-        random_owned = { limit = { province_id = 2101 } change_province_name = "Bloemfontein" add_core = SAF }
-        random_owned = { limit = { province_id = 2102 } change_province_name = "Winburg" add_core = SAF }
+        random_owned = { limit = { province_id = 2101 } change_province_name = "Collingham" add_core = SAF }
+        random_owned = { limit = { province_id = 2102 } change_province_name = "Hibernia" add_core = SAF }
         random_owned = { limit = { province_id = 2103 } change_province_name = "Philippolis" add_core = SAF }
-        random_owned = { limit = { province_id = 2105 } change_province_name = "Pretoria" add_core = SAF }
-        random_owned = { limit = { province_id = 2106 } change_province_name = "Johannesburg" add_core = SAF }
-        random_owned = { limit = { province_id = 2107 } change_province_name = "Klerksdorp" add_core = SAF }
-        random_owned = { limit = { province_id = 2108 } change_province_name = "Nylstroom" add_core = SAF }
-        random_owned = { limit = { province_id = 2109 } change_province_name = "Lydenburg" add_core = SAF }
-        random_owned = { limit = { province_id = 2110 } change_province_name = "Hoedspruit" add_core = SAF }
-        random_owned = { limit = { province_id = 2088 } change_province_name = "Springbok" add_core = SAF }
-        random_owned = { limit = { province_id = 2558 } change_province_name = "De Aar" add_core = SAF }
-        random_owned = { limit = { province_id = 2093 } change_province_name = "Calvinia" add_core = SAF }
+        random_owned = { limit = { province_id = 2105 } change_province_name = "Rosebank" add_core = SAF }
+        random_owned = { limit = { province_id = 2106 } change_province_name = "Richmond" add_core = SAF }
+        random_owned = { limit = { province_id = 2107 } change_province_name = "Derby" add_core = SAF }
+        random_owned = { limit = { province_id = 2108 } change_province_name = "Oaksville" add_core = SAF }
+        random_owned = { limit = { province_id = 2109 } change_province_name = "Belfast" add_core = SAF }
+        random_owned = { limit = { province_id = 2110 } change_province_name = "Agincourt" add_core = SAF }
+        random_owned = { limit = { province_id = 2088 } change_province_name = "Port Nolloth" add_core = SAF }
+        random_owned = { limit = { province_id = 2558 } change_province_name = "Wentworth" add_core = SAF }
+        random_owned = { limit = { province_id = 2093 } change_province_name = "Sutherland" add_core = SAF }
         random_owned = { limit = { province_id = 2094 } change_province_name = "Kimberley" add_core = SAF }
         random_owned = { limit = { province_id = 2111 } change_province_name = "Durban" add_core = SAF }
-        random_owned = { limit = { province_id = 2105 } state_scope = { change_region_name = "Transvaal" } }
-        random_owned = { limit = { province_id = 2102 } state_scope = { change_region_name = "Vrystaat" } }
+        random_owned = { limit = { province_id = 2105 } state_scope = { change_region_name = "Swahililand" } }
+        random_owned = { limit = { province_id = 2102 } state_scope = { change_region_name = "Basutoland" } }
         random_owned = { limit = { province_id = 2111 } state_scope = { change_region_name = "Natal" } }
         any_pop = {
             limit = { location = { is_core = SAF } }
@@ -790,24 +790,24 @@ country_event = {
             }
         }
         random_owned = { limit = { province_id = 2113 } change_province_name = "Richards Bay" add_core = SAF }
-        random_owned = { limit = { province_id = 2112 } change_province_name = "Ladysmith" add_core = SAF }
+        random_owned = { limit = { province_id = 2112 } change_province_name = "Newcastle" add_core = SAF }
         random_owned = { limit = { province_id = 2100 } change_province_name = "Port St. Johns" add_core = SAF }
-        random_owned = { limit = { province_id = 2101 } change_province_name = "Bloemfontein" add_core = SAF }
-        random_owned = { limit = { province_id = 2102 } change_province_name = "Winburg" add_core = SAF }
+        random_owned = { limit = { province_id = 2101 } change_province_name = "Collingham" add_core = SAF }
+        random_owned = { limit = { province_id = 2102 } change_province_name = "Hibernia" add_core = SAF }
         random_owned = { limit = { province_id = 2103 } change_province_name = "Philippolis" add_core = SAF }
-        random_owned = { limit = { province_id = 2105 } change_province_name = "Pretoria" add_core = SAF }
-        random_owned = { limit = { province_id = 2106 } change_province_name = "Johannesburg" add_core = SAF }
-        random_owned = { limit = { province_id = 2107 } change_province_name = "Klerksdorp" add_core = SAF }
-        random_owned = { limit = { province_id = 2108 } change_province_name = "Nylstroom" add_core = SAF }
-        random_owned = { limit = { province_id = 2109 } change_province_name = "Lydenburg" add_core = SAF }
-        random_owned = { limit = { province_id = 2110 } change_province_name = "Hoedspruit" add_core = SAF }
-        random_owned = { limit = { province_id = 2088 } change_province_name = "Springbok" add_core = SAF }
-        random_owned = { limit = { province_id = 2558 } change_province_name = "De Aar" add_core = SAF }
-        random_owned = { limit = { province_id = 2093 } change_province_name = "Calvinia" add_core = SAF }
+        random_owned = { limit = { province_id = 2105 } change_province_name = "Rosebank" add_core = SAF }
+        random_owned = { limit = { province_id = 2106 } change_province_name = "Richmond" add_core = SAF }
+        random_owned = { limit = { province_id = 2107 } change_province_name = "Derby" add_core = SAF }
+        random_owned = { limit = { province_id = 2108 } change_province_name = "Oaksville" add_core = SAF }
+        random_owned = { limit = { province_id = 2109 } change_province_name = "Belfast" add_core = SAF }
+        random_owned = { limit = { province_id = 2110 } change_province_name = "Agincourt" add_core = SAF }
+        random_owned = { limit = { province_id = 2088 } change_province_name = "Port Nolloth" add_core = SAF }
+        random_owned = { limit = { province_id = 2558 } change_province_name = "Wentworth" add_core = SAF }
+        random_owned = { limit = { province_id = 2093 } change_province_name = "Sutherland" add_core = SAF }
         random_owned = { limit = { province_id = 2094 } change_province_name = "Kimberley" add_core = SAF }
         random_owned = { limit = { province_id = 2111 } change_province_name = "Durban" add_core = SAF }
-        random_owned = { limit = { province_id = 2105 } state_scope = { change_region_name = "Transvaal" } }
-        random_owned = { limit = { province_id = 2102 } state_scope = { change_region_name = "Vrystaat" } }
+        random_owned = { limit = { province_id = 2105 } state_scope = { change_region_name = "Swahililand" } }
+        random_owned = { limit = { province_id = 2102 } state_scope = { change_region_name = "Basutoland" } }
         random_owned = { limit = { province_id = 2111 } state_scope = { change_region_name = "Natal" } }
         ai_chance = {
             factor = 20
@@ -896,24 +896,24 @@ country_event = {
             }
         }
         random_owned = { limit = { province_id = 2113 } change_province_name = "Richards Bay" add_core = SAF }
-        random_owned = { limit = { province_id = 2112 } change_province_name = "Ladysmith" add_core = SAF }
+        random_owned = { limit = { province_id = 2112 } change_province_name = "Newcastle" add_core = SAF }
         random_owned = { limit = { province_id = 2100 } change_province_name = "Port St. Johns" add_core = SAF }
-        random_owned = { limit = { province_id = 2101 } change_province_name = "Bloemfontein" add_core = SAF }
-        random_owned = { limit = { province_id = 2102 } change_province_name = "Winburg" add_core = SAF }
+        random_owned = { limit = { province_id = 2101 } change_province_name = "Collingham" add_core = SAF }
+        random_owned = { limit = { province_id = 2102 } change_province_name = "Hibernia" add_core = SAF }
         random_owned = { limit = { province_id = 2103 } change_province_name = "Philippolis" add_core = SAF }
-        random_owned = { limit = { province_id = 2105 } change_province_name = "Pretoria" add_core = SAF }
-        random_owned = { limit = { province_id = 2106 } change_province_name = "Johannesburg" add_core = SAF }
-        random_owned = { limit = { province_id = 2107 } change_province_name = "Klerksdorp" add_core = SAF }
-        random_owned = { limit = { province_id = 2108 } change_province_name = "Nylstroom" add_core = SAF }
-        random_owned = { limit = { province_id = 2109 } change_province_name = "Lydenburg" add_core = SAF }
-        random_owned = { limit = { province_id = 2110 } change_province_name = "Hoedspruit" add_core = SAF }
-        random_owned = { limit = { province_id = 2088 } change_province_name = "Springbok" add_core = SAF }
-        random_owned = { limit = { province_id = 2558 } change_province_name = "De Aar" add_core = SAF }
-        random_owned = { limit = { province_id = 2093 } change_province_name = "Calvinia" add_core = SAF }
+        random_owned = { limit = { province_id = 2105 } change_province_name = "Rosebank" add_core = SAF }
+        random_owned = { limit = { province_id = 2106 } change_province_name = "Richmond" add_core = SAF }
+        random_owned = { limit = { province_id = 2107 } change_province_name = "Derby" add_core = SAF }
+        random_owned = { limit = { province_id = 2108 } change_province_name = "Oaksville" add_core = SAF }
+        random_owned = { limit = { province_id = 2109 } change_province_name = "Belfast" add_core = SAF }
+        random_owned = { limit = { province_id = 2110 } change_province_name = "Agincourt" add_core = SAF }
+        random_owned = { limit = { province_id = 2088 } change_province_name = "Port Nolloth" add_core = SAF }
+        random_owned = { limit = { province_id = 2558 } change_province_name = "Wentworth" add_core = SAF }
+        random_owned = { limit = { province_id = 2093 } change_province_name = "Sutherland" add_core = SAF }
         random_owned = { limit = { province_id = 2094 } change_province_name = "Kimberley" add_core = SAF }
         random_owned = { limit = { province_id = 2111 } change_province_name = "Durban" add_core = SAF }
-        random_owned = { limit = { province_id = 2105 } state_scope = { change_region_name = "Transvaal" } }
-        random_owned = { limit = { province_id = 2102 } state_scope = { change_region_name = "Vrystaat" } }
+        random_owned = { limit = { province_id = 2105 } state_scope = { change_region_name = "Swahililand" } }
+        random_owned = { limit = { province_id = 2102 } state_scope = { change_region_name = "Basutoland" } }
         random_owned = { limit = { province_id = 2111 } state_scope = { change_region_name = "Natal" } }
         ai_chance = {
             factor = 2
