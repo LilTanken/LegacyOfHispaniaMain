@@ -237,3 +237,11 @@ alliance=
 	start_date="1834.1.1"
 	end_date="1936.1.1"
 }
+
+alliance=
+{
+	first="ENG"
+	second="AST"
+	start_date="1770.8.22"
+	end_date="1936.1.1"
+}

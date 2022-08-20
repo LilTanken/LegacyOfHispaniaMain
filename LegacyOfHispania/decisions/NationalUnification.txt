@@ -1555,6 +1555,10 @@ political_decisions = {
 
 	unite_byzantium = {
 		picture = form_byzantine_empire
+		news = yes
+		news_desc_long = "unite_byzantium_NEWS_LONG"
+		news_desc_medium = "unite_byzantium_NEWS_MEDIUM"
+		news_desc_short = "unite_byzantium_NEWS_SHORT"
 		potential = {
 			capital_scope = { is_core = BYZ }
 			NOT = {
@@ -1665,3 +1669,48 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	unite_francia = {
+		picture = troupes_de_marine
+		news = yes
+		news_desc_long = "unite_francia_NEWS_LONG"
+		news_desc_medium = "unite_francia_NEWS_MEDIUM"
+		news_desc_short = "unite_francia_NEWS_SHORT"
+		potential = {
+			OR = {
+				tag = FRA
+				tag = LOT
+			}
+			NOT = { exists = FRK }
+		}
+
+		allow = {
+			owns = 580
+			owns = 425
+			FRA = {
+				all_core = {
+					owned_by = THIS
+					}
+				}
+			LOT = {
+				all_core = {
+					owned_by = THIS
+					}
+				}
+			}
+		
+		effect = {
+			prestige = 20
+			change_tag = FRK
+			add_accepted_culture = french
+			add_accepted_culture = breton
+			add_accepted_culture = dynamic-cosmopolitan_french-greek-culture-num1
+			add_accepted_culture = occitan
+			add_accepted_culture = picard
+			add_accepted_culture = rollonian
+			add_accepted_culture = dynamic-cosmopolitan_french-culture-num1
+			FRA = { all_core = { add_core = FRK } }
+			LOT = { all_core = { add_core = FRK } }
+			all_core = { remove_core = FRA }
+			all_core = { remove_core = LOT }
+		}
