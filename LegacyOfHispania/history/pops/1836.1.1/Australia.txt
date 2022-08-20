@@ -157,49 +157,49 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 520
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 24
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 7
 	}
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 31
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1527
 	}
@@ -236,49 +236,49 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 44
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 226
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 43
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1874
 	}
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
@@ -322,49 +322,49 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 29
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 239
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1152
 	}
@@ -394,42 +394,42 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 230
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 43
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 885
 	}
@@ -450,7 +450,7 @@
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
@@ -494,49 +494,49 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 38
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 342
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 41
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1469
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 4
 	}
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 2
 	}
@@ -573,49 +573,49 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 28
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 60
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1269
 	}
@@ -659,49 +659,49 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 39
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 323
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1559
 	}
@@ -1144,49 +1144,49 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 20
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 160
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 9
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 809
 	}
@@ -1302,49 +1302,49 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 16
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 118
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 629
 	}
@@ -1418,28 +1418,28 @@
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 17
 	}
@@ -1555,21 +1555,21 @@
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 8
 	}
@@ -1655,49 +1655,49 @@
 
 	soldiers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 111
 	}
 
 	clergymen=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 5
 	}
 
 	bureaucrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 588
 	}
@@ -2300,7 +2300,7 @@
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 2
 	}
@@ -2777,7 +2777,7 @@
 
 	artisans=
 	{
-		culture = aborigine
+		culture = australian
 		religion = protestant
 		size= 4
 	}

@@ -1873,4 +1873,42 @@ political_decisions = {
         ai_will_do = { factor = 1 }
     }
 
+    transfer_manchuria_ming = {
+        picture = meiji_court
+        potential = {
+            tag = JAP
+            owns = 1555
+            owns = 1554
+			owns = 1479
+			owns = 1480
+			owns = 1533
+			owns = 1552
+			owns = 1553
+			owns = 1002
+        }
+        allow = {
+            owns = 1555
+            owns = 1554
+			owns = 1479
+			owns = 1481
+			owns = 1480
+			owns = 1533
+			owns = 1552
+			owns = 1553
+			owns = 1002
+        }
+        effect = {
+            random_owned = {
+                1555 = { secede_province = MNX }
+				1554 = { secede_province = MNX }
+				1479 = { secede_province = MNX }
+				1480 = { secede_province = MNX }
+				1533 = { secede_province = MNX }
+				1552 = { secede_province = MNX }
+				1553 = { secede_province = MNX }
+				1002 = { secede_province = MNX }
+            }
+        }
+    }
+
 }

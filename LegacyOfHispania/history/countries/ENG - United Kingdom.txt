@@ -89,7 +89,8 @@ market_structure = 1
 piston_steam_engine = 1
 high_pressure_steam_engine = 1
 interchangeable_parts = 1
-prestige=140
+naval_plans = 1
+prestige=145
 
 schools = naval_tech_school
 

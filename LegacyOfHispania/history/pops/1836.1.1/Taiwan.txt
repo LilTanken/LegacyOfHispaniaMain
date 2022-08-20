@@ -1,21 +1,21 @@
 1485 = {
 	slaves=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 3646
 	}
 
 	soldiers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 814
 	}
 
 	farmers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 7523
 	}
@@ -78,84 +78,84 @@
 
 	artisans=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 272
 	}
 
 	clergymen=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 88
 	}
 
 	bureaucrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 6
 	}
 
 	officers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 57
 	}
 
 	slaves=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 21
 	}
 
 	soldiers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 279
 	}
 
 	clergymen=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 91
 	}
 
 	bureaucrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 6
 	}
 
 	officers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 59
 	}
@@ -164,14 +164,14 @@
 2406 = {
 	soldiers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 504
 	}
@@ -227,42 +227,42 @@
 
 	artisans=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 5
 	}
 
 	clergymen=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 3
 	}
@@ -271,21 +271,21 @@
 2562 = {
 	slaves=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 7677
 	}
 
 	soldiers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 224
 	}
 
 	farmers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 14973
 	}
@@ -348,84 +348,84 @@
 
 	artisans=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 47
 	}
 
 	clergymen=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 1
 	}
 
 	officers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 10
 	}
 
 	slaves=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 21
 	}
 
 	soldiers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 48
 	}
 
 	clergymen=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 16
 	}
 
 	bureaucrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 1
 	}
 
 	officers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 10
 	}
@@ -434,14 +434,14 @@
 2681 = {
 	soldiers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 491
 	}
 
 	farmers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 9308
 	}
@@ -497,77 +497,77 @@
 
 	artisans=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 153
 	}
 
 	clergymen=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 44
 	}
 
 	bureaucrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = animist
 		size= 52
 	}
 
 	soldiers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 304
 	}
 
 	clergymen=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 99
 	}
 
 	bureaucrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 7
 	}
 
 	officers=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = polynesian
+		culture = taiyaru
 		religion = shinto
 		size= 64
 	}

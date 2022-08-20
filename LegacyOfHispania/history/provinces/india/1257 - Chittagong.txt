@@ -1,6 +1,7 @@
 owner=SPA
 controller=SPA
 add_core=AVA
+add_core=HND
 trade_goods = dye
 life_rating = 32
 naval_base = 2

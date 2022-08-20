@@ -3,5 +3,6 @@ controller=BNG
 add_core=BNG
 add_core=KWN
 add_core=EIC
+add_core=HND
 trade_goods = cattle
 life_rating = 30

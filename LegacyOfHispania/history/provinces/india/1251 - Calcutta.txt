@@ -2,6 +2,7 @@ owner=EIC
 controller=EIC
 add_core=BNG
 add_core=EIC
+add_core=HND
 trade_goods = dye
 life_rating = 32
 naval_base = 2

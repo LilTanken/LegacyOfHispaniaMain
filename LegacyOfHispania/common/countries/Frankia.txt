@@ -2,113 +2,23 @@ graphical_culture = FrenchGC
 color = { 110 142 190 }
 
 party = {
-	name = "BARB_liberal"
-	start_date = 1680.1.1
-	end_date = 2000.1.1
+	name = "FRA_reactionary"
+	start_date = 1790.1.1
+	end_date = 1883.1.1
 
-	ideology = liberal
+	ideology = reactionary
 
-	citizenship_policy = limited_citizenship
-	economic_policy = laissez_faire
-	religious_policy = pluralism
-	social_policy = no_position_set
-	trade_policy = free_trade
-	war_policy = anti_military
-}
-
-party = {
-	name = "BARB_conservative"
-	start_date = 1000.1.1
-	end_date = 2000.1.1
-
-	ideology = conservative
-
-	citizenship_policy = limited_citizenship
-	economic_policy = laissez_faire
+	citizenship_policy = residency
+	economic_policy = state_capitalism
 	religious_policy = moralism
 	social_policy = no_position_set
 	trade_policy = protectionism
-	war_policy = anti_military
-}
-
-party = {
-	name = "BARB_liberal_2"
-	start_date = 1861.1.1
-	end_date = 2000.1.1
-
-	ideology = liberal
-
-	citizenship_policy = limited_citizenship
-	economic_policy = laissez_faire
-	religious_policy = pluralism
-	social_policy = no_position_set
-	trade_policy = free_trade
-	war_policy = jingoism
-}
-
-party = {
-	name = "BARB_liberal_3"
-	start_date = 1861.1.1
-	end_date = 2000.1.1
-
-	ideology = liberal
-
-	citizenship_policy = limited_citizenship
-	economic_policy = laissez_faire
-	religious_policy = pluralism
-	social_policy = no_position_set
-	trade_policy = free_trade
 	war_policy = pro_military
 }
 
 party = {
-	name = "BARB_socialist"
-	start_date = 1790.1.1
-	end_date = 1875.1.1
-
-	ideology = socialist
-
-	citizenship_policy = full_citizenship
-	economic_policy = planned_economy
-	religious_policy = pluralism
-	social_policy = welfare_state
-	trade_policy = free_trade
-	war_policy = anti_military
-}
-
-party = {
-	name = "BARB_socialist_2"
-	start_date = 1848.1.1
-	end_date = 1875.1.1
-
-	ideology = socialist
-
-	citizenship_policy = full_citizenship
-	economic_policy = planned_economy
-	religious_policy = secularized
-	social_policy = welfare_state
-	trade_policy = free_trade
-	war_policy = anti_military
-}
-
-party = {
-	name = "BARB_socialist_3"
-	start_date = 1875.1.1
-	end_date = 2000.1.1
-
-	ideology = socialist
-
-	citizenship_policy = full_citizenship
-	economic_policy = planned_economy
-	religious_policy = secularized
-	social_policy = welfare_state
-	trade_policy = free_trade
-	war_policy = anti_military
-}
-
-party = {
-	name = "BARB_reactionary"
-	start_date = 1680.1.1
+	name = "FRA_reactionary_2"
+	start_date = 1883.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -122,28 +32,118 @@ party = {
 }
 
 party = {
-	name = "BARB_conservative_2"
-	start_date = 1830.1.1
+	name = "FRA_liberal"
+	start_date = 1680.1.1
+	end_date = 1848.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = interventionism
+	religious_policy = secularized
+	social_policy = no_position_set
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "FRA_liberal_2"
+	start_date = 1848.1.1
+	end_date = 1870.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	social_policy = no_position_set
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "FRA_liberal_3"
+	start_date = 1870.1.1
 	end_date = 2000.1.1
+
+	ideology = liberal
+
+	citizenship_policy = full_citizenship
+	economic_policy = laissez_faire
+	religious_policy = secularized
+	social_policy = no_position_set
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "FRA_conservative"
+	start_date = 1000.1.1
+	end_date = 1848.1.1
 
 	ideology = conservative
 
-	citizenship_policy = residency
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = pluralism
+	social_policy = no_position_set
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "FRA_conservative_2"
+	start_date = 1848.1.1
+	end_date = 1885.1.1
+
+	ideology = conservative
+
+	citizenship_policy = full_citizenship
 	economic_policy = interventionism
 	religious_policy = moralism
 	social_policy = no_position_set
-	trade_policy = protectionism
+	trade_policy = free_trade
 	war_policy = jingoism
 }
 
 party = {
-	name = "BARB_conservative_3"
-	start_date = 1878.1.1
+	name = "FRA_conservative_3"
+	start_date = 1860.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
 
-	citizenship_policy = residency
+	citizenship_policy = full_citizenship
+	economic_policy = interventionism
+	religious_policy = secularized
+	social_policy = no_position_set
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "FRA_conservative_4"
+	start_date = 1870.1.1
+	end_date = 1894.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
+	economic_policy = laissez_faire
+	religious_policy = moralism
+	social_policy = no_position_set
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "FRA_conservative_5"
+	start_date = 1894.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	citizenship_policy = limited_citizenship
 	economic_policy = interventionism
 	religious_policy = moralism
 	social_policy = no_position_set
@@ -152,38 +152,83 @@ party = {
 }
 
 party = {
-	name = "BARB_anarcho_liberal"
-	start_date = 1710.1.1
+	name = "FRA_socialist"
+	start_date = 1870.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = secularized
+	social_policy = welfare_state
+	trade_policy = protectionism
+	war_policy = pacifism
+}
+
+party = {
+	name = "FRA_socialist_2"
+	start_date = 1848.1.1
+	end_date = 1870.1.1
+
+	ideology = socialist
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = secularized
+	social_policy = welfare_state
+	trade_policy = protectionism
+	war_policy = pacifism
+}
+
+party = {
+	name = "FRA_socialist_3"
+	start_date = 1900.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = limited_citizenship
+	economic_policy = state_capitalism
+	religious_policy = secularized
+	social_policy = welfare_state
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "FRA_anarcho_liberal"
+	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = anarcho_liberal
 
 	citizenship_policy = full_citizenship
 	economic_policy = laissez_faire
-	religious_policy = pro_atheism
+	religious_policy = secularized
 	social_policy = no_state_interference
 	trade_policy = free_trade
-	war_policy = pro_military
+	war_policy = pacifism
 }
 
 party = {
-	name = "BARB_communist"
+	name = "FRA_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
 	ideology = communist
 
-	citizenship_policy = full_citizenship
+	citizenship_policy = limited_citizenship
 	economic_policy = planned_economy
 	religious_policy = pro_atheism
 	social_policy = populist_welfare
 	trade_policy = protectionism
-	war_policy = pro_military
+	war_policy = anti_military
 }
 
 party = {
-	name = "BARB_fascist"
-	start_date = 1905.1.1
+	name = "FRA_fascist"
+	start_date = 1900.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist
@@ -198,33 +243,33 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Derfflinger "Friedrich der Große" Goeben "Großer Kurfürst" Helgoland Hindenburg Kaiser Kaiserin König "König Albert" Kronprinz Lützow Mackensen Markgraf Moltke Nassau Oldenburg Ostfriesland Posen Rheinland Sachsen Seydlitz Thüringen Westfalen
+		Dunkerque Strasbourg Richelieu Clemenceau Petain Napoléon Poincare "Louis XIV" Alsace Bourgogne Poitou Calais Rouen Brest Dévastation Courbet "Amiral Duperré" Terrible Indomptable Caiman Requin "Admiral Baudin" Formidable Hoche Marceau Magenta Neptune Brennus "Charles Martel" Carnot Jauréguiberry Masséna Bouvet Charlemagne "Saint Louis" Gaulois "Henri IV" Iéna Suffren République Patrie Démocratie Justice Liberté Verité Danton Diderot Mirabeau Vergniaud Voltaire Condorcet Courbet France "Jean Bart" Paris Fleurus Bretagne Lorraine Provence Bearn Flandre Gascoigne Languedoc Normandie Guyenne Champagne Auvergne Lille Lyon Orleans "La Rochelle" Bourdeaux
 	}
 	battleship = {
-		
+		Brennus "Charles Martel" Carnot Jauréguiberry Masséna Bouvet Charlemagne "St Louis" Gaulois Iéna Suffren République Patrie Liberté Justice Vérité Démocratie Danton Voltaire Diderot Condorcet Mirebeau Vergniaud "Henri IV"
 	}
 	ironclad = {
-		Arminius Bremen Carola Charlotte Frankfurt "Friedrich Carl" "Friedrich der Große" "Großer Kurfürst" Hamburg Hansa Kaiser "König Wilhelm" Kronprinz Leipzig Lübeck Marie Medusa Möwe Moltke Nixe Oldenburg Olga Otter Pfeil Preußen "Preußischer Adler" "Prinz Adalbert" Sophie
+		Congreve Foudroyante Lave Tonnante Gloire Invincible Normandie Couronne Magenta Solferino Flandre Gauloise Magnanime Provence Revanche Savoie Surveillante Valeureuse Héroïne
 	}
 	manowar = {
-		Brandenburg Braunschweig Deutschland Hannover Hessen "Kaiser Barbarossa" "Kaiser Friedrich III" "Kaiser Karl der Große" "Kurfürst Friedrich Wilhelm" Mecklenburg Pommern Preußen Schlesien Schleswig-Holstein Wettin
+		Alexandre Breslaw "Prince Jérôme" "Ville de Paris" "Ville de Nantes" Duguay-Trouin Tage Donawerth "Saint Louis" Fontenoy Turenne "Ville de Bordeaux" Castiglione Masséna Bayard "Ville de Lyon" "Louis XIV"
 	}
 	cruiser = {
-		Amazone Arcona Ariadne Berlin Blücher Blitz Bremen Bremse Breslau Brummer Bussard Köln Comet Condor Cormoran Danzig Deutschland Dresden Elbing Emden Falke Frankfurt Freya "Friedrich Carl" "Fürst Bismarck" Gazelle Gefion Geier Gneisenau Graudenz Greif Hamburg Hansa Hela Hertha Irene Jagd "Kaiserin Augusta" Königsberg Kolberg Leipzig Lübeck Magdeburg Medusa Meteor Niobe Nymphe Pillau "Prinz Adalbert" "Prinz Heinrich" "Prinz Wilhelm" Regensburg Roon Rostock Scharnhorst Schwalbe Seeadler Sperber Stettin Stralsund Thetis Undine "Victoria Louise" Vineta Wacht Yorck
+		Clovis "Maurice de Saxe" Vercingetorix Richemont Dunois Ney Leger Vauban Conde Turenne Montebello Austerlitz Souverain Navarin Ulm Wagram Algésiras Arcole Friedland Impérial Eylau Tilsitt Jena Auerstadt Marengo Toulon Bellone Glorieuse Gracieuse Audacieuse Impétueuse Ardente Victoire Guerrière Téméraire Triomphant Tigre Persévérante Vigilant Tenace Élan "Duguay Trouin" Lamotte-Picquet Primaguet Duquesne Tourville Colbert Foch Algérie "Jeanne D'Arc" Maroc Lafayette Davout Suchet Forbin Surcouf Cosmao Lalande Galilée Lavoisier Linois "La Galissionere" "Jean de Vienne" Gloire Marseillaise "Georges Leygues" "De Grasse" "La Fantasque" Iphigenie Naiade Arethuse Dubourdieu Milan Belliqueuse Sfax Tage "Amiral Cécille" Davout Suchet Coëtlogon Forbin Surcouf Cosmao Lalande Troude Galilée Lavoisier Linois Tunisié Isly Bugeaud Chasseloup-Laubat Friant Descartes Pascal Cassard D'Assas "Du Chayla" Catinat Protet D'Entrecasteaux Guichen Châteaurenault D'Estrées Infernet "Jurien de la Gravière" Pluton "Emile Bertin" "Dupuy de Lome" "Admiral Charner" Bruix Chanzy Latouche-Treville Pothau Dupetit-Thouars Gueydon Montcalm Desaix Dupleix Kleber "Amiral Aube" Conde Sully "Leon Gambetta" "Victor Hugo" "Jules Michelet" "Ernest Renan" "Edgar Quinet" Waldeck-Rousseau Thionville Metz Mulhouse Colmar D'Assas "Du Chayla" Catinat Protet D'Entrecasteaux Guichen Châteaurenault
 	}
 	frigate = {
-		Adler Albatross Alexandrine Amazone Arcona Ariadne Augusta Barbarossa Basilisk Bismarck Blitz Blücher Cameleon Comet Cyclop Delphin "Der Königliche Ernst August" Deutschland Drache Eber Eckernförde Elbe Elisabeth "Erzherzog Johann" Franklin Freya Fuchs Gazelle Gefion Gneisenau Grille "Großherzog von Oldenburg" Habicht Hay Hertha Hyäne Iltis Jäger Luise Meteor Natter Niobe Nymphe Pfeil Salamander Schwalbe Skorpion Sperber Stein Stosch Thetis Tiger Undine Victoria Vineta Wespe Wolf Ziethen
+		Condor Epervier Faucon Vautour Wattignies Levrier Casablanca D'Iberville Cassini Lahire Circé Hermione Pallas Sémiramis Armorique Junon Magicienne Thémis Flore
 	}
 	monitor = {
-		Ägir Basilisk Beowulf Biene Bremse Brummer Cameleon Crocodill Frithjof Hagen Heimdall Hildebrand Hummel Mücke Natter Odin Rhein Sachsen Salamander Skorpion Siegfried Viper Wespe
+		Océan Marengo Suffren Friedland Richelieu Colbert Trident
 	}
 	clipper_transport = {
-		America Deutschland Elbe Europa Hansa Hela Hermann Hudson "New York" Nord-Amerika Pamir Pangani Passat Peking "Peter Rickmers" Petschili Pisagua Pitlochry Placilla Pola Pommern Potosi Preußen Priwall Rhein "Rickmer Rickmers" Weser
+		
 	}
 	steam_transport = {
-		Aachen "Adeline Hugo Stinnes 3" Aller Answald Ausonia Berlin Bonn Braunschweig Bremen Breslau Bülow Kassel Chemnitz Choising Coblenz Coburg Cormoran Krefeld Danzig Darmstadt Delphin Donau Dresden Eider Eisenach Elbe Ems Erlangen Frankfurt Fulda "General Werder" Gera Giessen Gotha Halle Hannover Hansa Havel Hermann Hohenstaufen Hohenzollern Kleist Köln Lahn Leipzig Libau Lübeck Mark "Minister Roon" Nordsee Oder Oldenburg Oswald Pfalz Rhein Roon Saale Salier Schleswig Seydlitz Skutari Spree Stettin Therapia Trave Trier Union Wartburg Weimar Werra Weser Willehad Wittekind Zieten
+		
 	}
 	commerce_raider = {
-		Barbarossa "Kap Trafalgar" Cormoran Iltis "Kaiser Wilhelm der Große" "Kronprinz Wilhelm" Leopard Loreley Meteor Möwe "Preußischer Adler" Seeadler Seelöwe Vineta Wolf
+		Asmodée Gomer Darien Labrador Ulloa Cacique Canada "Christophe Colomb" Eldorado Magellan Montezuma Orénoque Panama Albatros Descartes Vauban Caffarelli Mogador Pomone Isly Bellone Foudre "Impératrice Eugénie" Souveraine Audacieuse Impétueuse Ardente Victoire Guerrière Renommée Danaé Pandore Zénobie Clorinde Astrée
 	}
 }

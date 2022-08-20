@@ -196,4 +196,113 @@ political_decisions = {
             }
         }
     }
+
+    restore_mexican_empire_mxc = {
+        potential = {
+            tag = MXC
+            government = democracy
+            NOT = { has_country_flag = we_have_tried_this_once }
+            FRA = {
+                OR = {
+                    government = absolute_monarchy
+                    government = prussian_constitutionalism
+                    government = hms_government
+                }
+            }
+        }
+        allow = {
+            war = no
+            OR = {
+                ruling_party_ideology = conservative
+                ruling_party_ideology = reactionary
+            }
+            average_militancy = 3
+        }
+
+        effect = {
+            government = hms_government
+            election = yes
+            random_owned = {
+                limit = { owner = { has_country_modifier = santa_ana_rule } }
+                owner = { remove_country_modifier = santa_ana_rule }
+            }
+            any_pop = {
+                scaled_militancy = {
+                    ideology = liberal
+                    factor = 8
+                }
+                scaled_militancy = {
+                    ideology = socialist
+                    factor = 8
+                }
+                scaled_militancy = {
+                    ideology = conservative
+                    factor = 6
+                }
+            }
+            FRA = {
+                relation = {
+                    who = THIS
+                    value = 100
+                }
+                diplomatic_influence = {
+                    who = THIS
+                    value = 100
+                }
+            }
+            set_country_flag = we_have_tried_this_once
+        }
+    }
+
+    revoke_mexamerica_claim = {
+        picture = sign_the_geneva_convention
+        potential = {
+            tag = MEX
+            TEX_132 = { NOT = { owned_by = MEX } } #Texas
+			MEX_100 = { NOT = { owned_by = MEX } } #Arizona
+			MEX_103 = { NOT = { owned_by = MEX } } #New Mexico
+			USA_129 = { NOT = { owned_by = MEX } } #Oklahoma
+			USA_106 = { NOT = { owned_by = MEX } } #Colorado
+			MEX_85 = { NOT = { owned_by = MEX } } #California
+			USA_139 = { NOT = { owned_by = MEX } } #Louisiana
+        }
+
+        allow = {
+			war = no
+        }
+
+        effect = {
+			set_country_flag = revoke_mexamerica_expansion
+			prestige = -10
+			change_tag = MXC
+			capital = 2172
+			MEX_2149 = { add_core = MXC } #Cohauila
+			MEX_2142 = { add_core = MXC } #Chihuahua
+			MEX_2138 = { add_core = MXC } #Sonora
+			MEX_2151 = { add_core = MXC } #Durango
+			MEX_2159 = { add_core = MXC } #Veracruz
+			MEX_2183 = { add_core = MXC } #Yucatan
+			MEX_2161 = { add_core = MXC } #Jalisco
+			MEX_2170 = { add_core = MXC } #Guerrero
+			MEX_2172 = { add_core = MXC } #Mexico
+			MEX_2181 = { add_core = MXC } #Chiapas
+			UCA_2186 = { add_core = MXC } #Guatemala
+			UCA_2191 = { add_core = MXC } #El Salvador
+			UCA_2193 = { add_core = MXC } #Honduras
+			UCA_2197 = { add_core = MXC } #Nicaragua
+			TEX_132 = { remove_core = MEX } #Texas
+			MEX_103 = { remove_core = MEX } #New Mexico
+			USA_129 = { remove_core = MEX } #Oklahoma
+			TEX_132 = { remove_core = MXC } #Texas
+			MEX_103 = { remove_core = MXC } #New Mexico
+			USA_129 = { remove_core = MXC } #Oklahoma
+			remove_accepted_culture = americano
+			2172 = { remove_core = MEX }
+            MEX = { all_core = { remove_core = MEX } }
+        }
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
 }

@@ -15,49 +15,49 @@
 
 	farmers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 6411
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 525
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 110
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 85
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 44
 	}
 
 	soldiers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 4133
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 10
 	}
@@ -129,49 +129,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 47
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 142
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 23
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 11
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 59
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 2058
 	}
@@ -201,49 +201,49 @@
 
 	artisans=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 115
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 48
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 19
 	}
 
 	soldiers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 1033
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 9
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = central_american
 		religion = catholic
 		size= 1301
 	}

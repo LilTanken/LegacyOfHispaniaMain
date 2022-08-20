@@ -1,13 +1,11 @@
 capital = 1485
-primary_culture = polynesian
+primary_culture = taiyaru
 culture = zzz_religion_shinto
 religion = shinto
 government = democracy
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0
-
-civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -21,7 +19,7 @@ school_reforms = no_schools
 slavery=no_slavery
 vote_franschise=none_voting
 upper_house_composition=appointed
-voting_system=jefferson_method
+voting_system=first_past_the_post
 public_meetings=yes_meeting
 press_rights=censored_press
 trade_unions=no_trade_unions

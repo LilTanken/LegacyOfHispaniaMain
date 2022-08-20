@@ -32,7 +32,7 @@ political_parties=gerrymandering
 
 #HPM reforms
 border_policy = open_borders
-serfdom = debtors_prisons
+debt_law = debtors_prisons
 
 
 ruling_party = USA_conservative

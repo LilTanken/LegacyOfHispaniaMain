@@ -792,24 +792,28 @@ political_decisions = {
     }
 
     rhodesia_renaming_act = {
-        picture = rhodesia_renaming_act
+        picture = rhodesia_renaminc_act
         potential = {
-            tag = RHO
+            tag = ENG
             owns = 2068
-            owns = 2070
-            owns = 2635
+            owns = 2072
+            owns = 2073
             NOT = { has_country_flag = renaming_act }
         }
 
         allow = {
             owns = 2068
-            owns = 2070
-            owns = 2635
+            owns = 2072
+            owns = 2073
         }
 
         effect = {
             set_country_flag = renaming_act
-            2068 = { state_scope = { change_region_name = "Southern Rhodesia" } }
+            2068 = { state_scope = { change_region_name = "Mashonaland" } }
+			2071 = { state_scope = { change_region_name = "Matabeleland" } }
+			random_owned = { limit = { province_id = 2068 } change_province_name = "Salisbury" }
+			random_owned = { limit = { province_id = 2073 } change_province_name = "Fort Victoria" }
+			random_owned = { limit = { province_id = 2072 } change_province_name = "Wankie" }
         }
     ai_will_do = { factor = 1 }
     }
@@ -1293,5 +1297,37 @@ political_decisions = {
         }
 
         ai_will_do = { factor = 1 }
+    }
+
+    vaal_renaming_act = {
+        picture = rhodesia_renaminc_act
+        potential = {
+            tag = ENG
+            owns = 2102
+            NOT = { has_country_flag = renaming_act_saf }
+        }
+
+        allow = {
+            owns = 2106
+            owns = 2105
+            owns = 2108
+			owns = 2114
+			owns = 2110
+			owns = 2109
+			owns = 2107
+        }
+
+        effect = {
+            set_country_flag = renaming_act_saf
+            2108 = { state_scope = { change_region_name = "Swahililand" } }
+			random_owned = { limit = { province_id = 2106 } change_province_name = "Richmond" }
+			random_owned = { limit = { province_id = 2105 } change_province_name = "Rosebank" }
+			random_owned = { limit = { province_id = 2109 } change_province_name = "Belfast" }
+			random_owned = { limit = { province_id = 2107 } change_province_name = "Derby" }
+			random_owned = { limit = { province_id = 2108 } change_province_name = "Oaksville" }
+			random_owned = { limit = { province_id = 2114 } change_province_name = "Swaziland" }
+			random_owned = { limit = { province_id = 2110 } change_province_name = "Agincourt" }
+        }
+    ai_will_do = { factor = 1 }
     }
 }

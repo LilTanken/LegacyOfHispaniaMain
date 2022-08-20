@@ -1279,15 +1279,16 @@ IVC_communist;Ivorian Popular Front;;;;;;;;;;;;;
 IVC_fascist;Movement of the Forces of the Future;;;;;;;;;;;;;
 IZH;Ingria;;;;;;;;;;;;;
 IZH_ADJ;Ingrian;;;;;;;;;;;;;
-JAM;Jamaica;Jamaïque;Jamaica;;Jamaica;;;;;;;;;
-JAM_ADJ;Jamaican;Jamaïcain;Jamaican;;Jamaican;;;;;;;;;
-JAM_conservative;Conservative Party;Conservative Party;Conservative Party;;;;;;;;;;;
-JAM_liberal;Liberal Party;Liberal Party;Liberal Party;;;;;;;;;;;
-JAM_reactionary;Alliance for National Unity;Alliance for National Unity;Alliance for National Unity;;;;;;;;;;;
-JAM_socialist;People's Political Party;People's Political Party;People's Political Party;;;;;;;;;;;
-JAM_communist;Worker's Party;Worker's Party;Worker's Party;;;;;;;;;;;
-JAM_anarcho_liberal;Radical Party;Radical Party;Radical Party;;;;;;;;;;;
-JAM_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;
+JAM;Santiago;x
+JAM_absolute_monarchy;Reino de Santiago;x
+JAM_ADJ;Santiagan;x
+JAM_conservative;Partido Moderado;x
+JAM_liberal;Partido Reformista;x
+JAM_reactionary;Dinastía Ramos;x
+JAM_socialist;Partido Popular;x
+JAM_communist;Partido Comunista;x
+JAM_anarcho_liberal;Liberación;x
+JAM_fascist;Nueva Reconquista;x
 JAP_absolute_monarchy;Empire of Japan;;;;;;;;;;;;;
 JAP_reactionary;Handoutou;Faction Shogunate;Shogunate Faction;;;;;;;;;;;
 JAP_conservative;Rikken Teiseitou;Faction de la cour;Court Faction;;;;;;;;;;;
@@ -2183,11 +2184,11 @@ SON_reactionary;Partido Imperialista;Partido Imperialista;Partido Imperialista;;
 SON_socialist;Partido Socialist;Partido socialiste;Partido Socialist;;;;;;;;;;;
 SON_communist;Partido Communist;Partido communiste;Partido Communist;;;;;;;;;;;
 SON_fascist;Partido Fascist;Partido fasciste;Partido Fascist;;;;;;;;;;;
-SPC;Spain;;;;;;;;;;;;;
-SPC_absolute_monarchy;Carlist Spain;;;;;;;;;;;;;
-SPC_prussian_constitutionalism;Carlist Spain;;;;;;;;;;;;;
-SPC_hms_government;Carlist Spain;;;;;;;;;;;;;
-SPC_ADJ;Spanish;;;;;;;;;;;;;
+SPC;Hispania;;;;;;;;;;;;;
+SPC_absolute_monarchy;Jimenist Hispania;;;;;;;;;;;;;
+SPC_prussian_constitutionalism;Jimenist Hispania;;;;;;;;;;;;;
+SPC_hms_government;Jimenist Hispania;;;;;;;;;;;;;
+SPC_ADJ;Hispanian;;;;;;;;;;;;;
 SPU;South Peru;;;;;;;;;;;;;
 SPU_ADJ;South Peruvian;;;;;;;;;;;;;
 SRD;Sardinia;;;;;;;;;;;;;
@@ -2433,12 +2434,12 @@ TTB_socialist;People's Partnership;People's Partnership;People's Partnership;;;;
 TTB_communist;Worker's Party;Worker's Party;Worker's Party;;;;;;;;;;;
 TTB_anarcho_liberal;Butler Party;Butler Party;Butler Party;;;;;;;;;;;
 TTB_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;
-BYZ;Greek Empire;;;;;;;;;;;;;
-BYZ_ADJ;Greek;;;;;;;;;;;;;
-BYZ_democracy;Greek Federation;;;;;;;;;;;;;
-BYZ_presidential_dictatorship;Greek Federation;;;;;;;;;;;;;
-BYZ_bourgeois_dictatorship;Greek Federation;;;;;;;;;;;;;
-BYZ_proletarian_dictatorship;Socialist Balkan Union;;;;;;;;;;;;;
+BYZ;Byzantine Empire;;;;;;;;;;;;;
+BYZ_ADJ;Byzantine;;;;;;;;;;;;;
+BYZ_democracy;Byzantine Federation;;;;;;;;;;;;;
+BYZ_presidential_dictatorship;Byzantine Federation;;;;;;;;;;;;;
+BYZ_bourgeois_dictatorship;Byzantine Federation;;;;;;;;;;;;;
+BYZ_proletarian_dictatorship;Socialist Byzantine Union;;;;;;;;;;;;;
 TUR;Turkey;;;;;;;;;;;;;
 TUR_ADJ;Turkish;;;;;;;;;;;;;
 TUR_absolute_monarchy;The Ottoman Empire;;;;;;;;;;;;;
@@ -2653,7 +2654,7 @@ XBI_presidential_dictatorship_ADJ;Hui;;;;;;;;;;;;;
 XBI_reactionary_2;Confucianist Faction;;;;;;;;;;;;;
 XBI_conservative_2;Amban Faction;;;;;;;;;;;;;
 XBI_liberal_2;Reformer Faction;;;;;;;;;;;;;
-XIN_presidential_dictatorship;Xinjiang Clique;Clique de Xinjiang;Xinjiang-Clique;;;;;;;;;;;
+XIN_presidential_dictatorship;Sinkiang Clique;Clique de Sinkiang;Sinkiang-Clique;;;;;;;;;;;
 YAK;Yakutia;;;;;;;;;;;;;
 YAK_ADJ;Yakut;;;;;;;;;;;;;
 YAK_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;
@@ -3229,6 +3230,10 @@ EIC;East India Company;x
 EIC_ADJ;Company;x
 POT;Indian Confederacy;x
 POT_ADJ;Indian;x
+POT_reactionary;Tenskwatawa's Faction;x
+POT_conservative;Paukeesaa's Faction;x
+POT_liberal;Open Door Coalition;x
+POT_fascist;Native Resurgence Group;x
 KKN;Kita Kaigan;x
 KKN_ADJ;Kaiganese;x
 KKN_absolute_monarchy;Kita Kaigan;;;;;;;;;;;;;
@@ -3241,3 +3246,27 @@ KKN_socialist;Shakaitou;Faction marxiste;Marxist Faction;;;;;;;;;;;
 KKN_anarcho_liberal;Ishin Seito Shimpu;;;;;;;;;;;;;
 KKN_communist;Kyousantou;Faction communiste;Kommunistische Fraktion;;;;;;;;;;;
 KKN_fascist;Enganbogyo;x
+XIN;Sinkiang;x
+XIN_ADJ;Sinkiangese;x
+WUN;Wu;x
+WUN_ADJ;Wun;x
+WUN_absolute_monarchy;Wun Empire;x
+WUN_prussian_constitutionalism;Wun Empire;;;;;;;;;;;;;
+WUN_hms_government;Wun Empire;;;;;;;;;;;;;
+X12_conservative;Partia Konserwatywna;x
+X12_reactionary;Koalicja Niepodleglosci;x
+X12_liberal;Reformatorzy;x
+X12_anarcho_liberal;Radykalowie;x
+X12_socialist;Progresywne;x
+X12_communist;Partii Komunistycznej;x
+X12_fascist;Kontrrewolucjonisci;x
+MXC;Mexico;x
+MXC_ADJ;Mexican;x
+MXC_absolute_monarchy;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
+MXC_prussian_constitutionalism;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
+MXC_hms_government;Empire of Mexico;Empire du Mexique;Mexikanisches Kaiserreich;;Imperio de México;;;;;;;;;x
+MXC_socialist;Partido Laborista Mexicano;;;;;;;;;;;;;
+MXC_communist;Partido Socialista Obrero;;;;;;;;;;;;;
+MXC_fascist;Unión Nacional Sinarquista;;;;;;;;;;;;;
+MTC;Mestizo Confederacy;x
+MTC_ADJ;Mestizan;x

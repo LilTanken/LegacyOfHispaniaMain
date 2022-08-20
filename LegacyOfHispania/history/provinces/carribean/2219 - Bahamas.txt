@@ -1,6 +1,7 @@
 owner=ATC
 controller=ATC
 add_core=ATC
+add_core=BHM
 trade_goods = cotton
 life_rating = 35
 terrain = new_world_plains

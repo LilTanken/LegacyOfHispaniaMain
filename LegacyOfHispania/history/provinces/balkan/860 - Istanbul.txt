@@ -5,3 +5,9 @@ add_core=BYZ
 trade_goods = fruit
 life_rating = 40
 naval_base = 1
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

@@ -1,5 +1,5 @@
 capital = 90
-primary_culture = mexican
+primary_culture = americano
 culture = sonoran
 culture = zzz_religion_catholic
 religion = catholic

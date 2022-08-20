@@ -1,6 +1,8 @@
 owner=X17
 controller=X17
 add_core=X17
+add_core=MNX
+add_core=XIN
 trade_goods = grain
-life_rating = 32
+life_rating = 25
 fort = 1

@@ -254,49 +254,49 @@
 
 	soldiers=
 	{
-		culture = penutian
+		culture = americano
 		religion = catholic
 		size= 21
 	}
 
 	artisans=
 	{
-		culture = penutian
+		culture = americano
 		religion = catholic
 		size= 92
 	}
 
 	clergymen=
 	{
-		culture = penutian
+		culture = americano
 		religion = catholic
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = penutian
+		culture = americano
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = penutian
+		culture = americano
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = penutian
+		culture = americano
 		religion = catholic
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = penutian
+		culture = americano
 		religion = catholic
 		size= 1902
 	}
@@ -368,49 +368,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 75
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 331
 	}
@@ -475,49 +475,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 9
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 152
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 7
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 9
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 675
 	}
@@ -763,21 +763,21 @@
 
 	artisans=
 	{
-		culture = na_dene
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = na_dene
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = na_dene
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
@@ -868,21 +868,21 @@
 
 	artisans=
 	{
-		culture = plains_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = plains_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 17
 	}
@@ -1017,49 +1017,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 13
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 65
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 1181
 	}
@@ -1145,49 +1145,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 13
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 63
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 10
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 1153
 	}
@@ -1410,70 +1410,70 @@
 
 	artisans=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 164
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 106
 	}
 
 	artisans=
 	{
-		culture = plains_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = plains_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = plains_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 31
 	}
 
 	clergymen=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 15
 	}
@@ -1524,70 +1524,70 @@
 
 	artisans=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 151
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 1236
 	}
 
 	artisans=
 	{
-		culture = plains_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = plains_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = plains_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 28
 	}
 
 	clergymen=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 11
 	}
 
 	bureaucrats=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 14
 	}
@@ -1738,7 +1738,7 @@
 
 	aristocrats=
 	{
-		culture = metis
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}
@@ -1910,49 +1910,49 @@
 
 	soldiers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 39
 	}
 
 	artisans=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 89
 	}
 
 	clergymen=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 15
 	}
 
 	bureaucrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = mexican
+		culture = americano
 		religion = catholic
 		size= 1138
 	}
@@ -2075,14 +2075,14 @@
 
 	clergymen=
 	{
-		culture = metis
+		culture = anglo_canadian
 		religion = protestant
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = metis
+		culture = anglo_canadian
 		religion = protestant
 		size= 50
 	}
@@ -2226,49 +2226,49 @@
 
 	soldiers=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 33
 	}
 
 	artisans=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 163
 	}
 
 	clergymen=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 30
 	}
 
 	farmers=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 584
 	}
@@ -2326,49 +2326,49 @@
 
 	soldiers=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 24
 	}
 
 	artisans=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 52
 	}
 
 	clergymen=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 1
 	}
 
 	officers=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = plains_algonquian
+		culture = americano
 		religion = catholic
 		size= 549
 	}
@@ -2454,49 +2454,49 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 49
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 247
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 54
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 799
 	}
@@ -2691,42 +2691,42 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = anglo_canadian
 		religion = catholic
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = anglo_canadian
 		religion = catholic
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = anglo_canadian
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = anglo_canadian
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = anglo_canadian
 		religion = catholic
 		size= 14
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = anglo_canadian
 		religion = catholic
 		size= 598
 	}
@@ -2877,49 +2877,49 @@
 
 	soldiers=
 	{
-		culture = dakota
+		culture = americano
 		religion = catholic
 		size= 15
 	}
 
 	artisans=
 	{
-		culture = dakota
+		culture = americano
 		religion = catholic
 		size= 78
 	}
 
 	clergymen=
 	{
-		culture = dakota
+		culture = americano
 		religion = catholic
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = dakota
+		culture = americano
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = dakota
+		culture = americano
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = dakota
+		culture = americano
 		religion = catholic
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = dakota
+		culture = americano
 		religion = catholic
 		size= 272
 	}
@@ -2954,49 +2954,49 @@
 
 	soldiers=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 17
 	}
 
 	artisans=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 84
 	}
 
 	clergymen=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 16
 	}
 
 	farmers=
 	{
-		culture = siouan
+		culture = anglo_canadian
 		religion = catholic
 		size= 292
 	}
@@ -3082,49 +3082,49 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 34
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 171
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 12
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 2
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 33
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 654
 	}
@@ -3182,42 +3182,42 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 9
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 431
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 52
 	}
@@ -3345,35 +3345,35 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 10
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 193
 	}
@@ -3452,14 +3452,14 @@
 
 	artisans=
 	{
-		culture = cree
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
@@ -3573,49 +3573,49 @@
 
 	soldiers=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 48
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 106
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 4
 	}
 
 	officers=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
+		culture = metis
 		religion = catholic
 		size= 1371
 	}
@@ -3680,49 +3680,49 @@
 
 	soldiers=
 	{
-		culture = cree
+		culture = metis
 		religion = catholic
 		size= 12
 	}
 
 	artisans=
 	{
-		culture = cree
+		culture = metis
 		religion = catholic
 		size= 61
 	}
 
 	clergymen=
 	{
-		culture = cree
+		culture = metis
 		religion = catholic
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = cree
+		culture = metis
 		religion = catholic
 		size= 1
 	}
 
 	officers=
 	{
-		culture = cree
+		culture = metis
 		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = cree
+		culture = metis
 		religion = catholic
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = metis
 		religion = catholic
 		size= 525
 	}
@@ -4013,35 +4013,35 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 16
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 17
 	}
@@ -4169,28 +4169,28 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
@@ -4325,49 +4325,49 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 10
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 95
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 55
 	}
@@ -4474,49 +4474,49 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 18
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 180
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 8
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 106
 	}
@@ -4623,49 +4623,49 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 337
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1040
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 48
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 7
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 4443
 	}
@@ -4828,49 +4828,49 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 372
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1080
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 16
 	}
 
 	officers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 64
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 5062
 	}
@@ -4956,49 +4956,49 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 592
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 4695
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 218
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 67
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 281
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 23756
 	}
@@ -5377,49 +5377,49 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 172
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 311
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 22
 	}
 
 	bureaucrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	officers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 29
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2516
 	}
@@ -5519,49 +5519,49 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 256
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2056
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 95
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 15
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 123
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 10230
 	}
@@ -5647,49 +5647,49 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2185
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1728
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 281
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 43
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 69
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 544
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 34168
 	}
@@ -5740,49 +5740,49 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 777
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 42
 	}
 
 	bureaucrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 11
 	}
 
 	officers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 47
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 4021
 	}
@@ -5880,49 +5880,49 @@
 
 	soldiers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 92
 	}
 
 	artisans=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 715
 	}
 
 	clergymen=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 38
 	}
 
 	bureaucrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 10
 	}
 
 	officers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 43
 	}
 
 	farmers=
 	{
-		culture = iroquoian
+		culture = anglo_canadian
 		religion = protestant
 		size= 3714
 	}
@@ -6080,35 +6080,35 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 115
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	bureaucrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 7
 	}
@@ -6269,7 +6269,7 @@
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 98
 	}
@@ -6313,35 +6313,35 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 26
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 140
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 9
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1150
 	}
@@ -6397,14 +6397,14 @@
 
 	bureaucrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 2
 	}
 
 	officers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
@@ -6599,35 +6599,35 @@
 
 	soldiers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 8
 	}
 
 	clergymen=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = eastern_algonquian
+		culture = anglo_canadian
 		religion = protestant
 		size= 62
 	}
@@ -7413,14 +7413,14 @@
 
 	artisans=
 	{
-		culture = cree
+		culture = anglo_canadian
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = cree
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}
@@ -7471,14 +7471,14 @@
 2595 = {
 	aristocrats=
 	{
-		culture = french_canadian
+		culture = anglo_canadian
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = cree
+		culture = anglo_canadian
 		religion = protestant
 		size= 5
 	}

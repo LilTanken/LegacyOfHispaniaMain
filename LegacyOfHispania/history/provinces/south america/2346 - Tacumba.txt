@@ -2,6 +2,7 @@ owner=LPL
 controller=LPL
 add_core=URU
 add_core=LPL
+add_core=BRZ
 trade_goods = fish
 life_rating = 35
 naval_base = 2

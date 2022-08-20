@@ -1,6 +1,5 @@
 capital = 2348
 primary_culture = platinean
-culture = south_andean
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship
@@ -21,13 +20,13 @@ school_reforms = no_schools
 
 # political reforms
 slavery=no_slavery
-vote_franschise=wealth_voting
-upper_house_composition=state_equal_weight
+vote_franschise=none_voting
+upper_house_composition=party_appointed
 voting_system=first_past_the_post
 public_meetings=no_meeting
 press_rights=state_press
 trade_unions=no_trade_unions
-political_parties=gerrymandering
+political_parties=underground_parties
 
 #HPM reforms
 serfdom = debtors_prisons
@@ -36,9 +35,9 @@ ruling_party = ARG_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
+	liberal = 0
+	conservative = 25
+	reactionary = 75
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

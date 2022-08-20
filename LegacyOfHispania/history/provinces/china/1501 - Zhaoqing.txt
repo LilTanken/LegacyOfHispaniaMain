@@ -1,5 +1,7 @@
 owner=CWU
 controller=CWU
 add_core=CWU
+add_core=MNX
+add_core=CHI
 trade_goods = fish
 life_rating = 32

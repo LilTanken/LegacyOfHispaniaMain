@@ -1,10 +1,10 @@
 capital = 2409
-primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
+primary_culture = afro_caribeno
+culture = zzz_religion_catholic
+religion = catholic
 government = democracy
 plurality = 0
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0
 
 civilized = yes
@@ -18,7 +18,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 # Political Reforms
-slavery=yes_slavery
+slavery=no_slavery
 vote_franschise=none_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
@@ -27,7 +27,7 @@ press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = ENG_liberal
+ruling_party = DOM_liberal
 upper_house = 
 {
 	fascist = 0

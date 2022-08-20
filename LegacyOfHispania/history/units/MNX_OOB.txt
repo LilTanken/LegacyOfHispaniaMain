@@ -249,7 +249,7 @@ IPR = {
 	level = 2
 }
 JAP = {
-	value = 24
+	value = 25
 	military_access = yes
 	level = 2
 }
@@ -306,7 +306,7 @@ LOU = {
 	level = 2
 }
 LSK = {
-	value = -33
+	value = 0
 	level = 2
 }
 MBA = {
@@ -775,45 +775,45 @@ navy = {
 }
 
 army = {
-	name="2nd Army"
+	name="Imperial Army"
 	location=1569
 	regiment = {
-		name="1st Laizhou Irregulars"
+		name="1st Laichow Irregulars"
 		type=irregular
 		home=1565
 	}
 	regiment = {
-		name="1st Macao Cavalry"
+		name="1st Macau Cavalry"
 		type=cavalry
 		home=1498
 	}
 	regiment = {
-		name="1st Laizhou Artillery"
+		name="1st Laichow Artillery"
 		type=artillery
 		home=1565
 	}
 	regiment = {
-		name="2nd Laizhou Irregulars"
+		name="2nd Laichow Irregulars"
 		type=irregular
 		home=1565
 	}
 	regiment = {
-		name="3rd Laizhou Irregulars"
+		name="3rd Laichow Irregulars"
 		type=irregular
 		home=1565
 	}
 	regiment = {
-		name="1st Laizhou Cavalry"
+		name="1st Laichow Cavalry"
 		type=cavalry
 		home=1565
 	}
 	regiment = {
-		name="2nd Laizhou Artillery"
+		name="2nd Laichow Artillery"
 		type=artillery
 		home=1565
 	}
 	regiment = {
-		name="1st Yizhou Artillery"
+		name="1st Yichow Artillery"
 		type=artillery
 		home=1571
 	}

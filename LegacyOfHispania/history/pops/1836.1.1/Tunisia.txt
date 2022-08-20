@@ -113,7 +113,7 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = andalucian
 		religion = catholic
 		size= 2711
 	}
@@ -283,7 +283,7 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = andalucian
 		religion = catholic
 		size= 1217
 	}
@@ -439,7 +439,7 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = andalucian
 		religion = catholic
 		size= 1728
 	}
@@ -623,7 +623,7 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = andalucian
 		religion = catholic
 		size= 6798
 	}
@@ -737,7 +737,7 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = andalucian
 		religion = catholic
 		size= 2532
 	}
@@ -851,7 +851,7 @@
 
 	slaves=
 	{
-		culture = afro_caribeno
+		culture = andalucian
 		religion = catholic
 		size= 2355
 	}

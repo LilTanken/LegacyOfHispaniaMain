@@ -40,6 +40,11 @@ ASM = {
 	value = 0
 	level = 2
 }
+AST = {
+	value = 200
+	military_access = yes
+	level = 5
+}
 AUK = {
 	value = 0
 	level = 2
@@ -740,7 +745,7 @@ leader = {
 
 leader = {
 	name="Roger Byron"
-	date="1753.5.25"
+	date="1835.12.31"
 	type=sea
 	personality="unflinching"
 	background="cavalry_school"
@@ -756,7 +761,7 @@ leader = {
 
 leader = {
 	name="Henry Davis"
-	date="1755.1.21"
+	date="1835.9.24"
 	type=land
 	personality="au_fait"
 	background="cavalry_school"
@@ -796,7 +801,7 @@ leader = {
 
 leader = {
 	name="Alexander Drake"
-	date="1759.6.26"
+	date="1834.9.17"
 	type=sea
 	personality="resolute"
 	background="artillerist"
@@ -1483,23 +1488,23 @@ navy = {
 	name="Royal Navy"
 	location=2748
 	ship = {
-		name="Royal Sovereign"
+		name="HMS Royal Sovereign"
 		type=manowar
 	}
 	ship = {
-		name="Prince of Wales"
+		name="HMS Prince of Wales"
 		type=manowar
 	}
 	ship = {
-		name="Queen"
+		name="HMS Queen"
 		type=manowar
 	}
 	ship = {
-		name="Victoria"
+		name="HMS Victoria"
 		type=manowar
 	}
 	ship = {
-		name="Frederick William"
+		name="HMS Frederick William"
 		type=manowar
 	}
 	ship = {
@@ -1507,15 +1512,15 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Albion"
+		name="HMS Albion"
 		type=manowar
 	}
 	ship = {
-		name="Aboukir"
+		name="HMS Aboukir"
 		type=manowar
 	}
 	ship = {
-		name="Exmouth"
+		name="HMS Exmouth"
 		type=manowar
 	}
 	ship = {
@@ -1523,91 +1528,91 @@ navy = {
 		type=manowar
 	}
 	ship = {
-		name="Hannibal"
+		name="HMS Hannibal"
 		type=manowar
 	}
 	ship = {
-		name="Princess Royal"
+		name="HMS Princess Royal"
 		type=manowar
 	}
 	ship = {
-		name="Caesar"
+		name="HMS Caesar"
 		type=manowar
 	}
 	ship = {
-		name="Vanguard"
+		name="HMS Vanguard"
 		type=manowar
 	}
 	ship = {
-		name="Goliath"
+		name="HMS Goliath"
 		type=manowar
 	}
 	ship = {
-		name="Suberb"
+		name="HMS Suberb"
 		type=manowar
 	}
 	ship = {
-		name="Meeanee"
+		name="HMS Meeanee"
 		type=manowar
 	}
 	ship = {
-		name="Collingwood"
+		name="HMS Collingwood"
 		type=manowar
 	}
 	ship = {
-		name="Centurion"
+		name="HMS Centurion"
 		type=manowar
 	}
 	ship = {
-		name="Mars"
+		name="HMS Mars"
 		type=manowar
 	}
 	ship = {
-		name="Lion"
+		name="HMS Lion"
 		type=manowar
 	}
 	ship = {
-		name="Majestic"
+		name="HMS Majestic"
 		type=manowar
 	}
 	ship = {
-		name="Colossus"
+		name="HMS Colossus"
 		type=manowar
 	}
 	ship = {
-		name="Irresistible"
+		name="HMS Irresistible"
 		type=manowar
 	}
 	ship = {
-		name="Brunswick"
+		name="HMS Brunswick"
 		type=manowar
 	}
 	ship = {
-		name="Orion"
+		name="HMS Orion"
 		type=manowar
 	}
 	ship = {
-		name="Hood"
+		name="HMS Hood"
 		type=manowar
 	}
 	ship = {
-		name="Edgar"
+		name="HMS Edgar"
 		type=manowar
 	}
 	ship = {
-		name="Sans Pareil"
+		name="HMS Sans Pareil"
 		type=manowar
 	}
 	ship = {
-		name="Boscawen"
+		name="HMS Boscawen"
 		type=manowar
 	}
 	ship = {
-		name="Cumberland"
+		name="HMS Cumberland"
 		type=manowar
 	}
 	ship = {
-		name="1st Chelmsford Man'o'war"
+		name="HMS Victory"
 		type=manowar
 	}
 	ship = {
@@ -2289,23 +2294,23 @@ navy = {
 	name="4th Fleet"
 	location=2746
 	ship = {
-		name="Dauntless"
+		name="HMS Dauntless"
 		type=frigate
 	}
 	ship = {
-		name="Vigilant"
+		name="HMS Vigilant"
 		type=frigate
 	}
 	ship = {
-		name="Termagant"
+		name="HMS Termagant"
 		type=frigate
 	}
 	ship = {
-		name="Euphrates"
+		name="HMS Euphrates"
 		type=frigate
 	}
 	ship = {
-		name="Tribune"
+		name="HMS Tribune"
 		type=frigate
 	}
 	ship = {

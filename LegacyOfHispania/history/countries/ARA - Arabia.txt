@@ -1,6 +1,8 @@
 capital = 1153
 primary_culture = bedouin
 culture = mashriqi
+culture = dynamic-bedouin_arabic-culture-num1
+culture = assyrian
 culture = zzz_religion_kharijite
 religion = kharijite
 government = absolute_monarchy
@@ -47,10 +49,11 @@ nonstate_consciousness= 0.00392
 # Technologies
 flintlock_rifles = 1
 post_napoleonic_thought = 1
+bronze_muzzle_loaded_artillery = 1
 land_reform=yes_land_reform
 admin_reform=yes_admin_reform
 finance_reform=no_finance_reform
-education_reform=no_education_reform
+education_reform=yes_education_reform
 transport_improv=no_transport_improv
 pre_indust=no_pre_indust
 industrial_construction=no_industrial_construction
@@ -67,3 +70,4 @@ oob = "ARA_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_ARA
 set_country_flag = eu4_country_ARB
+set_country_flag = kharijite_country

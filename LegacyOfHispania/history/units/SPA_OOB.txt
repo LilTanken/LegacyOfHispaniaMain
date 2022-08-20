@@ -827,7 +827,7 @@ leader = {
 
 leader = {
 	name="Remón Nuñez de Balboa"
-	date="1760.12.24"
+	date="1835.10.24"
 	type=land
 	personality="efficient"
 	background="cavalry_school"

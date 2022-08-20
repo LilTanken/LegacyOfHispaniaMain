@@ -1,4 +1,4 @@
-name = "Japanese-Manchurian Imperialist War"
+name = "Japanese Invasion of Manchuria"
 
 1830.1.2 = {
 	add_attacker = JAP

@@ -2,7 +2,6 @@ owner=SIA
 controller=SIA
 add_core=BUR
 add_core=AVA
-add_core=IDO
 add_core=MNI
 add_core=SHA
 add_core=SIA

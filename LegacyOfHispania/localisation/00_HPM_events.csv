@@ -3117,7 +3117,7 @@ EVTDESC90120;Three Filipino priests have been executed in the Manila, charged wi
 EVT90120OPTA;Allow it to exist;;;;;;;;;;;;;
 EVT90120OPTB;We cannot let the seeds of revolution grow;;;;;;;;;;;;;
 EVTNAME90125;The Katipunan;;;;;;;;;;;;;
-EVTDESC90125;We have received reports from colonial officers in Manila regarding rumors of a secret organization called the 'Katipunan'. Formed by anti-$COUNTRY_ADJ$ Filipinos, they reportedly seek complete independence for the Philippines. It's possible that limited home rule might mollify some of these revolutionaries, but nothing short of freedom will satisfy them for long. Tracking them down among sympathetic locals may prove difficult.;;;;;;;;;;;;;
+EVTDESC90125;We have received reports from colonial officers in Manira regarding rumors of a secret organization called the 'Katipunan'. Formed by anti-$COUNTRY_ADJ$ Mayians, they reportedly seek complete independence for Mayi. It's possible that limited home rule might mollify some of these revolutionaries, but nothing short of freedom will satisfy them for long. Tracking them down among sympathetic locals may prove difficult.;;;;;;;;;;;;;
 EVT90125OPTA;Find the rebels and crush them.;;;;;;;;;;;;;
 EVT90125OPTB;Give the Philippines home rule.;;;;;;;;;;;;;
 EVT90125OPTC;Give them what they want;;;;;;;;;;;;;
@@ -5195,8 +5195,8 @@ EVTNAME131743;War with $FROMCOUNTRY$!;;;;;;;;;;;;;
 EVTDESC131743;We have received reports that the $FROMCOUNTRY_ADJ$ army is massing on our mutual border, ready to make a massive offensive into $COUNTRY_ADJ$ territory. It seems a war is upon us, whether we like it or not: either they destroy us or we destroy them.;;;;;;;;;;;;;
 EVTNAME131745;Chinese Reunification;;;;;;;;;;;;;
 EVTDESC131745;The call has come from the capital: the era of warlords is over, and all the Chinese peoples must unite under a single flag. This means $COUNTRY$ must either submit to Beijing's rule or face more war against a strong and unified foe. Your generals stand ready to receive your command.;;;;;;;;;;;;;
-EVTNAME131746;The Island of Formosa;;;;;;;;;;;;;
-EVTDESC131746;Now that we own the island of Formosa, the local Min population has begun to organize itself -- presumably towards the end of breaking away from $COUNTRY_ADJ$ control.;;;;;;;;;;;;;
+EVTNAME131746;The Island of Taiwan;;;;;;;;;;;;;
+EVTDESC131746;The island of Taiwan, a large island off the coast of China, was the first colony of the Empire of Japan. First settled sometime in the 16th century by Japanese merchants and sailors, the island has since become an integral part of Japan, with the native Taiyaru population largely pacified or driven into the Ta-shan mountain range. At least, that's how it had been going before reports of organised native militias and gangs began to spring up, challenging authority and intimidating locals -- presumably towards the end of breaking away from $COUNTRY_ADJ$ control.;;;;;;;;;;;;;
 EVTNAME1316089;The $FROMCOUNTRY_ADJ$ Victory;;;;;;;;;;;;;
 EVTDESC1316089;$FROMCOUNTRY$ has won its war against us. Now their generals walk into $CAPITAL$, gloating with their superiority. It seems that, should they force us to the negotiating table to demand yet more concessions, we will have little choice but to comply.;;;;;;;;;;;;;
 EVTNAME1316090;The Treaty of Shimonoseki;;;;;;;;;;;;;
@@ -5300,3 +5300,9 @@ EVTOPT31320B;Let them decide themselves.;;;;;;;;;;;;;
 EVTDESC31321;With the Great War finally over a referendum was held recently by the people of Vorarlberg proposing to join the Swiss Confederation and the overwhelming majority voted in favour. The people of Vorarlberg are similar to us and have always considered themselves different from their east German masters. While they wish to join our confederation some of our own people are concerned. Vorarlberg is a German speaking Catholic region and our non German speaking citizens fear that an incorporation of such a large area would cause problems while the Protestants aren't very enthusiastic. However a choice must be made. Should Vorarlberg join the Confederation?;;;;;;;;;;;;;
 EVTOPT31321A;The people of Vorarlberg voted to join our Confederation and so they will.;;;;;;;;;;;;;
 EVTOPT31321B;Perhaps it would be better to not let them join.;;;;;;;;;;;;;
+EVTNAME890141;Unrest in Mayi;x
+EVTDESC890141;Reports of organised resistance forming in our crown colony, the islands of Mayi, have reached the desks of our politicians. Mere days ago, an incident occurred within the port settlement of Taguroku between a crowd of native Mayian protestors and the small military detachment posted in the area. The protestors, numbering around 400 and accompanied by at least a thousand more onlookers, claimed that several men from our military garrison had been "illegally confiscating extra rice and livestock" during the collection of taxes. The situation grew tense, and though it is unknown what instigated it, our soldiers fired into the crowd, killing or wounding upwards of 50 people. The incident has sparked outrage among the native populace of Mayi, and rumours of open rebellion against Japanese rule spread like wildfire.;x
+EVTOPT890141A;The Mayians are Japanese. They will realise their mistake soon.;x
+EVTNAME314012;Couriers Killed;x
+EVTDESC314012;The Delhian horde to the north has long proved a thorn in the side of the East India Company, yet this time they bit off far more than they could possibly hope to chew. Yesterday morning, reports state that a band of Delhian thugs seized a British arms shipment bound for Bombay before turning the arsenal on the poor couriers, whom were promptly slain. These events, known to the public as the 'Nagpur Incident', has given us an excuse to dispatch a native army corps to punish Delhi.;x
+EVTOPT314012A;Onwards, to Delhi!;x

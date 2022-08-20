@@ -1,7 +1,7 @@
 owner=LNA
-controller=SIA
-add_core=IDO
+controller=LNA
 add_core=LNA
+add_core=IDO
 add_core=SIA
 trade_goods = opium
 life_rating = 32

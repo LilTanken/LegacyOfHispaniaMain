@@ -1,6 +1,5 @@
 capital = 139
-primary_culture = mexican
-culture = americano
+primary_culture = americano
 culture = zzz_religion_catholic
 religion = catholic
 government = democracy

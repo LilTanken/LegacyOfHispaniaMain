@@ -19,7 +19,13 @@ country_event = {
 
 
     trigger = {
-        tag = QNG
+		tag = MNX
+		1616 = {
+			owned_by = THIS
+		} #Peking
+		1565 = {
+			owned_by = THIS
+		} #Laichow
         NOT = { has_global_flag = taiping_has_happened }
         has_global_flag = hong
         has_global_flag = yang
@@ -482,7 +488,7 @@ country_event = {
 
     trigger = {
         has_global_flag = taiping_has_happened
-        tag = QNG
+		tag = MNX
         NOT = { exists = TPG }
         NOT = { has_global_flag = taiping_has_been_defeated }
     }
@@ -544,7 +550,7 @@ country_event = {
 
     trigger = {
         has_global_flag = taiping_has_happened
-        tag = QNG
+		tag = MNX
         exists = TPG
         truce_with = TPG
     }
@@ -595,8 +601,8 @@ country_event = {
     trigger = {
         has_global_flag = taiping_has_happened
         tag = TPG
-        exists = QNG
-        truce_with = QNG
+		tag = MNX
+        truce_with = MNX
     }
 
     mean_time_to_happen = {
@@ -639,7 +645,7 @@ country_event = {
     picture = "taiping_attack"
 
     trigger = {
-        tag = QNG
+		tag = MNX
         war = no
         has_global_flag = truce_with_taiping
         exists = TPG
@@ -677,14 +683,14 @@ country_event = {
         random_country = {
             limit = {
                 is_sphere_leader_of = TPG
-                is_sphere_leader_of = QNG
+                is_sphere_leader_of = MNX
             }
             diplomatic_influence = { who = THIS value = -100 }
         }
         random_country = {
             limit = {
                 tag = TPG
-                is_sphere_leader_of = QNG
+                is_sphere_leader_of = MNX
             }
             diplomatic_influence = { who = THIS value = -100 }
         }
@@ -733,7 +739,7 @@ country_event = {
         tag = TPG
         war = no
         has_global_flag = truce_with_taiping
-        exists = QNG
+        exists = MNX
         NOT = {
             num_of_revolts = 1
         }
@@ -743,11 +749,11 @@ country_event = {
         months = 12
         modifier = {
             factor = 2
-            QNG = { brigades_compare = 1 }
+            MNX = { brigades_compare = 1 }
         }
         modifier = {
             factor = 2
-            QNG = { brigades_compare = 2 }
+            MNX = { brigades_compare = 2 }
         }
     }
 
@@ -765,19 +771,19 @@ country_event = {
         random_country = {
             limit = {
                 is_sphere_leader_of = TPG
-                is_sphere_leader_of = QNG
+                is_sphere_leader_of = MNX
             }
             diplomatic_influence = { who = THIS value = -100 }
         }
         random_country = {
             limit = {
-                tag = QNG
+                tag = MNX
                 is_sphere_leader_of = TPG
             }
             diplomatic_influence = { who = THIS value = -100 }
         }
         war = {
-            target = QNG
+            target = MNX
             attacker_goal = {
                 casus_belli = civil_war
             }
@@ -824,7 +830,7 @@ country_event = {
     trigger = {
         has_global_flag = taiping_has_happened
         tag = TPG
-        NOT = { exists = QNG }
+        NOT = { exists = MNX }
         NOT = { has_global_flag = taiping_victorious }
     }
 
@@ -861,8 +867,8 @@ country_event = {
             remove_core = CHI
             remove_core = TPG
         }
-        QNG = {
-            all_core = { remove_core = QNG }
+        MNX = {
+            all_core = { remove_core = MNX }
         }
         random_country = {
             limit = {
@@ -949,7 +955,7 @@ country_event = {
 
     trigger = {
         OR = {
-            tag = QNG
+            tag = MNX
             tag = TPG
         }
         NOT = {
@@ -982,13 +988,13 @@ province_event = {
     trigger = {
         owner = {
             has_country_flag = heavenly_kingdom
-            tag = QNG
+            tag = MNX
         }
         is_core = CHI
-        controlled_by = QNG
+        controlled_by = MNX
         any_neighbor_province = { is_core = TPG }
         NOT = {
-            is_core = QNG
+            is_core = MNX
             is_core = TPG
             has_province_modifier = christian_pamphlets
             has_province_modifier = christian_repression
@@ -1095,13 +1101,13 @@ province_event = {
     trigger = {
         owner = {
             has_country_flag = heavenly_kingdom
-            tag = QNG
+			tag = MNX
         }
         is_core = CHI
-        controlled_by = QNG
+        controlled_by = MNX
         any_neighbor_province = { is_core = TPG }
         NOT = {
-            is_core = QNG
+            is_core = MNX
             is_core = TPG
             has_province_modifier = anti_manchu_sentiment
             has_global_flag = taiping_has_happened
@@ -1186,7 +1192,7 @@ country_event = {
     picture = "hong_xiuquan"
 
     trigger = {
-        tag = QNG
+        tag = MNX
         year = 1840
         has_country_flag = heavenly_kingdom
         NOT = { has_global_flag = hong }
@@ -1239,7 +1245,7 @@ country_event = {
     picture = "yang_xiuqing"
 
     trigger = {
-        tag = QNG
+        tag = MNX
         year = 1845
         has_country_flag = heavenly_kingdom
         has_global_flag = hong
@@ -1306,7 +1312,7 @@ province_event = {
     desc = "EVTDESC160017"
 
     trigger = {
-        owner = { tag = QNG }
+        owner = { tag = MNX }
         is_core = TPG
         NOT = {
             has_global_flag = taiping_has_happened
@@ -1380,13 +1386,13 @@ province_event = {
 
     trigger = {
         owner = {
-            tag = QNG
+            tag = MNX
             has_country_flag = heavenly_kingdom
             NOT = { has_global_flag = taiping_has_happened }
         }
         NOT = {
             is_core = TPG
-            is_core = QNG
+            is_core = MNX
             is_core = TIB
             is_core = XBI
             is_core = MGL
@@ -1678,7 +1684,7 @@ country_event = {
             factor = 30
             modifier = {
                 factor = 0.5
-                QNG = { exists = no }
+                MNX = { exists = no }
             }
         }
     }
@@ -1736,7 +1742,7 @@ country_event = {
             factor = 20
             modifier = {
                 factor = 0
-                QNG = { exists = no }
+                MNX = { exists = no }
             }
         }
     }
