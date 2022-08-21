@@ -1712,49 +1712,49 @@
 
 	soldiers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 205
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 2823
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 262
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 40
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 169
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 6706
 	}
@@ -1905,49 +1905,49 @@
 
 	soldiers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 12070
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 16011
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 5204
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 720
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 841
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 5043
 	}
 
 	farmers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 152763
 	}
@@ -2850,7 +2850,7 @@
 
 	farmers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 3906
 	}
@@ -2864,42 +2864,42 @@
 
 	soldiers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 385
 	}
 
 	artisans=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 2170
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 201
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 129
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 23
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 33
 	}
@@ -3013,7 +3013,7 @@
 
 	farmers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 1578
 	}
@@ -3027,42 +3027,42 @@
 
 	artisans=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 943
 	}
 
 	clergymen=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 87
 	}
 
 	aristocrats=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 56
 	}
 
 	officers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 13
 	}
 
 	bureaucrats=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 9
 	}
 
 	soldiers=
 	{
-		culture = catalan
+		culture = sureno
 		religion = catholic
 		size= 167
 	}

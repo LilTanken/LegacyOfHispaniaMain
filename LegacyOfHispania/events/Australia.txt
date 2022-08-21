@@ -1,0 +1,82 @@
+#############################################################
+#                                                           #
+#                      Australian Bush                      #
+#                                                           #
+#############################################################
+
+country_event = {
+	id = 801436
+	title = "EVTNAME801436"
+	desc = "EVTDESC801436"
+	picture = "BurkeandWills"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = AST
+		year = 1841
+		OR = {
+            AND = {
+                owns = 2476 #Melbourne
+                2490 = { empty = yes } #Charleville
+            }
+            AND = {
+                owns = 2468 #Sydney
+                2475 = { empty = yes } #Broken Hill
+            }
+			AND = {
+                owns = 2468 #Sydney
+                2489 = { empty = yes } #Longreach
+            }
+			AND = {
+                owns = 2468 #Sydney
+                2603 = { empty = yes } #Tanami
+            }
+			AND = {
+                owns = 2468 #Sydney
+                2507 = { empty = yes } #Mparntwe
+            }
+			AND = {
+                owns = 2468 #Sydney
+                2601 = { empty = yes } #Wilkinkarra
+            }
+			AND = {
+                owns = 2468 #Sydney
+                2605 = { empty = yes } #Gibberish west Australia
+            }
+			AND = {
+                owns = 2468 #Sydney
+                2503 = { empty = yes } #Wiluna
+            }
+			AND = {
+                owns = 2468 #Sydney
+                2500 = { empty = yes } #Kalgoorlie
+            }
+			AND = {
+                owns = 2468 #Sydney
+                2495 = { empty = yes } #Tirari
+            }
+        }
+	}
+
+    mean_time_to_happen = { months = 12 }
+
+	option = {
+		name = "EVTOPT801436A"
+		random_owned = {
+			limit = {
+				2475 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2475 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2490 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2489 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2495 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2507 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2603 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2601 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2605 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2503 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+				2500 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			}
+        }
+	}
+}

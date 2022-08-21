@@ -880,8 +880,6 @@ the_ruhr_boom = {
             set_global_flag = ruhr_boom_has_happened
         }
     }
-	
-
 
 install_pryenia_government = {
         picture = native_removal_act
@@ -932,22 +930,29 @@ install_pryenia_government = {
 
     }
 
+espiritu_penal_colony = {
+        picture = FRA_devils_island
+        potential = {
+            OR = {
+                tag = SPA
+				tag = SPC
+            }
+            owns = 2535
+            NOT = { has_global_flag = espiritu_banish }
+        }
 
+        allow = {
+            war = no
+        }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        effect = {
+			set_global_flag = espiritu_banish
+			political_reform = colonial_transportation
+			any_owned = {
+                limit = { province_id = 2535 }
+            add_province_modifier = { name = penal_colony duration = -1 }
+			}
+        }
+    }
 
 }
