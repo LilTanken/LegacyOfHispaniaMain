@@ -52,49 +52,49 @@
 	{
 		culture = australian
 		religion = protestant
-		size= 7233
+		size= 7272
 	}
 
 	artisans=
 	{
 		culture = australian
 		religion = protestant
-		size= 1960
+		size= 2283
 	}
 
 	clergymen=
 	{
 		culture = australian
 		religion = protestant
-		size= 91
+		size= 106
 	}
 
 	bureaucrats=
 	{
 		culture = australian
 		religion = protestant
-		size= 25
+		size= 27
 	}
 
 	officers=
 	{
 		culture = australian
 		religion = protestant
-		size= 11
+		size= 12
 	}
 
 	aristocrats=
 	{
 		culture = australian
 		religion = protestant
-		size= 118
+		size= 137
 	}
 
 	farmers=
 	{
 		culture = australian
 		religion = protestant
-		size= 2427
+		size= 3986
 	}
 
 	soldiers=

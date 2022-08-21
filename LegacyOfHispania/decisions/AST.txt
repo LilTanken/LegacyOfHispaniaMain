@@ -1,0 +1,33 @@
+political_decisions = {
+	chester_proclamation = {
+		picture = papua_act
+		potential = {
+			tag = AST
+			state_n_government = 1
+			AST_2528 = { empty = yes }
+			AST = { vassal_of = ENG }
+			year = 1877
+			NOT = { year = 1900 }
+			NOT = { has_country_flag = ast_guinea_colony }
+		}
+		allow = {
+			AST_2528 = { empty = yes }
+			nationalism_n_imperialism = 1
+			year = 1880
+			war = no
+		}
+		effect = {
+			set_country_flag = ast_guinea_colony
+			prestige = 5
+			badboy = 1
+			2528 = {
+                secede_province = AST
+                naval_base = 1
+            }
+			2529 = { secede_province = AST }
+		}
+		ai_will_do = {
+				factor = 1
+		}
+	}
+}

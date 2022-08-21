@@ -5306,3 +5306,8 @@ EVTOPT890141A;The Mayians are Japanese. They will realise their mistake soon.;x
 EVTNAME314012;Couriers Killed;x
 EVTDESC314012;The Delhian horde to the north has long proved a thorn in the side of the East India Company, yet this time they bit off far more than they could possibly hope to chew. Yesterday morning, reports state that a band of Delhian thugs seized a British arms shipment bound for Bombay before turning the arsenal on the poor couriers, whom were promptly slain. These events, known to the public as the 'Nagpur Incident', has given us an excuse to dispatch a native army corps to punish Delhi.;x
 EVTOPT314012A;Onwards, to Delhi!;x
+EVTNAME37201;Arco de Triunfo;x
+EVTDESC37201;The Arco de Triunfo in Zaragoza, commissioned by Garcia Dávíla himself, was unveiled in $YEAR$ after over fifty years of difficult and sometimes delayed construction. Inspired by the triumphal arches of the Romans, the monument displays scenes from the Hispanian Revolutionary war and Garcia's successes.;x
+EVTNAME801436;Annexation of the Interior;x
+EVTDESC801436;The Australian hinterland, known colloquially as "the bush", is a mysterious and dangerous place. Men the world over come to our shores seeking to put to paper the secrets that the outback holds, and thus far, many have either not returned or come back defeated by Mother Nature. However, these expeditions were not without purpose - we may use the wide array of independent expedition findings to lay claim over the hinterland once and for all - even if the geography of it evades us.;x
+EVTOPT801436A;About time we tamed the bush!;x
