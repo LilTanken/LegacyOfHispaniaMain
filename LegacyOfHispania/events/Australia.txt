@@ -14,7 +14,7 @@ country_event = {
 	
 	trigger = {
 		tag = AST
-		year = 1841
+		year = 1839
 		OR = {
             AND = {
                 owns = 2476 #Melbourne
