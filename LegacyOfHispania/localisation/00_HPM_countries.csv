@@ -210,6 +210,7 @@ HOL_socialist_3;Sociaal Democratische Arbeiders Partij;;;;;;;;;;;;;
 HOL_fascist;Verbond Van Actualisten;;;;;;;;;;;;;
 POR_socialist;Partido Socialista Português;;;;;;;;;;;;;
 POR_communist;Partido Comunista Português;;;;;;;;;;;;;
+RUS_fascist;All-Russian Fascist Party;;;;;;;;;;;;;
 SER_reactionary;Nacionalna Stranka;;;;;;;;;;;;;
 SER_communist;Srpska Socijaldemokratska Partija;;;;;;;;;;;;;
 SER_fascist;Narodna Odbrana;;;;;;;;;;;;;
@@ -264,18 +265,19 @@ FRO_socialist;Javnaðarflokkurin;;;;;;;;;;;;;
 FRO_anarcho_liberal;Vinnuflokkurin;;;;;;;;;;;;;
 FRO_communist;Kommunistiski Flokkur Føroya;;;;;;;;;;;;;
 FRO_fascist;Loysingarflokkurin;;;;;;;;;;;;;
+RUS_proletarian_dictatorship;The Soviet Union;;;;;;;;;;;;;
 NEH;Neuchatel;;;;;;;;;;;;;
 NEH_ADJ;Neuchateli;;;;;;;;;;;;;
-UBD_conservative;Traditionalists;;;;;;;;;;;x
-UBD_conservative_2;Wendish Party;;;;;;;;;;;x
-UBD_liberal;Liberals;;;;;;;;;;;x
-UBD_liberal_2;New Reformists;;;;;;;;;;;x
-UBD_reactionary;Pan-Ducal;;;;;;;;;;;x
-UBD_anarcho_liberals;Anarcho-Liberals;;;;;;;;;;;x
-UBD_socialist;Baltic Socialists;;;;;;;;;;;x
-UBD_socialist_2;Balto-Populists;;;;;;;;;;;x
-UBD_communist;Bolsheviks;;;;;;;;;;;x
-UBD_fascist;Radical Patriarchate;;;;;;;;;;;x
+UBD_fascist;Baltic Fascist Union;;;;;;;;;;;;;
+UBD_communist;Baltic Communist Party;;;;;;;;;;;;;
+UBD_socialist;Union of Baltic Workers and Socialists;;;;;;;;;;;;;
+UBD_socialist_2;Baltic Labour Party;;;;;;;;;;;;;
+UBD_anarcho_liberals;Radical Party;;;;;;;;;;;;;
+UBD_liberal_2;The All-Baltic Landtag;;;;;;;;;;;;;
+UBD_liberal;Progressive Union;;;;;;;;;;;;;
+UBD_conservative_2;Union of Landowners and Farmers;;;;;;;;;;;;;
+UBD_reactionary;Royalist Faction;;;;;;;;;;;;;
+UBD_conservative;German Landtag;;;;;;;;;;;;;
 EST_fascist;Vabadussõjalased;;;;;;;;;;;;;
 EST_communist;Eestimaa Kommunistlik Partei;;;;;;;;;;;;;
 EST_socialist;Eesti Sotsialistlik Tööliste Partei;;;;;;;;;;;;;

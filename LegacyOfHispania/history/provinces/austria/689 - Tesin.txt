@@ -2,7 +2,6 @@ owner=X12
 controller=X12
 add_core=SLV
 add_core=WSF
-add_core=POL
 add_core=X12
 trade_goods = coal
 life_rating = 35

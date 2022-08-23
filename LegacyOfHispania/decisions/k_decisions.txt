@@ -1,4 +1,4 @@
-political_decisions = {
+ political_decisions = {
 	#Establishes cores for a South Baltic Dutchy
 	liberate_south_baltic = {
 		picture = south_baltic
@@ -44,7 +44,7 @@ political_decisions = {
 		ai_will_do = {factor = 1
 		}
 	}
-
+	
 	#Southern expansion 1
 	rus_southern_expansion1 = {
 		picture = southern_expansion
@@ -254,7 +254,7 @@ political_decisions = {
 			set_global_flag = eastern_expansion1
 		}
 	}
-	#Establishes cores for a South Baltic Dutchy
+	#Intergrates Finland
 	intergration_finland = {
 		picture = finland
 		potential = {
@@ -295,4 +295,285 @@ political_decisions = {
 		ai_will_do = {factor = 1
 		}
 	}
+	}
+	}
+	}
+	#Westslavia formation
+	unite_westslavia = {
+		picture = finland
+        potential = {
+            is_culture_group = polish_culture_group
+            NOT = { exists = WSF }
+            NOT = { has_global_flag = west_slavia }
+        }
+        allow = {
+            war = no
+            is_vassal = no
+            prestige = 30
+            nationalism_n_imperialism = 1
+            706 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+            625 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+            558 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+			549 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+			690 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+        }
+		effect = {
+			prestige = 30
+			change_tag = WSF
+			add_accepted_culture = polish
+			add_accepted_culture = western_slavic
+			add_accepted_culture = slovak
+			add_accepted_culture = oldpommeranian
+			add_accepted_culture = czech
+            POL = { all_core = { add_core = WSF } }
+            X12 = { all_core = { add_core = WSF } }
+            LUZ = { all_core = { add_core = WSF } }
+            POM = { all_core = { add_core = WSF } }
+            SLV = { all_core = { add_core = WSF } }
+			CZE = { all_core = { add_core = WSF } }
+			PML = { all_core = { add_core = WSF } }
+			set_global_flag = west_slavia
+		}
+		ai_will_do = {factor = 1
+		}
+	}
+	
+	#create west slavia
+	    create_westslavia = {
+        picture = finland
+        potential = {
+            NOT = {
+                exists = WSF
+                is_culture_group = polish_culture_group
+                has_global_flag = west_slavia
+            }
+            OR = {
+                tag = RUS
+                any_owned_province = { is_core = X12 }
+                is_sphere_leader_of = X12
+                is_sphere_leader_of = POL
+                is_sphere_leader_of = LUZ
+                is_sphere_leader_of = CZE
+                is_sphere_leader_of = SLV
+                is_sphere_leader_of = PML
+            }
+        }
+        allow = {
+            war = no
+            is_greater_power = yes
+            706 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+            625 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+            558 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+			549 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+			690 = {
+                owner = {
+                    OR = {
+                        tag = THIS
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                    OR = {
+                        is_vassal = no
+                        vassal_of = THIS
+                    }
+                    NOT = { truce_with = THIS }
+                    war = no
+                }
+            }
+        }
+        effect = {
+            set_global_flag = west_slavia
+            prestige = 20
+            badboy = 2
+            POL = { all_core = { add_core = WSF } }
+            X12 = { all_core = { add_core = WSF } }
+            LUZ = { all_core = { add_core = WSF } }
+            POM = { all_core = { add_core = WSF } }
+            SLV = { all_core = { add_core = WSF } }
+			CZE = { all_core = { add_core = WSF } }
+			PML = { all_core = { add_core = WSF } }
+            any_country = {
+                limit = {
+                    OR = {
+                        tag = POL
+                        tag = X12
+                        tag = LUZ
+                        tag = POM
+                        tag = SLV
+                        tag = CZE
+						tag = PML
+                    }
+                    ai = yes
+                    in_sphere = THIS
+                }
+                annex_to = THIS
+            }
+            any_country = {
+                limit = {
+                    NOT = { is_culture_group = polish_culture_group }
+                    in_sphere = THIS
+                    war = no
+                    any_owned_province = {
+                        OR = {
+                            is_core = POL
+                            is_core = SLV
+                            is_core = X12
+                        }
+                    }
+                }
+                any_owned = {
+                    limit = {
+                        OR = {
+                            is_core = POL
+                            is_core = SLV
+                            is_core = X12
+                        }
+                    }
+                    secede_province = THIS
+                }
+            }
+            any_owned = {
+                limit = {
+                    is_core = THIS
+                    is_core = WSF
+                }
+                remove_core = WSF
+            }
+            release_vassal = WSF
+            create_alliance = WSF
+            diplomatic_influence = {
+                who = WSF
+                value = 400
+            }
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
 }

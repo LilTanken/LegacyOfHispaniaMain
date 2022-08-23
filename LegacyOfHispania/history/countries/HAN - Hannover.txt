@@ -1,10 +1,12 @@
 capital = 534
-primary_culture = north_german
-culture = zzz_religion_protestant
-religion = protestant
+primary_culture = dynamic-saxon-culture-num1
+culture = north_german
+culture = dynamic-franconian-sorbian-culture-num1
+culture = zzz_religion_catholic
+religion = catholic
 government = absolute_monarchy
 plurality = 0
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0
 
 civilized = yes

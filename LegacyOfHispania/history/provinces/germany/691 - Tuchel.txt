@@ -3,5 +3,6 @@ controller=X12
 add_core=X12
 add_core=POM
 add_core=PRU
+add_core=WSF
 trade_goods = cattle
 life_rating = 40

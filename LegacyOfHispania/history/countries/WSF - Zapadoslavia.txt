@@ -1,7 +1,11 @@
-capital = 706
+capital = 635
 primary_culture = polish
-culture = zzz_religion_shamanist
-religion = shamanist
+culture = western_slavic
+culture = slovak
+culture = oldpommeranian
+culture = czech
+culture = zzz_religion_orthodox
+religion = orthodox
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
@@ -27,7 +31,7 @@ press_rights=censored_press
 trade_unions=no_trade_unions
 political_parties=underground_parties
 
-ruling_party = PLC_conservative
+ruling_party = WSF_conservative
 upper_house = 
 {
 	fascist = 0

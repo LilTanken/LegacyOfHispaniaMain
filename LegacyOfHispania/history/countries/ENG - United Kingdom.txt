@@ -92,8 +92,6 @@ interchangeable_parts = 1
 naval_plans = 1
 prestige=145
 
-schools = naval_tech_school
-
 # Decisions
 1.1.1 = {
 	decision = build_suez_canal

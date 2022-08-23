@@ -2,7 +2,6 @@ owner=POL
 controller=POL
 add_core=POL
 add_core=SLV
-add_core=WSF
 add_core=HUN
 trade_goods = grain
 life_rating = 35
