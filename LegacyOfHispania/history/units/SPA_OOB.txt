@@ -906,7 +906,7 @@ navy = {
 
 army = {
 	name="1st Army"
-	location=200
+	location=521
 	regiment = {
 		name="1st Madrid Infantry"
 		type=infantry

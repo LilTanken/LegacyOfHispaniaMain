@@ -181,7 +181,7 @@ PROV1991;Rusozi;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2471;Bathurst;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2496;Nullarbor;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2603;Chanamee;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-PROV2507;Mparntwe;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+PROV2507;Alice Springs;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV2505;Port Essington;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 RUS_973;Novorossiya;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 RUS_955;Yekaterinoslav;;;;;;;;;;;;x
@@ -417,7 +417,7 @@ ORA_2103;Basutoland;;;;;;;;;;;;;;;;;;;;x;
 ZUL_2113;Zululand;;;;;;;;;;;;;;;;;;;;x;
 PROV1152;Jeddah;;;;;;;;;;;;x
 CAN_13;Columbia;;;;;;;;;;;;x
-PROV13;New Westminster;;;;;;;;;;;;x
+PROV13;Puerto Nutca;;;;;;;;;;;;x
 PROV17;Stikine;;;;;;;;;;;;x
 CAN_19;New Caledonia;;;;;;;;;;;;x
 PROV20;Okanagan;;;;;;;;;;;;x
@@ -459,7 +459,7 @@ PRU_575;Rheinland;;;;;;;;;;;;x
 PRU_578;Eastern Rheinland;;;;;;;;;;;;x
 BAV_595;Franconia;;;;;;;;;;;;x
 BAV_599;Upper Bavaria;;;;;;;;;;;;x
-SPA_610;Caroline Islands;;;;;;;;;;;;x
+SPA_610;Tusei Islands;;;;;;;;;;;;x
 AUS_652;Banat;;;;;;;;;;;;x
 AUS_654;Western Transylvania;;;;;;;;;;;;x
 AUS_657;Eastern Transylvania;;;;;;;;;;;;x
@@ -690,7 +690,7 @@ PRU_575;Rheinland;;;;;;;;;;;;x
 PRU_578;Eastern Rheinland;;;;;;;;;;;;x
 BAV_595;Franconia;;;;;;;;;;;;x
 BAV_599;Upper Bavaria;;;;;;;;;;;;x
-SPA_610;Caroline Islands;;;;;;;;;;;;x
+SPA_610;Tusei Islands;;;;;;;;;;;;x
 AUS_652;Banat;;;;;;;;;;;;x
 AUS_654;Western Transylvania;;;;;;;;;;;;x
 AUS_657;Eastern Transylvania;;;;;;;;;;;;x
@@ -876,7 +876,7 @@ PROV2147;Ciudad Acuña;;;;;;;;;;;;x
 PROV2171;Cololo;;;;;;;;;;;;x
 PROV103;Pueblo;;;;;;;;;;;;x
 PROV109;Aspen;;;;;;;;;;;;x
-PROV105;Santa Fe;;;;;;;;;;;;x
+PROV105;Mescalero;;;;;;;;;;;;x
 PROV218;Wheeling;;;;;;;;;;;;x
 PROV217;Green Bank;;;;;;;;;;;;x
 PROV2187;La Mesilla;;;;;;;;;;;;x
@@ -894,7 +894,7 @@ PROV36;Pinawa;;;;;;;;;;;;x
 PROV60;Richmond;;;;;;;;;;;;x
 PROV211;Lynchburg;;;;;;;;;;;;x
 PROV2186;Guatemala City;;;;;;;;;;;;x
-PROV14;Victoria;;;;;;;;;;;;x
+PROV14;Isla de Quadra;;;;;;;;;;;;x
 PROV3249;Kiritimati;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3250;Dead Sea;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3251;Lake of the Woods;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
@@ -932,7 +932,7 @@ PROV3282;Lake Pyhäjärvi;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV3283;Lake Geneva;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV3284;Lake Constance;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 PROV906;As-Suwayda;;;;;;;;;;;x
-PROV1455;Manira;x
+PROV1455;Mainira;x
 PROV1456;Irokosu;x
 PROV1457;Hamatsugu;x
 PROV1459;Barawan;x
@@ -994,7 +994,7 @@ PROV2849;Coast of Tondo;x
 PROV2855;Mayi Sea;x
 PROV2889;Mayi Trench;x
 PROV2890;Mayi Basin;x
-PROV2848;Manira Bay;x
+PROV2848;Mainira Bay;x
 PROV2847;Hideaki Islands;x
 PROV2850;Gulf of Reite;x
 PROV2525;Minamitorishima;x
@@ -1154,3 +1154,9 @@ PROV51;Iron Bridge;x
 PROV77;Gloucester Island;x
 PROV62;Harrington Harbour;x
 PROV2535;Espíritu Santo;x
+USA_78;Nutca;x
+PROV2522;Jaruto;x
+PROV610;Natsushima;x
+PROV2579;Turaku;x
+PROV2519;Kaidanjima;x
+PROV2518;Parau;x

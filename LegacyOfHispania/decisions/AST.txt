@@ -30,4 +30,40 @@ political_decisions = {
 				factor = 1
 		}
 	}
+
+	annex_interior = {
+		picture = conquest_of_the_south
+		potential = {
+			tag = AST
+			NOT = { has_country_flag = conquer_the_hinterland }
+		}
+		allow = {
+			year = 1841
+			2490 = { empty = yes } #Charleville
+			2475 = { empty = yes } #Broken Hill
+			2489 = { empty = yes } #Longreach
+			2603 = { empty = yes } #Tanami
+			2507 = { empty = yes } #Mparntwe
+			2601 = { empty = yes } #Wilkinkarra
+			2605 = { empty = yes } #Gibberish west Australia
+			2503 = { empty = yes } #Wiluna
+			2500 = { empty = yes } #Kalgoorlie
+			2495 = { empty = yes } #Tirari
+			war = no
+		}
+		effect = {
+			set_country_flag = conquer_the_hinterland
+			2475 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2475 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2490 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2489 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2495 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2507 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2603 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2601 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2605 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2503 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+			2500 = { secede_province = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
+		}
+	}
 }

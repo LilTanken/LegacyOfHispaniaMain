@@ -728,14 +728,14 @@ leader = {
 #Armies
 army = {
 	name="2nd Army"
-	location=2173
+	location=78
 	regiment = {
-		name="1st Fort Nisqually Infantry"
+		name="1st Fuerte Nuno Infantry"
 		type=infantry
 		home=78
 	}
 	regiment = {
-		name="1st Victoria Infantry"
+		name="1st Isla de Quadra Infantry"
 		type=infantry
 		home=14
 	}

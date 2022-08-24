@@ -1270,29 +1270,3 @@ country_event = {
         }
     }
 }
-
-#EIC Modifier
-country_event = {
-	id = 88814003
-	title = "East Indian Governance"
-	desc = "The East India Company has been stuck in a state of limbo for decades now. While still extremely profitable, the justification for our existence grows weaker with every passing day. Until we consolidate control over all India, our days will be numbered."
-	picture = "sepoy"
-	
-	fire_only_once = yes
-	
-	trigger = {
-		tag = EIC
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "For Empire!"
-		add_country_modifier = {
-			name = the_british_raj
-			duration = 36524
-		}
-	}
-}

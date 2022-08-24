@@ -178,6 +178,17 @@ party_issues = {
             reinforce_speed = -0.5
             badboy = -0.01
         }
+		east_india_spending = {
+            max_military_spending = 0.35
+			min_military_spending = 0.25
+            supply_consumption = -0.5
+            war_exhaustion_effect = 0.5
+            cb_generation_speed_modifier = 0.2
+            mobilization_impact = 3
+            org_regain = 0.25
+            reinforce_speed = 0.25
+            badboy = -0.01
+        }
     }
     social_policy = {
         no_state_interference = {

@@ -3117,9 +3117,9 @@ EVTDESC90120;Three Filipino priests have been executed in the Manila, charged wi
 EVT90120OPTA;Allow it to exist;;;;;;;;;;;;;
 EVT90120OPTB;We cannot let the seeds of revolution grow;;;;;;;;;;;;;
 EVTNAME90125;The Katipunan;;;;;;;;;;;;;
-EVTDESC90125;We have received reports from colonial officers in Manira regarding rumors of a secret organization called the 'Katipunan'. Formed by anti-$COUNTRY_ADJ$ Mayians, they reportedly seek complete independence for Mayi. It's possible that limited home rule might mollify some of these revolutionaries, but nothing short of freedom will satisfy them for long. Tracking them down among sympathetic locals may prove difficult.;;;;;;;;;;;;;
+EVTDESC90125;We have received reports from colonial officers in Mainira regarding rumors of a secret organization called the 'Katipunan'. Formed by anti-$COUNTRY_ADJ$ Mayians, they reportedly seek complete independence for Mayi. It's possible that limited home rule might mollify some of these revolutionaries, but nothing short of freedom will satisfy them for long. Tracking them down among sympathetic locals may prove difficult.;;;;;;;;;;;;;
 EVT90125OPTA;Find the rebels and crush them.;;;;;;;;;;;;;
-EVT90125OPTB;Give the Philippines home rule.;;;;;;;;;;;;;
+EVT90125OPTB;Grant the Mayians home rule.;;;;;;;;;;;;;
 EVT90125OPTC;Give them what they want;;;;;;;;;;;;;
 EVTDESC90130;With the recent unrest in Cuba, the prospect of the Spanish government possibly selling the island to the United States has arisen. Should we attempt to pursue negotiations?;;;;;;;;;;;;;
 EVTNAME90132;The Spanish Have Refused;;;;;;;;;;;;;
@@ -5308,6 +5308,3 @@ EVTDESC314012;The Delhian horde to the north has long proved a thorn in the side
 EVTOPT314012A;Onwards, to Delhi!;x
 EVTNAME37201;Arco de Triunfo;x
 EVTDESC37201;The Arco de Triunfo in Zaragoza, commissioned by Garcia Dávíla himself, was unveiled in $YEAR$ after over fifty years of difficult and sometimes delayed construction. Inspired by the triumphal arches of the Romans, the monument displays scenes from the Hispanian Revolutionary war and Garcia's successes.;x
-EVTNAME801436;Annexation of the Interior;x
-EVTDESC801436;The Australian hinterland, known colloquially as "the bush", is a mysterious and dangerous place. Men the world over come to our shores seeking to put to paper the secrets that the outback holds, and thus far, many have either not returned or come back defeated by Mother Nature. However, these expeditions were not without purpose - we may use the wide array of independent expedition findings to lay claim over the hinterland once and for all - even if the geography of it evades us.;x
-EVTOPT801436A;About time we tamed the bush!;x

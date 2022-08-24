@@ -164,6 +164,11 @@ DLM = {
 	value = 0
 	level = 2
 }
+EIC = {
+	value = 200
+	military_access = yes
+	level = 2
+}
 ENG = {
 	value = 200
 	level = 2

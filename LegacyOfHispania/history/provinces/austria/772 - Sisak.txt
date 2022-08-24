@@ -1,5 +1,5 @@
-owner=CRO
-controller=CRO
+owner=HUN
+controller=HUN
 add_core=CRO
 trade_goods = cattle
 life_rating = 35
