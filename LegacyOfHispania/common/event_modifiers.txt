@@ -2697,3 +2697,24 @@ the_british_raj = {
 ghettos_and_propaganda = {
 	assimilation_rate = 0.25
 	}
+
+### City renovations ###
+new_novgorod = {
+	local_RGO_throughput = 0.01
+	population_growth = 0.001
+	icon = 5
+}
+
+zaragoza_reborn = {
+	local_factory_output = 0.02
+	population_growth = 0.002
+	immigrant_attract = 0.05
+	icon = 5
+}
+
+great_st_peter = {
+	local_RGO_throughput = 0.02
+	population_growth = 0.002
+	immigrant_attract = 0.05
+	icon = 5
+}

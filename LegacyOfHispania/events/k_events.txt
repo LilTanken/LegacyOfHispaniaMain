@@ -87,3 +87,67 @@ country_event = {
 			}
 	}
 }
+
+#Aland transfer
+country_event = {
+	id = 5
+	title = "EVTNAME5"
+	desc = "EVTDESC5"
+	picture = "diet_of_finland"
+	
+	trigger = {
+	}
+	fire_only_once = yes
+	
+	option = {
+		name = "EVT5OPTA"
+		348 = {
+			secede_province = SWE
+		}
+		relation = {
+			who = SWE
+			value = 100
+		}
+	}
+	option = {
+		name = "EVT5OPTB"
+		relation = {
+			who = SWE
+			value = -50
+		}
+	}
+}
+
+#novgorod fire
+country_event = {
+	id = 6
+	title = "EVTNAME6"
+	desc = "EVTDESC6"
+	major = yes
+	
+	trigger = {
+		tag = RUS
+		year = 1838
+		owns = 1003
+	}
+	mean_time_to_happen= { 
+		months = 4 }
+	fire_only_once = yes
+	option = {
+		name = "EVT6OPTA"
+		1003 = {
+			any_pop = {
+				reduce_pop = 0.95
+			}
+			add_province_modifier = {
+			name = "in_disrepair"
+			duration = 1000
+			}
+		}
+		set_global_flag = great_fire
+	}
+}	
+		
+		
+	
+	

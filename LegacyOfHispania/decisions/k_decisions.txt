@@ -277,30 +277,32 @@
 				add_province_modifier = {
 					name = rus_intergration_campaign
 					duration = 365
+					}
 				}
 			RUS_345 = {	#Turku
 				add_core = RUS
 				add_province_modifier = {
 					name = rus_intergration_campaign
 					duration = 365
+					}
 				}
 			RUS_336 = {	#Northern Finland
 				add_core = RUS
 				add_province_modifier = {
 					name = rus_intergration_campaign
 					duration = 365
+					}
 				}
 			set_global_flag = inherit_finland
 		}
-		ai_will_do = {factor = 1
-		}
+		ai_will_do = { factor = 1 }
 	}
-	}
-	}
-	}
+
+
+
 	#Westslavia formation
 	unite_westslavia = {
-		picture = finland
+		picture = zapadoslavia
         potential = {
             is_culture_group = polish_culture_group
             NOT = { exists = WSF }
@@ -410,7 +412,7 @@
 	
 	#create west slavia
 	    create_westslavia = {
-        picture = finland
+        picture = zapadoslavia
         potential = {
             NOT = {
                 exists = WSF
@@ -576,4 +578,105 @@
             factor = 1
         }
     }
+	#Sweden Aland transfer
+	aland_request = {
+		picture = finland
+		potential = {
+		tag = SWE
+		not = { has_global_flag = aland_transfer }
+		has_global_flag = inherit_finland
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			or = { government = absolute_monarchy
+                    government = prussian_constitutionalism
+                    government = hms_government
+			}
+		}
+		effect = {
+			prestige = 1
+			RUS = {	country_event = 5 }
+			set_global_flag = aland_transfer
+		}		
+		ai_will_do = {factor = 1}
+	}
+	
+	#Renovate Novgorod
+	renovate_novgorod = {
+		picture = renovate_novgorod
+		potential = {
+			tag = RUS
+			has_global_flag = great_fire
+			not = { has_global_flag = renovate_novgorod }
+		}
+		allow = {
+			war = no
+			romanticism = 1
+			money = 500000
+		}
+		effect = {
+			prestige = 5
+			money = -500000
+			1003 = {
+			life_rating = 2
+			add_province_modifier = {
+			name = "new_novgorod" }
+			}
+			set_global_flag = renovate_novgorod
+		}
+		ai_will_do = {factor = 1}
+	}
+	
+	#Renovate Zaragoza
+	renovate_zaragoza = {
+		picture = zaragoza
+		potential = {
+			tag = SPA
+			has_global_flag = great_fire
+			not = { has_global_flag = renovate_zaragoza }
+		}
+		allow = {
+			war = no
+			romanticism = 1
+			money = 1000000
+		}
+		effect = {
+			prestige = 15
+			money = -1000000
+			495 = {
+			life_rating = 10
+			add_province_modifier = {
+			name = "zaragoza_reborn" }
+			}
+			set_global_flag = renovate_zaragoza
+		}
+		ai_will_do = {factor = 1}
+	}
+	
+	#Renovate St. Petersburg
+	renovate_st_peter = {
+		picture = st_petersburg
+		potential = {
+			tag = RUS
+			has_global_flag = great_fire
+			not = { has_global_flag = renovate_st_peter }
+		}
+		allow = {
+			war = no
+			romanticism = 1
+			money = 1000000
+		}
+		effect = {
+			prestige = 15
+			money = -1000000
+			994 = {
+			life_rating = 5
+			add_province_modifier = {
+			name = "great_st_peter" }
+			}
+			set_global_flag = renovate_st_peter
+		}
+		ai_will_do = {factor = 1}
+	}
 }
