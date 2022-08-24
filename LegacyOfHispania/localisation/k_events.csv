@@ -7,10 +7,17 @@ EVTDESC2;Russian playwright, Feodor Kharkov, has just finished a tour of all Rus
 EVT2OPTA;A marvellous play!;;;;;;;;;;;;;
 EVTNAME4;Steel Statists;;;;;;;;;;;;;
 EVTDESC4;The new fascist doctrine has inspired a fringe group of nationalists who think the traditional "Iron Handed" approach is no longer strong enough to keep Russia's enemies at bay. Instead they propose that the state should be like steel. Unbending, unwavering, unrelenting, unapolagetic and unflinching. While small, this group is stirring up trouble nationwide and weakening support for our current government.;;;;;;;;;;;;;
-EVT4OPTA;They sure like their "un" words.;;;;;;;;;;;;;
+EVT4OPTA;They sure like their un words.;;;;;;;;;;;;;
 EVTNAME44301;Luis Real and the 1st Mestizo Rebellion;x
 EVTDESC44301;The Mestizo people were a group of small communities of Hispanian-Indian blood in the Manitoba region who had hopes of self-government. However, these dreams were shattered when the Hudson's Bay land, which they were a part of, were given to Canada without their consent. In protest the Mestizo people, led by Luis Real, revolted. Luis Real was a highly religious man, who had studied for the clergy in his earlier life. He fought for the Mestizo people and became a hero in the eyes of Manitobans. Luis bargained with the Canadian government for Manitoba's entry into Confederation. Canadian delegates guaranteed the rights of the people would be respected. Thus, Manitoba, the postage-stamp province, was born.;x
 EVTOPTA44301;Listen to the Mestizo demands;x
 EVTOPTB44301;Ignore the Mestizo demands;x
 EVTDESC44302;Peaceful relations with the Mestizo, it seems, is not possible. After countless concessions on behalf of the Canadian government, none of it appears to have been enough to sate their unquenchable thirst for subverting the progress of our Dominion. However, upon making our new stance clear to Luis Real and his half-caste clique, they have decided to completely rebel against our authority, taking up arms in open revolt. They have adopted what they call the "Revolutionary Bill of Rights", and declared themselves a nation independent from Canada.;x
 EVTOPTA44302;The Mestizo are up in arms;x
+EVTNAME5;Sweden requests Aland;x
+EVTDESC5;Our Royal cousins in Sweden have approached the Emperor and made a formal request for us to transfer the island of Aland over to the Swedish Crown. The island is majority Swedish and was up until recently a part of the Grand Duchy of Finland. With Finland integrated we can give Aland back to the Swedish Crown and continue our 400 year alliance.;x
+EVT5OPTA;A gift to our cousins!;x
+EVT5OPTB;No cousin;x
+EVTNAME6;The Great fire of Novogorod;x
+EVTDESC6;The fire started within the Novgorod theatre shortly before noon and spread rapidly. The theatre was unusually packed with a large crowd who at first believed the fire to be a part of the show, however as the flames began spreading rapidly it was apparent that something had gone terribly wrong. The blaze would grow and consume the entire theatre with firefighting efforts failing to stop strong winds from spreading the fire to nearby buildings. Lasting for nearly a week the Great fire of Novgorod has laid waste to the ancient capital of Russia with some 5000 people dead or unaccounted for. Those left homeless by the fires have already begun leaving the city in the hopes of finding refuge elsewhere.;x
+EVT6OPTA;Oh the humanity!;x
