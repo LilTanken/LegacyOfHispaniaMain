@@ -2,6 +2,7 @@ capital = 300
 primary_culture = british
 culture = anglo_canadian
 culture = australian
+culture = new_zealander
 culture = anglo_african
 culture = zzz_religion_protestant
 religion = protestant

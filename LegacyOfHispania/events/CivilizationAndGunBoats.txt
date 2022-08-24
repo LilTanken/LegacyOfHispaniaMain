@@ -15,6 +15,7 @@ country_event = {
         civilized = no
         NOT = {
             tag = AAA
+			tag = EIC
             has_country_modifier = western_influences
             has_country_modifier = uncivilized_isolationism
         }

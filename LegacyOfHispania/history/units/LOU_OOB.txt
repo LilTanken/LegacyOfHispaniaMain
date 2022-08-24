@@ -765,11 +765,11 @@ leader = {
 #Armies
 army = {
 	name="2nd Army"
-	location=2153
+	location=189
 	regiment = {
-		name="1st Jackson Infantry"
+		name="1st Greenwood Infantry"
 		type=infantry
-		home=192
+		home=193
 	}
 	regiment = {
 		name="1st Little Rock Infantry"
@@ -777,9 +777,9 @@ army = {
 		home=143
 	}
 	regiment = {
-		name="2nd Jackson Infantry"
+		name="2nd Greenwood Infantry"
 		type=infantry
-		home=192
+		home=193
 	}
 	regiment = {
 		name="1st Malden Cavalry"
@@ -787,12 +787,12 @@ army = {
 		home=148
 	}
 	regiment = {
-		name="1st Des Moines Artillery"
+		name="1st Los Monjes Artillery"
 		type=artillery
 		home=151
 	}
 	regiment = {
-		name="1st New Orleans Infantry"
+		name="1st Nueva Algarve Infantry"
 		type=infantry
 		home=139
 	}
@@ -805,7 +805,7 @@ army = {
 
 army = {
 	name="24th Army"
-	location=2177
+	location=149
 	regiment = {
 		name="1st Olney Infantry"
 		type=infantry
@@ -845,7 +845,7 @@ army = {
 
 army = {
 	name="1st Army"
-	location=2191
+	location=139
 	regiment = {
 		name="1st Fort Cedar Infantry"
 		type=infantry

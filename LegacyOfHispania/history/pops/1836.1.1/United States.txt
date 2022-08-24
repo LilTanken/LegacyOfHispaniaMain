@@ -10771,127 +10771,127 @@
 171 = {
 	soldiers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 32
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 1570
 	}
 
 	farmers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 154
 	}
 
 	soldiers=
 	{
-		culture = siouan
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 3
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 27
 	}
 
 	artisans=
 	{
-		culture = siouan
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 9
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 6
 	}
 
 	clergymen=
 	{
-		culture = siouan
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = siouan
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 1
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 1
 	}
 
 	soldiers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 173
 	}
 
 	artisans=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 382
 	}
 
 	clergymen=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 62
 	}
 
 	bureaucrats=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 13
 	}
 
 	officers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 80
 	}
 
 	farmers=
 	{
-		culture = central_algonquian
-		religion = totemism
+		culture = americano
+		religion = catholic
 		size= 7920
 	}
 

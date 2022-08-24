@@ -413,6 +413,7 @@ political_decisions = {
             iron_railroad = 1
             owns = 26
             owns = 13
+			owns = 14
             NOT = {
                 has_country_modifier = in_bankrupcy
                 has_country_modifier = generalised_debt_default
@@ -454,6 +455,7 @@ political_decisions = {
             2594 = { change_province_name = "Osnaburgh" }
             6 = { change_province_name = "Whitehorse" }
             13 = { change_province_name = "Vancouver" }
+			14 = { change_province_name = "Victoria" }
         }
         ai_will_do = { factor = 1 }
     }

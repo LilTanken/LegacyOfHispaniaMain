@@ -741,7 +741,7 @@ leader = {
 #Armies
 army = {
 	name="4th Army"
-	location=2173
+	location=90
 	regiment = {
 		name="1st Rosarito Infantry"
 		type=infantry
@@ -771,7 +771,7 @@ army = {
 
 army = {
 	name="1st Army"
-	location=186
+	location=104
 	regiment = {
 		name="1st Nogales Infantry"
 		type=infantry

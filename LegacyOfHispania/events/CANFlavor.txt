@@ -1813,7 +1813,7 @@ country_event = {
             consciousness = 2
         }
         ai_chance = {
-            factor = 20
+            factor = 10
         }
     }
 
@@ -1849,7 +1849,7 @@ country_event = {
             }
         }
         ai_chance = {
-            factor = 80
+            factor = 90
         }
     }
 }

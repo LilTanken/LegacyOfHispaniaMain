@@ -1,6 +1,6 @@
 owner=RUS
 controller=RUS
-add_core=NOG
+add_core=TKS
 add_core=X01
 trade_goods = coal
 life_rating = 35

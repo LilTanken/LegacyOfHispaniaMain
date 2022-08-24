@@ -2,5 +2,6 @@ owner=X12
 controller=X12
 add_core=X12
 add_core=POM
+add_core=WSF
 trade_goods = grain
 life_rating = 40

@@ -3461,9 +3461,9 @@ native_american = {
 	metis = {
 		color = { 15 68 192 }
 		
-		first_names = { "Louis" "John" "Amroise-Dydime" "Gabriel" "Daniel" "James" "Jaque" "William" "Joel" }
+		first_names = { "Luis" "Alejandro" "Antonio" "Gabriel" "Carlos" "Diego" "Felipe" "Santiago" "Bernardo" }
 		
-		last_names = { "Riel" "Bruce" "Lépine" "Dumont" "Clarence" "Martin" }
+		last_names = { "Real" "Sapokanikan" "de Monteagudo" "Álvarez" "Bocanegra" "Martin" }
 		
 	}
 	muskogean = {
@@ -3665,6 +3665,14 @@ neo_european_cultures = {
 		first_names = { "John" "Alf" "Adrian" "Louis" "Hallam" "Henry" "Shane" "Stafford" "William" "Frederick" "Thomas" "Ronald" "Lawrence" "Bruce" "Ray" "Stuart" "Brian" "Bob" "Scott" "Guy" }
 		
 		last_names = { "Hope" "Tennyson" "Northcote" "War" "Thesinger" "Denman" "Forster" "Baird" "Issac" "Stewart" "Fisher" "Cook" "Davis" "Armstrong" "Anderson" "Mitchell" "MacKenzie" }
+		
+	}
+	new_zealander = {
+		color = { 88 166 173 }
+		
+		first_names = { "John" "Charles" "Adrian" "Louis" "Hallam" "Henry" "Shane" "Stafford" "William" "Frederick" "Thomas" "Ronald" "Lawrence" "Bruce" "Ray" "Stuart" "Brian" "Bob" "Scott" "Guy" }
+		
+		last_names = { "Hope" "Chester" "Northcote" "Upham" "Thesinger" "Denman" "Forster" "Baird" "Issac" "Stewart" "Fisher" "Cook" "Davis" "Armstrong" "Anderson" "Mitchell" "MacKenzie" }
 		
 	}
 	australienne = {

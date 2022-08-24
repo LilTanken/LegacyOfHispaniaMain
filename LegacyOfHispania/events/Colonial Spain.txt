@@ -697,7 +697,7 @@ country_event = {
     id = 90125
     title = "EVTNAME90125" #The Katipunan
     desc = "EVTDESC90125"
-    picture = "Cubanrebels"
+    picture = "jap_mayi_colony"
 
     trigger = {
         year = 1880

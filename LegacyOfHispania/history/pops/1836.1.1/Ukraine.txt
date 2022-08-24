@@ -1,98 +1,98 @@
 662 = {
 	soldiers=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = catholic
 		size= 171
 	}
 
 	artisans=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = catholic
 		size= 309
 	}
 
 	clergymen=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = catholic
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = catholic
 		size= 10
 	}
 
 	officers=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = catholic
 		size= 85
 	}
 
 	farmers=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = catholic
 		size= 18674
 	}
 
 	soldiers=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = orthodox
 		size= 362
 	}
 
 	artisans=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = orthodox
 		size= 1619
 	}
 
 	clergymen=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = orthodox
 		size= 262
 	}
 
 	bureaucrats=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = orthodox
 		size= 53
 	}
 
 	officers=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = orthodox
 		size= 42
 	}
 
 	aristocrats=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = orthodox
 		size= 446
 	}
 
 	farmers=
 	{
-		culture = western_slavic
+		culture = russian
 		religion = orthodox
 		size= 37981
 	}
